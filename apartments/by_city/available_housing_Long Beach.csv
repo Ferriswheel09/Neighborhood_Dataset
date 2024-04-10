@@ -1,0 +1,524 @@
+price,rooms,address
+"$2,515 - 7,500",Studio - 3 Beds,"201 The Promenade N, Long Beach, CA 90802"
+"$2,620 - 4,367",Studio - 3 Beds,"635 Pine Ave, Long Beach, CA 90802"
+"$2,543 - 6,602",Studio - 2 Beds,"245 W Broadway, Long Beach, CA 90802"
+"$3,299 - 11,499",Studio - 2 Beds,"777 E Ocean Blvd, Long Beach, CA 90802"
+"$2,319 - 10,000",Studio - 3 Beds,"330 E 3rd St, Long Beach, CA 90802"
+"$2,404 - 6,025",Studio - 3 Beds,"250 E Broadway, Long Beach, CA 90802"
+"$2,690 - 4,180",Studio - 3 Beds,"500 W Broadway, Long Beach, CA 90802"
+"$1,650 - 6,040",Studio - 2 Beds,"230 W 3rd St, Long Beach, CA 90802"
+"$2,495 - 13,995",Studio - 2 Beds,"110 W Ocean Blvd, Long Beach, CA 90802"
+"$2,600",2 Beds,"3787 E 11th St, Long Beach, CA 90804"
+"$2,240 - 3,195",1-2 Beds,"1718 Ximeno Ave, Long Beach, CA 90815"
+"$3,411 - 8,175",1-3 Beds,"5050 E Garford St, Long Beach, CA 90815"
+"$2,449 - 6,030",1-2 Beds,"225 Long Beach Blvd, Long Beach, CA 90802"
+"$2,565",1-2 Beds,"421 W Broadway, Long Beach, CA 90802"
+"$2,199 - 3,132",Studio - 2 Beds,"225 W 3rd St, Long Beach, CA 90802"
+Call for Rent,Studio - 3 Beds,"150 W Ocean Blvd, Long Beach, CA 90802"
+"$3,310 - 12,310",Studio - 3 Beds,"200 W Ocean Blvd, Long Beach, CA 90802"
+"$1,829 - 5,415",Studio - 2 Beds,"101 Alamitos Ave, Long Beach, CA 90802"
+"$2,412 - 4,155",Studio - 2 Beds,"207 Seaside Way, Long Beach, CA 90802"
+"$1,912 - 3,348",Studio - 2 Beds,"333 1st St, Seal Beach, CA 90740"
+"$2,278 - 4,354",1-3 Beds,"4455 Casa Grande Cir, Cypress, CA 90630"
+"$2,350 - 4,300",1-3 Beds,"11152 Wallingsford Rd, Los Alamitos, CA 90720"
+"$2,165 - 4,680",Studio - 2 Beds,"100 Long Beach Blvd, Long Beach, CA 90802"
+"$1,666 - 2,615",1-3 Beds,"5601 N Paramount Blvd, Long Beach, CA 90805"
+"$2,177 - 11,490",Studio - 2 Beds,"442 W Ocean Blvd, Long Beach, CA 90802"
+"$2,571 - 3,893",Studio - 2 Beds,"707 E Ocean Blvd, Long Beach, CA 90802"
+"$2,029 - 4,827",Studio - 2 Beds,"1081 Long Beach Blvd, Long Beach, CA 90813"
+"$2,860 - 3,530",1-2 Beds,"5926 Bixby Village Dr, Long Beach, CA 90803"
+"$2,764 - 9,190",1-3 Beds,"2000 Park Ave, Long Beach, CA 90815"
+"$2,205 - 4,590",Studio - 4 Beds,"1900 E Ocean Blvd, Long Beach, CA 90802"
+"$2,100 - 4,300",Studio - 2 Beds,"1112 Locust Ave, Long Beach, CA 90813"
+"$2,087 - 2,995",Studio - 2 Beds,"404 Pine Ave, Long Beach, CA 90802"
+"$2,175 - 2,625",1-2 Beds,"4550 Montair Ave, Long Beach, CA 90808"
+"$1,600 - 2,270",Studio - 2 Beds,"6479 Atlantic Ave, Long Beach, CA 90805"
+"$2,895",3 Beds,"16818 Downey Ave, Paramount, CA 90723"
+"$1,525 - 2,955",Studio - 3 Beds,"4907 1/4 Hayter Ave, Lakewood, CA 90712"
+"$2,595 - 3,550",1-2 Beds,"Long Beach, CA 90803"
+"$4,615",4 Beds,"1700 E Ocean Blvd, Long Beach, CA 90802"
+"$2,049 - 3,252",Studio - 2 Beds,"555 Pine Ave, Long Beach, CA 90802"
+"$1,273",2 Beds,"5441 Paramount Blvd, Long Beach, CA 90805"
+"$2,515 - 7,500",Studio - 3 Beds,"201 The Promenade N, Long Beach, CA 90802"
+"$2,620 - 4,367",Studio - 3 Beds,"635 Pine Ave, Long Beach, CA 90802"
+"$2,543 - 6,602",Studio - 2 Beds,"245 W Broadway, Long Beach, CA 90802"
+"$3,299 - 11,499",Studio - 2 Beds,"777 E Ocean Blvd, Long Beach, CA 90802"
+"$2,319 - 10,000",Studio - 3 Beds,"330 E 3rd St, Long Beach, CA 90802"
+"$2,404 - 6,025",Studio - 3 Beds,"250 E Broadway, Long Beach, CA 90802"
+"$2,690 - 4,180",Studio - 3 Beds,"500 W Broadway, Long Beach, CA 90802"
+"$1,650 - 6,040",Studio - 2 Beds,"230 W 3rd St, Long Beach, CA 90802"
+"$2,495 - 13,995",Studio - 2 Beds,"110 W Ocean Blvd, Long Beach, CA 90802"
+"$2,600",2 Beds,"3787 E 11th St, Long Beach, CA 90804"
+"$2,240 - 3,195",1-2 Beds,"1718 Ximeno Ave, Long Beach, CA 90815"
+"$3,411 - 8,175",1-3 Beds,"5050 E Garford St, Long Beach, CA 90815"
+"$2,449 - 6,030",1-2 Beds,"225 Long Beach Blvd, Long Beach, CA 90802"
+"$2,565",1-2 Beds,"421 W Broadway, Long Beach, CA 90802"
+"$2,199 - 3,132",Studio - 2 Beds,"225 W 3rd St, Long Beach, CA 90802"
+Call for Rent,Studio - 3 Beds,"150 W Ocean Blvd, Long Beach, CA 90802"
+"$3,310 - 12,310",Studio - 3 Beds,"200 W Ocean Blvd, Long Beach, CA 90802"
+"$1,829 - 5,415",Studio - 2 Beds,"101 Alamitos Ave, Long Beach, CA 90802"
+"$2,412 - 4,155",Studio - 2 Beds,"207 Seaside Way, Long Beach, CA 90802"
+"$1,912 - 3,348",Studio - 2 Beds,"333 1st St, Seal Beach, CA 90740"
+"$2,278 - 4,354",1-3 Beds,"4455 Casa Grande Cir, Cypress, CA 90630"
+"$2,350 - 4,300",1-3 Beds,"11152 Wallingsford Rd, Los Alamitos, CA 90720"
+"$2,165 - 4,680",Studio - 2 Beds,"100 Long Beach Blvd, Long Beach, CA 90802"
+"$1,666 - 2,615",1-3 Beds,"5601 N Paramount Blvd, Long Beach, CA 90805"
+"$2,177 - 11,490",Studio - 2 Beds,"442 W Ocean Blvd, Long Beach, CA 90802"
+"$2,571 - 3,893",Studio - 2 Beds,"707 E Ocean Blvd, Long Beach, CA 90802"
+"$2,029 - 4,827",Studio - 2 Beds,"1081 Long Beach Blvd, Long Beach, CA 90813"
+"$2,860 - 3,530",1-2 Beds,"5926 Bixby Village Dr, Long Beach, CA 90803"
+"$2,764 - 9,190",1-3 Beds,"2000 Park Ave, Long Beach, CA 90815"
+"$2,250 - 2,725",1-2 Beds,"11509 216th St, Lakewood, CA 90715"
+"$2,525 - 3,195",2 Beds,"4874 E Los Coyotes Diag, Long Beach, CA 90815"
+"$2,253 - 3,511",1-2 Beds,"245 Pine Ave, Long Beach, CA 90802"
+"$2,063 - 3,224",1-2 Beds,"5980 Bixby Village Dr, Long Beach, CA 90803"
+"$3,919 - 9,550",1-3 Beds,"1025 Palo Verde Ave, Long Beach, CA 90815"
+"$2,567 - 4,797",1-2 Beds,"1240 San Antonio Dr, Long Beach, CA 90807"
+"$2,333 - 2,351",Studio - 2 Beds,"1809 Termino Ave, Long Beach, CA 90815"
+"$2,160 - 3,005",1-2 Beds,"3500 Hathaway Ave, Long Beach, CA 90815"
+"$1,715 - 2,080",Studio - 1 Bed,"5025 E Pacific Coast Hwy, Long Beach, CA 90815"
+"$1,848 - 5,970",Studio - 2 Beds,"4901 Clair Del Ave, Long Beach, CA 90807"
+"$2,150/mo","2 Beds, 1 Bath","15328 Orange Ave, Paramount, CA 90723"
+"$3,970 /mo","4 Beds, 2 Baths","15328 Orange Ave, Paramount, CA 90723"
+"$1,600/mo","Studio, 1 Bath","700 E Esther St, Long Beach, CA 90813"
+"$5,500 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,995/mo","1 Bed, 1 Bath","6719 Harbor Ave, Long Beach, CA 90805"
+"$3,850/mo","2 Beds, 2 Baths",House for Rent
+"$1,750/mo","1 Bed, 1 Bath","5712 Lewis Ave, Long Beach, CA 90805"
+"$1,850/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,490/mo","2 Beds, 1 Bath","3240 Marwick Ave, Long Beach, CA 90808"
+"$2,530/mo","1 Bed, 1 Bath",House for Rent
+"$3,340/mo","1 Bed, 1 Bath","111 Bennett Ave, Long Beach, CA 90803"
+"$2,840/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,495/mo","Studio, 1 Bath","230 W 3rd St, Long Beach, CA 90802"
+"$1,950/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,860/mo","1 Bed, 1 Bath","1120 Linden Ave, Long Beach, CA 90813"
+"$2,100/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,850/mo","Studio, 1 Bath","700 E Esther St, Long Beach, CA 90813"
+"$2,730 /mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,300 /mo","2 Beds, 2 Baths","230 W 3rd St, Long Beach, CA 90802"
+"$2,250/mo","2 Beds, 2 Baths",Apartment for Rent
+"$4,300/mo","3 Beds, 2 Baths","636 Pacific Ave, Long Beach, CA 90802"
+"$2,995/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,850/mo","1 Bed, 1 Bath","636 Pacific Ave, Long Beach, CA 90802"
+"$3,275 /mo","3 Beds, 3 Baths",Apartment for Rent
+"$2,900/mo","2 Beds, 2 Baths","101 Alamitos Ave, Long Beach, CA 90802"
+"$1,500/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,595/mo","1 Bed, 1 Bath","744 Pine Ave, Long Beach, CA 90813"
+"$3,695/mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,800/mo","2 Beds, 1.5 Baths","3039 Fashion Ave, Long Beach, CA 90810"
+"$2,980/mo","1 Bed, 1 Bath",Apartment for Rent
+"$7,500/mo","3 Beds, 2 Baths","777 E Ocean Blvd, Long Beach, CA 90802"
+"$2,195/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,095 /mo","2 Beds, 1 Bath","3415 Linden Ave, Long Beach, CA 90807"
+"$1,495/mo","Studio, 1 Bath",Apartment for Rent
+"$1,595 - 1,695/mo","1 Bed, 1 Bath","3815 Gundry Ave, Long Beach, CA 90807"
+"$1,695/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,875/mo","1 Bed, 1 Bath","1728 E Florida St, Long Beach, CA 90802"
+"$2,749/mo","1 Bed, 1 Bath",House for Rent
+"$2,150/mo","1 Bed, 1 Bath","170 E Arbor St, Long Beach, CA 90805"
+"$3,800/mo","2 Beds, 2 Baths","4710 E Shaw St, Long Beach, CA 90803"
+"$2,700/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,850/mo","2 Beds, 1 Bath","835 Locust Ave, Long Beach, CA 90813"
+"$3,250/mo","1 Bed, 1 Bath",Condo for Rent
+"$2,500/mo","1 Bed, 1 Bath","80 Granada Ave, Long Beach, CA 90803"
+"$2,700/mo","2 Beds, 2 Baths",Apartment for Rent
+"$2,554/mo","2 Beds, 1 Bath","1750 E Ocean Blvd, Long Beach, CA 90802"
+"$1,550/mo","Studio, 1 Bath",Condo for Rent
+"$1,650/mo","Studio, 1 Bath","388 E Ocean Blvd, Long Beach, CA 90802"
+"$3,400/mo","2 Beds, 1 Bath",Condo for Rent
+"$3,250/mo","2 Beds, 1.5 Baths","5585 Pacific Coast Hwy, Long Beach, CA 90804"
+"$3,700/mo","2 Beds, 2 Baths",Condo for Rent
+"$3,395 /mo","2 Beds, 1 Bath","2107 Earl Ave, Long Beach, CA 90806"
+"$2,600/mo","2 Beds, 2 Baths",Apartment for Rent
+"$2,400/mo","2 Beds, 2 Baths","315 W 3rd St, Long Beach, CA 90802"
+"$2,300/mo","2 Beds, 1 Bath",Condo for Rent
+"$2,400/mo","1 Bed, 1 Bath","2139 Pacific Ave, Long Beach, CA 90806"
+"$2,400/mo","2 Beds, 2 Baths",Apartment for Rent
+"$5,000/mo","3 Beds, 2.5 Baths","1030 E Ocean Blvd, Long Beach, CA 90802"
+"$2,800/mo","2 Beds, 1 Bath",Condo for Rent
+"$2,295/mo","1 Bed, 1 Bath","265 Newport Ave, Long Beach, CA 90803"
+"$2,995/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,000/mo","1 Bed, 1 Bath","488 E Ocean Blvd, Long Beach, CA 90802"
+"$2,200/mo","1 Bed, 1 Bath",Condo for Rent
+"$2,750/mo","2 Beds, 2 Baths","652 Newport Ave, Long Beach, CA 90814"
+"$2,600 /mo","1 Bed, 1 Bath",House for Rent
+"$2,300 /mo","1 Bed, 1 Bath","375 Atlantic Ave, Long Beach, CA 90802"
+"$2,500/mo","2 Beds, 1 Bath",Condo for Rent
+"$3,175/mo","1 Bed, 1 Bath","1200 Ohio Ave, Long Beach, CA 90804"
+"$2,800/mo","2 Beds, 2 Baths",Condo for Rent
+"$1,900/mo","2 Beds, 1 Bath","1436 E 8th St, Long Beach, CA 90813"
+"$7,500/mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,800 /mo","2 Beds, 1 Bath","436 N Bellflower Blvd, Long Beach, CA 90814"
+"$3,950/mo","2 Beds, 1.5 Baths",Condo for Rent
+"$3,200/mo","2 Beds, 1 Bath","612 Nebraska Ave, Long Beach, CA 90802"
+"$1,895/mo","1 Bed, 1 Bath",Condo for Rent
+"$3,500/mo","2 Beds, 2 Baths","850 E Ocean Blvd, Long Beach, CA 90802"
+"$3,577/mo","2 Beds, 2 Baths",Condo for Rent
+"$3,900 /mo","3 Beds, 2 Baths","3029 Pacific Ave, Long Beach, CA 90806"
+"$2,695 /mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,195/mo","2 Beds, 1 Bath","640 E 8th St, Long Beach, CA 90813"
+"$1,800/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,975/mo","2 Beds, 2 Baths","5075 Atlantic Ave, Long Beach, CA 90805"
+"$2,050/mo","2 Beds, 1 Bath",Apartment for Rent
+"$14,995 /mo","4 Beds, 4 Baths","4717 E 14th St, Long Beach, CA 90804"
+"$5,500 /mo","4 Beds, 3 Baths",Townhouse for Rent
+"$7,800/mo","2 Beds, 2 Baths","1921 E 6th St, Long Beach, CA 90802"
+"$3,900/mo","2 Beds, 2 Baths",Townhouse for Rent
+"$7,900 /mo","5 Beds, 6 Baths","109 Geneva Walk, Long Beach, CA 90803"
+"$2,795/mo","1 Bed, 1 Bath",House for Rent
+"$2,150/mo","2 Beds, 1 Bath","6441 E Mantova St, Long Beach, CA 90815"
+"$2,200/mo","1 Bed, 1 Bath",House for Rent
+"$2,500/mo","2 Beds, 2 Baths","1 62nd Pl, Long Beach, CA 90803"
+"$2,550/mo","2 Beds, 1 Bath",Condo for Rent
+"$3,400/mo","2 Beds, 1 Bath","552 N Bellflower Blvd, Long Beach, CA 90814"
+"$3,200/mo","1 Bed, 1 Bath",Condo for Rent
+"$2,950/mo","3 Beds, 2 Baths","4731 N Pearce Ave, Long Beach, CA 90808"
+"$4,200/mo","2 Beds, 2 Baths",House for Rent
+"$3,850/mo","2 Beds, 2 Baths","1242 E 7th St, Long Beach, CA 90813"
+"$2,300/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,500/mo","1 Bed, 1 Bath","1331 E 7th St, Long Beach, CA 90813"
+"$4,250/mo","2 Beds, 2 Baths",Condo for Rent
+"$2,800/mo","1 Bed, 1 Bath","812 E Carson St, Long Beach, CA 90807"
+"$2,900/mo","Studio, 1 Bath",Apartment for Rent
+"$1,600/mo","Studio, 1 Bath","1121 Obispo Ave, Long Beach, CA 90804"
+"$4,000/mo","2 Beds, 2 Baths",Condo for Rent
+"$7,500 /mo","3 Beds, 4 Baths","61 W Louise St, Long Beach, CA 90805"
+"$2,200/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$4,550 /mo","3 Beds, 2 Baths","5667 2nd St, Long Beach, CA 90803"
+"$3,475 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,150/mo","1 Bed, 1 Bath","850 E Ocean Blvd, Long Beach, CA 90802"
+"$3,200 /mo","2 Beds, 1 Bath",Condo for Rent
+"$2,400 /mo","1 Bed, 1 Bath","4880 Pacific Ave, Long Beach, CA 90805"
+"$3,200 /mo","3 Beds, 1 Bath",Townhouse for Rent
+"$2,500/mo","Studio, 1 Bath","400 W Ocean Blvd, Long Beach, CA 90802"
+"$5,250/mo","3 Beds, 2 Baths",Condo for Rent
+"$4,500/mo","3 Beds, 2 Baths","525 E Seaside Way, Long Beach, CA 90802"
+"$3,800/mo","2 Beds, 2 Baths",Condo for Rent
+"$12,000/mo","3 Beds, 3 Baths","2723 E 8th St, Long Beach, CA 90804"
+"$3,500/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$1,300 /mo","Studio, 1 Bath","314 E Norton St, Long Beach, CA 90805"
+"$2,700/mo","2 Beds, 2 Baths",House for Rent
+"$1,950/mo","1 Bed, 1 Bath","2033 E 3rd St, Long Beach, CA 90814"
+"$1,775/mo","2 Beds, 1 Bath",Condo for Rent
+"$3,525/mo","2 Beds, 1 Bath","262 Corona Ave, Long Beach, CA 90803"
+"$2,300/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,400 /mo","Studio, 1 Bath","1218 Long Beach Blvd, Long Beach, CA 90813"
+"$4,750/mo","3 Beds, 3 Baths",Apartment for Rent
+"$2,200/mo","1 Bed, 1 Bath","122 Roycroft Ave, Long Beach, CA 90803"
+"$2,000/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$2,250/mo","1 Bed, 1 Bath","4700 Clair Del Ave, Long Beach, CA 90807"
+"$2,500/mo","1 Bed, 1 Bath",Condo for Rent
+"$2,600/mo","1 Bed, 1 Bath","3733 California Ave, Long Beach, CA 90807"
+"$2,400/mo","1 Bed, 1 Bath",House for Rent
+"$3,900/mo","2 Beds, 2 Baths","1616 E Ocean Blvd, Long Beach, CA 90802"
+"$4,807/mo","2 Beds, 2 Baths",Condo for Rent
+"$3,922/mo","2 Beds, 2 Baths","1166 E Ocean Blvd, Long Beach, CA 90802"
+"$4,000/mo","2 Beds, 2 Baths",Condo for Rent
+"$2,700/mo","1 Bed, 1 Bath","126 W Plymouth St, Long Beach, CA 90805"
+"$3,700/mo","2 Beds, 2 Baths",Townhouse for Rent
+"$3,700/mo","2 Beds, 2 Baths","3724 Weston Pl, Long Beach, CA 90807"
+"$2,195/mo","2 Beds, 2 Baths",Townhouse for Rent
+"$3,615/mo","2 Beds, 2 Baths","2601 E Ocean Blvd, Long Beach, CA 90803"
+"$3,878/mo","2 Beds, 2 Baths",Condo for Rent
+"$4,190/mo","2 Beds, 2 Baths","1141 E Broadway, Long Beach, CA 90802"
+"$3,469/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$10,000 /mo","5 Beds, 4 Baths","1140 Pacific Ave, Long Beach, CA 90813"
+"$5,900 /mo","2 Beds, 2 Baths",Condo for Rent
+"$6,000/mo","1 Bed, 1 Bath","388 E Ocean Blvd, Long Beach, CA 90802"
+"$1,995 /mo","Studio, 1 Bath",Condo for Rent
+"$5,300 /mo","3 Beds, 2 Baths","333 E Broadway, Long Beach, CA 90802"
+"$2,400/mo","Studio, 1 Bath",Condo for Rent
+"$2,295/mo","1 Bed, 1 Bath","333 W Broadway, Long Beach, CA 90802"
+"$2,800 /mo","1 Bed, 1 Bath",Condo for Rent
+"$4,550 /mo","3 Beds, 2 Baths","6316 Marina Pacifica Dr N, Long Beach, CA 90803"
+"$3,200/mo","3 Beds, 1 Bath",Condo for Rent
+"$1,800/mo","1 Bed, 1 Bath","1141 E Broadway, Long Beach, CA 90802"
+"$5,500/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$4,600/mo","2 Beds, 2 Baths","1141 E Broadway, Long Beach, CA 90802"
+"$7,500 /mo","5 Beds, 4 Baths",Townhouse for Rent
+"$3,350 /mo","3 Beds, 2 Baths","1242 E 7th St, Long Beach, CA 90813"
+"$2,200/mo","2 Beds, 1 Bath",House for Rent
+"$1,999/mo","1 Bed, 1 Bath","430 Almond Ave, Long Beach, CA 90802"
+"$2,900/mo","Studio, 1 Bath",Townhouse for Rent
+"$4,300/mo","3 Beds, 2 Baths","1252 E Broadway, Long Beach, CA 90802"
+"$2,800/mo","2 Beds, 2 Baths",Apartment for Rent
+"$2,800/mo","2 Beds, 2 Baths","7217 Marina Pacifica Dr S, Long Beach, CA 90803"
+"$1,850/mo","Studio, 1 Bath",Condo for Rent
+"$4,600 /mo","3 Beds, 2 Baths","1500 E Ocean Blvd, Long Beach, CA 90802"
+"$3,500/mo","2 Beds, 2 Baths",Condo for Rent
+"$4,950 /mo","3 Beds, 1.5 Baths","1242 E 4th St, Long Beach, CA 90802"
+"$10,000/mo","3 Beds, 3 Baths",Condo for Rent
+"$2,350/mo","2 Beds, 1 Bath","2805 E 3rd St, Long Beach, CA 90814"
+"$1,700/mo","1 Bed, 1 Bath",Condo for Rent
+"$2,100/mo","1 Bed, 1 Bath","455 E Ocean Blvd, Long Beach, CA 90802"
+"$2,200/mo","1 Bed, 1 Bath",Condo for Rent
+"$1,850/mo","1 Bed, 1 Bath","3440 Gaviota Ave, Long Beach, CA 90807"
+"$2,600/mo","3 Beds, 1 Bath",House for Rent
+"$14,000 /mo","3 Beds, 4 Baths","3901 E Livingston Dr, Long Beach, CA 90803"
+"$3,990/mo","1 Bed, 1 Bath",Condo for Rent
+"$2,195/mo","1 Bed, 1 Bath","149 Argonne Ave, Long Beach, CA 90803"
+"$4,900 /mo","4 Beds, 3 Baths",House for Rent
+"$3,200 /mo","3 Beds, 2 Baths","333 E Broadway, Long Beach, CA 90802"
+"$3,550/mo","3 Beds, 2 Baths",Condo for Rent
+"$4,100/mo","2 Beds, 2 Baths","1923 E 6th St, Long Beach, CA 90802"
+"$4,650/mo","2 Beds, 2 Baths",Townhouse for Rent
+"$3,300/mo","2 Beds, 1 Bath","1745 E 3rd St, Long Beach, CA 90802"
+"$3,350/mo","2 Beds, 1 Bath",Townhouse for Rent
+"$2,950/mo","1 Bed, 1 Bath","838 E Carson St, Long Beach, CA 90807"
+"$3,700/mo","2 Beds, 2 Baths",Apartment for Rent
+"$3,500 /mo","2 Beds, 2 Baths","848 E Carson St, Long Beach, CA 90807"
+"$1,750/mo","Studio, 1 Bath",Apartment for Rent
+"$2,050/mo","1 Bed, 1 Bath","1420 Chestnut Ave, Long Beach, CA 90813"
+"$3,475 /mo","3 Beds, 1.5 Baths",Townhouse for Rent
+"$3,200/mo","2 Beds, 1.5 Baths","643 E Broadway, Long Beach, CA 90802"
+"$2,195/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,850/mo","Studio, 1 Bath","6915 E Seaside Walk, Long Beach, CA 90803"
+"$2,300/mo","2 Beds, 1 Bath",House for Rent
+"$2,600/mo","2 Beds, 2 Baths","201 Bay Shore Ave, Long Beach, CA 90803"
+"$2,850/mo","2 Beds, 1 Bath",Condo for Rent
+"$2,650/mo","2 Beds, 2 Baths","5101 Anaheim E St, Long Beach, CA 90804"
+"$4,200/mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,200/mo","2 Beds, 1 Bath","164 Ximeno Ave, Long Beach, CA 90803"
+"$3,500/mo","3 Beds, 1 Bath",Apartment for Rent
+"$2,075/mo","1 Bed, 1 Bath","362 Redondo Ave, Long Beach, CA 90814"
+"$1,925/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,350 - 1,650/mo","Studio - 1 Bed, 1 Bath","3501 Fashion Ave, Long Beach, CA 90810"
+"$1,635/mo","Studio, 1 Bath",Apartment for Rent
+"$2,285/mo","1 Bed, 1 Bath","25 Esperanza Ave, Long Beach, CA 90802"
+"$1,750/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,600/mo","2 Beds, 2 Baths","1100 Lime Ave, Long Beach, CA 90813"
+"$2,600/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,199/mo","1 Bed, 1 Bath","947 E Broadway, Long Beach, CA 90802"
+"$3,995 /mo","2 Beds, 2 Baths",Apartment for Rent
+"$1,750/mo","1 Bed, 1 Bath","1634 E 5th St, Long Beach, CA 90802"
+"$5,000/mo","2 Beds, 2 Baths",Apartment for Rent
+"$4,750 /mo","3 Beds, 1.5 Baths","134 Bonito Ave, Long Beach, CA 90802"
+"$2,150/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,300/mo","2 Beds, 1 Bath","2112 Earl Ave, Long Beach, CA 90806"
+"$2,150/mo","2 Beds, 2 Baths",Apartment for Rent
+"$2,335/mo","2 Beds, 1 Bath","5585 E Pacific Coast Hwy, Long Beach, CA 90804"
+"$2,200/mo","1 Bed, 1 Bath",Condo for Rent
+"$1,860/mo","1 Bed, 1 Bath","821 Chestnut Ave, Long Beach, CA 90813"
+"$5,495 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$2,800 /mo","1 Bed, 1 Bath","100 Atlantic Ave, Long Beach, CA 90802"
+"$2,400 /mo","1 Bed, 1 Bath",Condo for Rent
+"$3,500/mo","2 Beds, 2 Baths","152 Prospect Ave, Long Beach, CA 90803"
+"$2,300/mo","1 Bed, 1 Bath",House for Rent
+"$1,750/mo","Studio, 1 Bath","678 Coronado Ave, Long Beach, CA 90814"
+"$3,200 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,500/mo","Studio, 1 Bath","1 3rd Pl, Long Beach, CA 90802"
+"$2,050/mo","1 Bed, 1 Bath",Condo for Rent
+"$1,700/mo","1 Bed, 1 Bath","129 Esperanza Ave, Long Beach, CA 90802"
+"$2,695/mo","2 Beds, 1 Bath",House for Rent
+"$2,400/mo","2 Beds, 2 Baths","44 Corona Ave, Long Beach, CA 90803"
+"$1,300 /mo","Studio, 1 Bath",Apartment for Rent
+"$3,800 /mo","3 Beds, 2 Baths","534 E 19th St, Long Beach, CA 90806"
+"$3,350/mo","2 Beds, 2 Baths",Apartment for Rent
+"$2,650 /mo","1 Bed, 1 Bath","2100 Cedar Ave, Long Beach, CA 90806"
+"$3,400/mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,950/mo","2 Beds, 1 Bath","2022 Dawson Ave, Signal Hill, CA 90755"
+"$3,200/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$4,150 /mo","3 Beds, 3 Baths","12200 Montecito Rd, Cypress, CA 90740"
+"$3,100/mo","2 Beds, 2 Baths",Condo for Rent
+"$3,700/mo","2 Beds, 2 Baths","5235 Faris St, Lakewood, CA 90712"
+"$3,000 /mo","3 Beds, 1 Bath",House for Rent
+"$3,500/mo","3 Beds, 2 Baths","12102 215th St, Hawaiian Gardens, CA 90716"
+"$4,200 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,795/mo","2 Beds, 2 Baths","2270 Stanley Ave, Signal Hill, CA 90755"
+"$2,900 /mo","2 Beds, 1 Bath",Condo for Rent
+"$5,195 /mo","3 Beds, 2 Baths","2416 E Adana St, Compton, CA 90221"
+"$2,600 /mo","2 Beds, 1 Bath",House for Rent
+"$4,300/mo","4 Beds, 4 Baths","5948 Dagwood Ave, Lakewood, CA 90712"
+"$3,500 /mo","3 Beds, 1 Bath",Townhouse for Rent
+"$4,495 /mo","3 Beds, 3 Baths","2180 Village Way, Signal Hill, CA 90755"
+"$4,800 /mo","3 Beds, 3 Baths",House for Rent
+"$3,495/mo","2 Beds, 2 Baths","15338 Gundry Ave, Paramount, CA 90723"
+"$4,495 /mo","3 Beds, 1.5 Baths",Condo for Rent
+"$3,195 /mo","2 Beds, 1 Bath","5946 Dagwood Ave, Lakewood, CA 90712"
+"$3,400/mo","3 Beds, 2.5 Baths",House for Rent
+"$3,900 /mo","3 Beds, 2 Baths","4667 Deeboyar Ave, Lakewood, CA 90712"
+"$2,950/mo","2 Beds, 1 Bath",House for Rent
+"$3,500/mo","3 Beds, 2 Baths","13340 El Dorado Dr, Seal Beach, CA 90740"
+"$4,220 /mo","4 Beds, 2.25 Baths",House for Rent
+"$2,250/mo","1 Bed, 2 Baths","9029 Kimberly Ln., Cypress, CA 90630"
+"$5,195 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,695/mo","1 Bed, 1 Bath","6142 Harvey Way, Lakewood, CA 90713"
+"$4,000/mo","2 Beds, 2 Baths",House for Rent
+"$2,700 /mo","2 Beds, 1 Bath","413 Ocean Ave, Seal Beach, CA 90740"
+"$6,500 /mo","3 Beds, 3 Baths",House for Rent
+"$5,195 /mo","3 Beds, 2 Baths","324 17th St, Seal Beach, CA 90740"
+"$1,800/mo","1 Bed, 1 Bath",House for Rent
+"$3,750 /mo","2 Beds, 2 Baths","417 Ocean Ave, Seal Beach, CA 90740"
+"$2,800/mo","2 Beds, 2 Baths",Apartment for Rent
+"$4,550 /mo","3 Beds, 2 Baths","413 Ocean Ave, Seal Beach, CA 90740"
+"$7,000 /mo","4 Beds, 4 Baths",House for Rent
+"$2,595 /mo","2 Beds, 1 Bath","5138 Bixler Ave, Lakewood, CA 90712"
+"$2,000 /mo","1 Bed, 1 Bath",House for Rent
+"$2,295/mo","1 Bed, 1 Bath","1302 S Willowbrook Ave, Compton, CA 90220"
+"$5,295 /mo","3 Beds, 3 Baths",Townhouse for Rent
+"$1,895 /mo","1 Bed, 1 Bath","640 Elm Ave, Long Beach, CA 90802"
+"$3,295/mo","1 Bed, 1.5 Baths",House for Rent
+"$1,850/mo","Studio, 1 Bath","845 Pine Ave, Long Beach, CA 90813"
+"$4,750 /mo","4 Beds, 2 Baths",Condo for Rent
+"$1,795 /mo","2 Beds, 1 Bath","1030 E Ocean Blvd, Long Beach, CA 90802"
+"$2,995 /mo","2 Beds, 1 Bath",Condo for Rent
+"$2,295/mo","2 Beds, 2 Baths","3933 Hackett Ave, Long Beach, CA 90808"
+"$3,500 /mo","3 Beds, 2 Baths",House for Rent
+"$2,000 /mo","1 Bed, 1 Bath","225 E Eagle St, Long Beach, CA 90806"
+"$6,995 /mo","5 Beds, 3 Baths",House for Rent
+"$4,000 /mo","4 Beds, 1.5 Baths","950 N Loma Vista Dr, Long Beach, CA 90813"
+"$4,200 /mo","3 Beds, 2 Baths",House for Rent
+"$2,800 /mo","2 Beds, 2 Baths","1625 E Appleton,, Long Beach, CA 90802"
+"$2,695/mo","2 Beds, 2 Baths",Condo for Rent
+"$2,895 /mo","2 Beds, 1 Bath","86 W 49th St, Long Beach, CA 90805"
+"$2,295/mo","1 Bed, 1 Bath",House for Rent
+"$3,850/mo","2 Beds, 2 Baths","4020 E Fountain St, Long Beach, CA 90804"
+"$2,950 /mo","2 Beds, 1 Bath",House for Rent
+"$1,395/mo","Studio, 1 Bath","925 Hillside Dr, Long Beach, CA 90815"
+"$2,595/mo","2 Beds, 1 Bath",House for Rent
+"$2,695/mo","2 Beds, 1 Bath","3740 Snowden Ave, Long Beach, CA 90808"
+"$2,695 /mo","2 Beds, 1 Bath",House for Rent
+"$3,795/mo","2 Beds, 2 Baths","4131 Heather Rd, Long Beach, CA 90808"
+"$1,450/mo","1 Bed, 1 Bath",House for Rent
+"$2,050/mo","2 Beds, 1 Bath","421 W 6th St, Long Beach, CA 90802"
+"$3,095 /mo","2 Beds, 1 Bath",House for Rent
+"$3,800/mo","2 Beds, 2 Baths","555 Maine Ave, Long Beach, CA 90802"
+"$6,500 /mo","3 Beds, 3.5 Baths",Apartment for Rent
+"$2,195 /mo","3 Beds, 1 Bath","254 E Mountain View St, Long Beach, CA 90805"
+"$1,695 /mo","1 Bed, 1 Bath",House for Rent
+"$1,695/mo","1 Bed, 1 Bath","2204 E 1st St, Long Beach, CA 90803"
+"$2,595/mo","2 Beds, 1 Bath",Condo for Rent
+"$1,895/mo","2 Beds, 1 Bath","488 E Ocean Blvd, Long Beach, CA 90802"
+"$2,595/mo","2 Beds, 2 Baths",Apartment for Rent
+"$2,200 /mo","1 Bed, 1 Bath","4105 E 14th St, Long Beach, CA 90804"
+"$1,695/mo","Studio, 1 Bath",House for Rent
+"$3,350/mo","2 Beds, 2 Baths","440 Zona Ct, Long Beach, CA 90802"
+"$2,300/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,600/mo","1 Bed, 1 Bath","4419 N Bellflower Blvd, Long Beach, CA 90808"
+"$1,950 /mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,600 /mo","1 Bed, 1 Bath","486 E 59th St, Long Beach, CA 90805"
+"$2,550/mo","2 Beds, 2 Baths",House for Rent
+"$1,899/mo","1 Bed, 1 Bath","1226 Olive Ave, Long Beach, CA 90813"
+"$2,450/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,550 /mo","3 Beds, 2 Baths","1746 2nd St, Long Beach, CA 90802"
+"$2,295/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,250/mo","1 Bed, 1 Bath","388 E Ocean Blvd, Long Beach, CA 90802"
+"$2,595/mo","2 Beds, 2 Baths",Apartment for Rent
+"$1,495 /mo","1 Bed, 1 Bath","5202 E Lanai St, Long Beach, CA 90808"
+"$2,095 /mo","2 Beds, 1 Bath",House for Rent
+"$1,995 /mo","2 Beds, 1 Bath","2500 2nd St, Long Beach, CA 90803"
+"$1,395 /mo","Studio, 1 Bath",Apartment for Rent
+"$2,195/mo","3 Beds, 2 Baths","1531 E Florida St, Long Beach, CA 90802"
+"$1,550/mo","Studio, 1 Bath",Apartment for Rent
+"$2,895 /mo","4 Beds, 2 Baths","6673 N Hammond Ave, Long Beach, CA 90805"
+"$1,525/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,450/mo","1 Bed, 1 Bath","1810 Oregon Ave, Long Beach, CA 90806"
+"$2,050/mo","2 Beds, 1 Bath",House for Rent
+"$1,950/mo","2 Beds, 1 Bath","1407 Olive Ave, Long Beach, CA 90813"
+"$1,895/mo","1 Bed, 1 Bath",House for Rent
+"$1,725/mo","1 Bed, 1 Bath","1516 Orange Ave, Long Beach, CA 90813"
+"$2,395/mo","1 Bed, 1 Bath",House for Rent
+"$3,195/mo","3 Beds, 2 Baths","930 E Broadway, Long Beach, CA 90802"
+"$2,850/mo","2 Beds, 1 Bath",House for Rent
+$925 /mo,"1 Bed, 1 Bath","1916 Magnolia Ave, Long Beach, CA 90806"
+"$1,795/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,695/mo","Studio, 1 Bath","5255 E Ocean Blvd, Long Beach, CA 90803"
+"$2,099/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,400/mo","1 Bed, 1 Bath","818 Alamitos Ave, Long Beach, CA 90813"
+"$3,995 /mo","2 Beds, 1.5 Baths",House for Rent
+"$1,550/mo","Studio, 1 Bath","1832 Locust Ave, Long Beach, CA 90806"
+"$2,250/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,945/mo","2 Beds, 1.5 Baths","388 E Ocean Blvd, Long Beach, CA 90802"
+"$2,395/mo","2 Beds, 1.5 Baths",Apartment for Rent
+"$1,800/mo","1 Bed, 1 Bath","904 Alamitos Ave, Long Beach, CA 90813"
+"$3,495 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,695/mo","Studio, 1 Bath","4339 Elm Ave, Long Beach, CA 90807"
+"$4,295 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$2,995/mo","2 Beds, 1 Bath","734 Linden Ave, Long Beach, CA 90813"
+"$1,675/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,695/mo","2 Beds, 2 Baths","1625 E Appleton St, Long Beach, CA 90802"
+"$2,050/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,999 /mo","1 Bed, 1 Bath","1144 E Appleton St, Long Beach, CA 90802"
+"$2,195 /mo","2 Beds, 1 Bath",Condo for Rent
+"$2,300/mo","2 Beds, 1 Bath","1252 E Broadway, Long Beach, CA 90802"
+"$3,495 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,595/mo","1 Bed, 1 Bath","741 W 4th St, Long Beach, CA 90802"
+"$2,850 /mo","2 Beds, 1 Bath",House for Rent
+"$1,195 /mo","Studio, 1 Bath","3265 Santa Fe Ave, Long Beach, CA 90810"
+"$4,195 /mo","4 Beds, 2 Baths",Apartment for Rent
+"$5,495 /mo","3 Beds, 2.25 Baths","1618 Stanton Pl, Long Beach, CA 90804"
+"$1,595/mo","Studio, 1 Bath",House for Rent
+"$1,995 /mo","1 Bed, 1 Bath","230 E Hullett St, Long Beach, CA 90805"
+"$1,495/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,100/mo","2 Beds, 2 Baths","5643 2nd St, Long Beach, CA 90803"
+"$1,995/mo","1 Bed, 1 Bath",House for Rent
+"$1,695/mo","Studio, 1 Bath","2768 Maine Ave, Long Beach, CA 90806"
+"$7,995 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,395/mo","3 Beds, 1 Bath","2809 Stanbridge Ave, Long Beach, CA 90815"
+"$1,790 /mo","1 Bed, 1 Bath",House for Rent
+"$2,495/mo","3 Beds, 1 Bath","4018 E Massachusetts St, Long Beach, CA 90814"
+"$3,850 /mo","2 Beds, 1 Bath",House for Rent
+"$2,395/mo","2 Beds, 2 Baths","1061 E Market St, Long Beach, CA 90805"
+"$2,975 /mo","3 Beds, 1 Bath",Condo for Rent
+"$1,895 /mo","2 Beds, 1 Bath","3805 E 14th St, Long Beach, CA 90804"
+"$1,450/mo","1 Bed, 1 Bath",House for Rent
+"$3,500/mo","3 Beds, 2 Baths","1306 E Hellman St, Long Beach, CA 90813"
+"$1,295 /mo","Studio, 1 Bath",Apartment for Rent
+"$2,595/mo","2 Beds, 1 Bath","576 N Bellflower Blvd, Long Beach, CA 90814"
+"$3,900 /mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,525/mo","Studio, 1 Bath","4421 N Bellflower Blvd, Long Beach, CA 90808"
+"$2,200/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,950/mo","3 Beds, 2 Baths","315 W 3rd St, Long Beach, CA 90802"
+"$3,295 /mo","2 Beds, 1 Bath",Condo for Rent
+"$4,995/mo","2 Beds, 2 Baths","6250 Majorca Cir, Long Beach, CA 90803"
+"$3,250/mo","3 Beds, 2 Baths",House for Rent
+"$1,695/mo","1 Bed, 1 Bath","1828 E 8th St, Long Beach, CA 90813"
+"$2,200 /mo","2 Beds, 2 Baths",Apartment for Rent
+"$1,950/mo","2 Beds, 1 Bath","6236 Lemon Ave, Long Beach, CA 90805"
+"$1,595/mo","1 Bed, 1 Bath",House for Rent
+"$1,800 /mo","1 Bed, 1 Bath","38 E 55th St, Long Beach, CA 90805"
+"$1,595/mo","1 Bed, 1 Bath",House for Rent
+"$2,150/mo","2 Beds, 1 Bath","1472 Cherry Ave, Long Beach, CA 90813"
+"$1,595 /mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,200/mo","2 Beds, 1 Bath","1170 Market St, Long Beach, CA 90805"
+"$2,295 /mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,875/mo","Studio, 1 Bath","519 W 8th St, Long Beach, CA 90813"
+"$2,850 /mo","2 Beds, 1 Bath",House for Rent
+"$1,795 /mo","2 Beds, 1 Bath","3211 E Wilton St, Long Beach, CA 90804"
+"$2,095/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,895/mo","2 Beds, 1 Bath","200 Elm Ave, Long Beach, CA 90802"
+"$1,650/mo","1 Bed, 1 Bath",House for Rent
+"$1,995/mo","2 Beds, 1 Bath","915 E Ocean Blvd, Long Beach, CA 90802"
+"$2,395 /mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,650/mo","1 Bed, 1 Bath","80 Granada Ave, Long Beach, CA 90803"
+"$1,495 /mo","Studio, 1 Bath",House for Rent
+"$2,100 /mo","1 Bed, 1 Bath","1823 E 11th St, Long Beach, CA 90813"
+"$1,895 /mo","1 Bed, 1 Bath",House for Rent
+"$3,900 /mo","3 Beds, 2 Baths","2049 E 3rd St, Long Beach, CA 90814"
+"$3,500 /mo","5 Beds, 2 Baths",Apartment for Rent
+"$3,500/mo","2 Beds, 2.5 Baths","5500 Ackerfield Ave, Long Beach, CA 90805"
+"$2,400 /mo","1 Bed, 1 Bath",Condo for Rent
+"$7,500/mo","3 Beds, 2 Baths","2133 Pacific Ave, Long Beach, CA 90806"
+"$3,450 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$4,500 /mo","3 Beds, 2 Baths","1974 Henderson Ave, Long Beach, CA 90806"
+"$3,400 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$3,375 /mo","2 Beds, 2 Baths","1516 E 10th St, Long Beach, CA 90813"
+"$3,375/mo","2 Beds, 2 Baths",House for Rent
+"$4,150 /mo","4 Beds, 2 Baths","2133 Pacific Ave, Long Beach, CA 90806"
+"$7,750 /mo","4 Beds, 4 Baths",Apartment for Rent
+"$1,695 /mo","1 Bed, 1 Bath","731 W Pacific Coast Hwy, Long Beach, CA 90806"
+"$3,990 /mo","3 Beds, 2 Baths",House for Rent
+"$3,050 /mo","2 Beds, 1 Bath","418 Golden Ave, Long Beach, CA 90802"
+"$3,795 /mo","3 Beds, 2 Baths",House for Rent
+"$2,900/mo","2 Beds, 2 Baths","640 Elm Ave, Long Beach, CA 90802"
+"$4,500 /mo","3 Beds, 2 Baths",House for Rent
+"$2,595/mo","1 Bed, 1 Bath","4832 Ocana Ave, Lakewood, CA 90713"
+"$3,495/mo","2 Beds, 2.5 Baths",House for Rent
+"$2,900/mo","2 Beds, 2 Baths","12440 224th St, Hawaiian Gardens, CA 90716"
+"$3,495 /mo","2 Beds, 2.5 Baths",House for Rent
+"$2,695/mo","2 Beds, 2 Baths","20703 Roseton Ave, Lakewood, CA 90715"
+"$4,495 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$4,195 /mo","4 Beds, 2 Baths","6119 Bonfair Ave, Lakewood, CA 90712"
+"$1,695 /mo","1 Bed, 1 Bath",House for Rent
+"$3,350 /mo","3 Beds, 2 Baths","2430 Candlewood St, Lakewood, CA 90712"

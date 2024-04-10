@@ -1,0 +1,637 @@
+price,rooms,address
+"$2,294 - 9,180",Studio - 3 Beds,"312 24th St, Oakland, CA 94612"
+"$1,979 - 4,701",Studio - 2 Beds,"3093 Broadway, Oakland, CA 94611"
+"$2,170 - 5,980",Studio - 3 Beds,"150 4th St, Oakland, CA 94607"
+"$2,487 - 5,228",Studio - 2 Beds,"385 14th St, Oakland, CA 94612"
+"$2,245 - 3,217",Studio - 2 Beds,"1940 Webster St, Oakland, CA 94612"
+"$2,097 - 6,733",Studio - 3 Beds,"37 8th Ave, Oakland, CA 94606"
+"$1,690 - 5,479",Studio - 3 Beds,"1900 Broadway, Oakland, CA 94612"
+"$2,495 - 3,995",Studio - 1 Bed,"2510 Bancroft Way, Berkeley, CA 94704"
+"$2,725 - 4,800",1-2 Beds,"5684 Bay St, Emeryville, CA 94608"
+"$4,572 - 5,048",2-4 Beds,"250 Mosley Ave, Alameda, CA 94501"
+"$2,150 - 3,200",1 Bed,"2350 Saratoga St, Alameda, CA 94501"
+"$2,780 - 5,350",Studio - 3 Beds,"6701 Shellmound St, Emeryville, CA 94608"
+"$1,784 - 5,488",Studio - 3 Beds,"255 9th Ave, Oakland, CA 94606"
+"$1,867 - 2,809",1-2 Beds,"225 Clifton St, Oakland, CA 94618"
+"$2,076 - 2,966",Studio - 2 Beds,"500 William St, Oakland, CA 94612"
+"$1,856 - 3,095",Studio - 3 Beds,"1389 Jefferson St, Oakland, CA 94612"
+"$2,135 - 2,935",1-2 Beds,"1130 E 3rd Ave, Oakland, CA 94606"
+"$1,780 - 4,065",Studio - 3 Beds,"2350 Valley St, Oakland, CA 94612"
+"$2,345 - 23,395",Studio - 2 Beds,"2302 Valdez St, Oakland, CA 94612"
+"$1,700 - 3,900",Studio - 2 Beds,"330 17th St, Oakland, CA 94612"
+"$1,839 - 4,486",Studio - 3 Beds,"2450 Valdez St, Oakland, CA 94612"
+"$2,053 - 3,099",Studio - 2 Beds,"459 23rd St, Oakland, CA 94612"
+"$1,675 - 4,790",Studio - 2 Beds,"540 39th St, Oakland, CA 94609"
+"$2,544 - 4,272",Studio - 2 Beds,"4700 Telegraph Ave, Oakland, CA 94609"
+"$2,314 - 7,176",Studio - 2 Beds,"5110 Telegraph Ave, Oakland, CA 94609"
+"$1,965 - 4,432",Studio - 2 Beds,"2820 Broadway, Oakland, CA 94611"
+"$1,530 - 4,939",Studio - 3 Beds,"40 Harrison St, Oakland, CA 94607"
+"$2,175 - 24,074",Studio - 3 Beds,"3883 Turquoise Way, Oakland, CA 94609"
+"$3,314 - 7,261",1-3 Beds,"230-240 W Macarthur Blvd, Oakland, CA 94611"
+"$2,008 - 4,650",Studio - 3 Beds,"1150 Clay St, Oakland, CA 94612"
+"$1,969 - 3,958",Studio - 2 Beds,"532 Union St, Oakland, CA 94607"
+"$1,395 - 3,068",Studio,"233 Broadway, Oakland, CA 94607"
+"$2,050 - 3,050",1-2 Beds,"1510 Webster St, Oakland, CA 94612"
+"$2,005 - 4,681",Studio - 3 Beds,"2330 Webster St, Oakland, CA 94612"
+"$1,817 - 5,059",Studio - 2 Beds,"1889 Harrison St, Oakland, CA 94612"
+"$2,400 - 9,926",Studio - 3 Beds,"1411 Alice St, Oakland, CA 94612"
+"$1,949 - 3,769",Studio - 3 Beds,"421 25th St, Oakland, CA 94612"
+"$1,905 - 5,125",Studio - 3 Beds,"260 Brooklyn Basin Way, Oakland, CA 94606"
+"$2,294 - 9,180",Studio - 3 Beds,"312 24th St, Oakland, CA 94612"
+"$1,979 - 4,701",Studio - 2 Beds,"3093 Broadway, Oakland, CA 94611"
+"$2,170 - 5,980",Studio - 3 Beds,"150 4th St, Oakland, CA 94607"
+"$2,487 - 5,228",Studio - 2 Beds,"385 14th St, Oakland, CA 94612"
+"$2,245 - 3,217",Studio - 2 Beds,"1940 Webster St, Oakland, CA 94612"
+"$2,097 - 6,733",Studio - 3 Beds,"37 8th Ave, Oakland, CA 94606"
+"$1,690 - 5,479",Studio - 3 Beds,"1900 Broadway, Oakland, CA 94612"
+"$2,495 - 3,995",Studio - 1 Bed,"2510 Bancroft Way, Berkeley, CA 94704"
+"$2,725 - 4,800",1-2 Beds,"5684 Bay St, Emeryville, CA 94608"
+"$4,572 - 5,048",2-4 Beds,"250 Mosley Ave, Alameda, CA 94501"
+"$2,150 - 3,200",1 Bed,"2350 Saratoga St, Alameda, CA 94501"
+"$2,780 - 5,350",Studio - 3 Beds,"6701 Shellmound St, Emeryville, CA 94608"
+"$1,784 - 5,488",Studio - 3 Beds,"255 9th Ave, Oakland, CA 94606"
+"$1,867 - 2,809",1-2 Beds,"225 Clifton St, Oakland, CA 94618"
+"$2,076 - 2,966",Studio - 2 Beds,"500 William St, Oakland, CA 94612"
+"$1,856 - 3,095",Studio - 3 Beds,"1389 Jefferson St, Oakland, CA 94612"
+"$2,135 - 2,935",1-2 Beds,"1130 E 3rd Ave, Oakland, CA 94606"
+"$1,780 - 4,065",Studio - 3 Beds,"2350 Valley St, Oakland, CA 94612"
+"$2,345 - 23,395",Studio - 2 Beds,"2302 Valdez St, Oakland, CA 94612"
+"$1,700 - 3,900",Studio - 2 Beds,"330 17th St, Oakland, CA 94612"
+"$1,839 - 4,486",Studio - 3 Beds,"2450 Valdez St, Oakland, CA 94612"
+"$2,053 - 3,099",Studio - 2 Beds,"459 23rd St, Oakland, CA 94612"
+"$1,675 - 4,790",Studio - 2 Beds,"540 39th St, Oakland, CA 94609"
+"$2,544 - 4,272",Studio - 2 Beds,"4700 Telegraph Ave, Oakland, CA 94609"
+"$2,314 - 7,176",Studio - 2 Beds,"5110 Telegraph Ave, Oakland, CA 94609"
+"$1,965 - 4,432",Studio - 2 Beds,"2820 Broadway, Oakland, CA 94611"
+"$1,530 - 4,939",Studio - 3 Beds,"40 Harrison St, Oakland, CA 94607"
+"$2,175 - 24,074",Studio - 3 Beds,"3883 Turquoise Way, Oakland, CA 94609"
+"$3,314 - 7,261",1-3 Beds,"230-240 W Macarthur Blvd, Oakland, CA 94611"
+"$2,008 - 4,650",Studio - 3 Beds,"1150 Clay St, Oakland, CA 94612"
+"$1,969 - 3,958",Studio - 2 Beds,"532 Union St, Oakland, CA 94607"
+"$1,395 - 3,068",Studio,"233 Broadway, Oakland, CA 94607"
+"$2,050 - 3,050",1-2 Beds,"1510 Webster St, Oakland, CA 94612"
+"$2,005 - 4,681",Studio - 3 Beds,"2330 Webster St, Oakland, CA 94612"
+"$1,817 - 5,059",Studio - 2 Beds,"1889 Harrison St, Oakland, CA 94612"
+"$2,400 - 9,926",Studio - 3 Beds,"1411 Alice St, Oakland, CA 94612"
+"$1,949 - 3,769",Studio - 3 Beds,"421 25th St, Oakland, CA 94612"
+"$1,905 - 5,125",Studio - 3 Beds,"260 Brooklyn Basin Way, Oakland, CA 94606"
+"$1,849 - 2,141",Studio - 2 Beds,"2500 Webster St, Oakland, CA 94612"
+"$2,193 - 3,706",Studio - 3 Beds,"3015 San Pablo Ave, Berkeley, CA 94702"
+"$1,855 - 2,535",Studio - 2 Beds,"235 Haas Ave, San Leandro, CA 94577"
+"$3,700 - 14,700",Studio - 5 Beds,"2430 Prospect St, Berkeley, CA 94704"
+"$2,653 - 3,562",1-2 Beds,"1100 Pacific Marina, Alameda, CA 94501"
+"$2,964 - 4,978",Studio - 2 Beds,"2121 Dwight Way, Berkeley, CA 94704"
+"$2,460 - 5,431",Studio - 3 Beds,"6301 Shellmound St, Emeryville, CA 94608"
+"$1,417 - 9,300",1-8 Beds,"2556 Telegraph Ave, Berkeley, CA 94704"
+"$3,875 - 6,100",1-3 Beds,"1200 Lakeshore, Oakland, CA 94606"
+"$2,100 - 2,800",1-2 Beds,"3761 Harrison St, Oakland, CA 94611"
+"$1,695 - 2,995",Studio - 2 Beds,"1533 Jackson St, Oakland, CA 94612"
+"$1,740 - 2,794",Studio - 2 Beds,"1614 Campbell St, Oakland, CA 94607"
+"$2,237 - 3,199",Studio - 3 Beds,"3030 Chapman St, Oakland, CA 94601"
+"$1,695 - 1,950",Studio - 1 Bed,"417-425 E 18th St, Oakland, CA 94606"
+"$2,400 - 3,488",2-4 Beds,"1919 Market St, Oakland, CA 94607"
+"$1,900 - 3,900",1-3 Beds,"520 Van Buren Ave, Oakland, CA 94610"
+"$1,435 - 1,800",Studio,"2415 Valdez St, Oakland, CA 94612"
+"$2,110 - 3,300",Studio - 3 Beds,"3250 Hollis St, Oakland, CA 94608"
+"$1,250",Studio,"184 13th St, Oakland, CA 94612"
+"$1,148 - 1,627",Studio,"825 6th Ave, Oakland, CA 94606"
+$995,1 Bed,"1428 105th Ave, Oakland, CA 94603"
+"$1,849 - 2,450",1 Bed,"1529 Alice St, Oakland, CA 94612"
+"$1,595 - 1,795",Studio - 1 Bed,"1929 26th Ave, Oakland, CA 94601"
+"$1,519 - 2,284",Studio - 3 Beds,"1720 12th Ave, Oakland, CA 94606"
+"$1,750 - 2,400",Studio - 2 Beds,"2014 5th Ave, Oakland, CA 94606"
+"$2,015 - 3,005",1-2 Beds,"240 3rd St, Oakland, CA 94607"
+"$1,995 - 2,125",2 Beds,"1505 Jackson St, Oakland, CA 94612"
+"$1,345 - 1,895",Studio - 1 Bed,"1461 Alice St, Oakland, CA 94612"
+Call for Rent,1-2 Beds,"6951 Lion Way, Oakland, CA 94621"
+"$1,150",Studio,"715 Peralta St, Oakland, CA 94607"
+"$825 - 1,295",Studio,"634 15th St, Oakland, CA 94612"
+"$3,295 - 3,595",2 Beds,"2028 Dwight Way, Berkeley, CA 94704"
+"$2,380 - 4,218",Studio - 3 Beds,"1333 Powell St, Emeryville, CA 94608"
+"$2,195",1 Bed,"2030 Dwight Way, Berkeley, CA 94704"
+"$3,990 - 14,060",Studio - 5 Beds,"2580 Bancroft Way, Berkeley, CA 94704"
+"$2,895 - 2,995",2 Beds,"2740 College Ave, Berkeley, CA 94705"
+"$2,000/mo","Studio, 1 Bath","873 32nd St, Oakland, CA 94608"
+$850/mo,"1 Bed, 1.5 Baths","873 32nd St, Oakland, CA 94608"
+"$3,600/mo","3 Beds, 1.5 Baths","618 14th St, Oakland, CA 94612"
+"$2,100 /mo","1 Bed, 1 Bath","618 14th St, Oakland, CA 94612"
+"$6,500 /mo","3 Beds, 3.5 Baths","2425 Valdez St, Oakland, CA 94612"
+"$1,550 /mo","19 Beds, 9 Baths","2425 Valdez St, Oakland, CA 94612"
+"$1,900/mo","1 Bed, 1 Bath","392 11th St, Oakland, CA 94607"
+"$3,300/mo","2 Beds, 2 Baths","392 11th St, Oakland, CA 94607"
+"$1,025 /mo","1 Bed, 1 Bath","Oakland, CA 94602"
+"$1,700 /mo","1 Bed, 1 Bath","Oakland, CA 94602"
+"$3,000/mo","3 Beds, 2 Baths","2708 College Ave, Berkeley, CA 94705"
+"$1,250 /mo","1 Bed, 1 Bath","2708 College Ave, Berkeley, CA 94705"
+"$2,000/mo","Studio, 1 Bath","873 32nd St, Oakland, CA 94608"
+$850/mo,"1 Bed, 1.5 Baths","873 32nd St, Oakland, CA 94608"
+"$3,600/mo","3 Beds, 1.5 Baths","618 14th St, Oakland, CA 94612"
+"$2,100 /mo","1 Bed, 1 Bath","618 14th St, Oakland, CA 94612"
+"$6,500 /mo","3 Beds, 3.5 Baths","2425 Valdez St, Oakland, CA 94612"
+"$1,550 /mo","19 Beds, 9 Baths","2425 Valdez St, Oakland, CA 94612"
+"$1,900/mo","1 Bed, 1 Bath","392 11th St, Oakland, CA 94607"
+"$3,300/mo","2 Beds, 2 Baths","392 11th St, Oakland, CA 94607"
+"$1,025 /mo","1 Bed, 1 Bath","Oakland, CA 94602"
+"$1,700 /mo","1 Bed, 1 Bath","Oakland, CA 94602"
+"$3,000/mo","3 Beds, 2 Baths","2708 College Ave, Berkeley, CA 94705"
+"$1,250 /mo","1 Bed, 1 Bath","2708 College Ave, Berkeley, CA 94705"
+"$2,095/mo","1 Bed, 1 Bath","840 York St, Oakland, CA 94610"
+"$1,750/mo","1 Bed, 1 Bath",Condo for Rent
+"$2,695 /mo","2 Beds, 2.5 Baths","1560 Jackson St, Oakland, CA 94612"
+"$1,700/mo","1 Bed, 1 Bath",Condo for Rent
+"$2,425/mo","2 Beds, 2 Baths","1511 Jefferson St, Oakland, CA 94612"
+"$1,150 /mo","1 Bed, 1 Bath",House for Rent
+"$3,200 /mo","3 Beds, 2 Baths","864 Stanford Ave, Oakland, CA 94608"
+"$1,795/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,895/mo","1 Bed, 1 Bath","240 Athol Ave, Oakland, CA 94606"
+"$3,545 /mo","2 Beds, 2 Baths",Condo for Rent
+"$1,850/mo","Studio, 1 Bath","857 55th St, Oakland, CA 94608"
+"$3,600/mo","2 Beds, 1.5 Baths",House for Rent
+"$2,195/mo","1 Bed, 1 Bath","835 35th St, Oakland, CA 94608"
+"$4,250/mo","2 Beds, 2.5 Baths",House for Rent
+"$1,400/mo","Studio, 1 Bath","645 43rd St, Oakland, CA 94609"
+"$2,850/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,700 /mo","3 Beds, 2 Baths","5499 Claremont Ave, Oakland, CA 94618"
+"$4,200 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,800 /mo","1 Bed, 1 Bath","1433 Pullman Wy, Oakland, CA 94607"
+"$2,250/mo","2 Beds, 1 Bath",House for Rent
+"$1,600 /mo","1 Bed, 1 Bath","736 Wesley Way, Oakland, CA 94610"
+"$3,750 /mo","3 Beds, 1.5 Baths",Townhome for Rent
+"$1,799/mo","1 Bed, 1 Bath","5129 Miles Ave, Oakland, CA 94618"
+"$2,400/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,900 /mo","2 Beds, 1 Bath","989 Franklin St, Oakland, CA 94607"
+"$1,995/mo","1 Bed, 1 Bath",Condo for Rent
+"$2,000/mo","1 Bed, 1 Bath","628 51st St, Oakland, CA 94609"
+"$2,500/mo","2 Beds, 1 Bath",Townhome for Rent
+"$2,399/mo","1 Bed, 1 Bath","3524 Foothill Blvd, Oakland, CA 94601"
+"$2,275/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,400 /mo","2 Beds, 1 Bath","1 Lakeside Dr, Oakland, CA 94612"
+"$3,150/mo","1 Bed, 1 Bath",Condo for Rent
+"$2,195/mo","2 Beds, 1 Bath","300 Ashton Ave, Oakland, CA 94603"
+"$2,465 /mo","2 Beds, 1 Bath",House for Rent
+"$2,325/mo","2 Beds, 1 Bath","964 56th St, Oakland, CA 94608"
+"$5,300 /mo","6 Beds, 3 Baths",House for Rent
+"$1,980/mo","Studio, 1 Bath","7831 Arthur St, Oakland, CA 94605"
+"$2,760/mo","1 Bed, 1 Bath",House for Rent
+"$1,750/mo","1 Bed, 1 Bath","836 7th Ave, Oakland, CA 94606"
+"$2,470/mo","1 Bed, 1 Bath",Condo for Rent
+"$1,795/mo","1 Bed, 1 Bath","240 Athol Ave, Oakland, CA 94606"
+"$3,100/mo","2 Beds, 2 Baths",Condo for Rent
+"$3,625 /mo","3 Beds, 3.5 Baths","3815 Harrison St, Oakland, CA 94611"
+"$4,480/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,525/mo","Studio, 1 Bath","207 Palisade Dr, Oakland, CA 94607"
+"$4,995 /mo","5 Beds, 3 Baths",House for Rent
+"$4,500 /mo","3 Beds, 1.5 Baths","240 W MacArthur Blvd, Oakland, CA 94611"
+"$1,850/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,850 /mo","2 Beds, 1 Bath","840 York St, Oakland, CA 94610"
+"$3,000 /mo","2 Beds, 1 Bath",Condo for Rent
+"$2,999 /mo","3 Beds, 1 Bath","6022 Telegraph Ave, Oakland, CA 94609"
+"$2,900/mo","2 Beds, 1 Bath",House for Rent
+"$1,895/mo","1 Bed, 1 Bath","5624 Market St, Oakland, CA 94608"
+"$1,990/mo","Studio, 1 Bath",House for Rent
+"$1,445 /mo","Studio, 1 Bath","1805 8th Ave, Oakland, CA 94606"
+"$2,690/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,325/mo","2 Beds, 1 Bath","930 60th St, Oakland, CA 94608"
+"$4,590/mo","1 Bed, 1 Bath",House for Rent
+"$3,100 /mo","2 Beds, 2.5 Baths","2206 E 24th St, Oakland, CA 94606"
+"$2,200/mo","1 Bed, 1 Bath",House for Rent
+"$2,760/mo","1 Bed, 1 Bath","1061 Aileen St, Oakland, CA 94608"
+"$3,380/mo","2 Beds, 2 Baths",House for Rent
+"$1,995/mo","1 Bed, 1 Bath","8079 Greenridge Dr, Oakland, CA 94605"
+"$4,590/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,750/mo","1 Bed, 1 Bath","5499 Claremont Ave, Oakland, CA 94618"
+"$1,200 /mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,515/mo","2 Beds, 2 Baths","1889 Harrison St, Oakland, CA 94612"
+"$1,795/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,595/mo","Studio, 1 Bath","2624 Foothill Blvd, Oakland, CA 94601"
+"$1,625/mo","1 Bed, 1 Bath",House for Rent
+"$5,290/mo","2 Beds, 2 Baths","447 17th St, Oakland, CA 94612"
+"$2,645/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,750/mo","1 Bed, 1 Bath","1173 12th St, Oakland, CA 94607"
+"$4,480/mo","1 Bed, 1 Bath",Condo for Rent
+"$1,595/mo","Studio, 1 Bath","240 W MacArthur Blvd, Oakland, CA 94611"
+"$1,395/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,825/mo","1 Bed, 1 Bath","1307 Wood St, Oakland, CA 94607"
+"$3,500/mo","1 Bed, 2 Baths",House for Rent
+"$2,700 /mo","3 Beds, 1 Bath","1648 10th Ave, Oakland, CA 94606"
+"$1,395/mo","Studio, 1 Bath",Condo for Rent
+"$2,760/mo","1 Bed, 1 Bath","447 17th St, Oakland, CA 94612"
+"$2,700/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,700/mo","1 Bed, 1 Bath","447 17th St, Oakland, CA 94612"
+"$2,760/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,760/mo","1 Bed, 1 Bath","447 17th St, Oakland, CA 94612"
+"$4,125/mo","2 Beds, 2 Baths",Apartment for Rent
+"$3,300/mo","2 Beds, 2 Baths","447 17th St, Oakland, CA 94612"
+"$2,760/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,500/mo","2 Beds, 1.5 Baths","447 17th St, Oakland, CA 94612"
+"$2,210/mo","Studio, 1 Bath",Apartment for Rent
+"$3,175/mo","3 Beds, 2 Baths","330 17th St, Oakland, CA 94612"
+"$2,500/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,610/mo","1 Bed, 1 Bath","240 Caldecott Ln, Oakland, CA 94618"
+"$2,500 /mo","2 Beds, 1 Bath",Condo for Rent
+"$1,600/mo","Studio, 1 Bath","447 17th St, Oakland, CA 94612"
+"$2,100/mo","1 Bed, 1 Bath",Apartment for Rent
+"$8,500 /mo","3 Beds, 2 Baths","801 Franklin St, Oakland, CA 94607"
+"$4,100/mo","3 Beds, 2 Baths",Condo for Rent
+"$2,900 /mo","1 Bed, 1 Bath","3093 Broadway, Oakland, CA 94611"
+"$2,830/mo","Studio, 1 Bath",Apartment for Rent
+"$3,600/mo","2 Beds, 2 Baths","1006 Chestnut St, Oakland, CA 94607"
+$798/mo,"1 Bed, 1 Bath",Condo for Rent
+"$3,200/mo","1 Bed, 1 Bath","6405 Brann St, Oakland, CA 94605"
+"$3,610/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,830/mo","Studio, 1 Bath","6701 Shellmound St, Emeryville, CA 94608"
+"$3,200/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,830/mo","Studio, 1 Bath","1251 Carrison St, Berkeley, CA 94702"
+"$2,640/mo","Studio, 1 Bath",House for Rent
+"$2,830/mo","Studio, 1 Bath","2214 Channing Way, Berkeley, CA 94704"
+"$2,830/mo","Studio, 1 Bath",Apartment for Rent
+"$3,200/mo","1 Bed, 1 Bath","2615 Stuart St, Berkeley, CA 94705"
+"$2,275/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,850/mo","2 Beds, 1 Bath","1001 Winsor Ave, Piedmont, CA 94610"
+"$1,950/mo","Studio, 1 Bath",House for Rent
+"$3,500/mo","2 Beds, 2 Baths","1845 Prince St, Berkeley, CA 94703"
+"$2,000/mo","1 Bed, 1 Bath",Condo for Rent
+"$1,999/mo","1 Bed, 1 Bath","128 Ronada Ave, Piedmont, CA 94611"
+"$2,300/mo","1 Bed, 1 Bath",House for Rent
+"$2,200/mo","1 Bed, 1 Bath","233 Broadway, East Bay, CA 94607"
+"$3,826/mo","2 Beds, 2 Baths",Apartment for Rent
+"$2,700/mo","2 Beds, 1 Bath","402 Euclid Ave, Oakland, CA 94610"
+"$2,495/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,000/mo","2 Beds, 2 Baths","320 Caldecott Ln, Oakland, CA 94618"
+"$4,200/mo","3 Beds, 1 Bath",Condo for Rent
+"$5,995/mo","3 Beds, 2 Baths","8769 Mountain Blvd, Oakland, CA 94605"
+"$3,800/mo","4 Beds, 3 Baths",Apartment for Rent
+"$2,000/mo","Studio, 1 Bath","1166 62nd Street, Oakland, CA 94608"
+"$1,780/mo","1 Bed, 1 Bath",Townhome for Rent
+"$1,750/mo","1 Bed, 1 Bath","5425 Leona St, Oakland, CA 94619"
+"$2,800/mo","1 Bed, 1 Bath",Apartment for Rent
+"$4,500 /mo","3 Beds, 2.5 Baths","551 59th Street, Oakland, CA 94609"
+"$2,950/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,900/mo","1 Bed, 1 Bath","166 Rishell Drive, Oakland, CA 94619"
+"$1,900/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,200/mo","2 Beds, 1 Bath","535 Prince St, Oakland, CA 94610"
+"$3,900/mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$2,495/mo","2 Beds, 1 Bath","694 25th St, Oakland, CA 94612"
+"$2,500/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,075/mo","2 Beds, 1 Bath","840 55th Street, Oakland, CA 94608"
+"$3,200/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,195/mo","1 Bed, 1 Bath","981 41st Street, Oakland, CA 94608"
+"$1,950/mo","1 Bed, 1 Bath",House for Rent
+"$2,825/mo","3 Beds, 1 Bath","1430 74th Ave, Oakland, CA 94621"
+"$2,000/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,895 - 2,485/mo","1-2 Beds, 1-2 Baths","377 38th St AptC, Oakland, CA 94609"
+"$1,750/mo","1 Bed, 1 Bath",Townhome for Rent
+"$1,800/mo","1 Bed, 1 Bath","377 38th St, Oakland, CA 94609"
+"$3,625/mo","3 Beds, 2 Baths",Townhome for Rent
+"$1,500/mo","1 Bed, 1 Bath","6117 Monadnock Way, Oakland, CA 94605"
+"$3,150/mo","2 Beds, 1.5 Baths",Apartment for Rent
+"$2,000/mo","1 Bed, 1 Bath","2213 Curtis St, Oakland, CA 94607"
+"$3,500/mo","3 Beds, 2 Baths",Townhome for Rent
+"$3,350/mo","3 Beds, 1 Bath","3440 64th Avenue Plz, Oakland, CA 94605"
+"$1,700/mo","1 Bed, 1 Bath",Apartment for Rent
+"$4,500/mo","3 Beds, 2 Baths","3342 Grand Ave, Oakland, CA 94610"
+"$2,795/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,300/mo","3 Beds, 2 Baths","624 Oak St, Oakland, CA 94607"
+"$3,400/mo","2 Beds, 2 Baths",Apartment for Rent
+"$1,800/mo","Studio, 1 Bath","525 Prince St, Oakland, CA 94610"
+"$2,790/mo","2 Beds, 1 Bath",Condo for Rent
+"$1,995/mo","1 Bed, 1 Bath","4844 Daisy St, Oakland, CA 94619"
+"$1,450 /mo","Studio, 1 Bath",Apartment for Rent
+"$2,295/mo","1 Bed, 1 Bath","411 Stoneford Ave, Oakland, CA 94603"
+"$3,200/mo","2 Beds, 2 Baths",House for Rent
+"$2,350/mo","1 Bed, 1 Bath","85 Vernon St, Oakland, CA 94610"
+"$2,100/mo","1 Bed, 1 Bath",Condo for Rent
+"$4,950 /mo","2 Beds, 1 Bath","288 3rd St, Oakland, CA 94607"
+"$2,000/mo","1 Bed, 1 Bath",Condo for Rent
+"$3,200/mo","2 Beds, 2 Baths","851 Apgar St, Oakland, CA 94608"
+"$2,095/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,000/mo","1 Bed, 1 Bath","4930 Cochrane Ave, Oakland, CA 94618"
+"$2,150/mo","Studio, 1 Bath",Apartment for Rent
+"$2,150/mo","1 Bed, 1 Bath","5607 Broadway, Oakland, CA 94618"
+"$4,650/mo","3 Beds, 1 Bath",House for Rent
+"$2,250/mo","1 Bed, 1 Bath","989 Franklin St, Oakland, CA 94607"
+"$7,600 /mo","3 Beds, 2 Baths",Condo for Rent
+"$2,672/mo","2 Beds, 1 Bath","2005 Pleasant Valley Ave, Oakland, CA 94611"
+"$2,250/mo","Studio, 1 Bath",Condo for Rent
+"$4,800/mo","3 Beds, 2 Baths","666 Oakland Ave, Oakland, CA 94611"
+"$10,050 /mo","6 Beds, 2 Baths",Condo for Rent
+"$11,500 /mo","6 Beds, 5 Baths","55 Fairmount Ave, Oakland, CA 94611"
+"$3,300/mo","2 Beds, 1 Bath",Condo for Rent
+"$2,295/mo","1 Bed, 1 Bath","5958 Harbord Dr, Oakland, CA 94611"
+"$1,850/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,950/mo","2 Beds, 2 Baths","6363 Christie Ave, Emeryville, CA 94608"
+"$1,995/mo","Studio, 1 Bath",Condo for Rent
+"$2,775/mo","1 Bed, 1 Bath","2531 Ridge Rd, Berkeley, CA 94709"
+"$4,800 /mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$2,750/mo","2 Beds, 2 Baths","1219 Parker St, Berkeley, CA 94702"
+"$2,300 - 4,900/mo","Studio - 2 Beds, 1 Bath",Apartment for Rent
+"$5,400 /mo","3 Beds, 2 Baths","2706 Channing Way, Berkeley, CA 94704"
+"$2,500/mo","2 Beds, 1 Bath",House for Rent
+"$2,700/mo","1 Bed, 1 Bath","2312 Bonar St, Berkeley, CA 94702"
+"$2,900/mo","2 Beds, 2 Baths",Apartment for Rent
+"$2,800/mo","2 Beds, 1 Bath","1285 62nd St, Emeryville, CA 94608"
+"$2,500/mo","3 Beds, 1 Bath",Apartment for Rent
+"$2,195/mo","1 Bed, 1 Bath","2573 Virginia St, Berkeley, CA 94709"
+"$2,400/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,140/mo","Studio, 1 Bath","2310 Haste St, Berkeley, CA 94704"
+"$2,800/mo","1 Bed, 1 Bath",House for Rent
+"$2,800 /mo","3 Beds, 2 Baths","891 Linwood Way, San Leandro, CA 94577"
+"$2,650/mo","3 Beds, 2 Baths",House for Rent
+"$2,875/mo","2 Beds, 1.5 Baths","1237 Campbell St, Oakland, CA 94607"
+"$1,895/mo","2 Beds, 1 Bath",Condo for Rent
+"$2,998/mo","1 Bed, 1 Bath","1509 Chestnut St, Oakland, CA 94607"
+"$5,900/mo","2 Beds, 2 Baths",Townhouse for Rent
+"$2,700/mo","2 Beds, 2 Baths","2131 West St, Oakland, CA 94612"
+"$3,200/mo","2 Beds, 1 Bath",Condo for Rent
+"$2,650/mo","2 Beds, 1 Bath","1 Lakeside Dr, Oakland, CA 94612"
+"$2,850/mo","1 Bed, 1 Bath",Condo for Rent
+"$4,995/mo","4 Beds, 2 Baths","320 Lee St, Oakland, CA 94610"
+"$2,700/mo","3 Beds, 1.5 Baths",Condo for Rent
+"$3,000/mo","2 Beds, 1 Bath","370 Grand Ave, Oakland, CA 94610"
+"$2,900/mo","1 Bed, 1.5 Baths",Apartment for Rent
+"$2,750/mo","2 Beds, 1 Bath","133 Catron Dr, Oakland, CA 94603"
+"$4,350/mo","3 Beds, 2 Baths",Condo for Rent
+"$3,300/mo","2 Beds, 2 Baths","2401 Scenic Ave, Oakland, CA 94602"
+"$2,100/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$2,095 /mo","2 Beds, 1 Bath","311 Oak St, Oakland, CA 94607"
+"$2,990/mo","2 Beds, 1 Bath",Condo for Rent
+"$2,950/mo","2 Beds, 2 Baths","566 53rd St, Oakland, CA 94609"
+"$2,995/mo","2 Beds, 2 Baths",Apartment for Rent
+"$3,995 /mo","4 Beds, 2 Baths","1128 16th St, Oakland, CA 94607"
+"$1,750/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$2,499/mo","3 Beds, 2 Baths","424 Orange St, Oakland, CA 94610"
+"$2,100/mo","2 Beds, 1 Bath",Condo for Rent
+"$2,095/mo","1 Bed, 1 Bath","850 W Grand Ave, Oakland, CA 94607"
+"$2,000/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,150/mo","2 Beds, 1.5 Baths","5478 Vicente Way, Oakland, CA 94609"
+"$3,300/mo","2 Beds, 2 Baths",Condo for Rent
+"$1,699/mo","1 Bed, 1 Bath","438 W Grand Ave, Oakland, CA 94612"
+"$3,200/mo","3 Beds, 2 Baths",Condo for Rent
+"$3,750/mo","3 Beds, 2.5 Baths","66 Fairmount Ave, Oakland, CA 94611"
+"$5,695 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,995/mo","1 Bed, 1 Bath","5 Embarcadero, Oakland, CA 94607"
+"$8,500 /mo","4 Beds, 3 Baths",Condo for Rent
+"$3,600/mo","3 Beds, 2 Baths","836 52nd St, Oakland, CA 94608"
+"$2,095/mo","1 Bed, 1 Bath",House for Rent
+"$2,000/mo","2 Beds, 1 Bath","9690 Elmview Dr, Oakland, CA 94603"
+"$2,200/mo","3 Beds, 1 Bath",Townhouse for Rent
+"$1,575/mo","1 Bed, 1 Bath","2934 Ford St, Oakland, CA 94601"
+"$2,300/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,500/mo","1 Bed, 1 Bath","845 Apgar St, Oakland, CA 94608"
+"$2,990 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,895/mo","2 Beds, 1 Bath","427 Wayne Ave, Oakland, CA 94606"
+"$4,995/mo","4 Beds, 2 Baths",Apartment for Rent
+"$2,995/mo","3 Beds, 1 Bath","710 Henry St, Oakland, CA 94607"
+"$2,950/mo","1 Bed, 1 Bath",House for Rent
+"$1,920/mo","1 Bed, 1 Bath","1928 36th Ave, Oakland, CA 94601"
+"$3,100/mo","2 Beds, 2 Baths",Apartment for Rent
+"$2,395/mo","2 Beds, 1 Bath","560 53rd St, Oakland, CA 94609"
+"$2,000/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,675/mo","1 Bed, 1 Bath","566 53rd St, Oakland, CA 94609"
+"$1,750/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,295 - 2,995/mo","1-2 Beds, 1-2 Baths","311 Oak St, Oakland, CA 94607"
+"$1,700/mo","Studio, 1 Bath",Apartment for Rent
+"$4,995 /mo","3 Beds, 1 Bath","3924 Clarke St, Oakland, CA 94609"
+"$1,500/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,550/mo","2 Beds, 2 Baths","1563 Chandler St, Oakland, CA 94603"
+"$4,200/mo","3 Beds, 2.5 Baths",Townhouse for Rent
+"$5,500 /mo","3 Beds, 3 Baths","1120 Norwood Ave, Oakland, CA 94610"
+"$2,000/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,500/mo","3 Beds, 2 Baths","323 E 15th St, Oakland, CA 94606"
+"$2,975/mo","3 Beds, 2 Baths",Apartment for Rent
+"$3,400/mo","2 Beds, 3 Baths","1018 4th Ave, Oakland, CA 94606"
+"$2,885 /mo","2 Beds, 1 Bath",Condo for Rent
+"$2,050/mo","1 Bed, 1 Bath","984 54th St, Oakland, CA 94608"
+"$1,495/mo","1 Bed, 1 Bath",Apartment for Rent
+"$5,400/mo","3 Beds, 2.5 Baths","988 56th St, Oakland, CA 94608"
+"$2,650/mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,895/mo","2 Beds, 1 Bath","2445 Harrington Ave, Oakland, CA 94601"
+"$3,200/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,100/mo","2 Beds, 1 Bath","407 Avon St, Oakland, CA 94618"
+"$4,295/mo","4 Beds, 2 Baths",House for Rent
+"$3,995 /mo","4 Beds, 2 Baths","1611 103rd Ave, Oakland, CA 94603"
+"$6,995 /mo","4 Beds, 2.5 Baths",Apartment for Rent
+"$2,500/mo","2 Beds, 1.5 Baths","2508 Linden St, Oakland, CA 94607"
+"$2,199/mo","2 Beds, 1.5 Baths",Apartment for Rent
+"$1,799/mo","1 Bed, 1 Bath","1521 Pullman Way, Oakland, CA 94607"
+"$3,950/mo","2 Beds, 1.5 Baths",Townhouse for Rent
+"$2,395/mo","1 Bed, 1 Bath","1124 Norwood Ave, Oakland, CA 94610"
+"$2,250/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,875 /mo","2 Beds, 1 Bath","555 Jean St, Oakland, CA 94610"
+"$1,800 - 1,900/mo","1-2 Beds, 1 Bath",Condo for Rent
+"$3,500/mo","2 Beds, 2 Baths","415 Ashton Ave, Oakland, CA 94603"
+"$4,800 /mo","2 Beds, 1.5 Baths",House for Rent
+"$2,995/mo","2 Beds, 1 Bath","1326 E 28th St, Oakland, CA 94606"
+"$2,750/mo","3 Beds, 1 Bath",Apartment for Rent
+"$3,200/mo","2 Beds, 2 Baths","311 2nd St, Oakland, CA 94607"
+"$2,095 - 2,750/mo","1-2 Beds, 1-2 Baths",Condo for Rent
+"$2,575/mo","2 Beds, 2 Baths","5119 Desmond St, Oakland, CA 94618"
+"$3,125/mo","2 Beds, 2 Baths",House for Rent
+"$2,700 /mo","3 Beds, 2 Baths","277 Athol Ave, Oakland, CA 94606"
+"$2,600/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,195/mo","1 Bed, 1 Bath","1416 Linden St, Oakland, CA 94607"
+"$2,400/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,350/mo","1 Bed, 1 Bath","1500 Market St, Oakland, CA 94607"
+"$1,595/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,595/mo","1 Bed, 1 Bath","328 45th St, Oakland, CA 94609"
+"$1,900/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,695/mo","2 Beds, 1 Bath","328 Wayne Ave, Oakland, CA 94606"
+"$3,400/mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,990/mo","2 Beds, 1 Bath","280 Caldecott Ln, Oakland, CA 94618"
+"$6,000 /mo","3 Beds, 2.5 Baths",Condo for Rent
+"$1,895/mo","2 Beds, 1 Bath","881 21st St, Oakland, CA 94607"
+"$2,400 - 3,200/mo","2-3 Beds, 1-2 Baths",House for Rent
+"$3,300/mo","2 Beds, 1.5 Baths","1327 93rd Ave, Oakland, CA 94603"
+"$4,700 /mo","2 Beds, 1 Bath",Townhouse for Rent
+"$2,725/mo","2 Beds, 1 Bath","989 Franklin St, Oakland, CA 94607"
+"$5,150/mo","3 Beds, 2 Baths",Condo for Rent
+"$7,395/mo","5 Beds, 4 Baths","585 9th St, Oakland, CA 94607"
+"$2,900/mo","1 Bed, 1 Bath",Condo for Rent
+"$3,600 /mo","2 Beds, 1 Bath","655 Beacon St, Oakland, CA 94610"
+"$4,100/mo","2 Beds, 2.5 Baths",Apartment for Rent
+"$9,500/mo","5 Beds, 3 Baths","4222 Carrington St, Oakland, CA 94601"
+"$3,395/mo","3 Beds, 2 Baths",Townhouse for Rent
+"$4,600/mo","2 Beds, 1 Bath","4224 Carrington St, Oakland, CA 94601"
+"$2,900/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$3,050/mo","3 Beds, 2 Baths","1940 E 17th St, Oakland, CA 94606"
+"$6,395 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,200/mo","2 Beds, 1 Bath","2021 Blake St, Berkeley, CA 94704"
+"$4,450 /mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,095/mo","1 Bed, 1 Bath","35 Ramona Ave, Piedmont, CA 94611"
+"$8,990/mo","5 Beds, 2 Baths",House for Rent
+"$5,990/mo","3 Beds, 1 Bath","771 Kingston Ave, Piedmont, CA 94611"
+"$3,300/mo","2 Beds, 2 Baths",Condo for Rent
+"$2,495 - 3,800/mo","1-2 Beds, 1-2 Baths","2716 Durant Ave, Berkeley, CA 94704"
+"$5,700 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,300/mo","2 Beds, 1 Bath","2718 Durant Ave, Berkeley, CA 94704"
+"$5,500 /mo","4 Beds, 2.5 Baths",Apartment for Rent
+"$2,600/mo","1 Bed, 1 Bath","6363 Christie Ave, Emeryville, CA 94608"
+"$2,400/mo","2 Beds, 1.5 Baths",Condo for Rent
+"$3,700/mo","2 Beds, 1 Bath","6363 Christie Ave, Emeryville, CA 94608"
+"$3,100 /mo","3 Beds, 2 Baths",Condo for Rent
+"$2,100/mo","1 Bed, 1 Bath","1834 Trestle Glen Rd, Piedmont, CA 94610"
+"$2,275/mo","1 Bed, 1 Bath",House for Rent
+"$2,845/mo","2 Beds, 1 Bath","1621 Broadway, Alameda, CA 94501"
+"$2,200/mo","2 Beds, 1 Bath",Apartment for Rent
+"$11,900 /mo","5 Beds, 3 Baths","8 Ferro Ct, Alameda, CA 94502"
+"$3,800 /mo","3 Beds, 2 Baths",House for Rent
+"$6,000/mo","3 Beds, 1 Bath","5 Admiral Dr, Emeryville, CA 94608"
+"$3,600 /mo","2 Beds, 1 Bath",Condo for Rent
+"$6,850 /mo","2 Beds, 1.5 Baths","1400 Carpentier St, San Leandro, CA 94577"
+"$18,500 /mo","8 Beds, 8 Baths",Condo for Rent
+"$3,600/mo","2 Beds, 2 Baths","1272 65th St, Berkeley, CA 94702"
+"$1,800/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$4,700 /mo","2 Beds, 1 Bath","1180 Regent St, Alameda, CA 94501"
+"$4,800/mo","3 Beds, 2.5 Baths",House for Rent
+"$2,085/mo","1 Bed, 1 Bath","1121 40th St, Emeryville, CA 94608"
+"$2,095 /mo","Studio, 1 Bath",Condo for Rent
+"$2,650 /mo","2 Beds, 1 Bath","1613 62nd St, Berkeley, CA 94703"
+"$2,250/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,700 /mo","3 Beds, 1 Bath","1611 62nd St, Berkeley, CA 94703"
+"$2,000 /mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,500/mo","2 Beds, 2 Baths","1616 Ward St, Berkeley, CA 94703"
+"$2,998/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,400/mo","1 Bed, 1 Bath","2125 Parker St, Berkeley, CA 94704"
+"$4,200 /mo","2 Beds, 2 Baths",House for Rent
+"$2,290 /mo","3 Beds, 1 Bath","1028 Pacific Ave, Alameda, CA 94501"
+"$5,600 /mo","5 Beds, 4 Baths",House for Rent
+"$2,850 /mo","2 Beds, 2 Baths","1651 78th Ave, Oakland, CA 94621"
+"$3,800 /mo","4 Beds, 3 Baths",House for Rent
+"$3,200/mo","2 Beds, 2 Baths","2112 90th Ave, Oakland, CA 94603"
+"$2,800 /mo","2 Beds, 2 Baths",House for Rent
+"$4,294 /mo","4 Beds, 2 Baths","280 Caldecott Ln, Oakland, CA 94618"
+"$4,895 /mo","3 Beds, 1.5 Baths",Condo for Rent
+"$3,800 /mo","3 Beds, 2 Baths","655 12th St, Oakland, CA 94607"
+"$2,700/mo","2 Beds, 2 Baths",House for Rent
+"$1,725 /mo","Studio, 1 Bath","3216 35th Ave, Oakland, CA 94619"
+"$3,038/mo","2 Beds, 2 Baths",House for Rent
+"$3,950/mo","3 Beds, 1 Bath","4200 Glen Ave, Oakland, CA 94611"
+"$2,995 /mo","3 Beds, 1 Bath",House for Rent
+"$2,875 /mo","2 Beds, 1 Bath","4071 Waterhouse Rd, Oakland, CA 94602"
+"$3,300 /mo","3 Beds, 2 Baths",House for Rent
+"$3,500/mo","2 Beds, 2 Baths","555 10th St, Oakland, CA 94607"
+"$2,100/mo","2 Beds, 1 Bath",Condo for Rent
+"$2,290/mo","2 Beds, 1 Bath","2351 Bartlett St, Oakland, CA 94601"
+"$2,500/mo","3 Beds, 1 Bath",House for Rent
+"$4,500 /mo","3 Beds, 2 Baths","1563 Chandler St, Oakland, CA 94603"
+"$2,600/mo","2 Beds, 1 Bath",Townhouse for Rent
+"$2,650/mo","2 Beds, 1 Bath","1005 54th St, Oakland, CA 94608"
+"$2,695/mo","2 Beds, 1 Bath",Townhouse for Rent
+"$2,500/mo","2 Beds, 2 Baths","1036 59th St, Oakland, CA 94608"
+"$5,600/mo","3 Beds, 3 Baths",House for Rent
+"$2,950/mo","2 Beds, 2 Baths","343 Perkins St, Oakland, CA 94610"
+"$3,390 /mo","3 Beds, 2 Baths",House for Rent
+"$2,850 /mo","2 Beds, 2 Baths","569 59th St, Oakland, CA 94609"
+"$3,195 /mo","1 Bed, 1.5 Baths",House for Rent
+"$3,900/mo","3 Beds, 3.25 Baths","2875 Glascock St, Oakland, CA 94601"
+"$3,500 /mo","2 Beds, 2 Baths",Condo for Rent
+"$3,950/mo","3 Beds, 1 Bath","2105 88th Ave, Oakland, CA 94621"
+"$3,550 /mo","4 Beds, 3.5 Baths",Apartment for Rent
+"$2,895 /mo","3 Beds, 2 Baths","656 39th St, Oakland, CA 94609"
+"$1,700/mo","Studio, 1 Bath",Apartment for Rent
+"$2,600/mo","2 Beds, 1.5 Baths","1733 Foothill Blvd, Oakland, CA 94606"
+"$3,495 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$5,695 /mo","3 Beds, 3 Baths","4707 Dunkirk Ave, Oakland, CA 94605"
+"$3,700 /mo","2 Beds, 1 Bath",House for Rent
+"$3,300/mo","2 Beds, 2 Baths","481 36th St, Oakland, CA 94609"
+"$2,850/mo","2 Beds, 2 Baths",Condo for Rent
+"$2,000/mo","1 Bed, 1 Bath","1160 98th Ave, Oakland, CA 94603"
+"$2,800/mo","3 Beds, 2 Baths",Townhouse for Rent
+"$1,600/mo","1 Bed, 1 Bath","3117 Minna Ave, Oakland, CA 94619"
+"$2,300/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,500/mo","2 Beds, 1 Bath","818 27th St, Oakland, CA 94607"
+"$1,850 /mo","1 Bed, 1 Bath",Condo for Rent
+"$2,300/mo","2 Beds, 1 Bath","360 Vernon St, Oakland, CA 94610"
+"$1,485 /mo","Studio, 1 Bath",Condo for Rent
+"$2,200 /mo","1 Bed, 1 Bath","127 Bayo Vista Ave, Oakland, CA 94611"
+"$2,995 /mo","2 Beds, 2.5 Baths",Condo for Rent
+"$2,995 /mo","2 Beds, 2 Baths","567 Oakland Ave, Oakland, CA 94611"
+"$7,500 /mo","3 Beds, 2 Baths",House for Rent
+"$2,095 /mo","1 Bed, 1 Bath","3751 Harrison St, Oakland, CA 94611"
+"$3,895 /mo","3 Beds, 2 Baths",Condo for Rent
+"$5,300 /mo","3 Beds, 2 Baths","556 Stoneford Ave, Oakland, CA 94603"
+"$2,400/mo","2 Beds, 1 Bath",House for Rent
+"$2,583/mo","2 Beds, 2 Baths","986 57th St, Oakland, CA 94608"
+"$3,300 /mo","2 Beds, 1 Bath",House for Rent
+"$1,850/mo","2 Beds, 1 Bath","902 Zephyr Dr, Oakland, CA 94607"
+"$5,995/mo","3 Beds, 2.5 Baths",House for Rent
+"$3,395/mo","3 Beds, 2.5 Baths","1511 Jefferson St, Oakland, CA 94612"
+"$1,800/mo","1 Bed, 1 Bath",House for Rent
+"$1,695/mo","1 Bed, 1 Bath","80 Sheridan Rd, Oakland, CA 94618"
+"$3,495 /mo","4 Beds, 2 Baths",House for Rent
+"$1,731/mo","1 Bed, 1 Bath","520 49th St, Oakland, CA 94609"
+"$2,299/mo","2 Beds, 1 Bath",House for Rent
+"$1,875 /mo","1 Bed, 1 Bath","6251 Brookside Ave, Oakland, CA 94618"
+"$5,500 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,550 /mo","1 Bed, 1 Bath","6891 Exeter Dr, Oakland, CA 94611"
+"$1,700/mo","1 Bed, 2 Baths",House for Rent
+"$2,050/mo","1 Bed, 1 Bath","6971 Krause Ave, Oakland, CA 94605"
+"$2,750/mo","3 Beds, 1.5 Baths",Condo for Rent
+"$2,250/mo","2 Beds, 1 Bath","350 Perkins St, Oakland, CA 94610"
+"$8,500 /mo","4 Beds, 4 Baths",Townhouse for Rent
+"$2,200/mo","2 Beds, 1 Bath","3611 Harbor View Ave, Oakland, CA 94619"
+"$2,700/mo","2 Beds, 2 Baths",House for Rent
+"$2,700/mo","3 Beds, 2 Baths","4108 International Blvd, Oakland, CA 94601"
+"$1,900 /mo","1 Bed, 1 Bath",Condo for Rent
+"$6,500 /mo","4 Beds, 2.5 Baths","565 Crofton Ave, Oakland, CA 94610"
+"$2,700 /mo","2 Beds, 1 Bath",Condo for Rent
+"$2,595/mo","1 Bed, 1 Bath","1 Lakeside Dr, Oakland, CA 94612"
+"$2,095 /mo","1 Bed, 1 Bath",Condo for Rent
+"$1,795/mo","1 Bed, 1 Bath","3 Embarcadero West, Oakland, CA 94607"
+"$2,850/mo","2 Beds, 2 Baths",House for Rent
+"$6,999 /mo","5 Beds, 3.25 Baths","5742 Kingsley Cir, Oakland, CA 94605"
+"$3,900 /mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,095/mo","2 Beds, 1 Bath","8683 Mountain Blvd, Oakland, CA 94605"
+"$1,877/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$2,795/mo","2 Beds, 1 Bath","2207 E 21st St, Oakland, CA 94606"
+"$1,306/mo","Studio, 1 Bath",House for Rent
+"$1,241/mo","Studio, 1 Bath","3812 Fruitvale Ave, Oakland, CA 94602"
+"$2,695/mo","3 Beds, 1 Bath",House for Rent
+"$2,645/mo","2 Beds, 1 Bath","29 Deering Ct, Oakland, CA 94601"
+"$3,500 /mo","3 Beds, 3 Baths",Apartment for Rent
+"$6,000 /mo","4 Beds, 3 Baths","1644 47th Ave, Oakland, CA 94601"
+"$1,850 /mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,750 /mo","3 Beds, 2 Baths","782 61st St, Oakland, CA 94609"
+"$2,869/mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$3,295/mo","3 Beds, 2.5 Baths","617 27th St, Oakland, CA 94612"
+"$2,395/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,300/mo","3 Beds, 1.5 Baths","609 27th St, Oakland, CA 94612"
+"$1,600/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,800/mo","3 Beds, 1 Bath","2832 Summit St, Oakland, CA 94609"
+"$2,095 /mo","2 Beds, 1 Bath",Condo for Rent
+"$1,895/mo","1 Bed, 1 Bath","859 52nd St, Oakland, CA 94608"
+"$2,800/mo","2 Beds, 2 Baths",Condo for Rent
+"$2,200/mo","2 Beds, 1 Bath","701 45th St, Oakland, CA 94609"
+"$1,356/mo","Studio, 1 Bath",House for Rent
+"$1,448/mo","Studio, 1 Bath","2727 Park Blvd, Oakland, CA 94606"
+"$1,413/mo","Studio, 1 Bath",House for Rent
+"$2,383/mo","1 Bed, 1 Bath","3433 Wilson Ave, Oakland, CA 94602"
+"$2,495/mo","2 Beds, 1 Bath",House for Rent
+"$1,495 /mo","1 Bed, 1 Bath","10620 Stella St, Oakland, CA 94605"
+"$3,300 /mo","2 Beds, 1 Bath",House for Rent
+"$1,995/mo","1 Bed, 1 Bath","1425 38th Ave, Oakland, CA 94601"
+"$1,380/mo","Studio, 1 Bath",Apartment for Rent
+"$1,438/mo","Studio, 1 Bath","3616 Brookdale Ave, Oakland, CA 94619"
+"$4,000 /mo","2 Beds, 1 Bath",Condo for Rent
+"$2,550/mo","2 Beds, 2 Baths","2462 Taylor Ave, Oakland, CA 94605"
+"$2,950/mo","3 Beds, 1 Bath",Condo for Rent
+"$1,413/mo","Studio, 1 Bath","1719 Mandela Pkwy, Oakland, CA 94607"
+"$2,995 /mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,000 /mo","1 Bed, 1 Bath","5753 Chelton Dr, Oakland, CA 94611"
+"$3,645 /mo","2 Beds, 2 Baths",House for Rent
+"$5,895 /mo","7 Beds, 3 Baths","722 54th St, Oakland, CA 94609"
+"$1,438/mo","Studio, 1 Bath",House for Rent
+"$1,970/mo","1 Bed, 1 Bath","4028 Norton Ave, Oakland, CA 94602"
+"$3,199 /mo","3 Beds, 2 Baths",House for Rent
+"$1,154/mo","Studio, 1 Bath","960 61st St, Oakland, CA 94608"
+"$3,050 /mo","2 Beds, 1 Bath",House for Rent
+"$3,795 /mo","3 Beds, 1 Bath","2262 Magnolia St, Oakland, CA 94607"
+"$2,200/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,699 /mo","2 Beds, 1 Bath","465 Bellevue Ave, Oakland, CA 94610"
+"$1,629/mo","Studio, 1 Bath",Apartment for Rent
+"$3,600 /mo","2 Beds, 2 Baths","2656 68th Ave, Oakland, CA 94605"
+"$2,612/mo","3 Beds, 1 Bath",House for Rent
+"$2,695/mo","2 Beds, 1.5 Baths","4701 Fair Ave, Oakland, CA 94619"
+"$3,995 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$4,190/mo","2 Beds, 2 Baths","5201 Market St, Oakland, CA 94608"
+"$2,800 /mo","2 Beds, 2 Baths",House for Rent

@@ -1,0 +1,426 @@
+price,rooms,address
+"$999 - 1,893",1-3 Beds,"6800 Brendon Way W Dr, Indianapolis, IN 46226"
+"$974 - 3,499",1-3 Beds,"7745 Solana Dr, Indianapolis, IN 46240"
+"$1,195 - 3,275",1-3 Beds,"335 W 9th St, Indianapolis, IN 46202"
+"$1,050 - 1,600",1-2 Beds,"8850 Riverbend Pky, Indianapolis, IN 46250"
+"$725 - 1,525",Studio - 2 Beds,"7601 Carlton Arms Dr, Indianapolis, IN 46256"
+"$1,699 - 3,929",1-3 Beds,"50 N Illinois St, Indianapolis, IN 46204"
+"$1,275 - 1,815",1-2 Beds,"3914 Lake Clearwater Pl, Indianapolis, IN 46240"
+"$845 - 2,650",Studio - 3 Beds,"6000 Westlake Dr, Indianapolis, IN 46224"
+"$793 - 1,756",1-3 Beds,"5301 S Turtle Creek South Dr, Indianapolis, IN 46227"
+"$799 - 1,499",Studio - 3 Beds,"7171 Twin Oaks Dr, Indianapolis, IN 46226"
+"$1,587 - 3,224",Studio - 3 Beds,"5858 N College Ave, Indianapolis, IN 46220"
+"$1,353 - 4,520",Studio - 2 Beds,"421 N Pennsylvania St, Indianapolis, IN 46204"
+"$775 - 1,630",Studio - 3 Beds,"3645 Wingate Ct, Indianapolis, IN 46235"
+"$1,389 - 2,099",2-3 Beds,"832 Park Central Ct, Indianapolis, IN 46260"
+"$1,299 - 2,799",1-3 Beds,"5000 Bennett Pky, Zionsville, IN 46077"
+"$1,179 - 1,650",1-3 Beds,"3717 Piermont Dr, Indianapolis, IN 46227"
+"$1,059 - 1,489",1-3 Beds,"6789 S East St, Indianapolis, IN 46227"
+"$1,115 - 1,985",1-3 Beds,"7202 Winslet Blvd, Indianapolis, IN 46217"
+"$920 - 1,225",1-2 Beds,"3543 Idlewood Ter, Indianapolis, IN 46214"
+"$999 - 2,329",1-3 Beds,"811 Antique Ct, Indianapolis, IN 46260"
+"$950 - 1,650",1-4 Beds,"11415 Knollridge Ln, Indianapolis, IN 46229"
+"$1,298 - 2,530",Studio - 2 Beds,"2727 E 86th St, Indianapolis, IN 46240"
+"$965 - 1,495",1-3 Beds,"6363 Commons Dr, Indianapolis, IN 46254"
+"$974 - 1,409",1-2 Beds,"9301 Yale Dr, Indianapolis, IN 46240"
+"$1,600",1-3 Beds,"8740 Arborway Ct, Indianapolis, IN 46268"
+"$1,650 - 1,850",2-3 Beds,"5500 S Emerson Ave, Indianapolis, IN 46237"
+"$1,029 - 1,710",1-2 Beds,"9075 Autumn Woods Dr, Indianapolis, IN 46250"
+"$1,045 - 1,570",1-2 Beds,"7135 Thatcher Dr, Indianapolis, IN 46256"
+"$949 - 1,739",1-3 Beds,"9250 Kungsholm Dr, Indianapolis, IN 46250"
+"$1,595 - 1,995",2-3 Beds,"412 E County Line Rd, Indianapolis, IN 46227"
+"$1,225 - 2,386",Studio - 3 Beds,"617 N College, Indianapolis, IN 46204"
+"$1,270 - 1,835",1-3 Beds,"5702 Castle Hill Dr, Indianapolis, IN 46250"
+"$1,354 - 1,479",2 Beds,"5707 A Ivy Knoll Dr, Indianapolis, IN 46250"
+"$900 - 1,100",1-2 Beds,"8020 Madison Ave, Indianapolis, IN 46227"
+"$999 - 1,550",1-3 Beds,"6111 Allisonville Rd, Indianapolis, IN 46220"
+"$810 - 1,570",Studio - 3 Beds,"7344 Meridian Hills Ct, Indianapolis, IN 46260"
+"$1,070 - 1,400",1-2 Beds,"6650 Creek Bay Dr, Indianapolis, IN 46217"
+"$1,099 - 2,267",Studio - 2 Beds,"359 N West St, Indianapolis, IN 46202"
+"$760 - 1,115",1-2 Beds,"2629 Plaza Dr, Indianapolis, IN 46268"
+"$650 - 1,500",Studio - 4 Beds,"3800 W Michigan St, Indianapolis, IN 46222"
+"$999 - 1,893",1-3 Beds,"6800 Brendon Way W Dr, Indianapolis, IN 46226"
+"$974 - 3,499",1-3 Beds,"7745 Solana Dr, Indianapolis, IN 46240"
+"$1,195 - 3,275",1-3 Beds,"335 W 9th St, Indianapolis, IN 46202"
+"$1,050 - 1,600",1-2 Beds,"8850 Riverbend Pky, Indianapolis, IN 46250"
+"$725 - 1,525",Studio - 2 Beds,"7601 Carlton Arms Dr, Indianapolis, IN 46256"
+"$1,699 - 3,929",1-3 Beds,"50 N Illinois St, Indianapolis, IN 46204"
+"$1,275 - 1,815",1-2 Beds,"3914 Lake Clearwater Pl, Indianapolis, IN 46240"
+"$845 - 2,650",Studio - 3 Beds,"6000 Westlake Dr, Indianapolis, IN 46224"
+"$793 - 1,756",1-3 Beds,"5301 S Turtle Creek South Dr, Indianapolis, IN 46227"
+"$799 - 1,499",Studio - 3 Beds,"7171 Twin Oaks Dr, Indianapolis, IN 46226"
+"$1,587 - 3,224",Studio - 3 Beds,"5858 N College Ave, Indianapolis, IN 46220"
+"$1,353 - 4,520",Studio - 2 Beds,"421 N Pennsylvania St, Indianapolis, IN 46204"
+"$775 - 1,630",Studio - 3 Beds,"3645 Wingate Ct, Indianapolis, IN 46235"
+"$1,389 - 2,099",2-3 Beds,"832 Park Central Ct, Indianapolis, IN 46260"
+"$1,299 - 2,799",1-3 Beds,"5000 Bennett Pky, Zionsville, IN 46077"
+"$1,179 - 1,650",1-3 Beds,"3717 Piermont Dr, Indianapolis, IN 46227"
+"$1,059 - 1,489",1-3 Beds,"6789 S East St, Indianapolis, IN 46227"
+"$1,115 - 1,985",1-3 Beds,"7202 Winslet Blvd, Indianapolis, IN 46217"
+"$920 - 1,225",1-2 Beds,"3543 Idlewood Ter, Indianapolis, IN 46214"
+"$999 - 2,329",1-3 Beds,"811 Antique Ct, Indianapolis, IN 46260"
+"$950 - 1,650",1-4 Beds,"11415 Knollridge Ln, Indianapolis, IN 46229"
+"$1,298 - 2,530",Studio - 2 Beds,"2727 E 86th St, Indianapolis, IN 46240"
+"$965 - 1,495",1-3 Beds,"6363 Commons Dr, Indianapolis, IN 46254"
+"$974 - 1,409",1-2 Beds,"9301 Yale Dr, Indianapolis, IN 46240"
+"$1,600",1-3 Beds,"8740 Arborway Ct, Indianapolis, IN 46268"
+"$1,650 - 1,850",2-3 Beds,"5500 S Emerson Ave, Indianapolis, IN 46237"
+"$1,029 - 1,710",1-2 Beds,"9075 Autumn Woods Dr, Indianapolis, IN 46250"
+"$1,045 - 1,570",1-2 Beds,"7135 Thatcher Dr, Indianapolis, IN 46256"
+"$949 - 1,739",1-3 Beds,"9250 Kungsholm Dr, Indianapolis, IN 46250"
+"$1,595 - 1,995",2-3 Beds,"412 E County Line Rd, Indianapolis, IN 46227"
+"$1,225 - 2,386",Studio - 3 Beds,"617 N College, Indianapolis, IN 46204"
+"$1,270 - 1,835",1-3 Beds,"5702 Castle Hill Dr, Indianapolis, IN 46250"
+"$1,354 - 1,479",2 Beds,"5707 A Ivy Knoll Dr, Indianapolis, IN 46250"
+"$1,086 - 4,634",Studio - 3 Beds,"451-475 E Market St, Indianapolis, IN 46204"
+"$925 - 1,600",1-3 Beds,"7913 Ella Dobbs Ln, Indianapolis, IN 46227"
+"$869 - 1,758",Studio - 3 Beds,"7999 Silverleaf Dr, Indianapolis, IN 46260"
+"$665 - 1,245",Studio - 2 Beds,"9000 N College Ave, Indianapolis, IN 46240"
+"$1,288 - 1,734",1-2 Beds,"6640 Heron Neck Dr, Indianapolis, IN 46217"
+"$1,040 - 1,430",1-2 Beds,"5200 E Fall Creek Parkway North Dr, Indianapolis, IN 46220"
+"$1,400 - 1,855",1-2 Beds,"2810 Willow Lake Dr, Indianapolis, IN 46268"
+"$925 - 1,475",1-3 Beds,"4901 Whitton Pl, Indianapolis, IN 46220"
+"$1,150 - 1,770",1-3 Beds,"7251 Windsor Lakes Dr, Indianapolis, IN 46237"
+"$1,100 - 2,420",1-4 Beds,"1201 Indiana Ave, Indianapolis, IN 46202"
+"$859 - 1,309",1-2 Beds,"9093 Bourbon St, Indianapolis, IN 46235"
+"$1,090 - 1,685",1-3 Beds,"8281 Clearvista Pky, Indianapolis, IN 46256"
+"$1,049 - 1,459",1-2 Beds,"5483 Holly Springs Dr W, Indianapolis, IN 46254"
+"$900 - 1,400",1-3 Beds,"8002 Harcourt Rd, Indianapolis, IN 46260"
+"$865 - 1,495",1-3 Beds,"7136 Crystal Bay Dr E, Indianapolis, IN 46260"
+"$825 - 1,285",1-2 Beds,"9115 Knights Bridge Blvd, Indianapolis, IN 46240"
+"$835 - 1,525",1-4 Beds,"8201 Madison Ave, Indianapolis, IN 46227"
+"$829 - 1,225",1-2 Beds,"5350 Cider Mill Ln, Indianapolis, IN 46226"
+"$700 - 1,295",1-3 Beds,"4100 Continental Ct, Indianapolis, IN 46227"
+"$778 - 1,242",1-3 Beds,"3451 Sherburne Ln, Indianapolis, IN 46222"
+"$815 - 1,180",1-2 Beds,"4401 S Keystone Ave, Indianapolis, IN 46227"
+"$1,160 - 1,785",1-3 Beds,"1844 Pemberton Ln, Indianapolis, IN 46260"
+"$968 - 1,571",Studio - 3 Beds,"4651 Mimi Dr, Indianapolis, IN 46237"
+"$1,358 - 2,498",Studio - 2 Beds,"310 W Michigan St, Indianapolis, IN 46202"
+"$1,050 - 1,450",1-3 Beds,"1225 W Park Way, Indianapolis, IN 46214"
+"$824 - 1,224",1-3 Beds,"1130 Racquet Club North Dr, Indianapolis, IN 46260"
+"$1,040 - 1,444",1-2 Beds,"8401 Boggs Creek Dr, Indianapolis, IN 46237"
+"$1,299 - 3,299",Studio - 2 Beds,"6349 N College Ave, Indianapolis, IN 46220"
+"$1,400",2 Beds,"4620 Englewood Ave, Indianapolis, IN 46226"
+"$1,680 - 4,530",Studio - 3 Beds,"360 E Market St, Indianapolis, IN 46204"
+"$914 - 1,788",1-4 Beds,"5816 W 38th St, Indianapolis, IN 46254"
+"$1,065 - 2,441",1-2 Beds,"8320 Spyglass Dr, Indianapolis, IN 46260"
+"$1,375 - 3,796",2-3 Beds,"5830 River Wood Dr, Indianapolis, IN 46250"
+"$899 - 1,250",1-2 Beds,"4800 N Post Rd, Indianapolis, IN 46226"
+"$1,056 - 1,304",1-2 Beds,"9535 Benchmark Dr, Indianapolis, IN 46240"
+"$1,190 - 1,930",1-3 Beds,"6909 Murphys Landing Ln, Indianapolis, IN 46217"
+"$1,090 - 2,030",Studio - 3 Beds,"3103 N Meridian St, Indianapolis, IN 46208"
+"$999 - 1,140",Studio - 2 Beds,"3553 Founders Rd, Indianapolis, IN 46268"
+"$910 - 1,539",1-3 Beds,"1451 E Southport Rd, Indianapolis, IN 46227"
+"$840 - 1,657",Studio - 3 Beds,"5303 Rue De Ville, Indianapolis, IN 46220"
+"$940 - 1,075",1-2 Beds,"7007 Deer Path Dr, Indianapolis, IN 46254"
+"$899 - 1,500",1-3 Beds,"6010 W 25th St, Indianapolis, IN 46224"
+"$825 - 1,295",1-3 Beds,"4259 Burkhart Dr, Indianapolis, IN 46227"
+"$759 - 1,647",1-3 Beds,"6495 Piping Rock Ln, Indianapolis, IN 46254"
+"$1,074 - 1,537",1-4 Beds,"625 Belhaven Pl, Indianapolis, IN 46229"
+"$1,285 - 1,550",1-2 Beds,"10435 Cox Pl, Indianapolis, IN 46234"
+"$875 - 3,500",1-4 Beds,"930 W 10th St, Indianapolis, IN 46202"
+"$785 - 1,300",1-3 Beds,"9955 Fulbrook Dr, Indianapolis, IN 46229"
+"$865 - 1,115",Studio - 1 Bed,"1123 N Edmondson Ave, Indianapolis, IN 46219"
+"$1,283 - 1,330",1-4 Beds,"4301 Falcon Creek Blvd, Indianapolis, IN 46254"
+"$840 - 1,750",1-3 Beds,"8444 Rothbury Dr, Indianapolis, IN 46260"
+"$1,239 - 1,718",1-2 Beds,"434 Canal Court South Dr, Indianapolis, IN 46202"
+"$899 - 1,400",1-3 Beds,"9515 Shoreland Ln, Indianapolis, IN 46229"
+"$965 - 1,420",1-3 Beds,"3030 Pebble Point Dr, Indianapolis, IN 46214"
+"$860 - 1,434",Studio - 2 Beds,"9555 International Cir, Indianapolis, IN 46268"
+"$925 - 1,350",1-2 Beds,"3491 Timbersedge Dr, Indianapolis, IN 46222"
+Call for Rent,1-3 Beds,"5302 Woodbrook Dr, Indianapolis, IN 46254"
+"$970 - 1,560",1-3 Beds,"840 Auburn Hill Dr, Indianapolis, IN 46224"
+"$996 - 1,415",1-2 Beds,"5140 Emerson Village Pl, Indianapolis, IN 46237"
+"$979 - 1,414",1-2 Beds,"737 Lockefield Ln, Indianapolis, IN 46202"
+"$695 - 1,195",Studio - 2 Beds,"3749 Willowood Dr, Indianapolis, IN 46235"
+$799 - 899,2 Beds,"7155 E 21st St, Indianapolis, IN 46219"
+$715 - 799,1-2 Beds,"29-49 S Audubon Rd, Indianapolis, IN 46219"
+"$1,120 - 1,950",1-3 Beds,"11345 Arborview Dr, Indianapolis, IN 46236"
+"$1,145 - 2,095",Studio - 2 Beds,"1515 Lewis St, Indianapolis, IN 46202"
+"$1,069 - 1,821",1-4 Beds,"6702 Trunk Way, Indianapolis, IN 46221"
+"$1,595 - 1,785",1-2 Beds,"7889 E 106th St, Fishers, IN 46038"
+"$1,125 - 1,725",1-2 Beds,"7705 Harborside Dr, Camby, IN 46113"
+"$1,135 - 1,410",1-2 Beds,"7357 N Gateway Crossing, Mccordsville, IN 46055"
+"$786 - 1,865",1-2 Beds,"2202 Fair Oaks Dr, Speedway, IN 46224"
+"$964 - 1,595",1-3 Beds,"4880 Willow Glen Dr, Beech Grove, IN 46107"
+"$703 - 1,198",1-2 Beds,"1815 Foyt Dr, Speedway, IN 46224"
+"$1,410 - 1,815",1-3 Beds,"1380 Saylor Dr, Zionsville, IN 46077"
+"$1,216 - 2,045",1-3 Beds,"10531 Kings Row Dr, Avon, IN 46123"
+"$1,230 - 1,659",1-3 Beds,"1971 Carlton Blvd, Avon, IN 46123"
+"$1,645 /mo","3 Beds, 2 Baths","4012 S Mann Rd, Indianapolis, IN 46221"
+"$1,645 /mo","3 Beds, 2.5 Baths","4012 S Mann Rd, Indianapolis, IN 46221"
+"$1,375 /mo","3 Beds, 1.5 Baths","7988 N Michigan Rd, Indianapolis, IN 46268"
+"$1,799 /mo","3 Beds, 2 Baths","7988 N Michigan Rd, Indianapolis, IN 46268"
+"$1,150 /mo","3 Beds, 1 Bath","8026 McFarland Ct, Indianapolis, IN 46227"
+"$1,575 /mo","3 Beds, 2.1 Baths","8026 McFarland Ct, Indianapolis, IN 46227"
+"$1,585 /mo","3 Beds, 2 Baths","6018 N College Ave, Indianapolis, IN 46220"
+"$1,145 /mo","2 Beds, 1 Bath","6018 N College Ave, Indianapolis, IN 46220"
+"$1,495 /mo","3 Beds, 2 Baths","4958 Dawn Dr, Indianapolis, IN 46268"
+"$1,760 /mo","3 Beds, 2.5 Baths","4958 Dawn Dr, Indianapolis, IN 46268"
+"$1,645 /mo","3 Beds, 2.5 Baths","5018 Lemans Dr, Indianapolis, IN 46205"
+"$1,545 /mo","3 Beds, 1 Bath","5018 Lemans Dr, Indianapolis, IN 46205"
+$755 /mo,"1 Bed, 1 Bath","1733 N Meridian St, Indianapolis, IN 46202"
+"$1,615 /mo","3 Beds, 2 Baths","1733 N Meridian St, Indianapolis, IN 46202"
+"$1,545 /mo","3 Beds, 2 Baths","2091 Olivewood Dr, Indianapolis, IN 46219"
+"$1,500/mo","3 Beds, 1.5 Baths","2091 Olivewood Dr, Indianapolis, IN 46219"
+"$2,284/mo","1 Bed, 1 Bath","354 Spicewood Dr, Indianapolis, IN 46227"
+"$1,770 /mo","3 Beds, 2.5 Baths","5013 Clarkson Dr, Indianapolis, IN 46254"
+"$1,825 /mo","4 Beds, 2 Baths",House for Rent
+"$1,680 /mo","3 Beds, 2 Baths","9513 Baker Ct, Indianapolis, IN 46235"
+"$1,800 /mo","4 Beds, 3 Baths",House for Rent
+"$1,725 /mo","4 Beds, 2.5 Baths","5909 Prairie Meadow Dr, Indianapolis, IN 46221"
+"$1,625 /mo","3 Beds, 2 Baths",House for Rent
+"$1,705 /mo","3 Beds, 2 Baths","8832 Hosta Way, Indianapolis, IN 46113"
+"$2,070 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,769 /mo","3 Beds, 2 Baths","8307 Autumn Mill Ct, Indianapolis, IN 46256"
+"$1,699 /mo","3 Beds, 2 Baths",House for Rent
+$650 /mo,"1 Bed, 1 Bath","942 Delray Dr, Indianapolis, IN 46241"
+"$1,400 /mo","3 Beds, 2 Baths",House for Rent
+"$1,670 /mo","4 Beds, 2 Baths","6701 Ossington Dr, Indianapolis, IN 46254"
+"$1,849 /mo","4 Beds, 2 Baths",House for Rent
+"$1,675 /mo","3 Beds, 2 Baths","3052 Danube Way, Indianapolis, IN 46239"
+"$1,540 /mo","3 Beds, 2 Baths",House for Rent
+"$1,729 /mo","3 Beds, 2 Baths","4244 Village Trace Dr, Indianapolis, IN 46254"
+"$1,925 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,300 /mo","4 Beds, 2.5 Baths","2340 Rolling Oak Dr, Indianapolis, IN 46214"
+$950 /mo,"2 Beds, 1.5 Baths",House for Rent
+"$2,510 /mo","3 Beds, 2.5 Baths","3621 Salem St, Indianapolis, IN 46208"
+"$1,585 /mo","4 Beds, 1 Bath",House for Rent
+"$1,655 /mo","3 Beds, 2.5 Baths","4225 N College Ave, Indianapolis, IN 46205"
+"$1,465 /mo","2 Beds, 1 Bath",House for Rent
+"$2,145 /mo","4 Beds, 2.5 Baths","2946 Greenview Way, Indianapolis, IN 46229"
+"$1,655 /mo","4 Beds, 2 Baths",House for Rent
+"$1,650 /mo","3 Beds, 2 Baths","2512 Calabash Dr, Indianapolis, IN 46217"
+"$1,595 /mo","3 Beds, 1 Bath",House for Rent
+"$1,295 /mo","3 Beds, 1 Bath","5124 Rocky Forge Dr, Indianapolis, IN 46221"
+"$2,395 /mo","3 Beds, 2 Baths",House for Rent
+"$1,989 /mo","4 Beds, 3 Baths","222 Richie Ave, Indianapolis, IN 46234"
+"$1,689 /mo","3 Beds, 2 Baths",House for Rent
+"$1,715 /mo","3 Beds, 2 Baths","6001 Liverpool Ln, Indianapolis, IN 46236"
+"$1,525 /mo","3 Beds, 2 Baths",House for Rent
+"$2,070 /mo","4 Beds, 2.5 Baths","7654 Geist Estates Cir, Indianapolis, IN 46236"
+"$1,250 /mo","3 Beds, 1 Bath",House for Rent
+$900/mo,"1 Bed, 1 Bath","6522 McCreery Ct, Indianapolis, IN 46221"
+"$1,745/mo","Studio, 1 Bath",House for Rent
+"$1,820 /mo","3 Beds, 2.5 Baths","330 N Randolph St, Indianapolis, IN 46201"
+$750/mo,"1 Bed, 1 Bath",House for Rent
+"$1,619 /mo","3 Beds, 2 Baths","8538 Bluff Point Dr, Indianapolis, IN 46113"
+"$1,295 /mo","3 Beds, 1 Bath",House for Rent
+$800 /mo,"1 Bed, 1 Bath","3645 N Sadlier Dr, Indianapolis, IN 46226"
+"$1,895 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,400 /mo","3 Beds, 1 Bath","628 N Oxford St, Indianapolis, IN 46201"
+"$1,935 /mo","3 Beds, 2 Baths",House for Rent
+"$1,719 /mo","3 Beds, 3 Baths","4620 Plowman Dr, Indianapolis, IN 46237"
+"$2,270 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,700 /mo","3 Beds, 2 Baths","2028 Lexington Ave, Indianapolis, IN 46203"
+"$1,795 /mo","4 Beds, 2 Baths",House for Rent
+"$1,350 /mo","2 Beds, 1 Bath","6432 Perry Pines Ct, Indianapolis, IN 46237"
+"$1,300/mo","2 Beds, 1 Bath",House for Rent
+"$1,655 /mo","3 Beds, 2.5 Baths","3222 Black Forest Ln, Indianapolis, IN 46239"
+"$1,430 /mo","3 Beds, 1 Bath",House for Rent
+"$1,490 /mo","3 Beds, 1.5 Baths","1927 Glendora Dr, Indianapolis, IN 46214"
+"$1,465 /mo","3 Beds, 1 Bath",House for Rent
+"$1,200 /mo","2 Beds, 1 Bath","445 Bridgestone Dr, Indianapolis, IN 46231"
+"$1,350 /mo","3 Beds, 1 Bath",House for Rent
+"$1,700/mo","1 Bed, 1 Bath","2204 Valley Creek W Ln, Indianapolis, IN 46229"
+"$1,645 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,445 /mo","4 Beds, 2.5 Baths","4839 N College Ave, Indianapolis, IN 46205"
+"$1,749 /mo","3 Beds, 2 Baths",House for Rent
+"$2,300 /mo","4 Beds, 2.5 Baths","1547 N Butler Ave, Indianapolis, IN 46219"
+"$1,685 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,625 /mo","3 Beds, 2 Baths","4151 Apple Creek Dr, Indianapolis, IN 46235"
+"$1,800 /mo","4 Beds, 2 Baths",House for Rent
+"$1,505 /mo","3 Beds, 2 Baths","2126 Fairhaven Dr, Indianapolis, IN 46229"
+"$2,550/mo","1 Bed, 1 Bath",House for Rent
+"$2,760 /mo","4 Beds, 3.5 Baths","1135 Roseway Dr, Indianapolis, IN 46219"
+"$1,910 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,950/mo","2 Beds, 2.5 Baths","1119 N Belmont Ave, Indianapolis, IN 46222"
+"$1,649 /mo","3 Beds, 2 Baths",House for Rent
+"$1,849 /mo","4 Beds, 2 Baths","4225 Crittenden Ave, Indianapolis, IN 46205"
+"$1,895 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,449 /mo","4 Beds, 2 Baths","3424 N Richardt Ave, Indianapolis, IN 46226"
+"$2,040 /mo","4 Beds, 3 Baths",House for Rent
+"$1,885 /mo","3 Beds, 2.5 Baths","4901 Whitton Pl, Indianapolis, IN 46220"
+"$1,735 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,590 /mo","3 Beds, 1 Bath","51 Village Green Dr, Indianapolis, IN 46227"
+"$2,000 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,560 /mo","3 Beds, 2 Baths","11116 Cherry Lake Ct, Indianapolis, IN 46235"
+"$1,625 /mo","3 Beds, 2 Baths",House for Rent
+"$1,800 /mo","3 Beds, 2.5 Baths","11824 Shannon Pointe Rd, Indianapolis, IN 46229"
+"$1,615 /mo","3 Beds, 2 Baths",House for Rent
+"$1,965 /mo","3 Beds, 2 Baths","10022 Arapahoe Dr, Indianapolis, IN 46235"
+"$2,050 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,405 /mo","3 Beds, 1.5 Baths","10235 Lone Wolf Dr, Indianapolis, IN 46235"
+"$1,620 /mo","3 Beds, 2 Baths",House for Rent
+"$1,225 /mo","2 Beds, 1 Bath","3627 Camberwood Ct, Indianapolis, IN 46268"
+"$2,260 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,885 /mo","3 Beds, 2.5 Baths","11732 Brocken Way, Indianapolis, IN 46229"
+"$1,835 /mo","4 Beds, 2 Baths",House for Rent
+"$2,040 /mo","3 Beds, 2 Baths","1724 Englewood Dr, Indianapolis, IN 46219"
+"$1,865 /mo","3 Beds, 2 Baths",House for Rent
+"$1,625 /mo","3 Beds, 2 Baths","1419 Mutz Dr, Indianapolis, IN 46229"
+"$2,275 /mo","4 Beds, 2 Baths",House for Rent
+"$1,955 /mo","3 Beds, 2.5 Baths","1833 N Hawthorne Ln, Indianapolis, IN 46218"
+"$1,910 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,200 /mo","4 Beds, 2.5 Baths","10833 Copiah Ct, Indianapolis, IN 46239"
+"$1,735 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,495 /mo","3 Beds, 2 Baths","4059 Congaree Dr, Indianapolis, IN 46235"
+"$1,845 /mo","3 Beds, 2 Baths",House for Rent
+"$2,320 /mo","3 Beds, 2 Baths","4931 Carry Back Ln, Indianapolis, IN 46237"
+"$1,725 /mo","3 Beds, 2 Baths",House for Rent
+"$1,575 /mo","3 Beds, 2 Baths","5136 Flame Way, Indianapolis, IN 46254"
+"$1,799 /mo","3 Beds, 2 Baths",House for Rent
+"$1,784 /mo","3 Beds, 2 Baths","5425 Yeager Ln, Indianapolis, IN 46237"
+"$1,310 /mo","2 Beds, 1 Bath",House for Rent
+"$2,030 /mo","3 Beds, 2 Baths","8423 Sansa St, Indianapolis, IN 46113"
+"$2,015 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,200/mo","2 Beds, 1 Bath","8005 Cardinal Cove W, Indianapolis, IN 46256"
+"$1,795 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,860 /mo","4 Beds, 2.5 Baths","8405 Wanda Lake Dr, Indianapolis, IN 46113"
+"$1,690 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,600 /mo","3 Beds, 1.5 Baths","7241 Graymont Dr, Indianapolis, IN 46221"
+"$1,805 /mo","3 Beds, 2 Baths",House for Rent
+"$2,325 /mo","4 Beds, 3 Baths","7261 Dublin Ln, Indianapolis, IN 46239"
+"$2,160 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,750 /mo","4 Beds, 3.5 Baths","5452 W Southport Rd, Indianapolis, IN 46221"
+"$1,845 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,295 /mo","2 Beds, 1 Bath","2714 W 18th St, Indianapolis, IN 46222"
+"$2,530 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,445 /mo","3 Beds, 1 Bath","10019 Olympic Cir, Indianapolis, IN 46234"
+"$1,800/mo","1 Bed, 1 Bath",House for Rent
+"$2,500 /mo","1 Bed, 1 Bath","7414 E 30th St, Indianapolis, IN 46219"
+"$1,849 /mo","3 Beds, 2 Baths",House for Rent
+"$2,270 /mo","3 Beds, 3 Baths","918 Fort Wayne Ave, Indianapolis, IN 46202"
+"$1,610 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$1,905 /mo","4 Beds, 2 Baths","3935 Mistletoe Dr, Indianapolis, IN 46237"
+"$1,700 /mo","3 Beds, 2 Baths",House for Rent
+"$2,800 /mo","5 Beds, 3 Baths","4531 Riverbrook Ln, Indianapolis, IN 46254"
+"$1,895 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,695 /mo","3 Beds, 2 Baths","9141 Budd Run Dr, Indianapolis, IN 46250"
+$925 /mo,"1 Bed, 1 Bath",House for Rent
+"$1,580 /mo","3 Beds, 2 Baths","2414 E Dudley Ave, Indianapolis, IN 46227"
+"$2,080 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,775 /mo","3 Beds, 2 Baths","9012 Panorama Ct, Indianapolis, IN 46234"
+"$1,902 /mo","3 Beds, 2 Baths",House for Rent
+"$2,199 /mo","4 Beds, 2 Baths","201 E Sumner Ave, Indianapolis, IN 46227"
+"$1,395 /mo","4 Beds, 1 Bath",House for Rent
+"$2,200 /mo","3 Beds, 2.5 Baths","8741 Tributary Dr, Indianapolis, IN 46259"
+"$1,940 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,975 /mo","3 Beds, 2 Baths","9207 Delphi Ct, Indianapolis, IN 46113"
+"$2,750 /mo","5 Beds, 3.5 Baths",House for Rent
+"$1,475 /mo","3 Beds, 2 Baths","11611 Stoeppelwerth Dr, Indianapolis, IN 46229"
+"$1,350 /mo","3 Beds, 1 Bath",House for Rent
+"$2,310 /mo","4 Beds, 2.5 Baths","2617 Westbrook Ave, Indianapolis, IN 46241"
+"$1,150 /mo","3 Beds, 1 Bath",House for Rent
+"$1,600 /mo","3 Beds, 1 Bath","12719 Spurrington Way, Indianapolis, IN 46236"
+"$1,560 /mo","3 Beds, 2 Baths",House for Rent
+"$1,780 /mo","3 Beds, 2.5 Baths","2814 Rothe Ln, Indianapolis, IN 46229"
+"$1,725 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,910 /mo","3 Beds, 2.5 Baths","6734 Dunsany Ct, Indianapolis, IN 46254"
+"$1,745 /mo","3 Beds, 2 Baths",House for Rent
+"$1,635/mo","1 Bed, 1 Bath","10160 Split Rock Way, Indianapolis, IN 46234"
+"$2,625/mo","2 Beds, 2 Baths",House for Rent
+"$1,847/mo","1 Bed, 1 Bath","5426 Basin Park Dr, Indianapolis, IN 46239"
+"$2,015 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,950/mo","1 Bed, 1 Bath","1157 N Goodlet Ave, Indianapolis, IN 46222"
+"$2,695/mo","1 Bed, 1 Bath",House for Rent
+"$1,470 /mo","3 Beds, 2 Baths","534 Fisher Creek Drive, Indianapolis, IN 46219"
+"$1,799 /mo","3 Beds, 2 Baths",House for Rent
+"$1,520 /mo","3 Beds, 1 Bath","6760 Redan Dr, Indianapolis, IN 46254"
+$825 /mo,"2 Beds, 1 Bath",House for Rent
+"$1,000 /mo","2 Beds, 2 Baths","3955 Arquette Dr, Indianapolis, IN 46235"
+$675/mo,"Studio, 1 Bath",House for Rent
+$675/mo,"Studio, 1 Bath","617 N Oxford St, Indianapolis, IN 46201"
+"$1,830 /mo","3 Beds, 1 Bath",House for Rent
+"$1,825 /mo","3 Beds, 2.5 Baths","330 N Randolph St, Indianapolis, IN 46201"
+"$1,730 /mo","3 Beds, 2 Baths",House for Rent
+"$1,625 /mo","3 Beds, 2 Baths","1711 N College Ave, Indianapolis, IN 46202"
+"$1,615 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,705 /mo","3 Beds, 2 Baths","6114 Hillside Ave, Indianapolis, IN 46220"
+"$1,699 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,855 /mo","3 Beds, 2.5 Baths","2203 E 67th St, Indianapolis, IN 46220"
+"$1,680 /mo","3 Beds, 2 Baths",House for Rent
+"$1,630 /mo","3 Beds, 2 Baths","7731 Brandenburg Way, Indianapolis, IN 46239"
+"$2,075 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,920 /mo","4 Beds, 2.5 Baths","6647 Colleens Way, Indianapolis, IN 46221"
+"$1,650 /mo","2 Beds, 1 Bath",House for Rent
+"$1,799 /mo","3 Beds, 2 Baths","8054 States Bend Dr, Indianapolis, IN 46239"
+"$2,275 /mo","4 Beds, 3 Baths",House for Rent
+"$2,365 /mo","4 Beds, 3 Baths","5111 Sweet River Way, Indianapolis, IN 46221"
+"$2,099 /mo","4 Beds, 3 Baths",House for Rent
+"$1,025/mo","1 Bed, 1 Bath","5309 Waterton Lakes Dr, Indianapolis, IN 46237"
+"$1,455 /mo","3 Beds, 2 Baths",House for Rent
+"$2,010 /mo","3 Beds, 2.5 Baths","8025 Amadeus Dr, Indianapolis, IN 46239"
+"$1,845 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,837/mo","1 Bed, 1 Bath","3743 Whistlewood Ln, Indianapolis, IN 46239"
+"$1,710 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,795 /mo","3 Beds, 2.5 Baths","430 Venus Dr, Indianapolis, IN 46241"
+"$2,925 /mo","1 Bed, 1 Bath",House for Rent
+"$1,350/mo","3 Beds, 2 Baths","2718 Lullwater Ln, Indianapolis, IN 46229"
+"$1,500/mo","2 Beds, 1 Bath",House for Rent
+"$1,699 /mo","3 Beds, 2 Baths","8349 Burket Way, Indianapolis, IN 46113"
+"$1,630 /mo","3 Beds, 2 Baths",House for Rent
+"$2,030 /mo","3 Beds, 2.5 Baths","7722 Belmac Ln, Indianapolis, IN 46113"
+"$1,460 /mo","3 Beds, 2 Baths",House for Rent
+"$1,310 /mo","3 Beds, 1.5 Baths","924 St Peter St, Indianapolis, IN 46203"
+"$1,895 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,625 /mo","3 Beds, 2 Baths","7142 Sun Ct, Indianapolis, IN 46241"
+"$1,865 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,599 /mo","3 Beds, 2 Baths","8108 States Bend Dr, Indianapolis, IN 46239"
+"$1,599 /mo","3 Beds, 2 Baths",House for Rent
+"$1,620 /mo","3 Beds, 2.5 Baths","4105 Lassen Ln, Indianapolis, IN 46235"
+"$1,770 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,610 /mo","3 Beds, 2 Baths","9127 Bagley Dr, Indianapolis, IN 46231"
+"$1,640 /mo","3 Beds, 2 Baths",House for Rent
+"$1,745 /mo","4 Beds, 2.5 Baths","2828 Mingo Ct, Indianapolis, IN 46217"
+"$1,835 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,795 /mo","4 Beds, 2.5 Baths","8109 Blackgum Ct, Indianapolis, IN 46236"
+"$2,270 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,865 /mo","3 Beds, 2 Baths","5930 Southern Springs Ave, Indianapolis, IN 46237"
+"$1,820 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,780 /mo","3 Beds, 2 Baths","10917 Snowdrop Way, Indianapolis, IN 46235"
+"$2,045 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,985 /mo","4 Beds, 2.5 Baths","7222 Atmore Dr, Indianapolis, IN 46217"
+"$2,220 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,110 /mo","3 Beds, 2.5 Baths","7250 Dublin Ln, Indianapolis, IN 46239"
+"$1,665 /mo","3 Beds, 1 Bath",House for Rent
+"$1,705 /mo","3 Beds, 1 Bath","3725 Laurel Cherry Ln, Indianapolis, IN 46239"
+"$1,830 /mo","3 Beds, 2 Baths",House for Rent
+"$1,920 /mo","3 Beds, 2.5 Baths","7034 Starkey Ridge Ln, Indianapolis, IN 46268"
+"$1,850 /mo","3 Beds, 2 Baths",House for Rent
+"$1,770 /mo","3 Beds, 2 Baths","10813 Timothy Ln, Indianapolis, IN 46231"
+"$1,708/mo","1 Bed, 1 Bath",House for Rent
+"$1,915/mo","2 Beds, 2 Baths","2539 Redland Ln, Indianapolis, IN 46217"
+"$1,860 /mo","3 Beds, 2 Baths",House for Rent
+"$2,050 /mo","4 Beds, 2.5 Baths","5453 Vicksburg Dr, Indianapolis, IN 46254"
+"$1,785 /mo","3 Beds, 2 Baths",House for Rent
+"$2,230 /mo","4 Beds, 2.5 Baths","314 Garden Grace Dr, Indianapolis, IN 46239"
+"$1,975 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,984/mo","1 Bed, 1 Bath","2946 Scottsdale Dr, Indianapolis, IN 46234"
+$750/mo,"1 Bed, 1 Bath",House for Rent
+$750/mo,"2 Beds, 1 Bath","10856 Running Brook Rd, Indianapolis, IN 46234"
+"$1,250 /mo","3 Beds, 1 Bath",House for Rent
+"$1,590 /mo","3 Beds, 1.5 Baths","4829 Rocky Knob Ln, Indianapolis, IN 46254"
+"$1,950/mo","1 Bed, 1 Bath",House for Rent
+"$1,690 /mo","3 Beds, 2 Baths","8933 Rock Island Ct, Indianapolis, IN 46217"
+"$1,350 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,800/mo","3 Beds, 2 Baths","4933 Opal Ridge Ln, Indianapolis, IN 46237"
+"$2,230 /mo","4 Beds, 2.5 Baths",Condo for Rent
+"$1,525 /mo","3 Beds, 1 Bath","1446 Hillcot Ln, Indianapolis, IN 46231"
+"$2,175 /mo","3 Beds, 3 Baths",House for Rent
+"$4,895 /mo","3 Beds, 2 Baths","4033 Arborcrest Dr, Indianapolis, IN 46226"
+$825 /mo,"1 Bed, 1 Bath",House for Rent
+"$1,659/mo","1 Bed, 1 Bath","4917 Melbourne Rd, Indianapolis, IN 46228"
+"$2,400 /mo","3 Beds, 2 Baths",House for Rent
+"$1,250 /mo","3 Beds, 1 Bath","2312 Woodlawn Ave, Indianapolis, IN 46203"
+"$2,150/mo","2 Beds, 2.5 Baths",House for Rent
+"$5,885/mo","3 Beds, 2 Baths","544 W 29th St, Indianapolis, IN 46208"
+"$2,730/mo","1 Bed, 1 Bath",House for Rent
+"$1,829 /mo","4 Beds, 2 Baths","7938 Island Club Dr, Indianapolis, IN 46214"
+"$1,980 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$4,250/mo","2 Beds, 2 Baths","919 Palmer St, Indianapolis, IN 46203"
+"$6,250 /mo","3 Beds, 3 Baths",House for Rent
+"$3,900 /mo","4 Beds, 2.5 Baths","2908 E 17th St, Indianapolis, IN 46218"
+"$2,250/mo","2 Beds, 2.5 Baths",House for Rent
+"$2,090 /mo","3 Beds, 3 Baths","1111 N Hamilton Ave, Indianapolis, IN 46201"
+"$1,195 /mo","3 Beds, 2 Baths",Townhome for Rent

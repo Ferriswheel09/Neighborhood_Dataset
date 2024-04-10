@@ -1,0 +1,533 @@
+price,rooms,address
+"$1,070 - 1,900",Studio - 3 Beds,"12000 Fairhill Rd, Cleveland, OH 44120"
+"$1,600 - 2,750",1-2 Beds,"1618 Hazel Dr, Cleveland, OH 44106"
+"$1,275 - 4,400",1-2 Beds,"2017 E 9th St, Cleveland, OH 44115"
+"$1,570 - 5,078",1-2 Beds,"515 Euclid Ave, Cleveland, OH 44114"
+"$1,385 - 2,411",Studio - 1 Bed,"2550 Detroit Ave, Cleveland, OH 44113"
+"$944 - 1,899",Studio - 2 Beds,"7218 Euclid Ave, Cleveland, OH 44103"
+"$1,240 - 2,500",Studio - 2 Beds,"1878 E 90th St, Cleveland, OH 44106"
+"$1,360 - 3,135",Studio - 3 Beds,"200 Euclid Ave, Cleveland, OH 44114"
+$680 - 975,Studio - 1 Bed,"14011 Brookpark Rd, Brookpark, OH 44142"
+"$1,355 - 6,549",Studio - 3 Beds,"12301 Cedar Rd, Cleveland Heights, OH 44106"
+"$880 - 3,295",Studio - 3 Beds,"2901 Euclid Ave, Cleveland, OH 44115"
+"$1,575 - 2,700",Studio - 1 Bed,"10001 Chester Ave, Cleveland, OH 44106"
+"$1,200 - 2,560",1-2 Beds,"1965 E 6th St, Cleveland, OH 44114"
+"$1,544 - 4,500",1-2 Beds,"1211 St Clair Ave NE, Cleveland, OH 44114"
+"$1,425 - 11,633",1-4 Beds,"1055 Old River Rd, Cleveland, OH 44113"
+"$1,820 - 10,425",Studio - 4 Beds,"10730 Euclid Ave, Cleveland, OH 44106"
+"$1,350 - 4,000",Studio - 2 Beds,"3007 Clinton Ave, Cleveland, OH 44113"
+"$1,650 - 2,575",1-2 Beds,"725 Johnson Ct, Cleveland, OH 44113"
+"$1,500 - 2,300",1 Bed,"1599 E 118th St, Cleveland, OH 44106"
+"$1,312 - 3,172",1-3 Beds,"1001-1101 Euclid Ave, Cleveland, OH 44115"
+"$1,700 - 2,900",1-2 Beds,"2048 Fulton Rd, Cleveland, OH 44113"
+"$1,430 - 3,036",Studio - 2 Beds,"425 Literary Rd, Cleveland, OH 44113"
+"$959 - 2,199",Studio - 4 Beds,"4010 Lorain Ave, Cleveland, OH 44113"
+"$1,270 - 2,430",Studio - 2 Beds,"12201 Larchmere Blvd, Cleveland, OH 44120"
+"$1,359 - 2,265",1-2 Beds,"21200 Brookpark Rd, Cleveland, OH 44126"
+"$1,200 - 2,490",1-2 Beds,"75 Public Sq, Cleveland, OH 44113"
+"$1,350 - 3,000",Studio - 2 Beds,"2410 Scranton Rd, Cleveland, OH 44113"
+"$1,638 - 2,441",1-2 Beds,"2461 W 25th St, Cleveland, OH 44113"
+"$1,010 - 4,830",1-3 Beds,"55 Public Sq, Cleveland, OH 44113"
+"$1,651 - 2,405",1-2 Beds,"1866 E 93rd St, Cleveland, OH 44106"
+"$1,499 - 2,613",Studio - 2 Beds,"10300 Cedar Ave, Cleveland, OH 44106"
+"$1,430 - 6,666",Studio - 3 Beds,"1111 Fairfield Ave, Cleveland, OH 44113"
+"$1,469 - 3,630",1-2 Beds,"1820 E 97th St, Cleveland, OH 44106"
+"$1,199 - 3,230",1-2 Beds,"1118 Euclid Ave, Cleveland, OH 44115"
+"$1,300 - 2,300",1-2 Beds,"1750 Ansel Rd, Cleveland, OH 44106"
+"$899 - 1,600",Studio - 2 Beds,"1801 E 12th St, Cleveland, OH 44114"
+"$1,340 - 1,850",1-2 Beds,"1220 Huron Rd E, Cleveland, OH 44115"
+"$1,450 - 5,000",1-2 Beds,"3107 Detroit Ave, Cleveland, OH 44113"
+"$900 - 1,600",1-3 Beds,"2431-2439 Overlook Rd, Cleveland, OH 44106"
+"$720 - 1,105",Studio - 2 Beds,"7006 Detroit Ave, Cleveland, OH 44102"
+"$1,070 - 1,900",Studio - 3 Beds,"12000 Fairhill Rd, Cleveland, OH 44120"
+"$1,600 - 2,750",1-2 Beds,"1618 Hazel Dr, Cleveland, OH 44106"
+"$1,275 - 4,400",1-2 Beds,"2017 E 9th St, Cleveland, OH 44115"
+"$1,570 - 5,078",1-2 Beds,"515 Euclid Ave, Cleveland, OH 44114"
+"$1,385 - 2,411",Studio - 1 Bed,"2550 Detroit Ave, Cleveland, OH 44113"
+"$944 - 1,899",Studio - 2 Beds,"7218 Euclid Ave, Cleveland, OH 44103"
+"$1,240 - 2,500",Studio - 2 Beds,"1878 E 90th St, Cleveland, OH 44106"
+"$1,360 - 3,135",Studio - 3 Beds,"200 Euclid Ave, Cleveland, OH 44114"
+$680 - 975,Studio - 1 Bed,"14011 Brookpark Rd, Brookpark, OH 44142"
+"$1,355 - 6,549",Studio - 3 Beds,"12301 Cedar Rd, Cleveland Heights, OH 44106"
+"$880 - 3,295",Studio - 3 Beds,"2901 Euclid Ave, Cleveland, OH 44115"
+"$1,575 - 2,700",Studio - 1 Bed,"10001 Chester Ave, Cleveland, OH 44106"
+"$1,200 - 2,560",1-2 Beds,"1965 E 6th St, Cleveland, OH 44114"
+"$1,544 - 4,500",1-2 Beds,"1211 St Clair Ave NE, Cleveland, OH 44114"
+"$1,425 - 11,633",1-4 Beds,"1055 Old River Rd, Cleveland, OH 44113"
+"$1,820 - 10,425",Studio - 4 Beds,"10730 Euclid Ave, Cleveland, OH 44106"
+"$1,350 - 4,000",Studio - 2 Beds,"3007 Clinton Ave, Cleveland, OH 44113"
+"$1,650 - 2,575",1-2 Beds,"725 Johnson Ct, Cleveland, OH 44113"
+"$1,500 - 2,300",1 Bed,"1599 E 118th St, Cleveland, OH 44106"
+"$1,312 - 3,172",1-3 Beds,"1001-1101 Euclid Ave, Cleveland, OH 44115"
+"$1,700 - 2,900",1-2 Beds,"2048 Fulton Rd, Cleveland, OH 44113"
+"$1,430 - 3,036",Studio - 2 Beds,"425 Literary Rd, Cleveland, OH 44113"
+"$959 - 2,199",Studio - 4 Beds,"4010 Lorain Ave, Cleveland, OH 44113"
+"$1,270 - 2,430",Studio - 2 Beds,"12201 Larchmere Blvd, Cleveland, OH 44120"
+"$1,359 - 2,265",1-2 Beds,"21200 Brookpark Rd, Cleveland, OH 44126"
+"$1,200 - 2,490",1-2 Beds,"75 Public Sq, Cleveland, OH 44113"
+"$1,350 - 3,000",Studio - 2 Beds,"2410 Scranton Rd, Cleveland, OH 44113"
+"$1,638 - 2,441",1-2 Beds,"2461 W 25th St, Cleveland, OH 44113"
+"$975 - 1,595",Studio - 2 Beds,"955 W Saint Clair Ave, Cleveland, OH 44113"
+"$894 - 1,049",1-2 Beds,"15500 Lake Shore Blvd, Cleveland, OH 44110"
+"$950 - 1,100",1-2 Beds,"17500 Euclid Ave, Cleveland, OH 44112"
+"$1,110 - 1,829",1-2 Beds,"256 Northridge Oval, Brooklyn, OH 44144"
+$700 - 980,1-3 Beds,"9755 Westview Dr, Parma, OH 44129"
+"$899 - 1,190",1-2 Beds,"4605-4639 E 131st St, Garfield Heights, OH 44105"
+$899,1 Bed,"2809-2949 Van Aken Blvd, Shaker Heights, OH 44120"
+$655 - 885,Studio - 2 Beds,"1541 E 191st St, Euclid, OH 44117"
+"$1,550 - 3,400",1-2 Beds,"2348 Overlook Rd, Cleveland Heights, OH 44106"
+"$795 - 1,025",1-2 Beds,"2590 N Moreland Blvd, Shaker Heights, OH 44120"
+"$900 - 1,800",1-3 Beds,"3725-3747 Warrensville Center Rd, Shaker Heights, OH 44122"
+"$1,370 - 4,484",1-3 Beds,"5455 N Marginal Rd, Cleveland, OH 44114"
+"$970 - 1,560",Studio - 2 Beds,"629 Euclid Ave, Cleveland, OH 44114"
+"$850 - 1,150",1-3 Beds,"4298 Rocky River Dr, Cleveland, OH 44135"
+$780 - 800,1 Bed,"12929 Shaker Blvd, Cleveland, OH 44120"
+"$995 - 1,595",Studio - 2 Beds,"2828 Euclid Ave, Cleveland, OH 44115"
+"$800 - 1,600",Studio - 3 Beds,"2546 Kenilworth Rd, Cleveland, OH 44106"
+$775 - 870,1-2 Beds,"14590 Lorain Ave, Cleveland, OH 44111"
+"$795 - 1,025",1-2 Beds,"14411 Triskett Rd, Cleveland, OH 44111"
+"$630 - 1,045",Studio - 2 Beds,"13170 Puritas Ave, Cleveland, OH 44135"
+"$1,195 - 1,450",1 Bed,"12383 Cedar Rd, Cleveland Heights, OH 44106"
+$940 - 965,1-5 Beds,"2325 Euclid Heights Blvd, Cleveland Heights, OH 44106"
+"$800 - 1,100",1-2 Beds,"12511 Clifton Blvd, Lakewood, OH 44107"
+"$995 - 1,295",1-2 Beds,"19420 Lorain Rd, Fairview Park, OH 44126"
+"$795 - 1,295",1-2 Beds,"1510 Newman Ave, Lakewood, OH 44107"
+"$1,878 - 4,446",Studio - 3 Beds,"10600 Chester Ave, Cleveland, OH 44106"
+"$1,400 - 2,250",1-3 Beds,"2320 Superior Ave E, Cleveland, OH 44114"
+"$2,300",2 Beds,"1421 E 15th St, Cleveland, OH 44114"
+"$1,395 - 1,950",1-2 Beds,"1020-1030 Euclid Ave, Cleveland, OH 44115"
+"$1,450 - 3,750",1-4 Beds,"2585 W 11th St, Cleveland, OH 44113"
+"$995 - 1,775",Studio - 1 Bed,"2040 Stearns Rd, Cleveland, OH 44106"
+"$856 - 1,214",1 Bed,"2200 Prospect Ave E, Cleveland, OH 44115"
+"$1,491 - 2,176",2 Beds,"1401 Prospect Ave, Cleveland, OH 44115"
+"$1,250 - 1,400",1-2 Beds,"2215 W 14th St, Cleveland, OH 44113"
+"$1,329 - 2,664",1-2 Beds,"1500 Detroit Ave, Cleveland, OH 44113"
+"$900 - 1,000",1-2 Beds,"1832-1864 Forest Hills Blvd, Cleveland, OH 44112"
+"$1,300 - 2,750",1-2 Beds,"1220 W 6th St, Cleveland, OH 44113"
+"$740 - 1,230",Studio - 2 Beds,"10017 Lake Ave, Cleveland, OH 44102"
+"$975 - 1,777",1-3 Beds,"2201 W 93rd St, Cleveland, OH 44102"
+"$675 - 1,175",1-2 Beds,"14030 Terrace Rd, Cleveland, OH 44112"
+"$815 - 1,087",1 Bed,"4835 Broadview Rd, Cleveland, OH 44109"
+"$891 - 2,199",Studio - 3 Beds,"1701 E 12th St, Cleveland, OH 44114"
+"$900 - 1,700",1-2 Beds,"425 W Lakeside Ave, Cleveland, OH 44113"
+$850 - 950,1-2 Beds,"4075-4095 Monticello Blvd, Cleveland Heights, OH 44121"
+"$675 - 1,180",1-2 Beds,"2020 Taylor Rd, East Cleveland, OH 44112"
+$775 - 950,1-2 Beds,"21170 Ellacott Pky, Warrensville Heights, OH 44128"
+"$750 - 1,050",1-2 Beds,"8251-8271 Memphis Ave, Brooklyn, OH 44144"
+$900 /mo,"2 Beds, 1 Bath","Cleveland, OH 44108"
+"$1,800",2 Beds,"Cleveland, OH 44113"
+"$1,400",2 Beds,"Lakewood, OH 44107"
+"$1,650/mo","2 Beds, 1 Bath","2096 Lennox Rd, Cleveland Heights, OH 44106"
+"$1,200 /mo","4 Beds, 1 Bath","2096 Lennox Rd, Cleveland Heights, OH 44106"
+"$2,200/mo","2 Beds, 2.5 Baths","6052A Glenway Dr, Brook Park, OH 44142"
+$895/mo,"2 Beds, 1 Bath","6052A Glenway Dr, Brook Park, OH 44142"
+"$1,800 /mo","6 Beds, 2 Baths","5691 Chevrolet Blvd, Parma, OH 44130"
+"$1,100/mo","2 Beds, 1 Bath","5691 Chevrolet Blvd, Parma, OH 44130"
+$795/mo,"Studio, 1 Bath","2540 N Moreland Blvd, Shaker Heights, OH 44120"
+"$1,300/mo","1 Bed, 1 Bath","2540 N Moreland Blvd, Shaker Heights, OH 44120"
+$900/mo,"2 Beds, 1 Bath","5531-5601 Chevrolet Blvd, Parma, OH 44130"
+$800 /mo,"2 Beds, 1 Bath","5531-5601 Chevrolet Blvd, Parma, OH 44130"
+"$1,100/mo","2 Beds, 1 Bath","22445 Lorain Rd, Fairview Park, OH 44126"
+$800/mo,"2 Beds, 1 Bath","22445 Lorain Rd, Fairview Park, OH 44126"
+"$1,350/mo","3 Beds, 1 Bath","635 W Lakeside Ave, Cleveland, OH 44113"
+"$2,100 /mo","3 Beds, 1.5 Baths",Apartment for Rent
+$850 /mo,"2 Beds, 1 Bath","6153 Morton Ave, Cleveland, OH 44127"
+$850 /mo,"2 Beds, 1 Bath",House for Rent
+"$1,300/mo","3 Beds, 1 Bath","3800 Euclid Ave, Cleveland, OH 44115"
+"$1,400 /mo","4 Beds, 2 Baths",Apartment for Rent
+$700/mo,"1 Bed, 1 Bath","4003 E 57th St, Cleveland, OH 44105"
+"$1,550/mo","5 Beds, 1 Bath",Apartment for Rent
+"$1,500 /mo","4 Beds, 1.5 Baths","8110 Melrose Ave, Cleveland, OH 44103"
+"$1,100 /mo","2 Beds, 1 Bath",House for Rent
+"$1,850/mo","2 Beds, 1 Bath","7006 Worley Ave, Cleveland, OH 44105"
+"$1,400 /mo","3 Beds, 1 Bath",Apartment for Rent
+$875/mo,"2 Beds, 1 Bath","1384 W 83rd St, Cleveland, OH 44102"
+"$1,850/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,100/mo","2 Beds, 1 Bath","11850 Edgewater Dr, Cleveland, OH 44107"
+$795/mo,"Studio, 1 Bath",Condo for Rent
+"$1,400/mo","4 Beds, 1 Bath","4256 E 119th St, Cleveland, OH 44105"
+$850 /mo,"2 Beds, 1 Bath",Apartment for Rent
+$700/mo,"1 Bed, 1 Bath","3664 E 52nd St, Cleveland, OH 44105"
+$950/mo,"2 Beds, 1 Bath",House for Rent
+$850 /mo,"1 Bed, 1 Bath","15609 School Ave, Cleveland, OH 44110"
+$750/mo,"1 Bed, 1 Bath",Apartment for Rent
+$995/mo,"3 Beds, 1 Bath","969 Nathaniel Rd, Cleveland, OH 44110"
+$875/mo,"2 Beds, 1.5 Baths",Apartment for Rent
+"$2,883/mo","1 Bed, 1 Bath","1013 Nathaniel Rd, Cleveland, OH 44110"
+"$2,595/mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$1,800/mo","2 Beds, 1 Bath","710 Jefferson Ave, Cleveland, OH 44113"
+$900/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$1,320/mo","2 Beds, 2 Baths","1947 E 85th St, Cleveland, OH 44106"
+$975/mo,"2 Beds, 1 Bath",Townhome for Rent
+"$1,750/mo","2 Beds, 1 Bath","2086 Fairview, Cleveland, OH 44106"
+$850/mo,"2 Beds, 1 Bath",Apartment for Rent
+$545/mo,"1 Bed, 1 Bath","1125 E 174th St, Cleveland, OH 44119"
+$595/mo,"1 Bed, 1 Bath",Apartment for Rent
+"$1,500/mo","1 Bed, 1 Bath","907 Fruit Ave, Cleveland, OH 44113"
+$940/mo,"2 Beds, 1 Bath",Apartment for Rent
+$900/mo,"1 Bed, 1 Bath","3737 W 134th St, Cleveland, OH 44111"
+"$1,650/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,300/mo","3 Beds, 1 Bath","1942 E 120th St, Cleveland, OH 44106"
+"$1,700 /mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,075/mo","2 Beds, 1 Bath","2832 E 117th St, Cleveland, OH 44120"
+"$1,400 /mo","1 Bed, 1 Bath",Apartment for Rent
+$650/mo,"1 Bed, 1 Bath","2288 Grandview Ave, Cleveland Heights, OH 44106"
+$995/mo,"2 Beds, 1 Bath",Apartment for Rent
+$850/mo,"1 Bed, 1 Bath","18323 Newell Rd, Shaker Heights, OH 44122"
+"$1,395/mo","3 Beds, 2.5 Baths",Apartment for Rent
+$800/mo,"2 Beds, 1 Bath","12700 Lake Ave, Lakewood, OH 44107"
+"$1,195/mo","2 Beds, 1 Bath",Apartment for Rent
+$700/mo,"1 Bed, 1 Bath","2119 Stillman Rd, Cleveland Heights, OH 44118"
+$650/mo,"Studio, 1 Bath",Apartment for Rent
+$700/mo,"1 Bed, 1 Bath","13540 Euclid Ave, East Cleveland, OH 44112"
+$700 - 795/mo,"Studio - 1 Bed, 1 Bath",Apartment for Rent
+"$1,695/mo","2 Beds, 1 Bath","2082 Lewis Dr, Lakewood, OH 44107"
+"$2,395/mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,090 - 2,100 /mo","2-3 Beds, 1 Bath","4745 E 88th St, Garfield Heights, OH 44125"
+$775 - 950/mo,"Studio - 2 Beds, 1 Bath",Apartment for Rent
+$800/mo,"2 Beds, 1 Bath","1623 Hillcrest Rd, Cleveland Heights, OH 44118"
+"$1,695/mo","2 Beds, 1 Bath",House for Rent
+"$1,000/mo","2 Beds, 1 Bath","2026 Lewis Dr, Lakewood, OH 44107"
+"$1,400 /mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,950/mo","2 Beds, 2 Baths","1623 Hillcrest Rd, Cleveland Heights, OH 44118"
+"$1,850/mo","2 Beds, 2 Baths",House for Rent
+"$1,695/mo","2 Beds, 1 Bath","5409 Bridge Ave, Cleveland, OH 44102"
+"$1,900/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,800/mo","2 Beds, 1 Bath","9707 Clifton Blvd, Cleveland, OH 44102"
+"$1,650/mo","2 Beds, 1 Bath",Apartment for Rent
+$700/mo,"Studio - 1 Bed, 1 Bath","9516 Baltic Rd, Cleveland, OH 44102"
+"$2,950/mo","2 Beds, 2 Baths",Apartment for Rent
+"$3,500 /mo","3 Beds, 2 Baths","2905 Franklin Blvd, Cleveland, OH 44113"
+"$3,500 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$5,000 /mo","6 Beds, 3 Baths","1927 W 73rd St, Cleveland, OH 44102"
+"$1,450 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,500 /mo","5 Beds, 1 Bath","1285 W 67th St, Cleveland, OH 44102"
+"$2,000/mo","2 Beds, 1.5 Baths",Apartment for Rent
+"$1,200/mo","2 Beds, 1 Bath","2103 Saint Clair Ave NE, Cleveland, OH 44114"
+"$1,950/mo","2 Beds, 2 Baths",House for Rent
+"$1,250 /mo","3 Beds, 1 Bath","3410 Monroe Ave, Cleveland, OH 44113"
+"$1,850 /mo","4 Beds, 1.5 Baths",House for Rent
+"$1,000/mo","2 Beds, 1 Bath","3900 W 33rd St, Cleveland, OH 44109"
+"$1,200 /mo","2 Beds, 1 Bath",House for Rent
+"$1,400/mo","2 Beds, 1 Bath","12510 Grimsby Ave, Cleveland, OH 44135"
+"$2,100 /mo","3 Beds, 2 Baths",House for Rent
+"$1,550/mo","1 Bed, 1 Bath","9627 Fuller Ave, Cleveland, OH 44104"
+"$2,150/mo","3 Beds, 2.5 Baths",House for Rent
+"$1,800 /mo","4 Beds, 2 Baths","1823 W 29th Pl, Cleveland, OH 44113"
+"$2,100 /mo","3 Beds, 1 Bath",Townhome for Rent
+$975/mo,"Studio, 1 Bath","4915 Tillman Ave, Cleveland, OH 44102"
+$875/mo,"1 Bed, 1 Bath",Apartment for Rent
+$875/mo,"1 Bed, 1 Bath","2914 Bridge Ave, Cleveland, OH 44113"
+"$1,050/mo","Studio, 1 Bath",Apartment for Rent
+"$1,400/mo","2 Beds, 1 Bath","2290 E 89th St, Cleveland, OH 44106"
+"$1,350/mo","2 Beds, 1 Bath",House for Rent
+"$1,475/mo","3 Beds, 2 Baths","4016 Victory Blvd, Cleveland, OH 44135"
+"$2,075 /mo","3 Beds, 2 Baths",House for Rent
+"$1,450/mo","2 Beds, 1 Bath","7800 Dearborn Ave, Cleveland, OH 44102"
+$775/mo,"1 Bed, 1 Bath",Apartment for Rent
+"$2,000/mo","2 Beds, 1 Bath","3697 E 154th St, Cleveland, OH 44120"
+"$10,000 /mo","6 Beds, 5 Baths",House for Rent
+"$1,600/mo","1 Bed, 1 Bath","2089 Fairview Ave, Cleveland, OH 44106"
+"$1,650/mo","Studio, 1 Bath",Apartment for Rent
+"$1,500 /mo","3 Beds, 1 Bath","4391 Archer Rd, Cleveland, OH 44105"
+"$1,500/mo","2 Beds, 1 Bath",House for Rent
+"$1,400/mo","2 Beds, 1 Bath","7516 Dresden Ave, Parma, OH 44129"
+"$1,575/mo","2 Beds, 1 Bath",Apartment for Rent
+$900/mo,"1 Bed, 1 Bath","12618 Mount Overlook Ave, Cleveland, OH 44120"
+"$1,400/mo","2 Beds, 1 Bath",Townhouse for Rent
+"$1,400/mo","2 Beds, 1 Bath","10101 Nanford Rd, Cleveland, OH 44102"
+"$1,400/mo","2 Beds, 1 Bath",Apartment for Rent
+$800/mo,"Studio, 1 Bath","1345 W 65th St, Cleveland, OH 44102"
+$750/mo,"2 Beds, 1 Bath",Apartment for Rent
+$768/mo,"3 Beds, 1 Bath","10401 Baltic Rd, Cleveland, OH 44102"
+"$1,800/mo","2 Beds, 2 Baths",Apartment for Rent
+$800/mo,"1 Bed, 1 Bath","2716 Portman Ave, Cleveland, OH 44109"
+"$1,150/mo","3 Beds, 1 Bath",Townhouse for Rent
+"$1,100/mo","3 Beds, 2 Baths","1918 E 123rd St, Cleveland, OH 44106"
+"$1,800/mo","2 Beds, 2 Baths",Apartment for Rent
+$765/mo,"1 Bed, 1 Bath","1981 E 123rd St, Cleveland, OH 44106"
+"$1,500/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,450/mo","2 Beds, 1 Bath","3392 W 52nd St, Cleveland, OH 44102"
+$825/mo,"3 Beds, 1 Bath",Apartment for Rent
+"$6,200/mo","3 Beds, 2.5 Baths","2222 Detroit Ave, Cleveland, OH 44113"
+"$3,200 /mo","3 Beds, 3.5 Baths",Condo for Rent
+$750/mo,"2 Beds, 1 Bath","1374 E 115th St, Cleveland, OH 44106"
+$820/mo,"3 Beds, 1 Bath",Apartment for Rent
+$775/mo,"2 Beds, 1 Bath","1374 E 115th St, Cleveland, OH 44106"
+"$1,200/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,050/mo","2 Beds, 1 Bath","3436 Storer Ave, Cleveland, OH 44109"
+"$1,100/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,500/mo","3 Beds, 1 Bath","2030 Euclid Ave, Cleveland, OH 44115"
+$875/mo,"2 Beds, 1 Bath",Condo for Rent
+$800/mo,"2 Beds, 1 Bath","1301 W 93rd St, Cleveland, OH 44102"
+"$2,500 /mo","2 Beds, 2.5 Baths",Apartment for Rent
+$675/mo,"1 Bed, 1 Bath","908 Fruit Ave, Cleveland, OH 44113"
+"$1,800/mo","2 Beds, 1 Bath",Apartment for Rent
+$875/mo,"2 Beds, 1 Bath","2074 Murray Hill Rd, Cleveland, OH 44106"
+$825/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$4,200 /mo","4 Beds, 2.5 Baths","9710 Aetna Rd, Cleveland, OH 44105"
+"$1,750 /mo","4 Beds, 1.5 Baths",Apartment for Rent
+"$1,300/mo","2 Beds, 1 Bath","701 W Lakeside Ave, Cleveland, OH 44113"
+"$1,100/mo","1 Bed, 1 Bath",Condo for Rent
+"$1,250/mo","2 Beds, 1 Bath","3729 Edgehill Dr, Cleveland, OH 44121"
+$800/mo,"2 Beds, 1 Bath",House for Rent
+$850/mo,"2 Beds, 1 Bath","3366 W 94th St, Cleveland, OH 44102"
+"$1,100 /mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,300/mo","2 Beds, 1 Bath","6115 Lawn Ave, Cleveland, OH 44102"
+"$2,100/mo","2 Beds, 2 Baths",House for Rent
+"$1,200/mo","2 Beds, 1 Bath","3353 E 125th St, Cleveland, OH 44120"
+$745/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$2,095/mo","2 Beds, 2 Baths","3608 Payne Ave, Cleveland, OH 44114"
+"$2,400/mo","3 Beds, 1 Bath",Condo for Rent
+"$1,350 /mo","3 Beds, 1 Bath","1867 W 57th St, Cleveland, OH 44102"
+$900/mo,"3 Beds, 1 Bath",Apartment for Rent
+$800/mo,"2 Beds, 1 Bath","11121 Lardet Ave, Cleveland, OH 44104"
+"$1,150 /mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$1,000 /mo","2 Beds, 2 Baths","140 Public Square, Cleveland, OH 44114"
+$850/mo,"2 Beds, 1 Bath",Condo for Rent
+"$1,075/mo","3 Beds, 1 Bath","2617 Euclid Heights Blvd, Cleveland, OH 44106"
+"$1,000/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,295 /mo","3 Beds, 1 Bath","3646 Bailey Ave, Cleveland, OH 44113"
+$875/mo,"2 Beds, 1 Bath",House for Rent
+"$3,350 /mo","3 Beds, 3.5 Baths","1134 Dallas Rd, Cleveland, OH 44108"
+$750/mo,"1 Bed, 1 Bath",Apartment for Rent
+"$2,400 /mo","3 Beds, 2.5 Baths","4512 Oak Park Ave, Cleveland, OH 44109"
+"$3,450 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$1,150/mo","2 Beds, 1 Bath","15612 Judson Dr, Cleveland, OH 44128"
+"$1,300 /mo","4 Beds, 1.5 Baths",House for Rent
+"$2,600/mo","2 Beds, 2.5 Baths","3279 W 32nd St, Cleveland, OH 44109"
+$850/mo,"2 Beds, 1 Bath",House for Rent
+"$4,750/mo","3 Beds, 2.5 Baths","12406 Tuscora Ave, Cleveland, OH 44108"
+"$1,230 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,100/mo","2 Beds, 1 Bath","3407 Altamont Rd, Cleveland, OH 44118"
+"$1,600/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,500/mo","2 Beds, 2 Baths","3878 E 147th St, Cleveland, OH 44128"
+"$2,400 /mo","4 Beds, 1.5 Baths",Apartment for Rent
+$985/mo,"2 Beds, 1 Bath","16302 Tarkington Ave, Cleveland, OH 44128"
+$995/mo,"3 Beds, 1 Bath",House for Rent
+$895/mo,"2 Beds, 1 Bath","3443 Fulton Rd, Cleveland, OH 44109"
+"$2,950/mo","2 Beds, 2 Baths",Apartment for Rent
+"$1,150/mo","2 Beds, 1 Bath","1481 Lindazzo Avenue, Cleveland, OH 44114"
+$995/mo,"1 Bed, 1 Bath",House for Rent
+"$1,150/mo","2 Beds, 1 Bath","455 E 200th St, Cleveland, OH 44119"
+"$1,195 /mo","3 Beds, 1 Bath",Apartment for Rent
+$800/mo,"2 Beds, 1 Bath","3403 Fulton Rd, Cleveland, OH 44109"
+"$1,350 /mo","4 Beds, 1 Bath",Apartment for Rent
+"$1,050/mo","2 Beds, 1 Bath","10011 Elizabeth Ave, Cleveland, OH 44105"
+$975/mo,"6 Beds, 2 Baths",House for Rent
+"$1,250/mo","2 Beds, 1 Bath","7705 Sagamore Ave, Cleveland, OH 44103"
+$900/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$1,250/mo","2 Beds, 1 Bath","13233 Carrington Ave, Cleveland, OH 44135"
+$650/mo,"1 Bed, 1 Bath",Apartment for Rent
+"$1,300/mo","3 Beds, 1 Bath","4486 W 42nd St, Cleveland, OH 44109"
+$950/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$8,000/mo","3 Beds, 3.5 Baths","2724 Woodhill Rd, Cleveland, OH 44104"
+"$2,950 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$2,200 /mo","2 Beds, 3.5 Baths","4486 W 42nd St, Cleveland, OH 44109"
+"$1,500/mo","1 Bed, 1 Bath",Apartment for Rent
+$650/mo,"1 Bed, 1 Bath","3501 Broadview Rd, Cleveland, OH 44109"
+$875/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$1,390 /mo","3 Beds, 2 Baths","13414 Ferris Ave, Cleveland, OH 44105"
+$875/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$1,720 /mo","3 Beds, 1 Bath","11230 Parklawn Dr, Cleveland, OH 44108"
+$985 /mo,"2 Beds, 1 Bath",Apartment for Rent
+$895/mo,"2 Beds, 1 Bath","7539 Father Frascati, Cleveland, OH 44102"
+"$1,000/mo","4 Beds, 1 Bath",Condo for Rent
+"$1,095/mo","2 Beds, 1 Bath","1521 E 123rd St, Cleveland, OH 44106"
+$800/mo,"2 Beds, 1 Bath",House for Rent
+"$1,295 /mo","4 Beds, 1.5 Baths","12581 Larchmere Blvd, Cleveland, OH 44120"
+$995/mo,"3 Beds, 1 Bath",House for Rent
+"$1,295/mo","2 Beds, 1 Bath","408 W Saint Clair Ave, Cleveland, OH 44113"
+"$1,200/mo","2 Beds, 1 Bath",Condo for Rent
+"$1,500 /mo","3 Beds, 1 Bath","15521 Kipling Ave, Cleveland, OH 44110"
+"$2,400/mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,595 /mo","4 Beds, 1.5 Baths","3598 E 143rd St, Cleveland, OH 44120"
+$995/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$1,100 /mo","2 Beds, 1.5 Baths","16905 Palda Dr, Cleveland, OH 44128"
+$925/mo,"2 Beds, 1 Bath",House for Rent
+"$1,095 /mo","3 Beds, 1 Bath","3598 E 143rd St, Cleveland, OH 44120"
+"$1,350 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,900/mo","2 Beds, 2 Baths","4272 E 119th St, Cleveland, OH 44105"
+"$1,200/mo","3 Beds, 1 Bath",House for Rent
+$775/mo,"2 Beds, 1 Bath","12719 Carrington Ave, Cleveland, OH 44135"
+"$2,850 /mo","3 Beds, 2.5 Baths",House for Rent
+$950/mo,"2 Beds, 1 Bath","3136 W 16th St, Cleveland, OH 44109"
+"$1,120/mo","3 Beds, 1 Bath",Apartment for Rent
+$875/mo,"2 Beds, 1 Bath","11702 Brookfield Ave, Cleveland, OH 44135"
+"$1,129/mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,100/mo","3 Beds, 1 Bath","11702 Brookfield Ave, Cleveland, OH 44135"
+$395/mo,"Studio, 1 Bath",Apartment for Rent
+"$3,250 /mo","3 Beds, 2.5 Baths","3150 W 70th St, Cleveland, OH 44102"
+"$1,100/mo","2 Beds, 2 Baths",Apartment for Rent
+"$1,050/mo","2 Beds, 1 Bath","3327 W 88th St, Cleveland, OH 44102"
+"$1,350 /mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$1,500 /mo","3 Beds, 2 Baths","13609 Blenheim Rd, Cleveland, OH 44110"
+"$1,050/mo","2 Beds, 1 Bath",Apartment for Rent
+$985/mo,"2 Beds, 1 Bath","2250 E 100th St, Cleveland, OH 44106"
+"$1,150 /mo","3 Beds, 1.5 Baths",House for Rent
+$600/mo,"1 Bed, 1 Bath","11915 Browning Ave, Cleveland, OH 44120"
+"$2,400/mo","2 Beds, 2.5 Baths",Apartment for Rent
+"$1,095/mo","2 Beds, 1 Bath","3231 W 121st St, Cleveland, OH 44111"
+"$2,000/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,350/mo","1 Bed, 1 Bath","4176 E 148th St, Cleveland, OH 44128"
+"$1,050/mo","2 Beds, 1 Bath",House for Rent
+"$1,095/mo","2 Beds, 1 Bath","17525 Crestland Rd, Cleveland, OH 44119"
+"$1,245/mo","3 Beds, 1 Bath",House for Rent
+$900/mo,"2 Beds, 1 Bath","10425 Almira Ave, Cleveland, OH 44111"
+"$1,000/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,250/mo","3 Beds, 1 Bath","3624 Archwood Ave, Cleveland, OH 44109"
+$925/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$1,550 /mo","3 Beds, 1 Bath","4318 W 50th St, Cleveland, OH 44144"
+"$1,150 /mo","3 Beds, 1 Bath",House for Rent
+"$1,800 /mo","2 Beds, 2.5 Baths","4201 Clark Ave, Cleveland, OH 44109"
+"$3,700 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$1,150/mo","3 Beds, 1 Bath","1957 E 85th St, Cleveland, OH 44106"
+"$1,050/mo","2 Beds, 1 Bath",Condo for Rent
+"$1,200/mo","4 Beds, 1 Bath","18425 Puritas Ave, Cleveland, OH 44135"
+"$1,350 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,720/mo","3 Beds, 1 Bath","2057 Fairview, Cleveland, OH 44106"
+"$1,295 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,450 /mo","3 Beds, 1.5 Baths","2401 Scranton Rd, Cleveland, OH 44113"
+"$1,050/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,100/mo","2 Beds, 1 Bath","4249 W 50th St, Cleveland, OH 44144"
+"$1,099 /mo","3 Beds, 1 Bath",Apartment for Rent
+$895/mo,"2 Beds, 1 Bath","3231 W 112th St, Cleveland, OH 44111"
+"$1,200 /mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$1,100/mo","2 Beds, 1 Bath","3880 E 155th St, Cleveland, OH 44128"
+$700/mo,"2 Beds, 1 Bath",House for Rent
+"$1,150/mo","3 Beds, 1 Bath","905 Spring Rd, Cleveland, OH 44109"
+"$1,300 /mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,390 /mo","3 Beds, 1 Bath","665 E 115th St, Cleveland, OH 44108"
+"$1,500/mo","3 Beds, 1 Bath",Apartment for Rent
+"$4,200/mo","1 Bed, 1 Bath","12614 Forest Ave, Cleveland, OH 44120"
+$950/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$3,000 /mo","2 Beds, 2.5 Baths","11125 Forest, Cleveland, OH 44104"
+"$1,475/mo","2 Beds, 1 Bath",House for Rent
+"$1,250/mo","2 Beds, 1 Bath","3672 E 118th St, Cleveland, OH 44105"
+"$1,400/mo","1 Bed, 1 Bath",House for Rent
+"$2,500 /mo","4 Beds, 1.5 Baths","1973 W 50th St, Cleveland, OH 44102"
+"$4,150 /mo","6 Beds, 4 Baths",Apartment for Rent
+$825/mo,"Studio, 1 Bath","2801 Bridge Ave, Cleveland, OH 44113"
+"$1,450 /mo","3 Beds, 1 Bath",Apartment for Rent
+$925/mo,"2 Beds, 1 Bath","3136 W 16th St, Cleveland, OH 44109"
+"$2,300/mo","5 Beds, 2.5 Baths",Apartment for Rent
+"$1,400 /mo","3 Beds, 1.5 Baths","3601 Bailey Ave, Cleveland, OH 44113"
+"$1,400/mo","2 Beds, 1 Bath",House for Rent
+$830/mo,"2 Beds, 1 Bath","18509 Winslow Rd, Shaker Heights, OH 44122"
+"$1,350 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,575 /mo","3 Beds, 2 Baths","1580 Clarence Ave, Lakewood, OH 44107"
+"$2,225/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,475/mo","2 Beds, 1 Bath","19015 Van Aken Blvd, Shaker Heights, OH 44122"
+"$2,300 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,700 /mo","3 Beds, 2 Baths","5100 Greenhurst Dr, Maple Heights, OH 44137"
+$999/mo,"2 Beds, 1 Bath",House for Rent
+"$1,550 /mo","3 Beds, 1.5 Baths","14575 Shaker Blvd, Shaker Heights, OH 44120"
+"$1,150/mo","2 Beds, 1 Bath",House for Rent
+$995/mo,"1 Bed, 1 Bath","2094 Dowd Ave, Lakewood, OH 44107"
+"$2,500/mo","3 Beds, 2 Baths",Apartment for Rent
+$775/mo,"2 Beds, 1 Bath","5121 Arch St, Maple Heights, OH 44137"
+$800/mo,"1 Bed, 1 Bath",House for Rent
+"$1,250 /mo","5 Beds, 1 Bath","862 Greyton Rd, Cleveland Heights, OH 44112"
+"$1,350 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,500 /mo","3 Beds, 1 Bath","1643 Glenmont Rd, Cleveland Heights, OH 44118"
+$800/mo,"3 Beds, 1 Bath",Apartment for Rent
+"$1,700 /mo","3 Beds, 2 Baths","15920 Pike Blvd, Brook Park, OH 44142"
+"$2,200/mo","3 Beds, 2.5 Baths",House for Rent
+$995/mo,"1 Bed, 1 Bath","17916 Chagrin Blvd, Shaker Heights, OH 44122"
+$995/mo,"1 Bed, 1 Bath",Apartment for Rent
+"$1,450 /mo","3 Beds, 1.5 Baths","2031 Robin St, Lakewood, OH 44107"
+"$1,550/mo","2 Beds, 1.5 Baths",Apartment for Rent
+"$1,850/mo","3 Beds, 2 Baths","2031 Robin St, Lakewood, OH 44107"
+"$1,250/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,350/mo","2 Beds, 1 Bath","19450 McCracken Rd, Maple Heights, OH 44137"
+"$2,400/mo","4 Beds, 2.5 Baths",House for Rent
+"$1,295 /mo","3 Beds, 2 Baths","3341-3351 Warrensville Center Rd, Shaker Heights, OH 44122"
+"$1,225 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,500/mo","1 Bed, 1 Bath","3341-3351 Warrensville Center Rd, Shaker Heights, OH 44122"
+"$1,395/mo","4 Beds, 1.5 Baths",Apartment for Rent
+"$1,775 /mo","3 Beds, 1.5 Baths","3341-3351 Warrensville Center Rd, Shaker Heights, OH 44122"
+$900/mo,"3 Beds, 1 Bath",Apartment for Rent
+"$1,300/mo","2 Beds, 1 Bath","17304 Winslow Rd, Shaker Heights, OH 44120"
+"$1,350/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,890/mo","5 Beds, 2 Baths","19415 Winslow Rd, Shaker Heights, OH 44122"
+"$1,000/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,400/mo","2 Beds, 1 Bath","968 Rushleigh Rd, Cleveland Heights, OH 44121"
+"$1,500/mo","2 Beds, 1 Bath",House for Rent
+"$1,850 /mo","3 Beds, 2 Baths","5521 Morgan St, Maple Heights, OH 44137"
+"$1,195 /mo","3 Beds, 1 Bath",House for Rent
+"$1,495/mo","2 Beds, 1 Bath","12700 Lake Ave, Lakewood, OH 44107"
+"$1,950/mo","4 Beds, 2 Baths",Condo for Rent
+"$3,000 /mo","4 Beds, 2.5 Baths","1699 Preyer Ave, Cleveland Heights, OH 44118"
+"$1,900 /mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$2,000/mo","2 Beds, 1.5 Baths","1026 Englewood Rd, Cleveland Heights, OH 44121"
+"$1,200/mo","1 Bed, 1 Bath",House for Rent
+"$2,500/mo","2 Beds, 2 Baths","15990 Neladale Rd, East Cleveland, OH 44112"
+"$1,300 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,250 /mo","3 Beds, 1 Bath","14615 Leonard Ave, Lakewood, OH 44107"
+"$1,500 /mo","3 Beds, 1 Bath",Apartment for Rent
+$995/mo,"1 Bed, 1 Bath","2828 Wooster Rd, Rocky River, OH 44116"
+"$2,250/mo","2 Beds, 1 Bath",Townhouse for Rent
+"$2,250/mo","5 Beds, 2 Baths","2580 Colchester Rd, Cleveland Heights, OH 44106"
+"$1,250 /mo","3 Beds, 1.5 Baths",Townhouse for Rent
+"$2,200/mo","3 Beds, 1 Bath","3362 Colwyn Rd, Shaker Heights, OH 44120"
+"$1,300/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,600/mo","4 Beds, 2 Baths","3593 Avalon Rd, Shaker Heights, OH 44120"
+"$2,500/mo","2 Beds, 1 Bath",Apartment for Rent
+$650/mo,"1 Bed, 1 Bath","2713 Lancashire Rd, Cleveland Heights, OH 44106"
+"$1,150/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,350 /mo","3 Beds, 1 Bath","12985 Emerson Ave, Lakewood, OH 44107"
+"$1,000/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,200/mo","2 Beds, 1 Bath","3507 W 128th St, Cleveland, OH 44111"
+"$3,000/mo","3 Beds, 2 Baths",Apartment for Rent
+$900/mo,"3 Beds, 1 Bath","4315 E 119th St, Cleveland, OH 44105"
+"$1,000/mo","2 Beds, 1 Bath",House for Rent
+"$1,250 /mo","4 Beds, 1.5 Baths","3100 Hancock Ave, Cleveland, OH 44113"
+"$2,100 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,200 /mo","3 Beds, 1 Bath","3701 Chatham Ave, Cleveland, OH 44113"
+"$1,642 /mo","4 Beds, 1 Bath",Apartment for Rent
+$850/mo,"2 Beds, 1 Bath","5515 Bridge Ave, Cleveland, OH 44102"
+"$2,600 /mo","4 Beds, 3.5 Baths",Apartment for Rent
+$550/mo,"1 Bed, 1 Bath","11316 Durant Ave, Cleveland, OH 44108"
+"$1,200 /mo","2 Beds, 1 Bath",Apartment for Rent
+$450 /mo,"1 Bed, 2 Baths","3404 Archwood Ave, Cleveland, OH 44109"
+"$1,650 /mo","4 Beds, 1.5 Baths",Apartment for Rent
+$800/mo,"2 Beds, 1 Bath","1201 E 84th St, Cleveland, OH 44103"
+"$1,450 /mo","4 Beds, 1 Bath",House for Rent
+"$1,200 /mo","2 Beds, 1 Bath","17402 Bradgate Ave, Cleveland, OH 44111"
+"$1,000/mo","2 Beds, 1 Bath",House for Rent
+"$1,450 /mo","3 Beds, 1 Bath","16611 Westfield Ave, Cleveland, OH 44110"
+$825/mo,"2 Beds, 1 Bath",House for Rent
+"$1,200 /mo","4 Beds, 1 Bath","1750 Avalon Rd, Cleveland, OH 44112"
+$898/mo,"2 Beds, 1 Bath",House for Rent
+"$1,720 /mo","3 Beds, 1.5 Baths","13113 Benwood Ave, Cleveland, OH 44105"
+"$1,295 /mo","2 Beds, 2 Baths",Apartment for Rent
+"$1,300 /mo","3 Beds, 1 Bath","1212 Rowley Ave, Cleveland, OH 44109"
+$925 /mo,"2 Beds, 1 Bath",House for Rent
+$695/mo,"1 Bed, 1 Bath","3374 E 128th St, Cleveland, OH 44120"
+$995/mo,"2 Beds, 1 Bath",Condo for Rent
+"$1,100/mo","3 Beds, 1 Bath","2219 W 106th St, Cleveland, OH 44102"
+"$1,295/mo","2 Beds, 1 Bath",House for Rent
+$699/mo,"1 Bed, 1 Bath","868 E 140th St, Cleveland, OH 44110"
+"$1,350 /mo","3 Beds, 1 Bath",House for Rent
+"$1,300 /mo","4 Beds, 1 Bath","3934 E 155th St, Cleveland, OH 44128"
+"$1,000 /mo","3 Beds, 1 Bath",House for Rent
+$950/mo,"2 Beds, 1 Bath","2054 W 83rd St, Cleveland, OH 44102"
+"$1,300/mo","3 Beds, 1 Bath",Condo for Rent
+"$1,200 /mo","2 Beds, 1 Bath","3640 E 138th St, Cleveland, OH 44120"
+"$1,500 /mo","4 Beds, 1 Bath",Condo for Rent
+"$1,275/mo","3 Beds, 1 Bath","15800 Puritas Ave, Cleveland, OH 44135"
+$800/mo,"2 Beds, 1 Bath",House for Rent
+"$1,500 /mo","4 Beds, 1 Bath","9712 Parkgate Ave, Cleveland, OH 44108"
+$925/mo,"2 Beds, 1 Bath",House for Rent
+"$1,400 /mo","3 Beds, 1 Bath","3290 W 17th St, Cleveland, OH 44109"
+"$1,350 /mo","3 Beds, 1 Bath",Apartment for Rent
+$750/mo,"1 Bed, 1 Bath","2962 E 66th St, Cleveland, OH 44127"
+"$1,395 /mo","4 Beds, 2 Baths",Condo for Rent
+$800/mo,"2 Beds, 1 Bath","10212 Hampden Ave, Cleveland, OH 44108"
+$650/mo,"1 Bed, 1 Bath",House for Rent
+"$2,200 /mo","Studio, 1 Bath","3155 W 84th St, Cleveland, OH 44102"
+$825 /mo,"2 Beds, 1 Bath",Condo for Rent
+"$1,295 /mo","Studio, 1 Bath","15715 Talford Ave, Cleveland, OH 44128"
+"$2,000 /mo","3 Beds, 3 Baths",House for Rent
+"$1,200 /mo","3 Beds, 1 Bath","18414 Landseer Rd, Cleveland, OH 44119"
+"$1,225 /mo","3 Beds, 1 Bath",House for Rent

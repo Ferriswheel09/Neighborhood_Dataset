@@ -1,0 +1,552 @@
+price,rooms,address
+"$999 - 1,690",Studio - 2 Beds,"9 E Carolina Ave, Memphis, TN 38103"
+"$1,189 - 2,059",Studio - 3 Beds,"1300 Lynnfield Rd, Memphis, TN 38119"
+"$845 - 1,400",1-4 Beds,"3896 Chippewa Rd, Memphis, TN 38118"
+"$1,289 - 2,295",1-3 Beds,"3333 Hacks Cross Rd, Memphis, TN 38125"
+"$999 - 1,680",Studio - 2 Beds,"9 E Carolina Ave, Memphis, TN 38103"
+"$1,099 - 1,899",Studio - 2 Beds,"775 Melrose St, Memphis, TN 38104"
+"$1,259 - 1,839",1-3 Beds,"7841 N Garden Manor Dr, Memphis, TN 38125"
+"$900 - 1,750",Studio - 2 Beds,"45 S Idlewild St, Memphis, TN 38104"
+"$1,275 - 2,290",1-3 Beds,"205 Pasadena Pl, Memphis, TN 38104"
+"$1,316 - 2,312",1-3 Beds,"2216 Brierbrook Rd, Memphis, TN 38138"
+"$830 - 2,379",1-2 Beds,"1400 Greenbrook Pky, Memphis, TN 38134"
+"$1,026 - 2,189",1-2 Beds,"495 Tennessee St, Memphis, TN 38103"
+"$995 - 1,050",1-2 Beds,"3251 Southern Ave, Memphis, TN 38111"
+"$1,134 - 2,619",Studio - 2 Beds,"2542 Broad Ave, Memphis, TN 38112"
+"$1,520 - 2,530",1-3 Beds,"8993 Crestwyn Hills Dr, Memphis, TN 38125"
+"$1,380 - 2,000",1-2 Beds,"694 Madison Ave, Memphis, TN 38103"
+"$999 - 1,449",Studio - 2 Beds,"5811 Poplar Ave, Memphis, TN 38119"
+"$999 - 1,375",1-2 Beds,"7935 Club Dr, Cordova, TN 38016"
+"$983 - 1,519",1-3 Beds,"555 Wood Arbor Pky, Cordova, TN 38018"
+"$1,519 - 2,685",Studio - 3 Beds,"599 Velo Dr, Cordova, TN 38018"
+"$928 - 2,903",1-2 Beds,"8345 Championship Dr, Memphis, TN 38125"
+"$775 - 1,190",1-2 Beds,"4025-4045 Riverdale Rd, Memphis, TN 38115"
+"$700 - 1,150",1-2 Beds,"6332 Village Grove Dr, Memphis, TN 38115"
+"$1,074 - 1,147",2 Beds,"2451 Union Ave, Memphis, TN 38112"
+"$850 - 1,650",Studio - 3 Beds,"1550 N Parkway, Memphis, TN 38112"
+"$562 - 1,394",Studio - 4 Beds,"2774 S Mendenhall Rd, Memphis, TN 38115"
+"$1,547 - 3,701",1-3 Beds,"300 Grand Island Dr, Memphis, TN 38103"
+$899 - 989,1 Bed,"274 S Highland St, Memphis, TN 38111"
+"$1,349 - 1,725",1-2 Beds,"4 Riverview Dr W, Memphis, TN 38103"
+"$799 - 1,529",1-3 Beds,"5770 Tangle Oaks Dr, Memphis, TN 38134"
+"$799 - 1,459",Studio - 2 Beds,"810 Washington Ave, Memphis, TN 38105"
+"$624 - 1,569",1-2 Beds,"3048 Moriah Trl, Memphis, TN 38115"
+"$1,050 - 2,000",Studio - 2 Beds,"1387 Central Ave, Memphis, TN 38104"
+"$815 - 1,200",1-2 Beds,"3094 Autumnwood Ave, Memphis, TN 38115"
+"$885 - 1,050",1-2 Beds,"6520 Macon Rd, Memphis, TN 38134"
+"$723 - 1,073",Studio - 2 Beds,"57 N Somerville St, Memphis, TN 38104"
+"$1,024 - 1,697",1-3 Beds,"5900 Cedar Forrest Dr, Memphis, TN 38119"
+"$1,160 - 1,270",2-3 Beds,"4907 Autumn Leaf Dr, Memphis, TN 38116"
+"$1,087 - 4,723",Studio - 3 Beds,"395 S Highland St, Memphis, TN 38111"
+"$1,025 - 2,410",1-2 Beds,"100 Riverset Ln, Memphis, TN 38103"
+"$999 - 1,690",Studio - 2 Beds,"9 E Carolina Ave, Memphis, TN 38103"
+"$1,189 - 2,059",Studio - 3 Beds,"1300 Lynnfield Rd, Memphis, TN 38119"
+"$845 - 1,400",1-4 Beds,"3896 Chippewa Rd, Memphis, TN 38118"
+"$1,289 - 2,295",1-3 Beds,"3333 Hacks Cross Rd, Memphis, TN 38125"
+"$999 - 1,680",Studio - 2 Beds,"9 E Carolina Ave, Memphis, TN 38103"
+"$1,099 - 1,899",Studio - 2 Beds,"775 Melrose St, Memphis, TN 38104"
+"$1,259 - 1,839",1-3 Beds,"7841 N Garden Manor Dr, Memphis, TN 38125"
+"$900 - 1,750",Studio - 2 Beds,"45 S Idlewild St, Memphis, TN 38104"
+"$1,275 - 2,290",1-3 Beds,"205 Pasadena Pl, Memphis, TN 38104"
+"$1,316 - 2,312",1-3 Beds,"2216 Brierbrook Rd, Memphis, TN 38138"
+"$830 - 2,379",1-2 Beds,"1400 Greenbrook Pky, Memphis, TN 38134"
+"$1,026 - 2,189",1-2 Beds,"495 Tennessee St, Memphis, TN 38103"
+"$995 - 1,050",1-2 Beds,"3251 Southern Ave, Memphis, TN 38111"
+"$1,134 - 2,619",Studio - 2 Beds,"2542 Broad Ave, Memphis, TN 38112"
+"$1,520 - 2,530",1-3 Beds,"8993 Crestwyn Hills Dr, Memphis, TN 38125"
+"$1,380 - 2,000",1-2 Beds,"694 Madison Ave, Memphis, TN 38103"
+"$999 - 1,449",Studio - 2 Beds,"5811 Poplar Ave, Memphis, TN 38119"
+"$999 - 1,375",1-2 Beds,"7935 Club Dr, Cordova, TN 38016"
+"$983 - 1,519",1-3 Beds,"555 Wood Arbor Pky, Cordova, TN 38018"
+"$1,519 - 2,685",Studio - 3 Beds,"599 Velo Dr, Cordova, TN 38018"
+"$928 - 2,903",1-2 Beds,"8345 Championship Dr, Memphis, TN 38125"
+"$775 - 1,190",1-2 Beds,"4025-4045 Riverdale Rd, Memphis, TN 38115"
+"$700 - 1,150",1-2 Beds,"6332 Village Grove Dr, Memphis, TN 38115"
+"$1,074 - 1,147",2 Beds,"2451 Union Ave, Memphis, TN 38112"
+"$850 - 1,650",Studio - 3 Beds,"1550 N Parkway, Memphis, TN 38112"
+"$562 - 1,394",Studio - 4 Beds,"2774 S Mendenhall Rd, Memphis, TN 38115"
+"$1,040 - 6,557",Studio - 2 Beds,"420 Monroe Ave, Memphis, TN 38103"
+"$1,385 - 2,530",Studio - 2 Beds,"1835 Union Ave, Memphis, TN 38104"
+"$1,240 - 3,005",Studio - 3 Beds,"3750 Moraine St, Memphis, TN 38125"
+"$1,250 - 1,863",1-3 Beds,"7885 Silver Spur Cir, Memphis, TN 38119"
+$795 - 850,1 Bed,"3875 Spottswood Ave, Memphis, TN 38111"
+"$925 - 1,850",Studio - 1 Bed,"1030 Poplar Ave, Memphis, TN 38105"
+"$1,353 - 5,724",Studio - 2 Beds,"1 Dr Martin Luther King Jr Ave, Memphis, TN 38103"
+"$999 - 2,450",1-3 Beds,"1544 Madison Ave, Memphis, TN 38104"
+"$1,249 - 2,340",Studio - 1 Bed,"1973 Poplar Ave, Memphis, TN 38104"
+"$940 - 1,760",1-2 Beds,"711 N Front St, Memphis, TN 38107"
+"$1,295 - 2,775",1-3 Beds,"3769 Skipping Stone Trace, Memphis, TN 38125"
+"$1,152 - 2,271",1-3 Beds,"8786 N Creek Blvd, Southaven, MS 38671"
+"$894 - 1,703",1-2 Beds,"8056 Country Squire Ln, Cordova, TN 38018"
+"$1,165 - 2,890",1-3 Beds,"9135 Morning Ridge Rd, Cordova, TN 38016"
+"$1,274 - 2,538",1-3 Beds,"8546 Prestine Loop, Cordova, TN 38018"
+"$1,523 - 4,353",1-3 Beds,"1505 Dexter Lake Dr, Cordova, TN 38016"
+"$1,094 - 1,803",1-2 Beds,"2918 Champions Dr, Arlington, TN 38002"
+"$1,095 - 1,631",1-3 Beds,"9940 Paddle Wheel Ln, Cordova, TN 38016"
+"$1,807 - 3,130",1-2 Beds,"7900 Wolf River Blvd, Germantown, TN 38138"
+"$1,125 - 1,905",Studio - 2 Beds,"50 Peabody Pl, Memphis, TN 38103"
+"$1,289 - 3,300",1-3 Beds,"62 N Main St, Memphis, TN 38103"
+"$1,047 - 1,957",Studio - 2 Beds,"130 S Front St, Memphis, TN 38103"
+"$1,258 - 2,805",1-3 Beds,"9230 Thornbury Blvd, Memphis, TN 38125"
+"$1,349 - 1,625",2-3 Beds,"1669 Randolph Pl, Memphis, TN 38120"
+"$905 - 1,395",1-2 Beds,"1070 Poplar Ave, Memphis, TN 38105"
+"$995 - 1,250",1-2 Beds,"1985 Madison Ave, Memphis, TN 38104"
+"$825 - 1,115",Studio - 2 Beds,"2990 Hickory Hill Rd, Memphis, TN 38115"
+"$885 - 1,105",Studio - 2 Beds,"6301 Village Grove Dr, Memphis, TN 38115"
+"$875 - 1,200",1-2 Beds,"108 N Belvedere Blvd, Memphis, TN 38104"
+"$1,169 - 2,629",1-3 Beds,"1445 River Estates Dr, Memphis, TN 38103"
+"$755 - 3,020",2-4 Beds,"3565 Mynders Ave, Memphis, TN 38111"
+$755 - 895,1-2 Beds,"4435 Powell Ave, Memphis, TN 38122"
+"$749 - 1,099",1-3 Beds,"2831 Fosterwood Dr, Memphis, TN 38115"
+$699 - 900,1-2 Beds,"1368-1438 E Winchester Rd, Memphis, TN 38116"
+$699 - 900,1-2 Beds,"3108 New Allen Rd, Memphis, TN 38128"
+"$394 - 1,534",1-4 Beds,"2998 Tillman Cv, Memphis, TN 38112"
+"$1,325 - 3,579",Studio - 3 Beds,"67 Madison Ave, Memphis, TN 38103"
+"$1,190 - 1,692",1-2 Beds,"100 Gayoso Ave, Memphis, TN 38103"
+"$975 - 1,550",Studio - 1 Bed,"110 Barboro Aly, Memphis, TN 38103"
+"$922 - 1,251",1-2 Beds,"3169 Kirby Pky, Memphis, TN 38115"
+"$1,803 - 2,989",Studio - 3 Beds,"1350 Concourse Ave, Memphis, TN 38104"
+$950,1 Bed,"461 S Highland St, Memphis, TN 38111"
+"$1,185 - 1,936",1-3 Beds,"6625 Monticello Ln, Memphis, TN 38115"
+"$1,292 - 2,684",1-3 Beds,"1298 Mount Hope Dr, Memphis, TN 38103"
+"$1,045 - 1,974",1-2 Beds,"10 S Main St, Memphis, TN 38103"
+"$1,095 - 1,125",2 Beds,"1655 Madison Ave, Memphis, TN 38104"
+"$1,050 - 1,175",1-2 Beds,"300 N Highland St, Memphis, TN 38111"
+"$1,074 - 1,477",1-3 Beds,"6939 Dusty Trail Ln, Memphis, TN 38133"
+"$927 - 1,283",Studio - 1 Bed,"1391 Court Ave, Memphis, TN 38104"
+"$1,200 - 2,368",1-3 Beds,"1440 Island Park Dr, Memphis, TN 38103"
+"$619 - 1,140",Studio - 4 Beds,"3601 Midland Ave, Memphis, TN 38111"
+$855 - 920,1-2 Beds,"1594 E Holmes Rd, Memphis, TN 38116"
+$599 - 845,Studio - 2 Beds,"3314 S Woodlake Cir, Memphis, TN 38118"
+"$1,295",2 Beds,"1796-1800 Poplar Ave, Memphis, TN 38104"
+$699 - 800,2 Beds,"2281 Ketchum Rd, Memphis, TN 38114"
+"$825 - 1,050",2-3 Beds,"3920 Hickory Hill Rd, Memphis, TN 38115"
+$825 - 950,2 Beds,"2880 Beverly Hills Rd, Memphis, TN 38128"
+"$680 - 1,005",1-3 Beds,"6015 Summer Trace, Memphis, TN 38134"
+Call for Rent,1-3 Beds,"4733 Heather Row, Memphis, TN 38141"
+$725 - 825,1-2 Beds,"5001-5045 Airways Blvd, Memphis, TN 38116"
+Call for Rent,1-3 Beds,"374 Mill Ave, Memphis, TN 38107"
+$689 - 969,2 Beds,"1726 S Orleans St, Memphis, TN 38106"
+"$775 - 1,255",1-3 Beds,"3295 Riverdale Rd, Memphis, TN 38119"
+"$799 - 1,150",1-3 Beds,"1970 Sycamore View Rd, Memphis, TN 38134"
+$730 - 995,1-3 Beds,"4123 Aux Arms Dr, Memphis, TN 38128"
+"$680 - 1,150",1-3 Beds,"4168 The Place St, Memphis, TN 38128"
+"$2,215 /mo","4 Beds, 2.5 Baths","5587 Berryman Dr, Memphis, TN 38125"
+"$1,735 /mo","3 Beds, 2 Baths","5587 Berryman Dr, Memphis, TN 38125"
+"$1,845 /mo","3 Beds, 2.5 Baths","2776 Fletcher Park Cir E, Memphis, TN 38016"
+"$1,765 /mo","3 Beds, 2 Baths",House for Rent
+"$1,840 /mo","3 Beds, 2 Baths","4371 Bunker Hill Dr, Memphis, TN 38125"
+"$2,180 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,250 /mo","3 Beds, 2 Baths","8739 Overcup Oaks Dr, Memphis, TN 38018"
+"$2,125 /mo","3 Beds, 3 Baths",House for Rent
+"$1,875 /mo","3 Beds, 2.5 Baths","2256 Lake Hill Ct, Memphis, TN 38016"
+"$1,830 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,740 /mo","3 Beds, 2 Baths","2861 McVay Trail Dr, Memphis, TN 38119"
+"$1,780 /mo","3 Beds, 2 Baths",House for Rent
+"$1,695 /mo","3 Beds, 2 Baths","7553 Glen Laurel Way, Memphis, TN 38125"
+"$1,745 /mo","3 Beds, 2 Baths",House for Rent
+"$1,950 /mo","3 Beds, 2.5 Baths","2662 Country Downs Ln, Memphis, TN 38016"
+"$2,080 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,325 /mo","3 Beds, 2.5 Baths","2234 Burlingate Dr, Memphis, TN 38016"
+"$1,485 /mo","3 Beds, 2 Baths",House for Rent
+"$1,935 /mo","3 Beds, 2 Baths","7714 Newfound Gap Rd, Memphis, TN 38125"
+"$1,665 /mo","3 Beds, 2 Baths",House for Rent
+"$1,875 /mo","3 Beds, 2.5 Baths","5725 Morning Flower Dr, Memphis, TN 38135"
+"$1,990 /mo","3 Beds, 2 Baths",House for Rent
+"$2,135 /mo","3 Beds, 2 Baths","7166 Abbey Cove, Memphis, TN 38141"
+"$1,560 /mo","3 Beds, 2 Baths",House for Rent
+"$1,575 /mo","3 Beds, 2 Baths","735 Grovewood Dr, Memphis, TN 38018"
+"$2,280 /mo","4 Beds, 2 Baths",House for Rent
+"$2,358/mo","3 Beds, 2 Baths","6627 Cross Oak Cove, Memphis, TN 38141"
+"$2,170 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,528/mo","1 Bed, 1 Bath","8389 Palm Springs Dr, Memphis, TN 38016"
+"$1,920 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,960 /mo","3 Beds, 2 Baths","8872 Versilia Ave, Memphis, TN 38018"
+"$1,730 /mo","3 Beds, 2 Baths",House for Rent
+"$1,960 /mo","3 Beds, 2.5 Baths","4548 Bayhill Dr, Memphis, TN 38125"
+"$1,120 /mo","3 Beds, 1 Bath",House for Rent
+"$1,790 /mo","5 Beds, 2.5 Baths","8565 Griffin Park Dr, Memphis, TN 38018"
+"$1,145 /mo","3 Beds, 1 Bath",House for Rent
+"$1,270 /mo","3 Beds, 2 Baths","5305 Oak Court Cove N, Memphis, TN 38141"
+"$1,200 /mo","3 Beds, 1 Bath",House for Rent
+"$1,370 /mo","3 Beds, 2 Baths","7907 Tankard Dr, Memphis, TN 38125"
+"$1,620 /mo","3 Beds, 2 Baths","4022 Castile St, Memphis, TN 38135"
+"$1,530 /mo","3 Beds, 2 Baths",House for Rent
+"$1,930 /mo","3 Beds, 2.1 Baths","6876 Innsbrook Cove, Memphis, TN 38115"
+"$1,465 /mo","3 Beds, 2 Baths",House for Rent
+"$2,070 /mo","4 Beds, 2.2 Baths","7126 Abbey Cove, Memphis, TN 38141"
+"$1,620 /mo","3 Beds, 2 Baths",House for Rent
+"$2,225 /mo","4 Beds, 2.5 Baths","2563 Country Trail Dr, Memphis, TN 38133"
+"$2,245 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,175 /mo","4 Beds, 2 Baths","3866 Silver Chalice Dr, Memphis, TN 38115"
+"$1,550 /mo","3 Beds, 2 Baths",House for Rent
+"$1,220 /mo","3 Beds, 1 Bath","6527 Red Birch Dr, Memphis, TN 38115"
+"$1,700 /mo","3 Beds, 2 Baths",House for Rent
+"$2,245 /mo","4 Beds, 2 Baths","2834 Lanthorn Dr, Memphis, TN 38016"
+"$1,810 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,350 /mo","4 Beds, 3 Baths","1229 N Sanga Rd, Memphis, TN 38016"
+"$2,475 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,630 /mo","3 Beds, 2 Baths","6857 Dovefield Ln, Memphis, TN 38135"
+"$1,410 /mo","3 Beds, 2 Baths",House for Rent
+"$2,070 /mo","4 Beds, 2 Baths","4194 Dunn Ave, Memphis, TN 38111"
+"$1,750 /mo","3 Beds, 2 Baths",House for Rent
+"$1,795 /mo","3 Beds, 2 Baths","4237 Warbonnet St, Memphis, TN 38109"
+"$1,890 /mo","5 Beds, 3 Baths",House for Rent
+"$1,530 /mo","3 Beds, 2 Baths","5750 Saranac Ave, Memphis, TN 38135"
+"$1,645 /mo","3 Beds, 2 Baths",House for Rent
+"$1,915 /mo","3 Beds, 2 Baths","5545 Annandale Dr, Memphis, TN 38125"
+"$2,095 /mo","4 Beds, 2 Baths",House for Rent
+"$1,815 /mo","3 Beds, 2 Baths","4663 Royal View Dr, Memphis, TN 38128"
+"$1,400 /mo","3 Beds, 2 Baths",House for Rent
+"$1,875 /mo","3 Beds, 2 Baths","7056 Atherton Cove, Memphis, TN 38119"
+"$1,145 /mo","3 Beds, 1 Bath",House for Rent
+"$1,585 /mo","3 Beds, 2 Baths","2231 Oak Hollow Ln, Memphis, TN 38016"
+"$1,870 /mo","3 Beds, 2 Baths",House for Rent
+"$2,290 /mo","3 Beds, 2 Baths","6835 Sauterne Cove, Memphis, TN 38115"
+"$1,490 /mo","3 Beds, 2 Baths",House for Rent
+"$1,600 /mo","3 Beds, 2 Baths","4062 Hobson Rd, Memphis, TN 38128"
+"$1,625 /mo","3 Beds, 2 Baths",House for Rent
+"$1,625 /mo","3 Beds, 2 Baths","2966 Crowell St, Memphis, TN 38133"
+"$2,285 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,665 /mo","3 Beds, 2 Baths","7512 Val Marie Ln, Memphis, TN 38133"
+"$1,945 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,620 /mo","3 Beds, 2 Baths","685 N 5th St, Memphis, TN 38107"
+"$1,435 /mo","3 Beds, 2 Baths",House for Rent
+"$2,000 /mo","3 Beds, 2 Baths","3027 Curtis St, Memphis, TN 38118"
+"$1,490 /mo","3 Beds, 2 Baths",House for Rent
+"$1,385 /mo","4 Beds, 3 Baths","2727 Mendota Cove, Memphis, TN 38133"
+"$1,645 /mo","3 Beds, 2.1 Baths",House for Rent
+"$1,660 /mo","3 Beds, 2 Baths","5390 Timberdale Ave, Memphis, TN 38135"
+"$1,915 /mo","3 Beds, 2 Baths",House for Rent
+"$1,765 /mo","4 Beds, 2.5 Baths","2920 Bannockburn Rd, Memphis, TN 38128"
+"$2,260 /mo","3 Beds, 2 Baths",House for Rent
+"$1,415 /mo","3 Beds, 2 Baths","6737 Willow Way Ln, Memphis, TN 38141"
+"$1,615 /mo","3 Beds, 2 Baths",House for Rent
+"$1,795 /mo","3 Beds, 2.5 Baths","6233 Berry Hill Cove, Memphis, TN 38141"
+"$2,040 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,295 /mo","3 Beds, 2 Baths","4378 Castle Heights Dr, Memphis, TN 38141"
+"$2,320 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,375 /mo","3 Beds, 2 Baths","4193 Sevella Rd, Memphis, TN 38128"
+"$1,370 /mo","4 Beds, 1.5 Baths",House for Rent
+"$1,445 /mo","3 Beds, 1 Bath","7463 Hunter Trail Cove, Memphis, TN 38125"
+"$1,400 /mo","3 Beds, 2 Baths",House for Rent
+"$1,995 /mo","4 Beds, 2 Baths","6606 Mistletoe Cove, Memphis, TN 38141"
+"$1,745 /mo","4 Beds, 2 Baths",House for Rent
+"$1,680 /mo","3 Beds, 2 Baths","10219 Cottage Oaks Cove, Memphis, TN 38016"
+"$1,630 /mo","3 Beds, 2 Baths",House for Rent
+"$1,560 /mo","3 Beds, 2 Baths","2691 Bending Elm Dr, Memphis, TN 38016"
+"$1,700 /mo","3 Beds, 2 Baths",House for Rent
+"$1,695 /mo","4 Beds, 2.5 Baths","4562 Cognac Cove, Memphis, TN 38141"
+"$1,770 /mo","3 Beds, 2 Baths",House for Rent
+"$1,815 /mo","3 Beds, 2 Baths","499 Bedlington Dr, Memphis, TN 38018"
+"$2,825 /mo","5 Beds, 3 Baths",House for Rent
+"$1,830 /mo","3 Beds, 2 Baths","1990-1993 3 Pines Cove, Memphis, TN 38016"
+"$1,765 /mo","3 Beds, 2 Baths",House for Rent
+"$1,860 /mo","4 Beds, 2 Baths","4405 Indian Trail Dr, Memphis, TN 38141"
+"$1,645 /mo","3 Beds, 2 Baths",House for Rent
+"$2,310 /mo","4 Beds, 2.5 Baths","3754 Denver St, Memphis, TN 38127"
+"$1,385 /mo","3 Beds, 2 Baths",House for Rent
+"$1,830 /mo","3 Beds, 2 Baths","918 Brownlee Rd, Memphis, TN 38116"
+"$1,545 /mo","3 Beds, 2 Baths",House for Rent
+"$1,475 /mo","4 Beds, 2 Baths","4286 Appian Dr, Memphis, TN 38128"
+"$1,350 /mo","3 Beds, 1 Bath",House for Rent
+"$1,245 /mo","3 Beds, 1.5 Baths","5743 Woodbourne Ct, Memphis, TN 38115"
+"$1,515 /mo","3 Beds, 2 Baths",House for Rent
+"$1,200 /mo","2 Beds, 1 Bath","6525 Bald Cypress Cove, Memphis, TN 38141"
+"$2,345 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,865 /mo","4 Beds, 2 Baths","690 N Willett St, Memphis, TN 38107"
+"$1,635 /mo","3 Beds, 2 Baths",House for Rent
+"$1,370 /mo","3 Beds, 2 Baths","3559 Wincross Dr, Memphis, TN 38119"
+"$1,785 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,865 /mo","5 Beds, 2 Baths","114 Ericson Rd, Memphis, TN 38018"
+"$1,725 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,350 /mo","3 Beds, 2 Baths","6556 Rocky Park Dr, Memphis, TN 38141"
+"$2,205 /mo","5 Beds, 3 Baths",House for Rent
+"$1,450 /mo","3 Beds, 2 Baths","3380 Brookmeade St, Memphis, TN 38127"
+"$1,475 /mo","3 Beds, 1 Bath",House for Rent
+"$2,100 /mo","3 Beds, 2 Baths","8141 Walnut Valley Cove, Memphis, TN 38018"
+"$1,630 /mo","3 Beds, 2 Baths",House for Rent
+"$1,740 /mo","4 Beds, 2 Baths","5191 Kingswood Cove, Memphis, TN 38134"
+"$2,325 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,295 /mo","4 Beds, 2.5 Baths","4600 Stage Rd, Memphis, TN 38128"
+"$2,295 /mo","4 Beds, 2.5 Baths",House for Rent
+"$4,500 /mo","3 Beds, 3 Baths","2446 Verdun St, Memphis, TN 38114"
+$900 /mo,"2 Beds, 1 Bath",House for Rent
+$950 /mo,"3 Beds, 1 Bath","8441 Woolrich Dr, Memphis, TN 38016"
+"$1,645 /mo","3 Beds, 2.5 Baths",House for Rent
+$950 /mo,"3 Beds, 1 Bath","6684 Elmore Rd, Memphis, TN 38134"
+"$1,185 /mo","3 Beds, 2 Baths",House for Rent
+"$1,880 /mo","3 Beds, 2 Baths","1569 Marcia Rd, Memphis, TN 38117"
+"$1,975 /mo","3 Beds, 2 Baths",House for Rent
+"$1,480 /mo","3 Beds, 2 Baths","3470 Stone Chase Cove, Memphis, TN 38135"
+"$1,330 /mo","2 Beds, 1.5 Baths",House for Rent
+"$1,490 /mo","3 Beds, 2 Baths","7339 Eggleston Rd, Memphis, TN 38125"
+"$1,550 /mo","3 Beds, 2 Baths",House for Rent
+"$1,625 /mo","3 Beds, 2 Baths","5934 Macinness Dr, Memphis, TN 38119"
+"$2,700 /mo","3 Beds, 3.5 Baths",House for Rent
+"$1,625 /mo","3 Beds, 2 Baths","7258 N Old Farm Rd, Memphis, TN 38125"
+"$1,740 /mo","3 Beds, 2 Baths",House for Rent
+"$1,950 /mo","4 Beds, 2 Baths","5012 Horizon Cove, Memphis, TN 38125"
+"$1,582 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,660 /mo","3 Beds, 2 Baths","4815 Beaconfield Cove, Memphis, TN 38141"
+"$2,605 /mo","4 Beds, 2 Baths",House for Rent
+"$1,090 /mo","3 Beds, 1 Bath","3996 Mountain Terrace St, Memphis, TN 38127"
+"$1,615 /mo","4 Beds, 2 Baths",House for Rent
+"$1,645 /mo","3 Beds, 2 Baths","3385 Reynard Rd, Memphis, TN 38128"
+"$2,160 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,240 /mo","3 Beds, 1 Bath","6820 Rockingham Rd, Memphis, TN 38141"
+"$1,795 /mo","4 Beds, 3 Baths",House for Rent
+"$1,350 /mo","3 Beds, 1.5 Baths","325 Fleets Hill Dr, Memphis, TN 38018"
+"$1,745 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,905 /mo","3 Beds, 2 Baths","4241 Cherrydale Rd, Memphis, TN 38111"
+"$1,300 /mo","3 Beds, 1.5 Baths",House for Rent
+"$2,360 /mo","3 Beds, 2 Baths","7071 Atherton Cove, Memphis, TN 38119"
+"$1,720 /mo","3 Beds, 2 Baths",House for Rent
+"$1,625 /mo","4 Beds, 2 Baths","273 W Essex Ave, Memphis, TN 38109"
+"$1,130 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,270 /mo","3 Beds, 1.5 Baths","1451 Sandy Stone Ln, Memphis, TN 38016"
+"$1,390 /mo","3 Beds, 1 Bath",House for Rent
+"$1,585 /mo","3 Beds, 2 Baths","1330 Fox Trace Dr, Memphis, TN 38016"
+"$1,990 /mo","3 Beds, 2 Baths",House for Rent
+"$1,525 /mo","3 Beds, 1.5 Baths","5118 Lexie Dr, Memphis, TN 38116"
+"$1,815 /mo","3 Beds, 2 Baths",House for Rent
+"$1,435 /mo","3 Beds, 2 Baths","3683 Oak Walk Cove, Memphis, TN 38135"
+"$1,725 /mo","3 Beds, 2 Baths",House for Rent
+"$1,465 /mo","3 Beds, 2 Baths","4627 Benoit Dr, Memphis, TN 38141"
+"$1,885 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,420 /mo","3 Beds, 2 Baths","3739 Rippling Creek Cove, Memphis, TN 38135"
+"$2,150 /mo","4 Beds, 3 Baths",House for Rent
+"$1,625 /mo","3 Beds, 2 Baths","4899 Dianne Dr, Memphis, TN 38116"
+"$1,695 /mo","4 Beds, 2 Baths",House for Rent
+"$1,350 /mo","3 Beds, 1.5 Baths","3158 Mensi St, Memphis, TN 38127"
+"$1,750 /mo","3 Beds, 2 Baths",House for Rent
+"$1,450 /mo","3 Beds, 1 Bath","1771 Danville Rd, Memphis, TN 38117"
+$900 /mo,"2 Beds, 1 Bath",House for Rent
+"$1,495 /mo","3 Beds, 2 Baths","5125 Warfield Dr, Memphis, TN 38117"
+"$1,490 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,035 /mo","3 Beds, 2.5 Baths","970 Hawkview Dr, Memphis, TN 38018"
+"$1,500 /mo","3 Beds, 1 Bath",House for Rent
+"$1,500/mo","1 Bed, 1 Bath","842 Eastern Dr, Memphis, TN 38122"
+"$2,025 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,525 /mo","3 Beds, 2 Baths","1104 Celtic Cove, Memphis, TN 38134"
+"$2,390 /mo","4 Beds, 3 Baths",House for Rent
+"$1,735 /mo","3 Beds, 2 Baths","5340 Stephen Forest Cove, Memphis, TN 38141"
+"$1,325 /mo","3 Beds, 2 Baths",House for Rent
+"$2,245 /mo","3 Beds, 2 Baths","2631 Parkview Dr, Memphis, TN 38128"
+"$1,900 /mo","3 Beds, 2 Baths",House for Rent
+"$1,790 /mo","3 Beds, 2 Baths","5554 Harvey Pointe Ln, Memphis, TN 38125"
+"$1,850 /mo","3 Beds, 2 Baths",House for Rent
+"$1,530 /mo","3 Beds, 2 Baths","2778 Fletcher View Dr, Memphis, TN 38016"
+"$1,990 /mo","3 Beds, 2 Baths",House for Rent
+"$1,835 /mo","3 Beds, 2 Baths","7310 Old Dominion Ct, Memphis, TN 38125"
+"$2,150 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,990 /mo","3 Beds, 2.5 Baths","9285 Morning Park Dr, Memphis, TN 38016"
+"$1,450 /mo","3 Beds, 2 Baths",House for Rent
+"$1,630 /mo","3 Beds, 2 Baths","4551 Cedargreen Cove, Memphis, TN 38128"
+"$1,745 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,995 /mo","3 Beds, 2 Baths","9407 Garden Woods Dr, Memphis, TN 38016"
+"$1,715 /mo","3 Beds, 2 Baths",House for Rent
+"$1,425 /mo","3 Beds, 2 Baths","423 Cairn Cove, Memphis, TN 38018"
+"$1,845 /mo","3 Beds, 2 Baths",House for Rent
+"$1,895/mo","3 Beds, 2 Baths","8531 Griffin Park Dr, Memphis, TN 38018"
+"$1,645 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,485 /mo","3 Beds, 2 Baths","8684 Eagle View Dr, Memphis, TN 38018"
+"$1,895 /mo","4 Beds, 3 Baths",House for Rent
+"$1,935 /mo","3 Beds, 2 Baths","2154 Eveningview Dr, Memphis, TN 38134"
+"$1,865 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,855 /mo","3 Beds, 2 Baths","3795 Chablis Cove, Memphis, TN 38115"
+"$1,515 /mo","3 Beds, 2 Baths",House for Rent
+"$1,985 /mo","3 Beds, 2.5 Baths","4415 Bunker Hill Dr, Memphis, TN 38125"
+"$1,570 /mo","3 Beds, 2 Baths",House for Rent
+"$1,730 /mo","3 Beds, 2 Baths","6561 Bald Oak Dr, Memphis, TN 38141"
+"$1,945 /mo","3 Beds, 2 Baths",House for Rent
+"$3,000 /mo","1 Bed, 1 Bath","7119 Maryland Cir S, Memphis, TN 38133"
+"$4,500 /mo","3 Beds, 2 Baths",House for Rent
+"$1,695 /mo","3 Beds, 2 Baths","4415 Sunnyslope Dr, Memphis, TN 38141"
+"$1,845 /mo","3 Beds, 2 Baths",House for Rent
+"$1,860 /mo","3 Beds, 2.5 Baths","4730 Callaway Hills Dr, Memphis, TN 38125"
+"$1,385 /mo","3 Beds, 2 Baths",House for Rent
+"$1,885 /mo","3 Beds, 2.5 Baths","1074 S Barksdale St, Memphis, TN 38114"
+"$1,795 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$1,560 /mo","3 Beds, 2.5 Baths","4689 Waterfront Oak Dr, Memphis, TN 38128"
+"$1,495 /mo","3 Beds, 2 Baths",House for Rent
+"$1,540 /mo","3 Beds, 2 Baths","6847 Cleary Dr, Memphis, TN 38141"
+"$1,415 /mo","3 Beds, 2 Baths",House for Rent
+"$1,515 /mo","3 Beds, 2 Baths","6861 Valley Park Dr, Memphis, TN 38115"
+"$1,400 /mo","2 Beds, 1.5 Baths",House for Rent
+"$1,900 /mo","3 Beds, 2 Baths","6702 Valley Park Dr, Memphis, TN 38115"
+"$2,085 /mo","3 Beds, 2 Baths",House for Rent
+"$2,190 /mo","3 Beds, 2 Baths","4318 Appian Dr, Memphis, TN 38128"
+"$1,450 /mo","3 Beds, 1 Bath",House for Rent
+"$1,690 /mo","3 Beds, 2 Baths","5100 Kennet Ct, Memphis, TN 38141"
+"$1,850 /mo","3 Beds, 2 Baths",House for Rent
+"$2,090 /mo","3 Beds, 2.5 Baths","4488 Oakden Ln., Memphis, TN 38125"
+"$1,820 /mo","3 Beds, 2 Baths",House for Rent
+"$2,300 /mo","4 Beds, 2.5 Baths","8580 Griffin Park Dr, Memphis, TN 38018"
+"$1,855 /mo","3 Beds, 2 Baths",House for Rent
+"$1,840 /mo","3 Beds, 2.5 Baths","1016 Sheridan St, Memphis, TN 38107"
+"$1,820 /mo","3 Beds, 2 Baths",House for Rent
+"$1,950 /mo","4 Beds, 2.5 Baths","2692 Breezy Ridge Trail, Memphis, TN 38016"
+"$1,300 /mo","3 Beds, 1 Bath",House for Rent
+"$1,720 /mo","3 Beds, 2 Baths","5375 Lock Bay Ln, Memphis, TN 38135"
+"$1,825 /mo","3 Beds, 2 Baths",House for Rent
+"$2,145 /mo","3 Beds, 2.5 Baths","8687 Overcup Oaks Dr, Memphis, TN 38018"
+"$1,920 /mo","4 Beds, 2.1 Baths",House for Rent
+"$2,110 /mo","4 Beds, 2 Baths","475 N Ericson Rd, Memphis, TN 38018"
+"$1,940 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,955 /mo","3 Beds, 2.5 Baths","8906 Chimneyrock Blvd., Memphis, TN 38016"
+"$1,545 /mo","3 Beds, 2 Baths",House for Rent
+"$1,775 /mo","3 Beds, 2 Baths","755 N Sanga Rd, Memphis, TN 38018"
+"$1,800 /mo","4 Beds, 2 Baths",House for Rent
+"$1,830 /mo","4 Beds, 2.5 Baths","7767 Parkmont Dr, Memphis, TN 38125"
+"$1,775 /mo","3 Beds, 2 Baths",House for Rent
+"$1,675 /mo","3 Beds, 2 Baths","1643 Ranmar Dr, Memphis, TN 38016"
+"$1,945 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,445 /mo","3 Beds, 2 Baths","8711 Rogers Park Ave, Memphis, TN 38016"
+"$1,880 /mo","3 Beds, 2 Baths",House for Rent
+"$1,580 /mo","3 Beds, 2 Baths","3881 Windy Ave, Memphis, TN 38128"
+"$1,790 /mo","3 Beds, 2 Baths",House for Rent
+"$1,845 /mo","3 Beds, 2 Baths","7330 Peppermill Ln, Memphis, TN 38125"
+"$1,835 /mo","3 Beds, 2 Baths",House for Rent
+"$1,695 /mo","3 Beds, 2 Baths","6488 Rocky Park Dr, Memphis, TN 38141"
+"$1,540 /mo","4 Beds, 2 Baths",House for Rent
+"$1,980 /mo","3 Beds, 2.5 Baths","10047 Cameron Ridge TR, Memphis, TN 38016"
+"$1,525 /mo","3 Beds, 2 Baths",House for Rent
+"$1,405 /mo","3 Beds, 2 Baths","4549 Cedar Leaf Cove, Memphis, TN 38128"
+"$1,575 /mo","3 Beds, 2 Baths",House for Rent
+"$1,590 /mo","3 Beds, 2.5 Baths","4439 S Cedar Bark Cove, Memphis, TN 38128"
+"$2,160 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,200 /mo","4 Beds, 2.5 Baths","4561 Longtree Ave, Memphis, TN 38128"
+"$2,490 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,320 /mo","5 Beds, 3 Baths","4547 Cedar Ridge Cove, Memphis, TN 38128"
+"$1,770 /mo","4 Beds, 2 Baths",House for Rent
+"$1,840 /mo","3 Beds, 2 Baths","4751 Ridge Walk Ln, Memphis, TN 38125"
+"$2,320 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,185 /mo","4 Beds, 2 Baths","3019 Long Bridge Cv, Arlington, TN 38002"
+"$2,030 /mo","4 Beds, 2 Baths",House for Rent
+"$1,770 /mo","3 Beds, 2 Baths","346 Ericson Rd, Cordova, TN 38018"
+"$2,920/mo","3 Beds, 2.5 Baths",House for Rent
+"$1,790 /mo","3 Beds, 2 Baths","294 Spruce Glen Cv, Cordova, TN 38018"
+"$1,950 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,930 /mo","3 Beds, 2 Baths","3940 Neyland Valley Dr, Bartlett, TN 38135"
+"$1,995 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,305 /mo","4 Beds, 3 Baths","7248 Bridgefield Dr, Cordova, TN 38018"
+"$1,750 /mo","3 Beds, 2 Baths",House for Rent
+"$2,015 /mo","4 Beds, 2.5 Baths","8303 Windsor Ln, Southaven, MS 38672"
+"$1,920 /mo","3 Beds, 2 Baths",House for Rent
+"$2,771/mo","3 Beds, 2 Baths","6197 Vera Ln, Olive Branch, MS 38654"
+"$2,030 /mo","3 Beds, 2 Baths",House for Rent
+"$1,965 /mo","3 Beds, 2 Baths","9460 Eckley Pl, Cordova, TN 38018"
+"$2,095 /mo","3 Beds, 2 Baths",House for Rent
+"$1,810 /mo","3 Beds, 2 Baths","1067 Nolan Ln, Cordova, TN 38018"
+"$2,675 /mo","4 Beds, 2 Baths",House for Rent
+"$2,135 /mo","4 Beds, 2 Baths","7865 Grove Ct W, Germantown, TN 38138"
+"$2,000 /mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,880 /mo","3 Beds, 2 Baths","9626 Wood Green Ln, Lakeland, TN 38002"
+"$1,995 /mo","3 Beds, 2.1 Baths",House for Rent
+"$1,465 /mo","3 Beds, 2 Baths","1772 Englehart St, Cordova, TN 38016"
+"$1,865 /mo","4 Beds, 2.1 Baths",House for Rent
+"$2,240 /mo","3 Beds, 2 Baths","3101 Ultragreen Ln, Lakeland, TN 38002"
+"$1,345 /mo","3 Beds, 3 Baths",House for Rent
+"$2,075 /mo","4 Beds, 2.5 Baths","9702 Tributary Cove, Arlington, TN 38002"
+"$1,705 /mo","4 Beds, 2 Baths",House for Rent
+"$1,925 /mo","3 Beds, 2 Baths","6078 Camelia Ln, Bartlett, TN 38134"
+"$2,410 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,670 /mo","3 Beds, 2 Baths","1340 Chrysalis Ln, Cordova, TN 38016"
+"$1,445 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,980 /mo","3 Beds, 3 Baths","7095 Manslick Rd, Cordova, TN 38018"
+"$2,045 /mo","3 Beds, 2 Baths",House for Rent
+"$2,090 /mo","3 Beds, 2 Baths","8396 Dottley Dr, Southaven, MS 38671"
+"$1,725 /mo","4 Beds, 2 Baths",House for Rent
+"$1,850 /mo","3 Beds, 2 Baths","1182 Cordova Green Dr, Cordova, TN 38018"
+"$1,545 /mo","3 Beds, 2 Baths",House for Rent
+"$1,805 /mo","3 Beds, 2 Baths","8231 Wesley Woods Cir, Cordova, TN 38016"
+"$2,045 /mo","4 Beds, 2 Baths",House for Rent
+"$1,680 /mo","3 Beds, 2 Baths","9326 Sarsen Dr, Cordova, TN 38016"
+"$1,815 /mo","3 Beds, 2 Baths",House for Rent
+"$1,870 /mo","3 Beds, 2 Baths","2340 Barbaro Dr, Bartlett, TN 38134"
+"$1,735 /mo","3 Beds, 2 Baths",House for Rent
+"$1,610 /mo","3 Beds, 2 Baths","1621 Torrington Dr, Cordova, TN 38016"
+"$2,674/mo","2 Beds, 2 Baths",House for Rent
+"$2,080 /mo","4 Beds, 2 Baths","7048 Brady Hill Dr, Cordova, TN 38018"
+"$1,705 /mo","3 Beds, 2 Baths",House for Rent
+"$2,580/mo","2 Beds, 2 Baths","1323 Appling Rd, Cordova, TN 38016"
+"$1,985 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,895 /mo","3 Beds, 2 Baths","1976 Chartridge Dr, Cordova, TN 38016"
+"$2,050 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,250 /mo","3 Beds, 3 Baths","7023 Parkbrook Ln, Cordova, TN 38018"
+"$1,780 /mo","3 Beds, 2 Baths",House for Rent
+"$2,055 /mo","3 Beds, 2 Baths","1516 Beringer Dr, Cordova, TN 38018"
+"$2,205 /mo","3 Beds, 2 Baths",House for Rent
+"$1,889 /mo","4 Beds, 2.5 Baths","1850 Gilden St, Cordova, TN 38016"
+"$1,925 /mo","3 Beds, 2 Baths",House for Rent
+"$1,980 /mo","4 Beds, 2.5 Baths","6987 Country Walk Dr, Cordova, TN 38018"
+"$1,695 /mo","3 Beds, 2 Baths",House for Rent
+"$2,150 /mo","4 Beds, 2 Baths","7085 Lindsey Leaf Cove, Cordova, TN 38018"
+"$2,015 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,880 /mo","4 Beds, 2 Baths","7865 Grove Ct W, Germantown, TN 38138"
+"$1,740 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,710 /mo","3 Beds, 2 Baths","1848 Roy Dr, Southaven, MS 38671"
+"$2,350 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,563/mo","2 Beds, 2 Baths","2768 Maggie Woods Ln, Arlington, TN 38002"
+"$2,190 /mo","3 Beds, 2.1 Baths",House for Rent
+"$1,655 /mo","3 Beds, 2.5 Baths","9262 Lazzini Cove, Cordova, TN 38016"
+"$1,965 /mo","3 Beds, 2 Baths",House for Rent
+"$2,210 /mo","3 Beds, 2 Baths","1486 Beringer Dr, Cordova, TN 38018"
+"$2,010 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,795 /mo","3 Beds, 2.5 Baths","8038 Switzer Dr, Southaven, MS 38671"
+"$1,735 /mo","3 Beds, 2 Baths",House for Rent
+"$2,015 /mo","3 Beds, 2 Baths","6993 Luxor Ln, Cordova, TN 38018"
+"$1,750 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,975 /mo","3 Beds, 2 Baths","10027 Branley Oak Dr, Cordova, TN 38016"
+"$1,715 /mo","3 Beds, 2 Baths",House for Rent
+"$1,830 /mo","3 Beds, 2 Baths","7116 Showboat Ln, Cordova, TN 38018"
+"$1,600 /mo","3 Beds, 2 Baths",House for Rent
+"$2,000 /mo","1 Bed, 1 Bath","10096 Mill Hill Ave, Cordova, TN 38016"
+$999/mo,"2 Beds, 1 Bath",House for Rent
+"$3,000/mo","1 Bed, 1.5 Baths","2802 Maggie Woods Ln, Arlington, TN 38002"
+"$1,950 /mo","2 Beds, 2 Baths",House for Rent
+$750 /mo,"2 Beds, 1 Bath","6963 Naples Dr, Cordova, TN 38018"
+"$2,100 /mo","3 Beds, 2 Baths",House for Rent
+"$2,500 /mo","3 Beds, 2.5 Baths","2769 Virginia Woods Pl, Arlington, TN 38002"
+"$1,375 /mo","3 Beds, 1 Bath",House for Rent
+"$2,250 /mo","3 Beds, 2 Baths","9205 Triple Crown Loop N, Southaven, MS 38671"
+"$1,395/mo","3 Beds, 1 Bath",House for Rent
+"$1,395 - 1,895/mo","1-3 Beds, 1-2 Baths","1411 Lagrange Downs, Cordova, TN 38018"
+$950 /mo,"1 Bed, 1 Bath",House for Rent
+"$995 - 1,195/mo","1-2 Beds, 1 Bath","399 N Sanga Rd, Memphis, TN 38018"
+"$2,550 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,095 /mo","2 Beds, 1 Bath","1751 Poplar Ave, Memphis, TN 38104"
+"$1,450 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,395/mo","3 Beds, 1 Bath","493 Tennessee St, Memphis, TN 38103"
+$850/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$1,550 /mo","2 Beds, 1 Bath","1322 Harbor Park Dr, Memphis, TN 38103"
+$895/mo,"2 Beds, 1 Bath",House for Rent
+"$1,200/mo","4 Beds, 2 Baths","1863 Cloverdale Drive, Memphis, TN 38114"
+"$1,650 /mo","3 Beds, 2 Baths",House for Rent
+"$1,725/mo","2 Beds, 1.5 Baths","464 S White Station Rd, Memphis, TN 38117"
+"$1,600/mo","2 Beds, 2 Baths",House for Rent
+"$1,600 /mo","3 Beds, 1 Bath","1124 Misty Isle Dr, Memphis, TN 38103"
+"$1,750/mo","2 Beds, 2.5 Baths",House for Rent
+"$2,700 /mo","3 Beds, 2 Baths","1249 Wedgewood St, Memphis, TN 38111"
+"$1,150/mo","1 Bed, 1.5 Baths",House for Rent
+"$1,200 /mo","2 Beds, 1 Bath","4696 Dalton Rd, Memphis, TN 38109"
+"$1,150/mo","4 Beds, 3 Baths",House for Rent
+"$1,250 /mo","3 Beds, 1.5 Baths","1810 Wilchester Ln, Memphis, TN 38116"
+"$1,600 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,550 /mo","3 Beds, 2 Baths","3696 Kerwin Dr, Memphis, TN 38128"
+"$1,495 /mo","3 Beds, 2 Baths",House for Rent
+"$1,625 /mo","3 Beds, 2 Baths","4022 Castile St, Memphis, TN 38135"
+"$1,700/mo","2 Beds, 2 Baths",House for Rent
+"$3,900 /mo","5 Beds, 4.5 Baths","6876 Innsbrook Cove, Memphis, TN 38115"
+"$1,400 /mo","3 Beds, 2 Baths",House for Rent
+"$1,510 /mo","3 Beds, 2 Baths","3621 Jireh Dr, Memphis, TN 38128"
+$970 /mo,"2 Beds, 1 Bath",House for Rent
+"$1,200 /mo","3 Beds, 2 Baths","4783 Kitty Dr, Memphis, TN 38128"
+"$1,315 /mo","3 Beds, 2 Baths",House for Rent
+"$3,800 /mo","5 Beds, 4.5 Baths","356 Perkins Extd, Memphis, TN 38117"
+"$1,970 /mo","3 Beds, 2.5 Baths",Townhouse for Rent
+"$2,215 /mo","4 Beds, 2 Baths","3515 Mimosa Ave, Memphis, TN 38111"
+"$1,550 /mo","3 Beds, 2 Baths",House for Rent
+"$2,200 /mo","4 Beds, 2.5 Baths","6559 Cross Oak Dr, Memphis, TN 38141"
+$995 /mo,"3 Beds, 1 Bath",House for Rent

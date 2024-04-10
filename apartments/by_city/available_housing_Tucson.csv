@@ -1,0 +1,543 @@
+price,rooms,address
+"$1,200 - 1,800",Studio - 2 Beds,"6901 E Broadway Blvd, Tucson, AZ 85710"
+"$1,420 - 2,080",1-3 Beds,"10950 N LaCanada Dr, Tucson, AZ 85737"
+"$820 - 1,730",1-3 Beds,"3535 N 1st Ave, Tucson, AZ 85719"
+"$1,509 - 2,272",1-3 Beds,"7990 E Snyder Rd, Tucson, AZ 85750"
+"$1,024 - 1,810",1-2 Beds,"1970 W Old Magee Trl, Tucson, AZ 85704"
+"$689 - 1,299",Studio - 2 Beds,"919 N Stone Ave, Tucson, AZ 85705"
+"$1,099 - 1,720",1-4 Beds,"2800 W Broadway Blvd, Tucson, AZ 85745"
+"$1,225 - 2,950",Studio - 3 Beds,"350 E Congress St, Tucson, AZ 85701"
+"$850 - 1,250",Studio - 2 Beds,"6821 E Broadway Blvd, Tucson, AZ 85710"
+"$759 - 1,299",Studio - 3 Beds,"4880 E 29th St, Tucson, AZ 85711"
+"$1,509 - 4,596",1-2 Beds,"3510 N Craycroft Rd, Tucson, AZ 85718"
+"$1,527 - 1,890",1-2 Beds,"7430 N Silverbell Rd, Tucson, AZ 85743"
+"$999 - 1,650",Studio - 1 Bed,"475 N Granada Ave, Tucson, AZ 85701"
+"$1,950 - 2,350",2-3 Beds,"2805 S Park Ave, Tucson, AZ 85713"
+"$1,784 - 2,149",3 Beds,"4267 N 4th Ave, Tucson, AZ 85705"
+"$1,410 - 2,125",Studio - 3 Beds,"8150 N La Cholla Blvd, Tucson, AZ 85742"
+"$1,210 - 2,199",Studio - 5 Beds,"1023 N Tyndall Ave, Tucson, AZ 85719"
+"$899 - 1,325",1-2 Beds,"8550 E Speedway, Tucson, AZ 85710"
+"$739 - 1,906",Studio - 2 Beds,"5755 E River Rd, Tucson, AZ 85750"
+"$1,050 - 1,745",1-4 Beds,"850 E Wetmore Rd, Tucson, AZ 85719"
+"$1,299 - 1,669",2-4 Beds,"2162 W Speedway Blvd, Tucson, AZ 85745"
+"$1,299 - 2,224",Studio - 5 Beds,"1020 N Tyndall Ave, Tucson, AZ 85719"
+"$1,518 - 2,275",1-3 Beds,"1301 W Lambert Ln, Tucson, AZ 85737"
+"$1,242 - 3,137",1-3 Beds,"3220 W Ina Rd, Tucson, AZ 85741"
+"$1,199 - 1,755",2-3 Beds,"4415 E Grant Rd, Tucson, AZ 85712"
+"$1,375 - 1,620",1-2 Beds,"3300 N Paseo De Los Rios, Tucson, AZ 85712"
+"$1,247 - 2,379",1-3 Beds,"8250 E Golf Links Rd, Tucson, AZ 85730"
+"$1,030 - 1,490",1-3 Beds,"2255 W Orange Grove Rd, Tucson, AZ 85741"
+"$1,164 - 1,819",1-3 Beds,"5400 E Williams Blvd, Tucson, AZ 85711"
+"$1,395 - 1,595",1-3 Beds,"9225 E Tanque Verde Dr, Tucson, AZ 85749"
+"$869 - 1,549",Studio - 3 Beds,"1345 S Kolb Rd, Tucson, AZ 85710"
+"$803 - 1,680",Studio - 3 Beds,"2800 S Mission Rd, Tucson, AZ 85713"
+"$1,338 - 2,980",1-3 Beds,"4701 W Linda Vista Blvd, Tucson, AZ 85742"
+"$1,256 - 2,324",1-3 Beds,"3980 W Linda Vista Blvd, Tucson, AZ 85742"
+"$1,323 - 1,856",1-3 Beds,"4880 N Sabino Canyon Rd, Tucson, AZ 85750"
+"$1,115 - 1,839",1-3 Beds,"4545 N Via Entrada Via, Tucson, AZ 85718"
+"$865 - 1,399",1-2 Beds,"3350 W Valencia Rd, Tucson, AZ 85746"
+$758 - 885,Studio - 1 Bed,"4250 E 29th St, Tucson, AZ 85711"
+"$1,374 - 1,581",1-2 Beds,"5100 N La Canada Dr, Tucson, AZ 85704"
+"$1,085 - 1,570",1-3 Beds,"3201-3225 W Ina Rd, Tucson, AZ 85741"
+"$1,200 - 1,800",Studio - 2 Beds,"6901 E Broadway Blvd, Tucson, AZ 85710"
+"$1,420 - 2,080",1-3 Beds,"10950 N LaCanada Dr, Tucson, AZ 85737"
+"$820 - 1,730",1-3 Beds,"3535 N 1st Ave, Tucson, AZ 85719"
+"$1,509 - 2,272",1-3 Beds,"7990 E Snyder Rd, Tucson, AZ 85750"
+"$1,024 - 1,810",1-2 Beds,"1970 W Old Magee Trl, Tucson, AZ 85704"
+"$689 - 1,299",Studio - 2 Beds,"919 N Stone Ave, Tucson, AZ 85705"
+"$1,099 - 1,720",1-4 Beds,"2800 W Broadway Blvd, Tucson, AZ 85745"
+"$1,225 - 2,950",Studio - 3 Beds,"350 E Congress St, Tucson, AZ 85701"
+"$850 - 1,250",Studio - 2 Beds,"6821 E Broadway Blvd, Tucson, AZ 85710"
+"$759 - 1,299",Studio - 3 Beds,"4880 E 29th St, Tucson, AZ 85711"
+"$1,509 - 4,596",1-2 Beds,"3510 N Craycroft Rd, Tucson, AZ 85718"
+"$1,527 - 1,890",1-2 Beds,"7430 N Silverbell Rd, Tucson, AZ 85743"
+"$999 - 1,650",Studio - 1 Bed,"475 N Granada Ave, Tucson, AZ 85701"
+"$1,950 - 2,350",2-3 Beds,"2805 S Park Ave, Tucson, AZ 85713"
+"$1,784 - 2,149",3 Beds,"4267 N 4th Ave, Tucson, AZ 85705"
+"$1,410 - 2,125",Studio - 3 Beds,"8150 N La Cholla Blvd, Tucson, AZ 85742"
+"$1,210 - 2,199",Studio - 5 Beds,"1023 N Tyndall Ave, Tucson, AZ 85719"
+"$899 - 1,325",1-2 Beds,"8550 E Speedway, Tucson, AZ 85710"
+"$1,028 - 1,700",Studio - 2 Beds,"7671 E Tanque Verde Rd, Tucson, AZ 85715"
+"$799 - 1,349",Studio - 2 Beds,"1881 E Irvington Rd, Tucson, AZ 85714"
+"$774 - 1,573",Studio - 2 Beds,"7400 E Golf Links Rd, Tucson, AZ 85730"
+"$1,590 - 2,650",Studio - 2 Beds,"316 E 6th St, Tucson, AZ 85705"
+"$825 - 2,750",Studio - 5 Beds,"800 N Country Club Dr, Tucson, AZ 85716"
+"$1,325 - 2,310",Studio - 3 Beds,"4640 Calle Santa Cruz, Tucson, AZ 85714"
+"$1,545 - 3,016",1-3 Beds,"6355 Marana Center Blvd, Tucson, AZ 85742"
+"$1,150 - 1,650",1-2 Beds,"880 S Tucson Blvd, Tucson, AZ 85713"
+"$1,017 - 2,231",1-3 Beds,"350 N Harrison Rd, Tucson, AZ 85748"
+"$1,059 - 1,679",Studio - 2 Beds,"1102 E 36th St, Tucson, AZ 85713"
+"$1,025 - 1,380",1-2 Beds,"6250 S Commerce Ct, Tucson, AZ 85746"
+"$1,599 - 3,942",1-3 Beds,"255 N Granada Ave, Tucson, AZ 85701"
+"$805 - 2,560",Studio - 2 Beds,"60 W Stone Loop, Tucson, AZ 85704"
+"$925 - 2,310",Studio - 1 Bed,"128 S 5th Ave, Tucson, AZ 85701"
+"$900 - 1,874",1-2 Beds,"444 W Orange Grove Rd, Tucson, AZ 85704"
+"$1,180 - 1,620",1-2 Beds,"11 E Orange Grove Rd, Tucson, AZ 85704"
+"$799 - 1,110",1-2 Beds,"5000 S Country Club Rd, Tucson, AZ 85706"
+"$755 - 1,849",Studio - 2 Beds,"1701 N Wilmot Rd, Tucson, AZ 85712"
+"$784 - 2,016",1-2 Beds,"8225 E Speedway Blvd, Tucson, AZ 85710"
+"$840 - 1,245",Studio - 2 Beds,"2345 N Craycroft Rd, Tucson, AZ 85712"
+"$1,135 - 1,629",1-2 Beds,"7425 N Mona Lisa Rd, Tucson, AZ 85741"
+"$1,020 - 1,220",1 Bed,"5666 E Hampton St, Tucson, AZ 85712"
+"$776 - 1,632",1-2 Beds,"6161 E Grant Rd, Tucson, AZ 85712"
+"$794 - 1,639",Studio - 2 Beds,"4900 E 5th St, Tucson, AZ 85711"
+"$811 - 1,478",Studio - 2 Beds,"801 S Prudence Rd, Tucson, AZ 85710"
+"$755 - 1,085",Studio - 1 Bed,"2660 N Alvernon Way, Tucson, AZ 85712"
+"$799 - 1,079",1-2 Beds,"6200 S Campbell Ave, Tucson, AZ 85706"
+"$1,100 - 1,875",1-4 Beds,"41 S Shannon Rd, Tucson, AZ 85745"
+"$1,483 - 4,802",1-3 Beds,"8323 N Shannon Rd, Tucson, AZ 85742"
+"$1,049 - 1,799",1-3 Beds,"9777 N Thornydale Rd, Tucson, AZ 85742"
+"$894 - 3,294",1-3 Beds,"2120 N Silverbell Rd, Tucson, AZ 85745"
+"$851 - 2,279",1-2 Beds,"5441 N Swan Rd, Tucson, AZ 85718"
+"$1,520 - 3,202",1-3 Beds,"6101 W Arizona Pavilions Dr, Tucson, AZ 85743"
+"$859 - 1,719",1-2 Beds,"9000 E Speedway Blvd, Tucson, AZ 85710"
+$829,1 Bed,"3066 N Balboa Ave, Tucson, AZ 85705"
+$800 - 850,1 Bed,"5651 E Edison St, Tucson, AZ 85712"
+"$904 - 1,255",1-2 Beds,"3121 N Swan Rd, Tucson, AZ 85712"
+"$775 - 1,000",Studio - 2 Beds,"3814 E 4th St, Tucson, AZ 85716"
+"$869 - 1,399",1-2 Beds,"1111 W Saint Marys Rd, Tucson, AZ 85745"
+"$1,121 - 1,986",Studio - 3 Beds,"7300 N Mona Lisa Rd, Tucson, AZ 85741"
+"$1,350 - 1,595",1-2 Beds,"3250 E Fort Lowell Rd, Tucson, AZ 85716"
+"$939 - 2,058",1-2 Beds,"405 E Prince Rd, Tucson, AZ 85705"
+"$795 - 1,150",1-2 Beds,"555 E Limberlost Dr, Tucson, AZ 85705"
+"$750 - 1,090",1-3 Beds,"1050 E 8th St, Tucson, AZ 85719"
+"$859 - 1,049",1-2 Beds,"252 W Valencia Rd, Tucson, AZ 85706"
+"$699 - 1,239",Studio - 2 Beds,"1252 S Craycroft Rd, Tucson, AZ 85711"
+$945,1 Bed,"1975 W 36th St, Tucson, AZ 85713"
+"$711 - 1,460",Studio - 1 Bed,"1 N 5th Ave, Tucson, AZ 85701"
+"$2,350 /mo","4 Beds, 2.5 Baths","3002 N Mountain Ave, Tucson, AZ 85719"
+"$2,250 /mo","3 Beds, 2.5 Baths","3002 N Mountain Ave, Tucson, AZ 85719"
+"$2,275 /mo","4 Beds, 2.5 Baths","2152 N Country Club Rd, Tucson, AZ 85716"
+"$2,275 /mo","4 Beds, 2.5 Baths","2152 N Country Club Rd, Tucson, AZ 85716"
+"$2,070 /mo","3 Beds, 2 Baths","215 N Park Ave, Tucson, AZ 85719"
+"$2,000 /mo","4 Beds, 2.5 Baths","215 N Park Ave, Tucson, AZ 85719"
+"$2,065 /mo","3 Beds, 2.5 Baths","123 W Delano St, Tucson, AZ 85705"
+"$1,945 /mo","3 Beds, 2 Baths","123 W Delano St, Tucson, AZ 85705"
+"$1,850 /mo","3 Beds, 2 Baths","1060 N Swan Rd, Tucson, AZ 85711"
+"$2,095 /mo","4 Beds, 2.5 Baths","1060 N Swan Rd, Tucson, AZ 85711"
+"$1,815 /mo","3 Beds, 2 Baths","6110 E 5th St, Tucson, AZ 85711"
+"$1,665 /mo","3 Beds, 2 Baths","6110 E 5th St, Tucson, AZ 85711"
+"$2,070 /mo","3 Beds, 2.5 Baths","55 N Park Ave, Tucson, AZ 85719"
+"$2,025 /mo","4 Beds, 2 Baths","55 N Park Ave, Tucson, AZ 85719"
+"$2,420 /mo","4 Beds, 3 Baths","8490 E Old Spanish Trl, Tucson, AZ 85710"
+"$2,465 /mo","5 Beds, 3 Baths","8490 E Old Spanish Trl, Tucson, AZ 85710"
+"$1,805 /mo","3 Beds, 2 Baths","9164 E Sugar Sumac St, Tucson, AZ 85747"
+"$1,730/mo","1 Bed, 1 Bath",House for Rent
+"$1,895 /mo","3 Beds, 2 Baths","11 E Orange Grove Rd, Tucson, AZ 85704"
+"$1,960 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,135 /mo","4 Beds, 2 Baths","3395 Evening Star Ct, Tucson, AZ 85741"
+"$2,785 /mo","5 Beds, 4 Baths",House for Rent
+"$1,830 /mo","3 Beds, 2 Baths","9860 E Paseo San Rosendo, Tucson, AZ 85747"
+"$2,119/mo","1 Bed, 1 Bath",House for Rent
+"$2,145/mo","Studio, 1 Bath","6022 S Birchwood Dr, Tucson, AZ 85746"
+"$1,900/mo","2 Beds, 2 Baths",House for Rent
+"$1,700/mo","1 Bed, 1 Bath","8416 N Sand Flower Rd, Tucson, AZ 85743"
+"$1,995 /mo","4 Beds, 2 Baths",House for Rent
+"$2,280 /mo","4 Beds, 2 Baths","10159 E Desert Crossings Way, Tucson, AZ 85747"
+"$2,195 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,870 /mo","3 Beds, 2.5 Baths","4050 W Aerie Dr, Tucson, AZ 85741"
+"$1,830 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,695 /mo","3 Beds, 2 Baths","127 S 5th Ave, Tucson, AZ 85701"
+"$2,305 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$1,275/mo","2 Beds, 1 Bath","625 S Prudence Rd, Tucson, AZ 85710"
+"$2,195/mo","3 Beds, 2 Baths",Condo for Rent
+"$1,800 /mo","2 Beds, 1 Bath","2019 N Bell Ave, Tucson, AZ 85712"
+$900/mo,"1 Bed, 1 Bath",Townhome for Rent
+"$1,400/mo","2 Beds, 1 Bath","8452 E Rosewood St, Tucson, AZ 85710"
+"$2,175 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,275 /mo","4 Beds, 2.5 Baths","6492 W Harbin Ridge Way, Tucson, AZ 85757"
+$890/mo,"1 Bed, 1 Bath",House for Rent
+"$2,075 /mo","4 Beds, 2 Baths","6828 E Via Rancho Rosario, Tucson, AZ 85756"
+"$2,450 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,275 /mo","4 Beds, 2.5 Baths","7332 S MESSALA Ct, Tucson, AZ 85746"
+"$2,245 /mo","3 Beds, 3 Baths",House for Rent
+"$2,030 /mo","3 Beds, 2 Baths","7442 W Calle Colado, Tucson, AZ 85757"
+"$2,175 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,000 /mo","3 Beds, 2 Baths","120 W King Rd, Tucson, AZ 85705"
+"$2,080 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,980 /mo","4 Beds, 2 Baths","6968 S Martlet Dr, Tucson, AZ 85756"
+"$2,167/mo","2 Beds, 2 Baths",House for Rent
+"$1,960 /mo","3 Beds, 2 Baths","6632 Calle La Paz, Tucson, AZ 85715"
+"$1,945 /mo","3 Beds, 2.5 Baths",Townhome for Rent
+"$1,720 /mo","3 Beds, 2 Baths","5589 N Mica Mountain Dr, Tucson, AZ 85750"
+"$1,635 /mo","3 Beds, 2 Baths",Townhome for Rent
+"$1,605 /mo","3 Beds, 2 Baths","3303 N Los Altos Ave, Tucson, AZ 85705"
+"$1,745 /mo","3 Beds, 2 Baths",House for Rent
+"$1,795 /mo","3 Beds, 1.5 Baths","7428 E Vancouver Dr, Tucson, AZ 85730"
+"$1,790 /mo","3 Beds, 2 Baths",House for Rent
+"$1,570 /mo","4 Beds, 1.75 Baths","6816 E Nelson Dr, Tucson, AZ 85730"
+"$1,540 /mo","2 Beds, 1.5 Baths",House for Rent
+"$2,295 /mo","4 Beds, 2.5 Baths","5528 E Waverly St, Tucson, AZ 85712"
+"$1,970 /mo","4 Beds, 2 Baths",House for Rent
+"$2,035 /mo","3 Beds, 2 Baths","6711 E 45th St, Tucson, AZ 85730"
+"$1,755 /mo","3 Beds, 2 Baths",House for Rent
+"$1,925 /mo","3 Beds, 2 Baths","5209 E 26th St, Tucson, AZ 85711"
+"$1,940 /mo","4 Beds, 2 Baths",House for Rent
+"$2,145 /mo","3 Beds, 2 Baths","7519 S Placita De Pina, Tucson, AZ 85747"
+"$1,770 /mo","3 Beds, 2 Baths",House for Rent
+"$2,440 /mo","4 Beds, 3 Baths","6769 S Camino Del Anhelo, Tucson, AZ 85756"
+"$2,400 /mo","4 Beds, 2 Baths",House for Rent
+"$3,100 /mo","3 Beds, 2 Baths","4880 S Wild Rose Dr, Tucson, AZ 85730"
+"$2,295 /mo","4 Beds, 3 Baths",House for Rent
+"$2,445 /mo","5 Beds, 3 Baths","9589 E Vendela St, Tucson, AZ 85748"
+"$2,390 /mo","4 Beds, 2 Baths",House for Rent
+"$2,230 /mo","3 Beds, 2.5 Baths","1773 W Calle La Paz, Tucson, AZ 85713"
+"$1,920 /mo","4 Beds, 2 Baths",House for Rent
+"$2,295 /mo","4 Beds, 2.5 Baths","10581 E Feltleaf Willow Trl, Tucson, AZ 85747"
+"$2,095 /mo","3 Beds, 2 Baths",House for Rent
+"$2,360 /mo","3 Beds, 2 Baths","1578 E Melridge St, Tucson, AZ 85706"
+"$2,295 /mo","3 Beds, 2 Baths",House for Rent
+"$2,125 /mo","4 Beds, 2 Baths","3525 E 25th St, Tucson, AZ 85713"
+"$1,720 /mo","3 Beds, 2 Baths",House for Rent
+"$1,545 /mo","3 Beds, 2 Baths","7741 E Calle Bien Nacida, Tucson, AZ 85750"
+"$2,515 /mo","4 Beds, 3 Baths",House for Rent
+"$1,895 /mo","2 Beds, 2 Baths","9929 E Colette St, Tucson, AZ 85748"
+"$2,180 /mo","3 Beds, 2 Baths",House for Rent
+"$1,800 /mo","3 Beds, 2 Baths","830 N 2nd Ave, Tucson, AZ 85705"
+"$1,945 /mo","3 Beds, 2 Baths",House for Rent
+"$2,510 /mo","4 Beds, 2.5 Baths","10041 E Paseo San Ardo, Tucson, AZ 85747"
+"$1,945 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,925 /mo","4 Beds, 2 Baths","8285 W Kittiwake Ln, Tucson, AZ 85757"
+"$1,300/mo","2 Beds, 2 Baths",House for Rent
+"$2,175 /mo","3 Beds, 2.5 Baths","545 N Banff Ave, Tucson, AZ 85748"
+"$1,000 /mo","1 Bed, 1 Bath",House for Rent
+"$2,190 /mo","5 Beds, 2 Baths","3209 S Serena Cir, Tucson, AZ 85730"
+"$1,580 /mo","3 Beds, 2 Baths",House for Rent
+"$1,975 /mo","4 Beds, 2 Baths","854 W Calle Matus, Tucson, AZ 85705"
+"$2,400 /mo","4 Beds, 2 Baths",House for Rent
+"$2,320 /mo","4 Beds, 2 Baths","3070 N Desert Stone Pl, Tucson, AZ 85716"
+"$1,960 /mo","3 Beds, 2 Baths",House for Rent
+"$2,330 /mo","4 Beds, 2 Baths","4158 E Flower St, Tucson, AZ 85712"
+"$2,015 /mo","3 Beds, 2 Baths",House for Rent
+"$1,800 /mo","3 Beds, 2 Baths","3771 W Raintree Dr, Tucson, AZ 85741"
+"$2,175 /mo","4 Beds, 2 Baths",House for Rent
+"$2,230 /mo","4 Beds, 3 Baths","5140 N River Fringe Dr, Tucson, AZ 85704"
+"$1,950 /mo","4 Beds, 2 Baths",House for Rent
+"$2,135 /mo","3 Beds, 2.5 Baths","10588 E Oakbrook St, Tucson, AZ 85747"
+"$2,015 /mo","4 Beds, 2 Baths",House for Rent
+"$2,200 /mo","3 Beds, 2 Baths","11151 N Desert Flower Dr, Tucson, AZ 85737"
+"$2,295 /mo","4 Beds, 2 Baths",House for Rent
+"$2,015 /mo","3 Beds, 2.5 Baths","1320 N Sahuara Ave, Tucson, AZ 85712"
+"$1,955 /mo","3 Beds, 2 Baths",House for Rent
+"$2,505 /mo","3 Beds, 3 Baths","4106 E Lushfield Dr, Tucson, AZ 85756"
+"$1,785 /mo","3 Beds, 2 Baths",House for Rent
+"$2,045 /mo","3 Beds, 2.5 Baths","6365 E Calle del Patagon, Tucson, AZ 85756"
+"$1,825 /mo","4 Beds, 2 Baths",House for Rent
+"$1,198/mo","2 Beds, 2 Baths","4432 S Paseo Rio Bravo, Tucson, AZ 85714"
+"$1,580 /mo","3 Beds, 1 Bath",House for Rent
+"$2,460 /mo","3 Beds, 2 Baths","3710 W Spinnaker Ln, Tucson, AZ 85742"
+"$2,350 /mo","4 Beds, 2 Baths",House for Rent
+"$2,370 /mo","4 Beds, 3 Baths","4450 W Meggan Pl, Tucson, AZ 85741"
+"$1,425 /mo","2 Beds, 2 Baths",House for Rent
+"$1,865 /mo","3 Beds, 2 Baths","716 W Mountain Ridge Dr, Tucson, AZ 85737"
+"$1,610 /mo","3 Beds, 2 Baths",House for Rent
+"$2,104/mo","1 Bed, 1 Bath","7640 W Summer Sky Dr, Tucson, AZ 85743"
+"$2,050 /mo","3 Beds, 2 Baths",House for Rent
+"$1,495/mo","3 Beds, 1 Bath","9556 N Albatross Dr, Tucson, AZ 85742"
+"$2,450 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,110 /mo","4 Beds, 2.5 Baths","7826 N Sun Flair Dr, Tucson, AZ 85741"
+"$1,970 /mo","4 Beds, 2.1 Baths",House for Rent
+"$1,945 /mo","3 Beds, 2 Baths","8835 N Hardy Preserve Loop, Tucson, AZ 85742"
+"$1,965 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,985 /mo","4 Beds, 2 Baths","3430 Avenida Bonita, Tucson, AZ 85746"
+"$1,850 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,450 /mo","5 Beds, 3 Baths","6542 E Paseo Baranda, Tucson, AZ 85756"
+"$1,800 /mo","3 Beds, 2 Baths",House for Rent
+"$2,105 /mo","3 Beds, 2 Baths","3202 E Greenlee Rd, Tucson, AZ 85716"
+"$2,275 /mo","4 Beds, 2.5 Baths",House for Rent
+$899/mo,"1 Bed, 1 Bath","8551 N Rolling River Dr, Tucson, AZ 85743"
+"$2,175 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,305/mo","2 Beds, 2 Baths","7515 S Placita De Pina, Tucson, AZ 85747"
+"$2,175 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,452/mo","2 Beds, 2 Baths","2022 S 7th Ave, Tucson, AZ 85713"
+"$2,175 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$2,350 /mo","4 Beds, 2.5 Baths","6143 Calle Bilboa, Tucson, AZ 85742"
+"$2,142/mo","1 Bed, 1 Bath",House for Rent
+"$2,450 /mo","4 Beds, 2.5 Baths","41 S Shannon Rd, Tucson, AZ 85745"
+"$2,350 /mo","4 Beds, 2.5 Baths",Apartment for Rent
+"$2,450 /mo","4 Beds, 2.5 Baths","6124 W Paseo Hilario, Tucson, AZ 85742"
+"$2,350 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,175 /mo","3 Beds, 2.5 Baths","10950 N La Ca&#241;ada Dr, Tucson, AZ 85737"
+"$2,350 /mo","4 Beds, 2.5 Baths",Apartment for Rent
+"$2,170 /mo","3 Beds, 2 Baths","6151 Calle Bilboa, Tucson, AZ 85742"
+"$2,485 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,595 /mo","5 Beds, 2.5 Baths","7499 S Via Bombachas, Tucson, AZ 85756"
+"$1,955 /mo","3 Beds, 2 Baths",House for Rent
+"$2,000/mo","2 Beds, 2 Baths","10950 N La Ca&#241;ada Dr, Tucson, AZ 85737"
+"$1,550 - 1,800/mo","1-2 Beds, 1 Bath",Apartment for Rent
+"$1,150/mo","2 Beds, 1 Bath","6100 W Paseo Hilario, Tucson, AZ 85742"
+"$1,900 /mo","3 Beds, 2 Baths",House for Rent
+"$2,400 /mo","4 Beds, 3 Baths","7472 S Via Bombachas, Tucson, AZ 85756"
+"$2,831 /mo","4 Beds, 2 Baths",House for Rent
+"$1,400 /mo","3 Beds, 1 Bath","6068 W Paseo Hilario, Tucson, AZ 85742"
+$900 /mo,"1 Bed, 1 Bath",House for Rent
+"$2,500 /mo","3 Beds, 2 Baths","7496 S Via Bombachas, Tucson, AZ 85756"
+"$1,995/mo","2 Beds, 2 Baths",House for Rent
+"$2,450/mo","2 Beds, 2 Baths","6092 W Paseo Hilario, Tucson, AZ 85742"
+$850/mo,"1 Bed, 1 Bath",House for Rent
+"$3,500/mo","2 Beds, 2 Baths","7475 S Via Bombachas, Tucson, AZ 85756"
+"$1,900 /mo","3 Beds, 3 Baths",House for Rent
+"$1,800/mo","1 Bed, 1 Bath","10552 S Sunshower Way, Vail, AZ 85641"
+"$2,795 /mo","3 Beds, 2 Baths",House for Rent
+"$1,695 /mo","2 Beds, 1 Bath","13621 E Hampden Green Way, Vail, AZ 85641"
+"$1,800/mo","2 Beds, 2 Baths",House for Rent
+"$1,850 /mo","3 Beds, 2 Baths","7352 E Weeping Willow Dr, Tucson, AZ 85756"
+"$1,650 /mo","1 Bed, 1.5 Baths",House for Rent
+"$1,400/mo","1 Bed, 1 Bath","1116 S 4th Ave, Tucson, AZ 85701"
+"$1,800/mo","2 Beds, 2 Baths",House for Rent
+"$2,200/mo","2 Beds, 2 Baths","6655 N Canyon Crest Dr, Tucson, AZ 85750"
+"$2,800/mo","3 Beds, 2 Baths",Condo for Rent
+"$1,800/mo","1 Bed, 1 Bath","7050 E Sunrise Dr, Tucson, AZ 85750"
+"$2,200/mo","2 Beds, 2 Baths",Condo for Rent
+"$6,500 /mo","3 Beds, 2.5 Baths","5675 N Camino Esplendora, Tucson, AZ 85718"
+"$2,000 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,300/mo","2 Beds, 2 Baths","6631 V&#237;a Algardi, Tucson, AZ 85750"
+"$1,700/mo","3 Beds, 2.5 Baths",Townhouse for Rent
+"$1,000/mo","1 Bed, 1.5 Baths","7050 E Sunrise Dr, Tucson, AZ 85750"
+"$2,500 /mo","3 Beds, 2 Baths",Condo for Rent
+"$2,200/mo","3 Beds, 2 Baths","1500 E Pusch Wilderness Dr, Tucson, AZ 85737"
+"$2,000/mo","2 Beds, 2 Baths",Condo for Rent
+"$1,800/mo","2 Beds, 2 Baths","6269 N Paseo Valdear, Tucson, AZ 85750"
+"$1,350 /mo","2 Beds, 2 Baths",House for Rent
+"$1,600/mo","3 Beds, 2 Baths","7453 E Serenity Ln, Tucson, AZ 85750"
+"$2,200/mo","3 Beds, 2 Baths",House for Rent
+"$1,800/mo","1 Bed, 1 Bath","5750 N Camino Esplendora, Tucson, AZ 85718"
+"$1,800/mo","2 Beds, 2 Baths",Condo for Rent
+"$2,800/mo","2 Beds, 2 Baths","1573 E Prince Rd, Tucson, AZ 85719"
+"$2,200/mo","2 Beds, 2 Baths",Townhouse for Rent
+"$1,800/mo","2 Beds, 2 Baths","1620 N Wilmot Rd, Tucson, AZ 85712"
+"$1,400/mo","1 Bed, 1 Bath",Condo for Rent
+"$1,400/mo","1 Bed, 1 Bath","8801 E Buckboard Rd, Tucson, AZ 85749"
+"$2,000/mo","2 Beds, 2 Baths",House for Rent
+"$2,200/mo","2 Beds, 2 Baths","7050 E Sunrise Dr, Tucson, AZ 85750"
+"$2,200/mo","2 Beds, 1 Bath",Condo for Rent
+$800 /mo,"Studio, 1 Bath","6414 N Tierra De Las Catalinas, Tucson, AZ 85718"
+"$3,400/mo","3 Beds, 2 Baths",Condo for Rent
+"$2,000 /mo","1 Bed, 1 Bath","7050 E Sunrise Dr, Tucson, AZ 85750"
+"$3,200/mo","1 Bed, 1 Bath",Condo for Rent
+"$1,600/mo","1 Bed, 1 Bath","1307 W St Clair St, Tucson, AZ 85745"
+"$1,800 /mo","3 Beds, 2 Baths",House for Rent
+"$1,500 /mo","2 Beds, 1 Bath","101 S Players Club Dr, Tucson, AZ 85745"
+"$3,000 /mo","2 Beds, 2 Baths",Condo for Rent
+"$1,400/mo","1 Bed, 1 Bath","6655 N Canyon Crest Dr, Tucson, AZ 85750"
+"$3,000 /mo","2 Beds, 2 Baths",Condo for Rent
+"$3,000 /mo","3 Beds, 2 Baths","5830 E Cll Del Ciervo, Tucson, AZ 85750"
+"$2,000/mo","2 Beds, 2 Baths",House for Rent
+"$2,200/mo","3 Beds, 2 Baths","5800 N Kolb Rd, Tucson, AZ 85750"
+"$1,800/mo","2 Beds, 2 Baths",Condo for Rent
+"$2,000/mo","2 Beds, 2 Baths","5051 N Sabino Canyon Rd, Tucson, AZ 85750"
+"$2,000/mo","2 Beds, 2 Baths",Condo for Rent
+"$1,650/mo","3 Beds, 2.5 Baths","7050 E Sunrise Dr, Tucson, AZ 85750"
+"$2,200/mo","3 Beds, 2 Baths",Condo for Rent
+"$1,800/mo","2 Beds, 2 Baths","3940 E Timrod St, Tucson, AZ 85711"
+"$3,000 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,800/mo","2 Beds, 2 Baths","5800 N Kolb Rd, Tucson, AZ 85750"
+"$2,200/mo","3 Beds, 2 Baths",Condo for Rent
+"$2,900 /mo","3 Beds, 3 Baths","1011 N Bedford Dr, Tucson, AZ 85710"
+"$2,000/mo","2 Beds, 2 Baths",Townhouse for Rent
+"$2,175 /mo","3 Beds, 2 Baths","7050 E Sunrise Dr, Tucson, AZ 85750"
+"$2,400/mo","2 Beds, 2 Baths",Condo for Rent
+"$1,850 /mo","3 Beds, 2 Baths","7050 E Sunrise Dr, Tucson, AZ 85750"
+"$2,000 /mo","3 Beds, 2 Baths",Condo for Rent
+"$2,200/mo","3 Beds, 2.5 Baths","4906 N Sabino Gulch Ct, Tucson, AZ 85750"
+$695 /mo,"Studio, 1 Bath",House for Rent
+"$1,550 /mo","3 Beds, 1 Bath","7050 E Sunrise Dr, Tucson, AZ 85750"
+"$3,800 /mo","3 Beds, 2.5 Baths",Condo for Rent
+"$1,800 /mo","3 Beds, 2.5 Baths","7050 E Sunrise Dr, Tucson, AZ 85750"
+"$1,750 /mo","3 Beds, 2 Baths",Condo for Rent
+$950/mo,"2 Beds, 1 Bath","5324 S Civano Blvd, Tucson, AZ 85747"
+"$1,250/mo","2 Beds, 2 Baths",House for Rent
+"$1,200 /mo","2 Beds, 1 Bath","7050 E Sunrise Dr, Tucson, AZ 85750"
+"$1,750 /mo","3 Beds, 2 Baths",Condo for Rent
+"$3,300 /mo","4 Beds, 3.5 Baths","1853 Placita Tejano, Tucson, AZ 85712"
+"$2,000 /mo","3 Beds, 2 Baths",House for Rent
+"$1,800/mo","2 Beds, 2 Baths","3667 W Placita Del Correcaminos, Tucson, AZ 85745"
+"$1,800/mo","2 Beds, 2 Baths",Townhouse for Rent
+"$4,500 /mo","4 Beds, 3 Baths","6258 W Yew Pine Way, Tucson, AZ 85743"
+"$1,800/mo","2 Beds, 1 Bath",House for Rent
+"$1,400/mo","1 Bed, 1 Bath","5532 E Spring St, Tucson, AZ 85712"
+"$1,700 /mo","3 Beds, 2 Baths",House for Rent
+"$1,100/mo","2 Beds, 1 Bath","2422 E Blue Diamond Dr, Tucson, AZ 85718"
+"$1,400/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$2,175 /mo","4 Beds, 2 Baths","2638 N Columbus Blvd, Tucson, AZ 85712"
+"$1,400/mo","1 Bed, 1 Bath",House for Rent
+"$1,800/mo","2 Beds, 2 Baths","5051 N Sabino Canyon Rd, Tucson, AZ 85750"
+"$2,200/mo","2 Beds, 2 Baths",Condo for Rent
+"$4,000 /mo","3 Beds, 2 Baths","6651 N Campbell Ave, Tucson, AZ 85718"
+"$3,200 /mo","4 Beds, 2.5 Baths",Condo for Rent
+"$1,800/mo","2 Beds, 2 Baths","4620 E Coachlight Ln, Tucson, AZ 85718"
+"$2,500/mo","2 Beds, 2 Baths",House for Rent
+"$2,200/mo","2 Beds, 2 Baths","1864 N Evelyn Ave, Tucson, AZ 85715"
+"$1,750 /mo","2 Beds, 2.5 Baths",House for Rent
+"$2,500/mo","2 Beds, 2 Baths","6255 N Camino Pimeria Alta, Tucson, AZ 85718"
+"$1,700/mo","3 Beds, 2 Baths",Condo for Rent
+"$1,199/mo","2 Beds, 1 Bath","7255 E Snyder Rd, Tucson, AZ 85750"
+"$1,350/mo","2 Beds, 2 Baths",Condo for Rent
+"$1,200 /mo","2 Beds, 1 Bath","2550 E River Rd, Tucson, AZ 85718"
+"$1,100 /mo","1 Bed, 1 Bath",Condo for Rent
+"$1,100/mo","2 Beds, 1 Bath","1862 S Poetry Ln, Tucson, AZ 85711"
+$895/mo,"2 Beds, 1 Bath",House for Rent
+"$1,450/mo","3 Beds, 2 Baths","5466 N Arroyo Vista Dr, Tucson, AZ 85718"
+$850/mo,"1 Bed, 1 Bath",Townhouse for Rent
+"$1,450/mo","2 Beds, 1 Bath","1009 E 36th St, Tucson, AZ 85713"
+"$1,250 /mo","2 Beds, 1 Bath",Townhouse for Rent
+"$1,195/mo","2 Beds, 1 Bath","1826 S Rosemont Ave, Tucson, AZ 85711"
+"$1,600 /mo","2 Beds, 2 Baths",Townhouse for Rent
+"$2,800 /mo","4 Beds, 2 Baths","1162 E Haven Ln, Tucson, AZ 85719"
+"$2,200/mo","2 Beds, 2 Baths",Townhouse for Rent
+"$1,100/mo","2 Beds, 1 Bath","3406 E Blacklidge Dr, Tucson, AZ 85716"
+"$2,400/mo","6 Beds, 3 Baths",House for Rent
+"$1,375/mo","2 Beds, 1 Bath","620 N Hoff Ave, Tucson, AZ 85705"
+"$1,400 /mo","2 Beds, 1 Bath",House for Rent
+"$1,600/mo","4 Beds, 2 Baths","3752 E Blacklidge Dr, Tucson, AZ 85716"
+"$1,600 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$1,100 /mo","2 Beds, 1 Bath","2730-2230 N Columbus Blvd, Tucson, AZ 85712"
+"$1,100 /mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,900 /mo","3 Beds, 2 Baths","1810 E Blacklidge Dr, Tucson, AZ 85719"
+"$2,800 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,650/mo","3 Beds, 1 Bath","1209 E 7th St, Tucson, AZ 85719"
+"$1,000/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$2,100 /mo","3 Beds, 2 Baths","1013 E 36th St, Tucson, AZ 85713"
+"$1,195 /mo","2 Beds, 1 Bath",Townhouse for Rent
+"$1,700/mo","4 Beds, 2 Baths","1432 N Columbus Blvd, Tucson, AZ 85712"
+"$1,065/mo","1 Bed, 1 Bath",House for Rent
+$950/mo,"1 Bed, 1 Bath","1134 E 10th St, Tucson, AZ 85719"
+"$1,800 /mo","2 Beds, 1 Bath",Townhouse for Rent
+"$1,875 /mo","3 Beds, 2 Baths","7550 E Stella Rd, Tucson, AZ 85730"
+"$2,150 /mo","3 Beds, 2 Baths",House for Rent
+"$1,675 /mo","3 Beds, 1 Bath","1625 W Trendwood Dr, Tucson, AZ 85746"
+"$1,975 /mo","4 Beds, 2 Baths",House for Rent
+"$1,200 /mo","2 Beds, 1 Bath","1737 N Wrightstown Pl, Tucson, AZ 85715"
+"$1,695 /mo","3 Beds, 2 Baths",House for Rent
+$900 /mo,"1 Bed, 1 Bath","2101 E Canada St, Tucson, AZ 85706"
+$650/mo,"1 Bed, 1 Bath",House for Rent
+"$1,095/mo","2 Beds, 1 Bath","1710 W Rita Marie Dr, Tucson, AZ 85746"
+"$1,195 /mo","1 Bed, 1 Bath",House for Rent
+"$3,000 /mo","4 Beds, 3 Baths","2524 E Florence Dr, Tucson, AZ 85716"
+"$2,400 /mo","4 Beds, 2 Baths",House for Rent
+"$2,050 /mo","4 Beds, 2.5 Baths","5041 S Greenway Dr, Tucson, AZ 85706"
+"$2,000 /mo","5 Beds, 2 Baths",House for Rent
+"$1,450 /mo","2 Beds, 1 Bath","3234 E Towner St, Tucson, AZ 85716"
+"$3,200 /mo","4 Beds, 3 Baths",House for Rent
+"$2,000 /mo","3 Beds, 2 Baths","4756 S 6th Ave, Tucson, AZ 85714"
+"$3,100 /mo","2 Beds, 1 Bath",Townhouse for Rent
+"$2,400/mo","2 Beds, 2 Baths","5025 E 1st St, Tucson, AZ 85711"
+"$1,150/mo","2 Beds, 2 Baths",Townhouse for Rent
+"$3,500 /mo","3 Beds, 2 Baths","621 S Bryant Ave, Tucson, AZ 85711"
+"$1,300/mo","2 Beds, 2 Baths",House for Rent
+"$2,200 /mo","3 Beds, 2 Baths","2118 E Edison St, Tucson, AZ 85719"
+"$1,795 /mo","3 Beds, 2 Baths",House for Rent
+"$2,100/mo","2 Beds, 2 Baths","1545 E Seneca St, Tucson, AZ 85719"
+"$1,795 /mo","3 Beds, 2 Baths",House for Rent
+"$2,200 /mo","3 Beds, 3 Baths","10426 E Painted Turtle Ln, Tucson, AZ 85747"
+"$1,700 /mo","3 Beds, 2 Baths",House for Rent
+"$2,400 /mo","4 Beds, 3 Baths","2320 S Campbell Ave, Tucson, AZ 85713"
+"$2,350 /mo","3 Beds, 2 Baths",House for Rent
+"$1,800 /mo","2 Beds, 2 Baths","925 N Richey Blvd, Tucson, AZ 85716"
+"$1,575 /mo","3 Beds, 2 Baths",House for Rent
+"$1,500/mo","3 Beds, 2 Baths","8994 S Lanai Ln, Vail, AZ 85641"
+"$2,300 /mo","3 Beds, 2 Baths",House for Rent
+"$2,150 /mo","4 Beds, 2 Baths","10930 S Camino San Clemente, Vail, AZ 85641"
+"$3,500 /mo","4 Beds, 3 Baths",House for Rent
+"$4,500 /mo","4 Beds, 4 Baths","1546 E Copper St, Tucson, AZ 85719"
+"$1,750 /mo","3 Beds, 2.25 Baths",House for Rent
+"$1,350 /mo","3 Beds, 2 Baths","2467 N Fremont Ave, Tucson, AZ 85719"
+"$2,695 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,295/mo","2 Beds, 2 Baths","1390 Copper Creek Pl, Tucson, AZ 85737"
+"$1,895/mo","2 Beds, 2 Baths",House for Rent
+"$2,400 /mo","4 Beds, 2 Baths","7912 E Colette Cir, Tucson, AZ 85710"
+"$1,599 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,225 /mo","3 Beds, 2 Baths","8981 E Golf Links Rd, Tucson, AZ 85730"
+"$1,295/mo","2 Beds, 1.5 Baths",Townhouse for Rent
+"$1,645/mo","3 Beds, 1.5 Baths","601 N Keen Pl, Tucson, AZ 85710"
+"$1,795 /mo","3 Beds, 2 Baths",House for Rent
+$950 /mo,"2 Beds, 1 Bath","816 W 19th St, Tucson, AZ 85745"
+"$1,795 /mo","3 Beds, 2 Baths",House for Rent
+"$1,325 /mo","1 Bed, 1 Bath","11974 N Labyrinth Dr, Tucson, AZ 85737"
+"$1,895 /mo","3 Beds, 2 Baths",House for Rent
+"$1,595 /mo","3 Beds, 2 Baths","2783 W Anklam Rd, Tucson, AZ 85745"
+"$1,695 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,595 /mo","2 Beds, 1 Bath","3076 N Cherry Ave, Tucson, AZ 85719"
+"$1,700 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$3,900 /mo","3 Beds, 2 Baths","611 E Seneca St, Tucson, AZ 85705"
+"$2,895 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,725 /mo","3 Beds, 2 Baths","5601 E 28th St, Tucson, AZ 85711"
+"$1,090 /mo","2 Beds, 1 Bath",House for Rent
+"$2,099 /mo","3 Beds, 2 Baths","135 E Desert Mnr Rd, Tucson, AZ 85756"
+"$1,825 /mo","3 Beds, 2 Baths",House for Rent
+"$1,720/mo","3 Beds, 2 Baths","7622 E Callisto Cir, Tucson, AZ 85715"
+"$2,995 /mo","3 Beds, 2 Baths",House for Rent
+"$2,395 /mo","5 Beds, 2 Baths","10984 N Double Eagle Ct, Tucson, AZ 85737"
+"$1,995 /mo","3 Beds, 2 Baths",House for Rent
+"$2,200 /mo","3 Beds, 3 Baths","1944 W Nava Dr, Tucson, AZ 85746"
+"$1,850 /mo","3 Beds, 2 Baths",House for Rent
+"$2,100 /mo","3 Beds, 2 Baths","2542 W Sunstar Pl, Tucson, AZ 85713"
+$995 /mo,"2 Beds, 1 Bath",House for Rent
+"$1,140 /mo","2 Beds, 1 Bath","6200 S Wash View Dr, Tucson, AZ 85706"
+"$2,150 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,695 /mo","4 Beds, 2 Baths","2956 W Maxine Cir, Tucson, AZ 85746"
+"$1,400 /mo","3 Beds, 2 Baths",House for Rent
+$795 /mo,"1 Bed, 1 Bath","10769 N Eagle Eye Pl, Tucson, AZ 85737"
+"$1,875 /mo","4 Beds, 2 Baths",House for Rent
+"$2,100 /mo","3 Beds, 2 Baths","11281 N Chynna Rose Pl, Tucson, AZ 85737"
+"$1,750 /mo","3 Beds, 2 Baths",House for Rent
+"$2,200 /mo","1 Bed, 1 Bath","1042 N 3rd Ave, Tucson, AZ 85705"
+"$2,000 /mo","5 Beds, 2 Baths",House for Rent
+"$1,100/mo","2 Beds, 1 Bath","2622 W Barbary Dr, Tucson, AZ 85713"
+"$1,700 /mo","3 Beds, 2 Baths",House for Rent
+"$1,395/mo","2 Beds, 2.5 Baths","4510 E 19th St, Tucson, AZ 85711"
+"$1,195 /mo","2 Beds, 1 Bath",Townhouse for Rent
+"$3,875 /mo","3 Beds, 2 Baths","8403 W Shearwater Dr, Tucson, AZ 85757"
+"$1,495 /mo","2 Beds, 2 Baths",House for Rent
+"$1,595 /mo","2 Beds, 1 Bath","1347 E Fort Lowell Rd, Tucson, AZ 85719"
+"$1,795 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,500 /mo","3 Beds, 2 Baths","3745 E Blacklidge Dr, Tucson, AZ 85716"
+"$2,495 /mo","4 Beds, 2 Baths",House for Rent
+$995/mo,"2 Beds, 1 Bath","2215 E Cerrada Bala, Tucson, AZ 85718"
+"$2,150 /mo","3 Beds, 2 Baths",House for Rent
+"$1,695/mo","3 Beds, 2.5 Baths","2448 E 2nd St, Tucson, AZ 85719"
+"$2,995 /mo","2 Beds, 3 Baths",House for Rent
+"$1,395/mo","2 Beds, 2 Baths","1227 E 10th St, Tucson, AZ 85719"
+"$1,995/mo","4 Beds, 3 Baths",House for Rent
+"$1,200/mo","2 Beds, 2 Baths","9913 N Woodstone Trail, Tucson, AZ 85742"
+"$1,995 /mo","4 Beds, 3 Baths",House for Rent
+"$1,745 /mo","4 Beds, 2 Baths","2714 E 21st St, Tucson, AZ 85716"
+"$2,225 /mo","4 Beds, 2 Baths",House for Rent
+"$1,300 /mo","2 Beds, 1 Bath","2621 E Adams St, Tucson, AZ 85716"
+"$1,850 /mo","3 Beds, 2 Baths",House for Rent
+"$3,895 /mo","6 Beds, 3 Baths","1745 E Glenn St, Tucson, AZ 85719"
+"$1,295/mo","2 Beds, 2 Baths",Condo for Rent
+"$2,200 /mo","3 Beds, 2 Baths","9101 E 28th St, Tucson, AZ 85710"
+"$2,450 /mo","4 Beds, 2 Baths",House for Rent
+$850 /mo,"1 Bed, 1 Bath","240 E Pastime Rd, Tucson, AZ 85705"
+"$2,000 /mo","2 Beds, 1 Bath",Townhouse for Rent
+"$1,600 /mo","3 Beds, 2 Baths","745 S 3rd Ave, Tucson, AZ 85701"
+$800 /mo,"Studio, 1 Bath",House for Rent
+"$1,800 /mo","3 Beds, 2.5 Baths","3220 E 4th St, Tucson, AZ 85716"
+"$1,270/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,325 /mo","4 Beds, 2 Baths","2926 N Tyndall Ave, Tucson, AZ 85719"
+"$1,500 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$1,650 /mo","2 Beds, 1 Bath","102 E Alturas St, Tucson, AZ 85705"
+"$1,500 /mo","2 Beds, 1 Bath",Townhouse for Rent
+$795/mo,"1 Bed, 1 Bath","9476 N Albatross Dr, Tucson, AZ 85742"
+"$2,800 /mo","3 Beds, 2 Baths",House for Rent
+"$1,600/mo","3 Beds, 2 Baths","55 N Cherry Ave, Tucson, AZ 85719"
+"$2,145 /mo","3 Beds, 2 Baths",Condo for Rent
+"$3,995 /mo","3 Beds, 2.5 Baths","4857 E Scarlett St, Tucson, AZ 85711"
+$865 /mo,"1 Bed, 1 Bath",House for Rent
+"$1,500 /mo","2 Beds, 2 Baths","4415 N Pontatoc Rd, Tucson, AZ 85718"
+"$3,990 /mo","4 Beds, 3 Baths",House for Rent
+"$1,695 /mo","3 Beds, 2 Baths","29 E Glenn St, Tucson, AZ 85705"
+"$2,300/mo","3 Beds, 2 Baths",House for Rent
+"$2,150 /mo","3 Beds, 2 Baths","2721 N Beverly Ave, Tucson, AZ 85712"
+"$1,550 /mo","3 Beds, 2 Baths",House for Rent
+"$1,500 /mo","2 Beds, 2 Baths","6850 N Table Mountain Rd, Tucson, AZ 85718"
+"$2,299 /mo","3 Beds, 2 Baths",House for Rent
+"$1,150 /mo","1 Bed, 1 Bath","9422 E Paseo Del Parque, Tucson, AZ 85747"
+"$1,825 /mo","2 Beds, 2 Baths",House for Rent
+"$1,750 /mo","4 Beds, 2 Baths","1100 W River Rd, Tucson, AZ 85704"
+"$2,200 /mo","4 Beds, 3 Baths",Apartment for Rent
+"$1,600/mo","4 Beds, 2 Baths","2228 E 6th St, Tucson, AZ 85719"
+"$1,675 /mo","2 Beds, 2.5 Baths",House for Rent
+"$1,825 /mo","4 Beds, 2 Baths","1915 N Park Ave, Tucson, AZ 85719"
+"$2,200 /mo","4 Beds, 2 Baths",House for Rent

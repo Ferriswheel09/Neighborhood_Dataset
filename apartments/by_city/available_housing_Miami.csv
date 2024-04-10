@@ -1,0 +1,414 @@
+price,rooms,address
+"$592 - 3,300",Studio - 2 Beds,"35 SW 6th Ave, Miami, FL 33130"
+"$2,084 - 2,702",1-2 Beds,"1569 NW 17th Ave, Miami, FL 33125"
+"$2,404 - 4,027",1-3 Beds,"11200 Biscayne Blvd, Miami, FL 33181"
+"$2,123 - 3,878",1-3 Beds,"12950 SW 127th Ave, Miami, FL 33186"
+"$1,975 - 8,599",Studio - 5 Beds,"2800 SW 27th Ter, Miami, FL 33133"
+"$2,215 - 2,860",1-2 Beds,"1040 SW 70th Ave, Miami, FL 33144"
+"$1,875 - 3,350",Studio - 2 Beds,"61 NW 37th Ave, Miami, FL 33125"
+"$1,845 - 5,765",Studio - 3 Beds,"2431 NW 2nd Ave, Miami, FL 33127"
+"$2,187 - 3,885",1-2 Beds,"1625 NW 20th St, Miami, FL 33142"
+"$2,050 - 2,750",1-2 Beds,"3645 NW 36th St, Miami, FL 33142"
+"$1,240 - 1,845",Studio - 4 Beds,"700 SW 107th Ave, Miami, FL 33174"
+"$2,275 - 4,500",1-3 Beds,"2222 NE 2nd Ave, Miami, FL 33137"
+"$2,698 - 6,860",Studio - 3 Beds,"70 NW 25th St, Miami, FL 33127"
+"$1,550 - 2,350",1-2 Beds,"12 NE 188th St, Miami, FL 33179"
+"$2,753 - 7,616",1-3 Beds,"6620 SW 57th Ave, Miami, FL 33143"
+"$1,895 - 6,326",1-3 Beds,"7950 NE Bayshore Ct, Miami, FL 33138"
+"$3,590 - 12,790",1-3 Beds,"1100 Brickell Bay Dr, Miami, FL 33131"
+"$2,596 - 3,699",1-3 Beds,"1951 NW South River Dr, Miami, FL 33125"
+"$2,020 - 7,751",Studio - 3 Beds,"2000 Biscayne Blvd, Miami, FL 33137"
+"$2,285 - 6,170",Studio - 3 Beds,"100 NW 6th St, Miami, FL 33136"
+"$2,085 - 4,720",Studio - 3 Beds,"3555 NW 83rd Ave, Doral, FL 33122"
+"$2,557 - 7,076",Studio - 3 Beds,"9420-9500 SW 174th St, Palmetto Bay, FL 33157"
+"$2,741 - 13,864",Studio - 3 Beds,"225 S Dixie Hwy, Coral Gables, FL 33133"
+"$2,425 - 4,350",1-4 Beds,"6600 Main St, Miami Lakes, FL 33014"
+"$3,000 - 18,000",1-3 Beds,"5101 Collins Ave, MIAMI BEACH, FL 33140"
+"$2,298 - 3,840",1-3 Beds,"4970 SW 124th Ave, Miramar, FL 33027"
+"$2,349 - 3,741",1-3 Beds,"17351 NW 94th Ct, Hialeah, FL 33018"
+Call for Rent,Studio - 2 Beds,"3750 S Dixie Hwy, Coconut Grove, FL 33133"
+"$592 - 3,300",Studio - 2 Beds,"35 SW 6th Ave, Miami, FL 33130"
+"$2,084 - 2,702",1-2 Beds,"1569 NW 17th Ave, Miami, FL 33125"
+"$2,404 - 4,027",1-3 Beds,"11200 Biscayne Blvd, Miami, FL 33181"
+"$2,123 - 3,878",1-3 Beds,"12950 SW 127th Ave, Miami, FL 33186"
+"$1,975 - 8,599",Studio - 5 Beds,"2800 SW 27th Ter, Miami, FL 33133"
+"$2,215 - 2,860",1-2 Beds,"1040 SW 70th Ave, Miami, FL 33144"
+"$1,875 - 3,350",Studio - 2 Beds,"61 NW 37th Ave, Miami, FL 33125"
+"$1,845 - 5,765",Studio - 3 Beds,"2431 NW 2nd Ave, Miami, FL 33127"
+"$2,187 - 3,885",1-2 Beds,"1625 NW 20th St, Miami, FL 33142"
+"$2,050 - 2,750",1-2 Beds,"3645 NW 36th St, Miami, FL 33142"
+"$1,240 - 1,845",Studio - 4 Beds,"700 SW 107th Ave, Miami, FL 33174"
+"$2,275 - 4,500",1-3 Beds,"2222 NE 2nd Ave, Miami, FL 33137"
+"$2,698 - 6,860",Studio - 3 Beds,"70 NW 25th St, Miami, FL 33127"
+"$1,550 - 2,350",1-2 Beds,"12 NE 188th St, Miami, FL 33179"
+"$2,753 - 7,616",1-3 Beds,"6620 SW 57th Ave, Miami, FL 33143"
+"$1,895 - 6,326",1-3 Beds,"7950 NE Bayshore Ct, Miami, FL 33138"
+"$3,590 - 12,790",1-3 Beds,"1100 Brickell Bay Dr, Miami, FL 33131"
+"$2,596 - 3,699",1-3 Beds,"1951 NW South River Dr, Miami, FL 33125"
+"$2,020 - 7,751",Studio - 3 Beds,"2000 Biscayne Blvd, Miami, FL 33137"
+"$2,285 - 6,170",Studio - 3 Beds,"100 NW 6th St, Miami, FL 33136"
+"$2,085 - 4,720",Studio - 3 Beds,"3555 NW 83rd Ave, Doral, FL 33122"
+"$2,557 - 7,076",Studio - 3 Beds,"9420-9500 SW 174th St, Palmetto Bay, FL 33157"
+"$2,741 - 13,864",Studio - 3 Beds,"225 S Dixie Hwy, Coral Gables, FL 33133"
+"$2,425 - 4,350",1-4 Beds,"6600 Main St, Miami Lakes, FL 33014"
+"$3,000 - 18,000",1-3 Beds,"5101 Collins Ave, MIAMI BEACH, FL 33140"
+"$2,298 - 3,840",1-3 Beds,"4970 SW 124th Ave, Miramar, FL 33027"
+"$2,349 - 3,741",1-3 Beds,"17351 NW 94th Ct, Hialeah, FL 33018"
+Call for Rent,Studio - 2 Beds,"3750 S Dixie Hwy, Coconut Grove, FL 33133"
+"$2,532 - 4,230",1-3 Beds,"8255 Park Blvd, Doral, FL 33126"
+"$2,804 - 5,360",1-3 Beds,"16395 Biscayne Blvd, North Miami Beach, FL 33160"
+"$1,995 - 3,805",1-3 Beds,"1155 NE 126th St, North Miami, FL 33161"
+"$3,785",3 Beds,"8570 W 40th Ave, Hialeah, FL 33018"
+"$1,650 - 2,700",Studio - 2 Beds,"14000 Biscayne Blvd, North Miami, FL 33181"
+"$3,018 - 10,629",Studio - 4 Beds,"340 SE 3rd St, Miami, FL 33131"
+"$2,401 - 4,400",1-3 Beds,"9931 W Flagler St, Miami, FL 33174"
+"$2,054 - 3,741",Studio - 2 Beds,"1170 NW 11th St, Miami, FL 33136"
+"$2,019 - 5,297",Studio - 3 Beds,"230 NE 4th St, Miami, FL 33132"
+"$2,182 - 7,067",Studio - 3 Beds,"215-339 NW 24th St, Miami, FL 33127"
+"$2,051 - 6,595",Studio - 2 Beds,"240 N Miami Ave, Miami, FL 33138"
+Call for Rent,Studio - 3 Beds,"1480 NW North River Dr, Miami, FL 33125"
+"$2,445 - 4,771",1-2 Beds,"645 NW 1st St, Miami, FL 33128"
+"$2,416 - 5,488",Studio - 2 Beds,"3170 Coral Way, Miami, FL 33145"
+"$2,100 - 3,300",1-2 Beds,"58 NE 14th St, Miami, FL 33132"
+"$2,515 - 3,402",1-4 Beds,"729 NW 2nd St, Miami, FL 33128"
+"$1,872 - 3,225",Studio - 3 Beds,"811 NW 43rd Ave, Miami, FL 33126"
+"$2,000 - 4,300",1-3 Beds,"55 NE 5th St, Miami, FL 33132"
+"$2,107 - 6,043",1-4 Beds,"700 SW 1st St, Miami, FL 33130"
+"$2,170 - 4,928",Studio - 2 Beds,"127 NW 27th St, Miami, FL 33127"
+"$2,395 - 4,025",Studio - 2 Beds,"1420 NW 15th Ave, Miami, FL 33125"
+"$2,478 - 7,057",1-3 Beds,"8150 SW 72nd Ave, Miami, FL 33143"
+"$1,947 - 4,155",1-3 Beds,"665 Ives Dairy Rd, Miami, FL 33179"
+"$1,705 - 2,775",Studio - 2 Beds,"8960 SW 122nd Ave, Miami, FL 33186"
+"$1,943 - 2,958",Studio - 3 Beds,"9517 Fontainebleau Blvd, Miami, FL 33172"
+"$2,035 - 2,700",1-2 Beds,"10571 SW 156th Pl, Miami, FL 33196"
+"$1,975 - 3,227",1-3 Beds,"8485 Hammocks Blvd, Miami, FL 33196"
+"$2,322 - 4,139",1-3 Beds,"2263 SW 37th Ave, Miami, FL 33145"
+"$3,093 - 3,716",2-3 Beds,"4260 SW 117th Ln, Miramar, FL 33025"
+"$2,250 - 3,615",1-3 Beds,"445 Hialeah Dr, Hialeah, FL 33010"
+"$2,315 - 3,675",1-3 Beds,"215 SE 5th St, Hallandale Beach, FL 33009"
+"$3,006 - 5,032",1-3 Beds,"200 Kings Point Dr, Sunny Isles Beach, FL 33160"
+"$2,054 - 3,850",Studio - 3 Beds,"7218 W 4th Ave, Hialeah, FL 33014"
+"$1,698 - 2,314",Studio - 1 Bed,"1950 W 49th St, Hialeah, FL 33012"
+"$1,975 - 2,100",1 Bed,"7901 W 4th Ave, Hialeah, FL 33014"
+"$2,095 - 3,860",Studio - 3 Beds,"8175 NW 107th Ave, Doral, FL 33178"
+"$1,965 - 3,855",Studio - 3 Beds,"2145 NE 164th St, North Miami Beach, FL 33162"
+"$2,149 - 3,609",1-3 Beds,"3784 W 88th St, Hialeah, FL 33018"
+"$2,095 - 3,900",1-3 Beds,"18300 SW 98th Ave, Palmetto Bay, FL 33157"
+"$1,988 - 2,318",1-2 Beds,"6881 NW 173rd Dr, Hialeah, FL 33015"
+"$2,340 - 2,810",1-3 Beds,"1080 NE 215th St, Miami Gardens, FL 33179"
+"$1,999 - 3,070",1-3 Beds,"482 NW 207th St, Miami Gardens, FL 33169"
+"$1,850 - 2,400",1-2 Beds,"7050 NW 179th St, Hialeah, FL 33015"
+"$1,300 - 2,400",Studio - 2 Beds,"1705 NE 124th St, North Miami, FL 33181"
+"$2,639 - 2,689",2 Beds,"12375 SW 18th St, Miami, FL 33175"
+"$2,500 - 3,900",1 Bed,"4100 Collins Ave, Miami Beach, FL 33140"
+Call for Rent,1-2 Beds,"1536-1542 Jefferson Ave, Miami Beach, FL 33139"
+"$2,175 - 5,140",Studio - 3 Beds,"2101 SW Ludlam Rd, West Miami, FL 33155"
+"$2,240 - 3,215",1-3 Beds,"4300 SW 113th Ter, Miramar, FL 33025"
+"$3,457 - 8,261",Studio - 3 Beds,"60 Minorca Ave, Coral Gables, FL 33134"
+"$2,190 - 5,151",Studio - 2 Beds,"8000 West Dr, North Bay Village, FL 33141"
+"$2,428 - 6,917",Studio - 3 Beds,"2000 Salzedo St, Coral Gables, FL 33134"
+"$2,160 - 5,315",Studio - 3 Beds,"2321 Laguna Cir, North Miami, FL 33181"
+"$2,449 - 4,486",1-3 Beds,"8150 NW 53rd St, Doral, FL 33166"
+"$2,105 - 3,875",1-2 Beds,"17900 NE 31st Ct, Aventura, FL 33160"
+"$2,160 - 3,470",1-3 Beds,"6460 Main St, Miami Lakes, FL 33014"
+"$1,871 - 2,563",Studio - 2 Beds,"19455-19477 NE 10th Ave, N Miami Beach, FL 33179"
+"$2,242 - 3,235",Studio - 3 Beds,"2750 SW 113th Ln, Miramar, FL 33025"
+"$1,760 - 3,536",Studio - 2 Beds,"1602 Meridian Ave, Miami Beach, FL 33139"
+"$1,650 - 1,800",1-2 Beds,"1900 Sans Souci Blvd, North Miami, FL 33181"
+"$2,140 - 3,050",1-2 Beds,"6915 Main St, Miami Lakes, FL 33014"
+"$1,066 - 1,441",1-3 Beds,"12871 SW 242nd St, Homestead, FL 33032"
+"$3,200",2 Beds,"133 NE 2nd Ave Unit 3306, Miami, FL 33132"
+"$3,000 - 4,000",Studio,"2700 N Miami Ave, Miami, FL 33127"
+"$1,850",1 Bed,"Miami, FL 33136"
+"$3,350 - 5,525",1 Bed,"1657 N Miami Ave, Miami, FL 33136"
+"$2,040 - 5,243",1-3 Beds,"12016 NE 16th Ave, Miami, FL 33161"
+"$2,663 - 3,819",1-3 Beds,"1000 NW 7th St, Miami, FL 33136"
+"$1,365 - 2,060",Studio - 3 Beds,"777 NW 155Th Ln, Miami, FL 33169"
+"$1,050 - 2,900",Studio - 2 Beds,"1590 NE 127th St, Miami, FL 33161"
+"$1,170 - 1,835",Studio - 3 Beds,"11105 SW 200th St, Miami, FL 33157"
+"$1,096 - 1,320",1-2 Beds,"19701 SW 110th Ct, Miami, FL 33157"
+"$1,091",1 Bed,"11251 Caribbean Blvd, Miami, FL 33157"
+"$1,005 - 1,383",1-3 Beds,"1156 NW 79th St, Miami, FL 33150"
+"$511 - 1,783",1-2 Beds,"610 NW 60th St, Miami, FL 33127"
+"$2,995 - 4,500",2 Beds,"22 Salamanca Ave, Coral Gables, FL 33134"
+"$2,799 - 7,675",Studio - 3 Beds,"122 Sevilla Ave, Coral Gables, FL 33134"
+"$3,450 - 3,550",2 Beds,"26 Santillane Ave, Coral Gables, FL 33134"
+"$3,950 - 7,891",1-3 Beds,"4251 Salzedo St, Coral Gables, FL 33146"
+"$1,900 - 2,050",1 Bed,"Opa-locka, FL 33054"
+"$2,447 - 4,416",1-3 Beds,"3609 NE 207th Street, Aventura, FL 33180"
+Call for Rent,1-2 Beds,"9200 Bay Harbor Ter, Bay Harbor Islands, FL 33154"
+"$2,270 - 6,663",Studio - 3 Beds,"8425 NW 41st St, Doral, FL 33166"
+"$2,580 - 5,743",1-3 Beds,"2541 NW 84th Ave, Doral, FL 33122"
+"$2,576 - 3,906",1-3 Beds,"5400 NW 114th Ave, Doral, FL 33178"
+"$1,850 - 2,350",Studio - 2 Beds,"Hialeah, FL 33012"
+"$1,850 - 2,350",Studio - 2 Beds,"6855-6865 Byron Ave, Miami Beach, FL 33141"
+"$1,750 - 2,450",1-2 Beds,"2375-2385 NE 173rd St, North Miami Beach, FL 33160"
+"$2,395 - 3,750",1-3 Beds,"3300 NE 192nd St, Aventura, FL 33180"
+"$3,473 - 16,031",1-5 Beds,"1508 Bay Rd, Miami Beach, FL 33139"
+"$1,600 - 2,800",Studio - 2 Beds,"907-911 Euclid Ave, Miami Beach, FL 33139"
+"$1,320 - 2,355",Studio - 2 Beds,"1211 Alton Rd, Miami Beach, FL 33139"
+"$1,250 - 2,330",Studio - 2 Beds,"10820 SW 200th Dr, Cutler Bay, FL 33157"
+"$1,099 - 1,527",1-3 Beds,"20855 NW 9th Ct, Miami Gardens, FL 33169"
+"$1,350 - 1,925",1-2 Beds,"280 Sierra Dr, North Miami, FL 33179"
+"$984 - 1,492",Studio - 3 Beds,"14795 NE 18th Ave, North Miami, FL 33181"
+"$2,950 /mo","3 Beds, 2 Baths","Miami, FL 33142"
+"$2,700 /mo","3 Beds, 2 Baths","Miami, FL 33177"
+"$2,800",3 Beds,"Miami, FL 33142"
+"$2,700",1 Bed,"Miami, FL 33130"
+"$2,999",2 Beds,"North Bay Village, FL 33141"
+"$3,050",2 Beds,"Miami Beach, FL 33139"
+"$3,360 /mo","4 Beds, 2 Baths","14850 W Dixie Hwy, North Miami, FL 33181"
+"$3,299 /mo","3 Beds, 2.5 Baths","14850 W Dixie Hwy, North Miami, FL 33181"
+"$3,120 /mo","3 Beds, 2 Baths","5791 SW 74th Ter, South Miami, FL 33143"
+"$2,795 /mo","3 Beds, 2 Baths","5791 SW 74th Ter, South Miami, FL 33143"
+"$3,595 /mo","3 Beds, 2 Baths","1720-1752 S Glades Dr, North Miami, FL 33162"
+"$3,060 /mo","3 Beds, 2 Baths","1720-1752 S Glades Dr, North Miami, FL 33162"
+"$2,300/mo","2 Beds, 2 Baths","13865 W Dixie Hwy, North Miami, FL 33161"
+"$6,800/mo","2 Beds, 2 Baths","13865 W Dixie Hwy, North Miami, FL 33161"
+"$2,985 /mo","3 Beds, 2.5 Baths","90 W 8th St, Hialeah, FL 33010"
+"$3,760 /mo","4 Beds, 2 Baths","90 W 8th St, Hialeah, FL 33010"
+"$2,575/mo","2 Beds, 2.5 Baths","12684 SW 144th Terrace, Miami, FL 33186"
+"$2,990 /mo","3 Beds, 2 Baths",House for Rent
+"$3,095 /mo","4 Beds, 2 Baths","10826 NW 81st Ln, Miami, FL 33178"
+"$3,585 /mo","5 Beds, 2 Baths",House for Rent
+"$3,335 /mo","3 Beds, 3 Baths","9059 SW 162nd Ct, Miami, FL 33196"
+"$2,200/mo","2 Beds, 2 Baths",House for Rent
+"$2,850/mo","2 Beds, 2 Baths","20957 SW 124th Ave Rd, Miami, FL 33177"
+"$3,000 /mo","3 Beds, 2 Baths",House for Rent
+"$5,650/mo","3 Beds, 3.5 Baths","14289 SW 9th Terrace, Miami, FL 33184"
+"$4,575/mo","3 Beds, 2 Baths",House for Rent
+"$3,410 /mo","4 Beds, 2.5 Baths","6901 SW 110th Ave, Miami, FL 33173"
+"$5,000/mo","2 Beds, 2 Baths",House for Rent
+"$3,200 /mo","2 Beds, 1 Bath","8650 SW 133rd Avenue Rd, Miami, FL 33183"
+"$3,115 /mo","3 Beds, 3 Baths",Apartment for Rent
+"$3,090 /mo","3 Beds, 2 Baths","88 SW 7th St, Miami, FL 33130"
+"$3,585 /mo","3 Beds, 2 Baths",Condo for Rent
+"$2,800/mo","2 Beds, 2 Baths","11835 SW 152nd Pl, Miami, FL 33196"
+"$2,430/mo","2 Beds, 2 Baths",House for Rent
+"$2,100/mo","2 Beds, 2 Baths","14971 SW 46th Terrace, Miami, FL 33185"
+"$3,100/mo","Studio, 1 Bath",House for Rent
+"$3,680 /mo","3 Beds, 2 Baths","9864 Hammocks Blvd, Miami, FL 33196"
+"$3,050/mo","1 Bed, 1 Bath",Townhome for Rent
+"$1,300/mo","1 Bed, 1 Bath","960 NW 181st St, Miami, FL 33169"
+"$2,400/mo","2 Beds, 2 Baths",House for Rent
+"$1,700 /mo","1 Bed, 1 Bath","570 NE 157th St, Miami, FL 33162"
+"$1,950/mo","1 Bed, 1 Bath","7765 SW 86th St, Miami, FL 33143"
+"$3,106/mo","2 Beds, 2 Baths",Condo for Rent
+"$3,460 /mo","3 Beds, 2 Baths","3880 Bird Rd, Miami, FL 33146"
+"$1,300 /mo","Studio, 1 Bath",Apartment for Rent
+"$4,550 /mo","4 Beds, 3 Baths","7845 SW 161st Ave, Miami, FL 33193"
+"$3,249/mo","3 Beds, 2.5 Baths",House for Rent
+"$1,600/mo","1 Bed, 1 Bath","18099 SW 137th Ave, Miami, FL 33177"
+"$2,840 /mo","3 Beds, 1 Bath",House for Rent
+"$3,950/mo","4 Beds, 3 Baths","14976 SW 20th Terrace, Miami, FL 33185"
+"$2,300/mo","2 Beds, 2 Baths",House for Rent
+"$3,600 /mo","4 Beds, 2.5 Baths","16628 SW 47th Terrace, Miami, FL 33185"
+"$3,480 /mo","5 Beds, 3 Baths",Townhome for Rent
+"$3,299 /mo","3 Beds, 2 Baths","7000 SW 23rd St, Miami, FL 33155"
+"$3,840/mo","1 Bed, 1 Bath",Condo for Rent
+"$2,000/mo","1 Bed, 1 Bath","1202 NW 188th Terrace, Miami, FL 33169"
+"$3,400/mo","2 Beds, 2 Baths",House for Rent
+"$5,000/mo","2 Beds, 2 Baths","1772 NW 55th St, Miami, FL 33142"
+"$1,200 /mo","Studio, 1 Bath",Townhome for Rent
+"$3,070/mo","2 Beds, 2 Baths","8500 SW 109th Ave, Miami, FL 33173"
+"$3,210/mo","2 Beds, 2 Baths",Apartment for Rent
+"$3,230/mo","1 Bed, 1 Bath","13354 SW 60th Ln, Miami, FL 33183"
+"$3,540/mo","2 Beds, 2 Baths",House for Rent
+"$4,100/mo","2 Beds, 2 Baths","19000 NW 5th Ave, Miami, FL 33169"
+"$4,330/mo","2 Beds, 2 Baths",House for Rent
+"$2,570/mo","1 Bed, 1 Bath","15543 SW 96th Terrace, Miami, FL 33196"
+"$3,149/mo","1 Bed, 1 Bath",House for Rent
+"$3,227/mo","Studio, 1 Bath","23 NE 17th Ter, Miami, FL 33132"
+"$2,300 /mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,200/mo","1 Bed, 1 Bath","110 Fontainebleau Blvd, Miami, FL 33172"
+"$3,750/mo","Studio, 1 Bath",Apartment for Rent
+"$1,600 /mo","1 Bed, 1 Bath","3375 N Country Club Dr, Miami, FL 33180"
+"$2,550/mo","2 Beds, 1 Bath",Condo for Rent
+"$3,349 /mo","4 Beds, 2.5 Baths","1100 S Miami Ave, Miami, FL 33130"
+"$3,430 /mo","3 Beds, 2.5 Baths",Condo for Rent
+"$4,375 /mo","4 Beds, 2.5 Baths","13759 SW 157th St, Miami, FL 33177"
+"$3,840/mo","1 Bed, 1 Bath",House for Rent
+"$2,960/mo","1 Bed, 1 Bath","729 NW 2nd St, Miami, FL 33128"
+"$2,840/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,570/mo","1 Bed, 1.5 Baths","987 SW 37th Ave, Miami, FL 33135"
+"$4,620/mo","2 Beds, 2 Baths",Apartment for Rent
+"$3,100/mo","1 Bed, 1 Bath","350 S Miami Ave, Miami, FL 33130"
+"$1,200/mo","1 Bed, 1 Bath",Condo for Rent
+"$3,315 /mo","4 Beds, 2 Baths","542 SW 7th St, Miami, FL 33130"
+"$3,840/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,650/mo","1 Bed, 1 Bath","1435 SW 137th Pl, Miami, FL 33184"
+"$2,920/mo","1 Bed, 1 Bath",House for Rent
+"$3,100/mo","2 Beds, 2 Baths","23 NE 17th Ter, Miami, FL 33132"
+"$2,490/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,200/mo","1 Bed, 1 Bath","6445 NE 7th Ave, Miami, FL 33138"
+"$3,840/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,680/mo","1 Bed, 1 Bath","21 NE 22nd St, Miami, FL 33137"
+"$3,320/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,100/mo","1 Bed, 1 Bath","36 SW 1st St, Miami, FL 33130"
+"$5,150/mo","2 Beds, 2 Baths",Apartment for Rent
+"$1,200/mo","1 Bed, 1 Bath","230 NE 4th St, Miami, FL 33132"
+"$3,880/mo","2 Beds, 2 Baths",Apartment for Rent
+"$5,150/mo","2 Beds, 2 Baths","542 SW 7th St, Miami, FL 33130"
+"$2,970/mo","1 Bed, 1 Bath",Apartment for Rent
+"$5,150/mo","2 Beds, 2 Baths","23 NE 17th Ter, Miami, FL 33132"
+"$5,150/mo","2 Beds, 2 Baths",Apartment for Rent
+"$5,150/mo","2 Beds, 2 Baths","6445 NE 7th Ave, Miami, FL 33138"
+"$5,150/mo","2 Beds, 2 Baths",Apartment for Rent
+"$3,601/mo","2 Beds, 2 Baths","110 SW 12th St, Miami, FL 33130"
+"$3,410 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,585/mo","1 Bed, 1 Bath","350 S Miami Ave, Miami, FL 33130"
+"$3,430 /mo","4 Beds, 2.5 Baths",Apartment for Rent
+"$3,955 /mo","4 Beds, 2 Baths","23 NE 17th Ter, Miami, FL 33132"
+"$3,200/mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,200/mo","Studio, 1 Bath","542 SW 7th St, Miami, FL 33130"
+"$1,500 /mo","1 Bed, 1 Bath",Apartment for Rent
+"$5,500 /mo","3 Beds, 3 Baths","21 NE 22nd St, Miami, FL 33137"
+"$2,710/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,650/mo","1 Bed, 1 Bath","23 NE 17th Ter, Miami, FL 33132"
+"$2,950/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,840/mo","1 Bed, 1 Bath","21 NE 22nd St, Miami, FL 33137"
+"$3,480 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$5,600/mo","3 Beds, 3.5 Baths","23 NE 17th Ter, Miami, FL 33132"
+"$3,230/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,500/mo","3 Beds, 1.5 Baths","23 NE 17th Ter, Miami, FL 33132"
+"$3,200 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$3,175/mo","2 Beds, 2 Baths","6880 SW 44th St, Miami, FL 33155"
+"$3,500 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,200/mo","1 Bed, 1 Bath","6760-sw156 SW 156th Ct, Miami, FL 33193"
+"$5,230/mo","3 Beds, 2 Baths",House for Rent
+"$2,400/mo","2 Beds, 1 Bath","25 SW 1st St, Miami, FL 33130"
+"$10,500 /mo","3 Beds, 3 Baths",Apartment for Rent
+"$3,440 /mo","5 Beds, 2 Baths","110 SW 12th St, Miami, FL 33130"
+"$2,575 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$3,560/mo","1 Bed, 1 Bath","1388 NW 28th St, Miami, FL 33142"
+"$2,900 /mo","2 Beds, 2 Baths",Apartment for Rent
+"$3,895 /mo","4 Beds, 3 Baths","1941 SW 18th Ave, Miami, FL 33145"
+"$2,150/mo","2 Beds, 2 Baths",House for Rent
+"$3,120 /mo","3 Beds, 2 Baths","12361 SW 190th Terrace, Miami, FL 33177"
+"$3,250/mo","2 Beds, 2 Baths",House for Rent
+"$4,975 /mo","5 Beds, 3 Baths","1161 NW 139th St, Miami, FL 33168"
+"$25,000 /mo","4 Beds, 4.5 Baths",House for Rent
+"$3,252/mo","Studio, 1 Bath","1501 SW 37th Ave, Miami, FL 33145"
+"$3,812/mo","2 Beds, 2 Baths",Apartment for Rent
+"$2,300 /mo","2 Beds, 1 Bath","1741 SW 17th Ct, Miami, FL 33145"
+"$2,700/mo","2 Beds, 1.5 Baths",House for Rent
+"$2,720 /mo","3 Beds, 2 Baths","5835 SW 117th Ave, Miami, FL 33183"
+"$2,620 /mo","3 Beds, 2 Baths",House for Rent
+"$3,085 /mo","3 Beds, 2 Baths","20860 San Simeon Way, Miami, FL 33179"
+"$2,965 /mo","4 Beds, 2 Baths",Condo for Rent
+"$1,700/mo","1 Bed, 1 Bath","20467 NW 12th Ave, Miami, FL 33169"
+"$2,995 /mo","3 Beds, 2 Baths",House for Rent
+"$2,240/mo","2 Beds, 2 Baths","987 SW 37th Ave, Miami, FL 33135"
+"$3,385 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,945 /mo","3 Beds, 2 Baths","14807 SW 180th Terrace, Miami, FL 33187"
+"$3,800/mo","1 Bed, 1.5 Baths",House for Rent
+"$1,700/mo","1 Bed, 1 Bath","2550 Overbrook St, Miami, FL 33133"
+"$4,445 /mo","5 Beds, 4 Baths",House for Rent
+"$2,890 /mo","4 Beds, 2 Baths","698 NE 1st Ave, Miami, FL 33136"
+"$2,675 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$3,425 /mo","4 Beds, 3 Baths","1005 Spring Garden Rd, Miami, FL 33136"
+"$4,075 /mo","4 Beds, 2.5 Baths",Apartment for Rent
+"$2,815 /mo","3 Beds, 2 Baths","22 Avenue, NW Flagler St, Miami, FL 33125"
+"$3,685 /mo","4 Beds, 3 Baths",House for Rent
+"$2,760 /mo","3 Beds, 2 Baths","15030 SW 80th Terrace, Miami, FL 33193"
+"$3,100/mo","3 Beds, 2 Baths",Townhome for Rent
+"$7,500 /mo","3 Beds, 3 Baths","3655 Riviera Ct, Coral Gables, FL 33134"
+"$2,895/mo","3 Beds, 2 Baths",House for Rent
+"$3,020 /mo","3 Beds, 2 Baths","16 ave 43 Pl, Hialeah, FL 33012"
+"$3,225 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,699 /mo","3 Beds, 2 Baths","7651 NW 168th Terrace, Hialeah, FL 33015"
+"$2,940 /mo","3 Beds, 2 Baths",House for Rent
+"$2,735 /mo","3 Beds, 2 Baths","5010 SW 151st Terrace, Miramar, FL 33027"
+"$6,500 /mo","5 Beds, 3 Baths",House for Rent
+"$3,200/mo","1 Bed, 2 Baths","22316 SW 99th Pl, Cutler Bay, FL 33190"
+"$2,500/mo","2 Beds, 2 Baths",House for Rent
+"$3,330 /mo","4 Beds, 2 Baths","19922 NW 67th Pl, Hialeah, FL 33015"
+"$4,015 /mo","3 Beds, 2 Baths",House for Rent
+"$1,600/mo","1 Bed, 1 Bath","115 Clifton Rd, West Park, FL 33023"
+"$2,950/mo","1 Bed, 1.5 Baths",House for Rent
+"$3,125 /mo","5 Beds, 3 Baths","5078 SW 183rd Ave, Miramar, FL 33029"
+"$1,100 /mo","1 Bed, 1 Bath",House for Rent
+"$3,500/mo","2 Beds, 2 Baths","3180 S Ocean Dr, Hallandale Beach, FL 33009"
+"$2,300/mo","2 Beds, 2 Baths",Condo for Rent
+"$10,000 /mo","4 Beds, 2 Baths","121 SE 2nd Ave, Hallandale Beach, FL 33009"
+"$2,300 /mo","2 Beds, 2 Baths",Apartment for Rent
+"$3,649 /mo","4 Beds, 2.5 Baths","20060 NW 77th Path, Hialeah, FL 33015"
+"$3,085 /mo","4 Beds, 1 Bath",House for Rent
+"$1,650/mo","1 Bed, 1 Bath","14300 SW 86th Ave, Palmetto Bay, FL 33158"
+"$3,600/mo","2 Beds, 2 Baths",House for Rent
+"$3,300/mo","2 Beds, 2 Baths","455 Golden Isles Dr, Hallandale Beach, FL 33009"
+"$3,560 /mo","4 Beds, 2 Baths",Condo for Rent
+"$2,790 /mo","3 Beds, 2.5 Baths","1658 Bay Rd, Miami Beach, FL 33139"
+"$2,895/mo","3 Beds, 2 Baths",Condo for Rent
+"$3,815 /mo","4 Beds, 2 Baths","7941 NW 172nd St, Hialeah, FL 33015"
+"$4,199 /mo","4 Beds, 2 Baths",House for Rent
+"$3,540 /mo","3 Beds, 2 Baths","1680 NE 157th Ter, North Miami Beach, FL 33162"
+"$4,160 /mo","3 Beds, 2.5 Baths",House for Rent
+"$4,045 /mo","4 Beds, 2.5 Baths","7900 Harbor Island Dr, Miami Beach, FL 33141"
+"$1,800/mo","1 Bed, 1 Bath",Condo for Rent
+"$4,140 /mo","4 Beds, 2.5 Baths","6292 NW 186th St, Hialeah, FL 33015"
+"$3,240 /mo","4 Beds, 2 Baths",Condo for Rent
+"$2,500/mo","2 Beds, 1 Bath","13920 SW 73rd Ave, Palmetto Bay, FL 33158"
+"$3,435 /mo","3 Beds, 2 Baths",House for Rent
+"$3,595 /mo","3 Beds, 2 Baths","7375 NW 173rd Dr, Hialeah, FL 33015"
+"$1,550/mo","Studio, 1 Bath",House for Rent
+"$2,300 /mo","2 Beds, 1 Bath","620 Oriental Blvd, Opa-locka, FL 33054"
+"$3,315 /mo","4 Beds, 2 Baths",House for Rent
+"$3,899 /mo","4 Beds, 2 Baths","7550 Kismet St, Miramar, FL 33023"
+"$2,200/mo","2 Beds, 2 Baths",House for Rent
+"$2,800 /mo","3 Beds, 2 Baths","19592 NW 83rd Ct, Hialeah, FL 33015"
+"$2,800 /mo","3 Beds, 2 Baths",House for Rent
+"$3,250 /mo","3 Beds, 2 Baths","365-ne125 NE 125th St, North Miami, FL 33161"
+"$1,500 /mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,000 /mo","1 Bed, 1 Bath","5632 SW 36th Ct, West Park, FL 33023"
+"$3,285 /mo","3 Beds, 2 Baths",House for Rent
+"$3,080 /mo","3 Beds, 2 Baths","5716 SW 39th St, West Park, FL 33023"
+"$3,005 /mo","3 Beds, 2 Baths",House for Rent
+"$3,555 /mo","4 Beds, 2.5 Baths","7521 Granada Blvd, Miramar, FL 33023"
+"$3,735 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,790/mo","1 Bed, 1 Bath","9025 SW 199th St, Cutler Bay, FL 33157"
+"$3,000/mo","2 Beds, 1.5 Baths",House for Rent
+"$3,410/mo","2 Beds, 2 Baths","3665 W 9th Ave, Hialeah, FL 33012"
+"$2,895/mo","3 Beds, 2 Baths",House for Rent
+"$3,480/mo","1 Bed, 1 Bath","1078 NE 157th St, North Miami Beach, FL 33162"
+"$3,699 /mo","3 Beds, 3 Baths",House for Rent
+"$2,800/mo","2 Beds, 2 Baths","11520 NW 89th Ave, Hialeah Gardens, FL 33018"
+"$2,385 /mo","2 Beds, 1 Bath",House for Rent
+"$2,300/mo","1 Bed, 1.5 Baths","12206 SW 219th St, Goulds, FL 33170"
+"$4,680 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,500/mo","1 Bed, 1 Bath","5139 SW 139th Ave, Miramar, FL 33027"
+"$1,300 /mo","1 Bed, 1 Bath",House for Rent
+"$3,900 /mo","4 Beds, 3 Baths","8962 SW 209th Terrace, Cutler Bay, FL 33189"
+"$3,440/mo","1 Bed, 1 Bath",House for Rent
+"$1,950/mo","Studio, 1 Bath","3940 NW 79th Ave, Doral, FL 33166"
+"$1,700/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,000 /mo","1 Bed, 1 Bath","1510 Meridian Ave, Miami Beach, FL 33139"
+"$3,060/mo","2 Beds, 2 Baths",Apartment for Rent
+"$5,000/mo","4 Beds, 3 Baths","8800 Doral Blvd, Doral, FL 33178"
+"$2,895/mo","3 Beds, 2 Baths",Apartment for Rent
+"$2,700 /mo","2 Beds, 2 Baths","14 W 43rd St, Hialeah, FL 33012"
+"$2,895/mo","3 Beds, 2 Baths",Townhome for Rent
+"$2,880/mo","2 Beds, 2 Baths","4131 Laguna St, Coral Gables, FL 33146"
+"$2,360/mo","1 Bed, 1.5 Baths",Apartment for Rent
+"$3,400/mo","2 Beds, 2 Baths","3435 W 110th St, Hialeah, FL 33018"
+"$4,000/mo","2 Beds, 2 Baths",House for Rent
+"$1,600 /mo","1 Bed, 1 Bath","19311 Sterling Dr, Cutler Bay, FL 33157"
+"$1,750 /mo","1 Bed, 1 Bath",House for Rent
+"$1,480 /mo","1 Bed, 1 Bath","2121 Biarritz Dr, Miami Beach, FL 33141"
+"$2,050/mo","Studio, 1 Bath",House for Rent
+"$2,260 /mo","3 Beds, 2 Baths","16923 NW 53rd Ave, Miami Gardens, FL 33055"
+"$2,700/mo","1 Bed, 1 Bath",House for Rent
+"$2,250/mo","1 Bed, 1 Bath","50 Menores Ave, Coral Gables, FL 33134"
+"$2,595 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,800/mo","1 Bed, 1 Bath","11137 SW 238th Terrace, Princeton, FL 33032"
+"$2,500/mo","1 Bed, 1 Bath",House for Rent
+"$2,515/mo","3 Beds, 2.5 Baths","700 Meridian Ave, Miami Beach, FL 33139"
+"$3,270 /mo","4 Beds, 2 Baths",Apartment for Rent
+"$2,580 /mo","3 Beds, 1 Bath","1135 Euclid Ave, Miami Beach, FL 33139"
+"$3,445 /mo","4 Beds, 3 Baths",Apartment for Rent
+"$12,500 /mo","4 Beds, 3 Baths","21684 SW 98th Pl, Cutler Bay, FL 33190"
+"$3,090 /mo","3 Beds, 2 Baths",House for Rent
+"$2,550/mo","2 Beds, 2 Baths","1030 16th St, Miami Beach, FL 33139"
+"$2,760/mo","3 Beds, 2 Baths",Condo for Rent
+"$3,145 /mo","3 Beds, 2 Baths","710 Washington Ave, Miami Beach, FL 33139"
+"$3,290 /mo","4 Beds, 2.5 Baths",Apartment for Rent

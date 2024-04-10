@@ -1,0 +1,377 @@
+price,rooms,address
+"$1,525",1 Bed,"235 E Pittsburgh Ave, Milwaukee, WI 53204"
+"$1,225 - 1,765",Studio - 1 Bed,"1640 N Water St, Milwaukee, WI 53202"
+"$1,545 - 5,000",1-3 Beds,"1237 N Van Buren St, Milwaukee, WI 53202"
+"$1,095 - 2,495",Studio - 2 Beds,"1029 N Jackson St, Milwaukee, WI 53202"
+"$1,335 - 2,700",1-2 Beds,"626 E Kilbourn Ave, Milwaukee, WI 53202"
+"$1,999 - 2,100",2 Beds,"1818 N Commerce St, Milwaukee, WI 53212"
+"$1,595 - 2,995",1-3 Beds,"441 W Ryan Rd, Oak Creek, WI 53154"
+"$1,220 - 2,500",1-3 Beds,"8601 S Springbrook Blvd, Oak Creek, WI 53154"
+"$1,549 - 4,799",1-3 Beds,"8100 S 27th St, Oak Creek, WI 53154"
+"$1,278 - 7,607",Studio - 3 Beds,"5905 N Lydell Ave, Glendale, WI 53217"
+"$1,380 - 1,650",2 Beds,"4848 N Lydell Ave, Milwaukee, WI 53217"
+"$1,295 - 3,295",Studio - 2 Beds,"1626 N Prospect Ave, Milwaukee, WI 53202"
+"$1,445 - 1,525",2 Beds,"1244 N 68th St, Milwaukee, WI 53213"
+"$1,639 - 6,229",1-3 Beds,"1141 N Old World Third St, Milwaukee, WI 53203"
+"$1,105 - 1,800",Studio - 2 Beds,"2200 S Kinnickinnic Ave, Milwaukee, WI 53207"
+"$1,100 - 2,391",1-2 Beds,"10300 W Fountain Ave, Milwaukee, WI 53224"
+"$1,106 - 8,293",Studio - 3 Beds,"1551 N Water St, Milwaukee, WI 53202"
+"$1,495 - 5,654",1-2 Beds,"144 N Jefferson St, Milwaukee, WI 53202"
+"$1,525 - 7,892",1-3 Beds,"1100 N Cass St, Milwaukee, WI 53202"
+"$1,700",1 Bed,"221 E Oregon St, Milwaukee, WI 53204"
+"$1,695 - 3,500",1-2 Beds,"408 W Florida St, Milwaukee, WI 53204"
+"$1,295 - 2,093",Studio - 2 Beds,"124 W Washington St, Milwaukee, WI 53204"
+"$1,225 - 2,475",Studio - 2 Beds,"1009 W Juneau Ave, Milwaukee, WI 53233"
+"$1,625",1 Bed,"720 W Virginia St, Milwaukee, WI 53204"
+"$1,295 - 2,953",Studio - 3 Beds,"1840 N Farwell Ave, Milwaukee, WI 53202"
+"$1,525",1 Bed,"235 E Pittsburgh Ave, Milwaukee, WI 53204"
+"$1,225 - 1,765",Studio - 1 Bed,"1640 N Water St, Milwaukee, WI 53202"
+"$1,545 - 5,000",1-3 Beds,"1237 N Van Buren St, Milwaukee, WI 53202"
+"$1,095 - 2,495",Studio - 2 Beds,"1029 N Jackson St, Milwaukee, WI 53202"
+"$1,335 - 2,700",1-2 Beds,"626 E Kilbourn Ave, Milwaukee, WI 53202"
+"$1,999 - 2,100",2 Beds,"1818 N Commerce St, Milwaukee, WI 53212"
+"$1,595 - 2,995",1-3 Beds,"441 W Ryan Rd, Oak Creek, WI 53154"
+"$1,220 - 2,500",1-3 Beds,"8601 S Springbrook Blvd, Oak Creek, WI 53154"
+"$1,549 - 4,799",1-3 Beds,"8100 S 27th St, Oak Creek, WI 53154"
+"$1,278 - 7,607",Studio - 3 Beds,"5905 N Lydell Ave, Glendale, WI 53217"
+"$1,380 - 1,650",2 Beds,"4848 N Lydell Ave, Milwaukee, WI 53217"
+"$1,295 - 3,295",Studio - 2 Beds,"1626 N Prospect Ave, Milwaukee, WI 53202"
+"$1,445 - 1,525",2 Beds,"1244 N 68th St, Milwaukee, WI 53213"
+"$1,639 - 6,229",1-3 Beds,"1141 N Old World Third St, Milwaukee, WI 53203"
+"$1,105 - 1,800",Studio - 2 Beds,"2200 S Kinnickinnic Ave, Milwaukee, WI 53207"
+"$1,100 - 2,391",1-2 Beds,"10300 W Fountain Ave, Milwaukee, WI 53224"
+"$1,106 - 8,293",Studio - 3 Beds,"1551 N Water St, Milwaukee, WI 53202"
+"$1,495 - 5,654",1-2 Beds,"144 N Jefferson St, Milwaukee, WI 53202"
+"$1,525 - 7,892",1-3 Beds,"1100 N Cass St, Milwaukee, WI 53202"
+"$1,700",1 Bed,"221 E Oregon St, Milwaukee, WI 53204"
+"$1,695 - 3,500",1-2 Beds,"408 W Florida St, Milwaukee, WI 53204"
+"$1,295 - 2,093",Studio - 2 Beds,"124 W Washington St, Milwaukee, WI 53204"
+"$1,225 - 2,475",Studio - 2 Beds,"1009 W Juneau Ave, Milwaukee, WI 53233"
+"$1,625",1 Bed,"720 W Virginia St, Milwaukee, WI 53204"
+"$1,295 - 2,953",Studio - 3 Beds,"1840 N Farwell Ave, Milwaukee, WI 53202"
+"$1,340 - 3,915",Studio - 3 Beds,"1303 N 10th St, Milwaukee, WI 53205"
+"$1,295 - 1,515",Studio - 1 Bed,"1320 S 1st St, Milwaukee, WI 53204"
+"$1,260 - 2,560",Studio - 2 Beds,"550 W Juneau Ave, Milwaukee, WI 53203"
+"$1,600 - 2,595",1-2 Beds,"1632 N Franklin Pl, Milwaukee, WI 53202"
+"$1,850 - 15,000",1-3 Beds,"700 E Kilbourn Ave, Milwaukee, WI 53202"
+"$1,308 - 1,913",1-2 Beds,"2325 W Briar Lake Way, Oak Creek, WI 53154"
+"$1,835",2 Beds,"7700 Portland Ave, Wauwatosa, WI 53213"
+"$1,485",2 Beds,"12550 W National Ave, New Berlin, WI 53151"
+"$1,282 - 2,852",1-3 Beds,"9200 S Meyer Ln, Oak Creek, WI 53154"
+"$1,395 - 1,950",1-3 Beds,"255 W Coventry Ct, Glendale, WI 53217"
+"$1,520 - 2,577",Studio - 3 Beds,"1215 N 62nd St, Wauwatosa, WI 53213"
+"$1,512 - 6,229",Studio - 2 Beds,"11011 W North Ave, Wauwatosa, WI 53226"
+"$1,727 - 4,912",Studio - 2 Beds,"405 Bishops Way, Brookfield, WI 53005"
+"$1,490 - 3,609",1-2 Beds,"2950 W Statesman Way, Franklin, WI 53132"
+"$1,290 - 1,710",Studio - 1 Bed,"1809 N Cambridge Ave, Milwaukee, WI 53202"
+"$1,636 - 4,565",Studio - 3 Beds,"1785 N Water St, Milwaukee, WI 53202"
+"$2,075 - 3,995",2 Beds,"630 N Vel R Phillips Ave, Milwaukee, WI 53203"
+"$1,450 - 3,500",1-2 Beds,"916 E State St, Milwaukee, WI 53202"
+"$1,347 - 2,435",1-3 Beds,"4401 W Deer Run Dr, Milwaukee, WI 53223"
+"$1,250",1 Bed,"1100 W Wells St, Milwaukee, WI 53233"
+"$1,325 - 3,350",1-2 Beds,"1726 N 1st St, Milwaukee, WI 53212"
+"$1,350",1 Bed,"2440 S Kinnickinnic Ave, Milwaukee, WI 53207"
+"$1,325 - 2,700",1-3 Beds,"211 W Mineral St, Milwaukee, WI 53204"
+"$1,250 - 1,700",1-2 Beds,"1673 S 9th St, Milwaukee, WI 53204"
+"$1,161 - 1,699",1-2 Beds,"7439 Harwood Ave, Milwaukee, WI 53213"
+"$1,300 - 2,395",1-3 Beds,"2340 N Cramer St, Milwaukee, WI 53211"
+Call for Rent,1-2 Beds,"547 N 9th St, Milwaukee, WI 53233"
+"$1,495 - 1,965",1-2 Beds,"5204 S 76th St, Greendale, WI 53129"
+"$1,450 - 3,200",1-3 Beds,"1616 W Bender Rd, Glendale, WI 53209"
+"$1,416 - 1,978",1-2 Beds,"8709 S Wood Creek Dr, Oak Creek, WI 53154"
+"$1,555 - 4,760",1-3 Beds,"6801 S Parkedge Cir, Franklin, WI 53132"
+"$1,650 - 1,725",2 Beds,"1633 W Bender Rd, Glendale, WI 53209"
+"$1,385 - 5,405",Studio - 3 Beds,"2697 W Orchard Hills Dr, Oak Creek, WI 53154"
+"$1,591 - 2,781",1-3 Beds,"2200 S Clubhouse Dr, New Berlin, WI 53151"
+"$1,550 - 2,767",1-3 Beds,"1200 Club Cir, Brookfield, WI 53005"
+"$1,280 - 5,175",Studio - 3 Beds,"7798 S Drexel Ridge Way, Oak Creek, WI 53154"
+"$1,460 - 2,510",1-2 Beds,"4100 W Layton Ave, Greenfield, WI 53221"
+"$1,484 - 2,089",1-3 Beds,"50 E Fieldstone Cir, Oak Creek, WI 53154"
+"$1,240 - 3,625",1-3 Beds,"9125 Sura Ln, Greenfield, WI 53228"
+"$1,780 - 1,815",2 Beds,"6300 River Pky, Wauwatosa, WI 53213"
+"$1,129 - 2,700",Studio - 2 Beds,"11221 Synergy Dr, Wauwatosa, WI 53222"
+"$2,400",2 Beds,"227 N Water St, Milwaukee, WI 53202"
+"$2,140 - 6,840",Studio - 3 Beds,"777 N Van Buren St, Milwaukee, WI 53202"
+"$1,420 - 3,605",Studio - 2 Beds,"9810 Echelon Ln, Milwaukee, WI 53226"
+"$1,600",1 Bed,"212 S Barclay St, Milwaukee, WI 53204"
+"$1,947 - 6,245",1-3 Beds,"441 E Erie St E, Milwaukee, WI 53202"
+"$1,500 - 1,815",1-2 Beds,"720 N Dr Martin Luther King Jr Dr, Milwaukee, WI 53203"
+"$1,335 - 1,705",1-2 Beds,"161 W Wisconsin Ave, Milwaukee, WI 53203"
+$895,1 Bed,"1725 E Kane Pl, Milwaukee, WI 53202"
+"$895 - 1,350",Studio - 2 Beds,"1319 N Jackson St, Milwaukee, WI 53202"
+"$864 - 1,159",Studio - 2 Beds,"6510 W English Meadows Dr, Milwaukee, WI 53220"
+"$1,149 - 1,752",1-2 Beds,"11200 W Cleveland Ave, Milwaukee, WI 53227"
+$850,1 Bed,"3921 N Humboldt Blvd, Milwaukee, WI 53212"
+$750 - 995,Studio - 1 Bed,"921 N Marshall St, Milwaukee, WI 53202"
+"$1,800 - 2,650",2-3 Beds,"133 W Oregon St, Milwaukee, WI 53204"
+"$1,064 - 1,685",1-3 Beds,"3459 S 110th St, Milwaukee, WI 53227"
+"$952 - 1,368",1-2 Beds,"5634 W Oklahoma Ave, Milwaukee, WI 53219"
+"$1,045 - 1,441",1-3 Beds,"2100 W Pierce St, Milwaukee, WI 53204"
+"$1,005 - 1,625",1-2 Beds,"104 E Mason St, Milwaukee, WI 53202"
+"$930 - 1,427",2-3 Beds,"506 W Walnut St, Milwaukee, WI 53212"
+"$948 - 1,161",1-2 Beds,"1320 N 21st St, Milwaukee, WI 53205"
+"$625 - 1,150",2-3 Beds,"3940 W Lisbon Ave, Milwaukee, WI 53208"
+"$473 - 1,550",1-3 Beds,"700 W Michigan St, Milwaukee, WI 53201"
+$442 - 970,1-3 Beds,"5372 N 37th St, Milwaukee, WI 53209"
+"$463 - 1,505",2-3 Beds,"1560 W Pierce St, Milwaukee, WI 53204"
+"$2,400",2 Beds,"5400 N Iroquois Ave, Glendale, WI 53217"
+"$1,900 - 2,300",1-2 Beds,"11130 N Buntrock Ave, Mequon, WI 53092"
+"$1,416 - 2,688",1-2 Beds,"N78W17445 Wildwood Dr, Menomonee Falls, WI 53051"
+"$2,103 - 7,852",1-3 Beds,"401 E Beaumont Ave, Whitefish Bay, WI 53217"
+"$1,250 - 2,125",Studio - 2 Beds,"9150 W Watertown Plank Rd, Wauwatosa, WI 53226"
+"$1,377 - 2,888",1-2 Beds,"4280 S Ravinia Dr, Greenfield, WI 53221"
+$899,1 Bed,"8828 S Oak Park Dr, Oak Creek, WI 53154"
+"$1,395 - 2,150",1-3 Beds,"14900 W Library Ln, New Berlin, WI 53151"
+"$1,330 - 3,688",Studio - 2 Beds,"6501 W Greenfield Ave, West Allis, WI 53214"
+"$1,645",2 Beds,"3535 S Deer Creek Pky, New Berlin, WI 53151"
+"$1,348 - 2,439",1-2 Beds,"11077 W Forest Home Ave, Hales Corners, WI 53130"
+$875/mo,"1 Bed, 1 Bath","N92W17358 Appleton Ave, Menomonee Falls, WI 53051"
+"$1,350/mo","3 Beds, 1 Bath","N92W17358 Appleton Ave, Menomonee Falls, WI 53051"
+"$1,625/mo","3 Beds, 1 Bath","8900-8920 S Wood Creek Dr, Oak Creek, WI 53154"
+"$1,775/mo","3 Beds, 1 Bath","8900-8920 S Wood Creek Dr, Oak Creek, WI 53154"
+"$1,595/mo","3 Beds, 1 Bath","W164 N9091 Water St, Menomonee Falls, WI 53051"
+$950/mo,"2 Beds, 1 Bath","W164 N9091 Water St, Menomonee Falls, WI 53051"
+$850/mo,"1 Bed, 1 Bath","South Milwaukee, WI 53172"
+$750/mo,"1 Bed, 1 Bath","South Milwaukee, WI 53172"
+"$1,495/mo","2 Beds, 1 Bath","5779-5781 S Packard Ave, Cudahy, WI 53110"
+"$2,600 /mo","4 Beds, 2 Baths","5779-5781 S Packard Ave, Cudahy, WI 53110"
+$925/mo,"2 Beds, 1 Bath","N81W15085 Appleton Ave, Menomonee Falls, WI 53051"
+$700/mo,"1 Bed, 1 Bath","N81W15085 Appleton Ave, Menomonee Falls, WI 53051"
+$650/mo,"1 Bed, 1 Bath","6610-6660 W Barnard Ave, Greenfield, WI 53220"
+$900/mo,"1 Bed, 1 Bath","6610-6660 W Barnard Ave, Greenfield, WI 53220"
+"$1,400/mo","2 Beds, 1 Bath","6091 N Green Bay Ave, Glendale, WI 53209"
+"$1,050 /mo","2 Beds, 1 Bath","6091 N Green Bay Ave, Glendale, WI 53209"
+$828/mo,"1 Bed, 1 Bath","4560 S Nicholson Ave, Cudahy, WI 53110"
+$956/mo,"2 Beds, 1 Bath","4560 S Nicholson Ave, Cudahy, WI 53110"
+"$2,400/mo","2 Beds, 2 Baths","1611 S 115th Ct, West Allis, WI 53214"
+$890/mo,"1 Bed, 1 Bath","1611 S 115th Ct, West Allis, WI 53214"
+"$1,275/mo","1 Bed, 1 Bath","7128 W Appleton Ave, Milwaukee, WI 53216"
+"$1,125/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,100/mo","2 Beds, 1 Bath","8029 W Beckett Ave, Milwaukee, WI 53218"
+"$1,400/mo","3 Beds, 1 Bath",Apartment for Rent
+$900/mo,"1 Bed, 1 Bath","1702 E Bradford Ave, Milwaukee, WI 53211"
+"$2,147/mo","Studio, 1 Bath",Apartment for Rent
+"$1,800/mo","3 Beds, 1.5 Baths","2945 N Bartlett Ave, Milwaukee, WI 53211"
+$485/mo,"1 Bed, 1 Bath",Apartment for Rent
+$785/mo,"1 Bed, 1 Bath","2429 N Farwell Ave, Milwaukee, WI 53211"
+$998/mo,"2 Beds, 1 Bath",Apartment for Rent
+$850/mo,"1 Bed, 1 Bath","8024 W Lincoln Ave, West Allis, WI 53219"
+"$1,395/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,195/mo","1 Bed, 1 Bath","1720 E Newton Ave, Shorewood, WI 53211"
+"$1,250/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,150/mo","2 Beds, 1 Bath","1141 S 71st St, West Allis, WI 53214"
+"$2,500/mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$1,600/mo","2 Beds, 1 Bath","14460 Tulane St, Brookfield, WI 53005"
+"$1,400/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,100/mo","2 Beds, 1 Bath","6304 S 35th St, Franklin, WI 53132"
+"$1,250/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,100/mo","1 Bed, 1 Bath","4053 N Bartlett Ave, Shorewood, WI 53211"
+"$1,175/mo","1 Bed, 1 Bath",Townhome for Rent
+"$2,300/mo","3 Beds, 1 Bath","1203 S 73rd St, West Allis, WI 53214"
+"$1,474 /mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$1,495/mo","3 Beds, 1 Bath","1205 S 73rd St, West Allis, WI 53214"
+"$1,404/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,200/mo","3 Beds, 1 Bath","1726 S 55th St, West Milwaukee, WI 53214"
+"$1,800/mo","2 Beds, 2 Baths",Apartment for Rent
+"$1,250 - 1,450/mo","2-3 Beds, 1-2 Baths","4080 W Rivers Edge Cir, Brown Deer, WI 53209"
+"$1,000 - 1,500/mo","1-3 Beds, 1-2 Baths",Condo for Rent
+"$1,425/mo","2 Beds, 1 Bath","2409 S 68th St, West Allis, WI 53219"
+"$1,895/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,600/mo","3 Beds, 1 Bath","1708 N Arlington Pl, Milwaukee, WI 53202"
+"$1,500/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,080/mo","1 Bed, 1 Bath","2617 N Maryland Ave, Milwaukee, WI 53211"
+"$1,350/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,350/mo","2-3 Beds, 1 Bath","2830 N 17th St, Milwaukee, WI 53206"
+"$1,550 - 1,650/mo","3-4 Beds, 1 Bath",House for Rent
+$850/mo,"2 Beds, 1 Bath","2840 N Bartlett Ave, Milwaukee, WI 53211"
+"$2,150/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,200/mo","2 Beds, 1 Bath","1225 W Madison St, Milwaukee, WI 53204"
+"$2,300/mo","3 Beds, 1 Bath",Townhome for Rent
+"$1,500 - 1,900/mo","1-2 Beds, 1-2 Baths","709 E Brady St, Milwaukee, WI 53202"
+"$1,200/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,100 /mo","6 Beds, 3 Baths","2905 N Newhall St, Milwaukee, WI 53211"
+"$5,000/mo","2 Beds, 2 Baths",Condo for Rent
+"$1,000/mo","2 Beds, 1 Bath","422 W Harrison Ave, Milwaukee, WI 53207"
+"$1,600/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,350/mo","2 Beds, 1 Bath","2457 N 1st St, Milwaukee, WI 53212"
+"$1,800/mo","Studio, 1 Bath",Condo for Rent
+"$950 - 1,600/mo","1-3 Beds, 1 Bath","2016 W Clybourn St, Milwaukee, WI 53233"
+"$1,900/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,150/mo","2 Beds, 1 Bath","337 E Smith St, Milwaukee, WI 53207"
+"$1,350/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,575 /mo","2 Beds, 1 Bath","5253 N 34th St, Milwaukee, WI 53209"
+"$2,000/mo","1 Bed, 1 Bath",Townhome for Rent
+"$2,150/mo","3 Beds, 2 Baths","1422 N 26th St, Milwaukee, WI 53205"
+"$3,500/mo","2 Beds, 2 Baths",Apartment for Rent
+$900 /mo,"2 Beds, 1 Bath","1534 N Marshall St, Milwaukee, WI 53202"
+$800/mo,"1 Bed, 1 Bath",House for Rent
+"$2,400/mo","2 Beds, 2 Baths","601 E Ogden Ave, Milwaukee, WI 53202"
+"$1,350/mo","3 Beds, 1 Bath",Condo for Rent
+"$1,750 /mo","2 Beds, 2 Baths","501 N 20th St, Milwaukee, WI 53233"
+"$1,860/mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$1,550/mo","1 Bed, 1 Bath","741 N Milwaukee St, Milwaukee, WI 53202"
+$700/mo,"2 Beds, 1 Bath",Condo for Rent
+"$1,250/mo","3 Beds, 1 Bath","3024 N 30th St, Milwaukee, WI 53210"
+$900 /mo,"1 Bed, 1 Bath",House for Rent
+"$2,500/mo","2 Beds, 2 Baths","1132 E Clarke St, Milwaukee, WI 53212"
+"$1,850 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,450/mo","3 Beds, 1.5 Baths","1633 N Prospect Ave, Milwaukee, WI 53202"
+$950/mo,"2 Beds, 1 Bath",Condo for Rent
+"$1,495/mo","2 Beds, 1 Bath","5146 N 84th St, Milwaukee, WI 53225"
+"$1,295/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,295/mo","2 Beds, 1 Bath","645 S 67th St, Milwaukee, WI 53214"
+"$1,495/mo","2 Beds, 1 Bath",House for Rent
+"$1,850/mo","2 Beds, 2 Baths","3764 S Massachusetts Ave, Milwaukee, WI 53220"
+$900/mo,"2 Beds, 1 Bath",Townhome for Rent
+"$1,195/mo","1 Bed, 1 Bath","1541 N Jefferson St, Milwaukee, WI 53202"
+"$1,495/mo","1 Bed, 1 Bath",Condo for Rent
+"$2,800 /mo","3 Beds, 2 Baths","2350 N 53rd St, Milwaukee, WI 53210"
+"$1,100/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,575/mo","2 Beds, 1 Bath","5130 N 84th St, Milwaukee, WI 53225"
+"$1,225/mo","2 Beds, 1 Bath",Townhome for Rent
+"$1,300 /mo","1 Bed, 1 Bath","814 E Clarke St, Milwaukee, WI 53212"
+"$1,495/mo","2 Beds, 1 Bath",House for Rent
+"$1,600/mo","2 Beds, 1 Bath","1660 N Prospect Ave, Milwaukee, WI 53202"
+"$1,995/mo","2 Beds, 1 Bath",Condo for Rent
+"$1,995 /mo","2 Beds, 1 Bath","6911 W Lima St, Milwaukee, WI 53223"
+"$1,700/mo","2 Beds, 1 Bath",House for Rent
+"$1,700/mo","3 Beds, 1 Bath","1423 N 116th St, Wauwatosa, WI 53226"
+"$1,145/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,900/mo","2 Beds, 1 Bath","4950 N Port Washington Rd, Glendale, WI 53217"
+"$2,180/mo","2 Beds, 2 Baths",Apartment for Rent
+"$1,299/mo","2 Beds, 1 Bath","8103 W Grant St, West Allis, WI 53219"
+"$1,150 /mo","2 Beds, 1 Bath",Townhome for Rent
+"$1,525/mo","2 Beds, 1 Bath","4130 S Lake Dr, Saint Francis, WI 53235"
+"$1,650/mo","2 Beds, 1 Bath",Condo for Rent
+"$1,700/mo","3 Beds, 1 Bath","226 E Henry Clay St, Whitefish Bay, WI 53217"
+"$2,045/mo","4 Beds, 1 Bath",Apartment for Rent
+"$1,550/mo","2 Beds, 1 Bath","1554 S 58th St, West Allis, WI 53214"
+"$1,595/mo","3 Beds, 1 Bath",House for Rent
+"$1,245/mo","2 Beds, 1 Bath","2615 N Wauwatosa Ave, Wauwatosa, WI 53213"
+"$1,195/mo","1 Bed, 1 Bath",Townhome for Rent
+"$1,495/mo","2 Beds, 1 Bath","1258 Martha Washington Dr, Wauwatosa, WI 53213"
+$75 - 850/mo,"1 Bed, 1 Bath",Apartment for Rent
+"$1,775/mo","3 Beds, 1 Bath","1424 S 79th St, West Allis, WI 53214"
+"$1,165/mo","2 Beds, 1 Bath",Apartment for Rent
+$909/mo,"1 Bed, 1 Bath","2765 N Cramer St, Milwaukee, WI 53211"
+"$2,585/mo","3 Beds, 3 Baths",Apartment for Rent
+"$1,150/mo","2 Beds, 1 Bath","2117 E Bradford Ave, Milwaukee, WI 53211"
+$775/mo,"1 Bed, 1 Bath",Apartment for Rent
+"$1,740 /mo","3 Beds, 1 Bath","2429 N Farwell Ave, Milwaukee, WI 53211"
+"$1,350/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,295/mo","2 Beds, 1 Bath","2573 N Bartlett Ave, Milwaukee, WI 53211"
+"$1,295/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,200/mo","2 Beds, 1 Bath","2788 S Fulton St, Milwaukee, WI 53207"
+"$1,300/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,080/mo","1 Bed, 1 Bath","1323 E Colorado St, Milwaukee, WI 53207"
+"$1,175/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,250 - 1,650/mo","Studio - 1 Bed, 1 Bath","1320 E Hamilton St, Milwaukee, WI 53202"
+$875/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$2,200/mo","2 Beds, 1 Bath","2945 N Bartlett Ave, Milwaukee, WI 53211"
+"$1,450/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,200/mo","3 Beds, 1 Bath","1539 Jackson N St, Milwaukee, WI 53202"
+"$1,545/mo","3 Beds, 1 Bath",Townhouse for Rent
+$895/mo,"2 Beds, 1 Bath","3180 S Brust Ave, Milwaukee, WI 53207"
+"$1,695/mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$1,795/mo","3 Beds, 1 Bath","2208 N Newhall St, Milwaukee, WI 53202"
+"$2,700/mo","4 Beds, 2 Baths",Townhouse for Rent
+$995/mo,"1 Bed, 1 Bath","370 E Rosedale Ave, Milwaukee, WI 53207"
+"$1,100/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,525/mo","3 Beds, 1 Bath","2457 N 1st St, Milwaukee, WI 53212"
+"$1,225/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,295/mo","2 Beds, 1 Bath","741 E Homer St, Milwaukee, WI 53207"
+"$1,195 - 1,495/mo","1-2 Beds, 1 Bath",Apartment for Rent
+"$1,650/mo","2 Beds, 1 Bath","338 E Oklahoma Ave, Milwaukee, WI 53207"
+"$2,000/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,700 /mo","2 Beds, 1 Bath","919 E Clarke St, Milwaukee, WI 53212"
+"$1,295/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,500/mo","3 Beds, 2.5 Baths","352 E Schiller St, Milwaukee, WI 53207"
+"$2,350/mo","4 Beds, 2.5 Baths",Apartment for Rent
+"$1,650/mo","1 Bed, 1 Bath","3860 S Whitnall Ave, Milwaukee, WI 53207"
+"$1,595/mo","Studio, 1 Bath",Townhouse for Rent
+"$3,000/mo","3 Beds, 2 Baths","1668 N Van Buren St, Milwaukee, WI 53202"
+"$1,150/mo","2 Beds, 1 Bath",Apartment for Rent
+"$6,700/mo","3 Beds, 1.5 Baths","167 S 77th St, Milwaukee, WI 53214"
+"$1,450 /mo","3 Beds, 1 Bath",House for Rent
+"$1,995 /mo","3 Beds, 1 Bath","1775 N Astor St, Milwaukee, WI 53202"
+"$2,900/mo","4 Beds, 2 Baths",Townhouse for Rent
+"$1,500/mo","3 Beds, 1.5 Baths","7869 N 60th St, Milwaukee, WI 53223"
+"$2,300/mo","2 Beds, 2 Baths",Condo for Rent
+"$2,495/mo","1 Bed, 1 Bath","1830 E Kane Pl, Milwaukee, WI 53202"
+"$3,550/mo","2 Beds, 2 Baths",Apartment for Rent
+"$4,800/mo","3 Beds, 2 Baths","1633 N Prospect Ave, Milwaukee, WI 53202"
+"$6,595/mo","3 Beds, 3 Baths",Condo for Rent
+"$6,675/mo","3 Beds, 3 Baths","215 W Maple St, Milwaukee, WI 53204"
+"$2,500/mo","3 Beds, 1 Bath",Condo for Rent
+"$1,900/mo","1 Bed, 1 Bath","2766 S Logan Ave, Milwaukee, WI 53207"
+"$3,100 /mo","1 Bed, 1.5 Baths",Apartment for Rent
+"$1,500 - 1,990/mo","2-3 Beds, 2 Baths","2435 S Burrell St, Milwaukee, WI 53207"
+$825/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$1,795/mo","2 Beds, 1 Bath","102 N Water St, Milwaukee, WI 53202"
+"$1,600/mo","3 Beds, 1 Bath",Condo for Rent
+$850/mo,"2 Beds, 1 Bath","5859 N 66th St, Milwaukee, WI 53218"
+"$12,500/mo","3 Beds, 3.5 Baths",House for Rent
+"$1,050/mo","3 Beds, 1 Bath","10957 W Stark St, Milwaukee, WI 53225"
+"$1,350/mo","3 Beds, 1 Bath",House for Rent
+"$3,900/mo","3 Beds, 2 Baths","2883 S Wentworth Ave, Milwaukee, WI 53207"
+"$2,100/mo","3 Beds, 1 Bath",Townhouse for Rent
+"$1,000/mo","1 Bed, 1 Bath","117 N 60th St, Milwaukee, WI 53213"
+"$1,700/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,900/mo","1 Bed, 1.5 Baths","2912 S Delaware Ave, Milwaukee, WI 53207"
+$750/mo,"1 Bed, 1 Bath",Apartment for Rent
+$825/mo,"1 Bed, 1 Bath","312 E Buffalo St, Milwaukee, WI 53202"
+$700/mo,"1 Bed, 1 Bath",Condo for Rent
+$700/mo,"1 Bed, 1 Bath","5533 N 95th St, Milwaukee, WI 53225"
+"$1,150/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,725/mo","3 Beds, 1 Bath","3027 N 9th St, Milwaukee, WI 53206"
+"$2,995/mo","2 Beds, 2 Baths",Apartment for Rent
+$850/mo,"2 Beds, 1 Bath","1421 W Atkinson Ave, Milwaukee, WI 53206"
+"$1,800/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,595 /mo","5 Beds, 1 Bath","1429 W Atkinson Ave, Milwaukee, WI 53206"
+"$1,700/mo","3 Beds, 1 Bath",Apartment for Rent
+$990/mo,"2 Beds, 1 Bath","2747 N 76th St, Milwaukee, WI 53222"
+"$2,195 /mo","3 Beds, 1.5 Baths",Apartment for Rent
+$780/mo,"1 Bed, 1 Bath","3422 N Oakland Ave, Milwaukee, WI 53211"
+"$2,850 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$1,600/mo","3 Beds, 1 Bath","1660 N Prospect Ave, Milwaukee, WI 53202"
+$900/mo,"1 Bed, 1 Bath",Condo for Rent
+"$1,485/mo","3 Beds, 1 Bath","4617 N 29th St, Milwaukee, WI 53209"
+"$1,100/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,595/mo","3 Beds, 1 Bath","1028 E Juneau Ave, Milwaukee, WI 53202"
+"$1,015 - 1,350/mo","1-2 Beds, 1 Bath",Condo for Rent
+"$1,350/mo","2 Beds, 1 Bath","3335 N 28th St, Milwaukee, WI 53216"
+"$1,345/mo","2 Beds, 1 Bath",House for Rent
+"$1,750/mo","Studio, 1 Bath","3366 N Oakland Ave, Milwaukee, WI 53211"
+"$1,350/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$1,325/mo","2 Beds, 1.5 Baths","2551 N 44th St, Milwaukee, WI 53210"
+$895/mo,"1 Bed, 1 Bath",Apartment for Rent
+$795 - 895/mo,"1 Bed, 1 Bath","3348 S Illinois Ave, Milwaukee, WI 53207"
+"$1,125/mo","2 Beds, 1 Bath",House for Rent
+$675/mo,"Studio, 1 Bath","7223 W Lakefield Dr, Milwaukee, WI 53219"
+$925/mo,"2 Beds, 1 Bath",Apartment for Rent
+"$1,195/mo","2 Beds, 1 Bath","1014 E Pearson St, Milwaukee, WI 53202"
+"$1,750/mo","2 Beds, 1 Bath",House for Rent
+"$1,050/mo","1 Bed, 1 Bath","8919 W Tripoli Ave, Milwaukee, WI 53228"
+"$1,500/mo","2 Beds, 1 Bath",Townhouse for Rent
+$995/mo,"2 Beds, 1 Bath","816 E Brady St, Milwaukee, WI 53202"
+"$1,445/mo","3 Beds, 1 Bath",Apartment for Rent
+$895/mo,"1 Bed, 1 Bath","9110 W North Ave, Wauwatosa, WI 53226"
+"$2,550 /mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$2,595/mo","2 Beds, 1 Bath","4707 N Hollywood Ave, Whitefish Bay, WI 53211"
+"$2,395 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,095/mo","2 Beds, 1 Bath","3823 E Allerton Ave, Cudahy, WI 53110"
+"$2,695/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,695/mo","2 Beds, 2 Baths","15245 W North Ave, Brookfield, WI 53005"
+"$2,395/mo","2 Beds, 2 Baths",House for Rent
+"$2,295/mo","2 Beds, 2 Baths","11320 W North Ave, Wauwatosa, WI 53226"
+"$2,200/mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$8,250/mo","3 Beds, 4.5 Baths","2442 N 73rd St, Wauwatosa, WI 53213"
+"$2,500 /mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,000/mo","2 Beds, 1 Bath","10640 N Ivy Ct, Mequon, WI 53092"
+"$1,100/mo","3 Beds, 1 Bath",Condo for Rent
+"$1,700/mo","2 Beds, 1 Bath","6250 W Spur Rd, Mequon, WI 53092"
+"$1,800/mo","2 Beds, 2 Baths",Apartment for Rent
+"$2,800/mo","3 Beds, 2 Baths","4120 S Lake Dr, Saint Francis, WI 53235"
+"$2,200 /mo","6 Beds, 2.5 Baths",Condo for Rent
+$950/mo,"1 Bed, 1 Bath","4259 Teakwood Ct, Greendale, WI 53129"
+$895/mo,"1 Bed, 1 Bath",Apartment for Rent

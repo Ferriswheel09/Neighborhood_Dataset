@@ -1,0 +1,588 @@
+price,rooms,address
+"$1,200 - 3,000",Studio - 3 Beds,"150 W Castellano Dr, El Paso, TX 79912"
+"$892 - 1,030",1-2 Beds,"7227 N Mesa St, El Paso, TX 79912"
+"$765 - 1,034",1-2 Beds,"9030 Betel Dr, El Paso, TX 79907"
+"$1,069 - 2,009",1-3 Beds,"415 S Mesa Hills Dr, El Paso, TX 79912"
+"$1,008 - 1,356",1-2 Beds,"7049 Westwind Dr, El Paso, TX 79912"
+"$850 - 1,350",1-4 Beds,"108 Vaquero Ln, El Paso, TX 79912"
+$649 - 899,Studio - 2 Beds,"9550 Dyer St, El Paso, TX 79924"
+"$908 - 1,272",1-2 Beds,"601 S Mesa Hills Dr, El Paso, TX 79912"
+"$850 - 1,325",1-3 Beds,"3334 Zion Ln, El Paso, TX 79904"
+"$830 - 1,115",1-3 Beds,"10330 N Gateway Blvd, El Paso, TX 79924"
+"$1,049 - 2,182",1-3 Beds,"9535 Acer Ave, El Paso, TX 79925"
+"$965 - 2,585",1-3 Beds,"4649 Loma Del Sur Dr, El Paso, TX 79934"
+$665 - 800,1-2 Beds,"4554 Hercules Ave, El Paso, TX 79904"
+"$795 - 1,175",1-2 Beds,"299 Kingspoint Dr, El Paso, TX 79912"
+"$850 - 1,010",1-3 Beds,"5301 Woodrow Bean Transmountai Dr, El Paso, TX 79924"
+"$1,350 - 1,645",3 Beds,"5801 Silver Springs Dr, El Paso, TX 79912"
+"$815 - 1,085",Studio - 2 Beds,"1500 Magruder St, El Paso, TX 79925"
+"$1,135 - 1,910",1-3 Beds,"10800 McCombs St, El Paso, TX 79924"
+"$928 - 1,358",1-3 Beds,"140 Shadow Mountain Dr, El Paso, TX 79912"
+"$945 - 1,408",2-3 Beds,"500 Rubin Dr, El Paso, TX 79912"
+"$770 - 1,250",Studio - 2 Beds,"4111 Westcity Ct, El Paso, TX 79902"
+"$831 - 1,461",1-3 Beds,"1601 Lee Trevino Dr, El Paso, TX 79936"
+"$875 - 2,250",1-3 Beds,"410 Thorn Ave, El Paso, TX 79912"
+"$1,032 - 1,778",2 Beds,"9431 N Loop Dr, El Paso, TX 79907"
+"$1,165 - 2,370",1-3 Beds,"2021 Bluff Creek St, El Paso, TX 79911"
+"$1,118 - 1,218",Studio - 2 Beds,"1831 Murchison Dr, El Paso, TX 79902"
+"$1,349 - 2,435",1-3 Beds,"2801 N Zaragoza Rd, El Paso, TX 79938"
+"$2,150 - 2,699",3 Beds,"5545 Buckley Dr, El Paso, TX 79912"
+"$1,010 - 2,117",1-3 Beds,"945 S Mesa Hills Dr, El Paso, TX 79912"
+"$1,081 - 2,324",1-3 Beds,"12220 Pellicano Dr, El Paso, TX 79936"
+"$1,425 - 1,850",2-3 Beds,"5501 N Stanton St, El Paso, TX 79912"
+"$1,173 - 1,850",2-3 Beds,"6115 Escondido Dr, El Paso, TX 79912"
+"$980 - 1,560",1-3 Beds,"1531 George Dieter Dr, El Paso, TX 79936"
+"$1,198 - 1,956",1-3 Beds,"1500 Bob Hope Dr, El Paso, TX 79936"
+"$800 - 1,150",1-3 Beds,"151 S Resler Dr, El Paso, TX 79912"
+"$900 - 1,305",1-3 Beds,"6938 Alto Rey Ave, El Paso, TX 79912"
+"$1,399 - 1,774",1-3 Beds,"1325 Northwestern Dr, El Paso, TX 79912"
+"$989 - 2,067",1-3 Beds,"3700 Hueco Valley Dr, El Paso, TX 79938"
+"$979 - 1,630",1-3 Beds,"734 S Mesa Hills Dr, El Paso, TX 79912"
+"$955 - 1,305",1-2 Beds,"5525 N Stanton St, El Paso, TX 79912"
+"$1,200 - 3,000",Studio - 3 Beds,"150 W Castellano Dr, El Paso, TX 79912"
+"$892 - 1,030",1-2 Beds,"7227 N Mesa St, El Paso, TX 79912"
+"$765 - 1,034",1-2 Beds,"9030 Betel Dr, El Paso, TX 79907"
+"$1,069 - 2,009",1-3 Beds,"415 S Mesa Hills Dr, El Paso, TX 79912"
+"$1,008 - 1,356",1-2 Beds,"7049 Westwind Dr, El Paso, TX 79912"
+"$850 - 1,350",1-4 Beds,"108 Vaquero Ln, El Paso, TX 79912"
+$649 - 899,Studio - 2 Beds,"9550 Dyer St, El Paso, TX 79924"
+"$908 - 1,272",1-2 Beds,"601 S Mesa Hills Dr, El Paso, TX 79912"
+"$850 - 1,325",1-3 Beds,"3334 Zion Ln, El Paso, TX 79904"
+"$830 - 1,115",1-3 Beds,"10330 N Gateway Blvd, El Paso, TX 79924"
+"$1,049 - 2,182",1-3 Beds,"9535 Acer Ave, El Paso, TX 79925"
+"$965 - 2,585",1-3 Beds,"4649 Loma Del Sur Dr, El Paso, TX 79934"
+$665 - 800,1-2 Beds,"4554 Hercules Ave, El Paso, TX 79904"
+"$795 - 1,175",1-2 Beds,"299 Kingspoint Dr, El Paso, TX 79912"
+"$850 - 1,010",1-3 Beds,"5301 Woodrow Bean Transmountai Dr, El Paso, TX 79924"
+"$1,350 - 1,645",3 Beds,"5801 Silver Springs Dr, El Paso, TX 79912"
+"$815 - 1,085",Studio - 2 Beds,"1500 Magruder St, El Paso, TX 79925"
+"$1,135 - 1,910",1-3 Beds,"10800 McCombs St, El Paso, TX 79924"
+"$1,215 - 2,045",1-4 Beds,"4011 Alabama St, El Paso, TX 79930"
+"$850 - 1,005",1-2 Beds,"330 Waymore Dr, El Paso, TX 79902"
+"$1,215 - 1,830",1-3 Beds,"11200 Sean Haggerty Dr, El Paso, TX 79934"
+"$880 - 1,210",1-3 Beds,"5020 Fairbanks Dr, El Paso, TX 79924"
+"$1,245 - 2,190",1-3 Beds,"240 Desert Pass, El Paso, TX 79912"
+"$1,055 - 1,595",1-3 Beds,"14363 Edgemere Blvd, El Paso, TX 79938"
+"$847 - 1,911",Studio - 3 Beds,"222 Bartlett Dr, El Paso, TX 79912"
+"$1,036 - 1,761",1-2 Beds,"2990 Trawood Dr, El Paso, TX 79936"
+"$1,139 - 1,424",1-2 Beds,"1640 N Zaragoza Rd, El Paso, TX 79936"
+"$995 - 1,489",1-3 Beds,"12949 Eastbrook, El Paso, TX 79938"
+"$1,400 - 1,600",2 Beds,"5113 McNutt Rd, Sunland Park, NM 88008"
+"$915 - 1,110",1-2 Beds,"1901 Brown St, El Paso, TX 79902"
+"$1,900 - 2,400",2 Beds,"239 Shasta Dr, El Paso, TX 79912"
+"$2,145 - 2,993",3-4 Beds,"51046 Agave Ct, El Paso, TX 79934"
+"$1,645",2 Beds,"1400 N Kansas St, El Paso, TX 79902"
+"$866 - 1,383",1-3 Beds,"272 Shadow Mountain Dr, El Paso, TX 79912"
+"$890 - 1,320",1-2 Beds,"900 Myrtle Ave, El Paso, TX 79901"
+"$1,118 - 1,388",2 Beds,"9924 Railroad Dr, El Paso, TX 79924"
+"$918 - 1,178",Studio - 2 Beds,"10535 Montwood Dr, El Paso, TX 79935"
+"$875 - 1,150",1-2 Beds,"1750 N Lee Trevino Dr, El Paso, TX 79936"
+"$900 - 1,285",1-3 Beds,"1601 McRae Blvd, El Paso, TX 79925"
+"$925 - 1,250",1-3 Beds,"9811 Socorro Rd, El Paso, TX 79927"
+$780 - 830,1-2 Beds,"5243 Fairbanks Dr, El Paso, TX 79924"
+"$820 - 1,020",1-2 Beds,"6911 Enid Ct, El Paso, TX 79912"
+"$730 - 1,850",Studio - 4 Beds,"9455 Viscount Blvd, El Paso, TX 79925"
+"$820 - 1,185",Studio - 2 Beds,"7900 Viscount Blvd, El Paso, TX 79925"
+$800,2 Beds,"5217 Gunter Ave, El Paso, TX 79904"
+"$885 - 1,450",1-2 Beds,"9578 Sims Dr, El Paso, TX 79925"
+$735 - 855,1-2 Beds,"7696 Alameda Ave, El Paso, TX 79915"
+$700 - 750,Studio,"417 W Yandell Dr, El Paso, TX 79902"
+"$920 - 1,010",1-2 Beds,"620 N Lee Trevino Dr, El Paso, TX 79907"
+$701 - 835,1-2 Beds,"9133 Kernel Cir, El Paso, TX 79907"
+"$1,298 - 1,358",2 Beds,"12501 Rojas Dr, El Paso, TX 79928"
+$787 - 890,1-2 Beds,"8017 San Jose Rd, El Paso, TX 79915"
+"$775 - 1,400",Studio - 3 Beds,"9300 Viscount Blvd, El Paso, TX 79925"
+$799 - 850,1-2 Beds,"921 N Zaragosa Rd, El Paso, TX 79907"
+$595 - 720,Studio - 2 Beds,"1700 Hawthorne St, El Paso, TX 79902"
+$650 - 775,1-2 Beds,"5117 Trowbridge Dr, El Paso, TX 79903"
+"$1,700 /mo","4 Beds, 2 Baths","1217 N Mesa St, El Paso, TX 79902"
+"$1,550 /mo","3 Beds, 3 Baths","1217 N Mesa St, El Paso, TX 79902"
+$700 /mo,"1 Bed, 1 Bath","5130 Chromite St, El Paso, TX 79932"
+"$2,058/mo","2 Beds, 2 Baths","5130 Chromite St, El Paso, TX 79932"
+$850/mo,"2 Beds, 1 Bath","3600 Johnson Ave, El Paso, TX 79930"
+"$2,098/mo","2 Beds, 2 Baths","3600 Johnson Ave, El Paso, TX 79930"
+$875/mo,"1 Bed, 1 Bath","7917-7919 San Jose Rd, El Paso, TX 79915"
+"$1,841/mo","1 Bed, 1 Bath","7917-7919 San Jose Rd, El Paso, TX 79915"
+"$2,071/mo","2 Beds, 2 Baths","260 Mcclintock Dr, El Paso, TX 79932"
+"$1,200/mo","1 Bed, 1 Bath","260 Mcclintock Dr, El Paso, TX 79932"
+"$2,118/mo","1 Bed, 1 Bath","5301 Suncrest Dr, El Paso, TX 79912"
+"$1,440 /mo","2 Beds, 1 Bath","5301 Suncrest Dr, El Paso, TX 79912"
+$750 /mo,"1 Bed, 1 Bath","1480 Cedar Oak Dr, El Paso, TX 79936"
+"$1,700 /mo","4 Beds, 2 Baths","1480 Cedar Oak Dr, El Paso, TX 79936"
+$850/mo,"2 Beds, 1 Bath","3268 N Zaragoza Rd, El Paso, TX 79938"
+"$2,100 /mo","4 Beds, 2.5 Baths","3268 N Zaragoza Rd, El Paso, TX 79938"
+"$1,245/mo","2 Beds, 1.5 Baths","1330 New Harvest Pl, El Paso, TX 79912"
+"$2,200/mo","3 Beds, 3 Baths","1330 New Harvest Pl, El Paso, TX 79912"
+"$1,695/mo","2 Beds, 1 Bath","3437 Dana Grey, El Paso, TX 79938"
+"$1,550/mo","2 Beds, 1 Bath",House for Rent
+$975/mo,"2 Beds, 1.5 Baths","6093 Hidden Psge Ave, El Paso, TX 79924"
+"$1,000/mo","1 Bed, 1 Bath",House for Rent
+"$1,500/mo","2 Beds, 1 Bath","8512 Mt Whitney Dr, El Paso, TX 79904"
+"$2,421 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,925 /mo","3 Beds, 2.5 Baths","140 W Castellano Dr, El Paso, TX 79912"
+"$2,050 /mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,200/mo","2 Beds, 1 Bath","4426 Moonlight Ave, El Paso, TX 79904"
+"$1,300/mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,495 /mo","3 Beds, 2.5 Baths","140 W Castellano Dr, El Paso, TX 79912"
+"$1,665 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$2,500 /mo","3 Beds, 2 Baths","8709 Lawson St, El Paso, TX 79904"
+"$2,445 /mo","5 Beds, 2.5 Baths","12209 Riane Chantee Dr, El Paso, TX 79936"
+"$2,364 /mo","3 Beds, 2 Baths",House for Rent
+"$2,364 /mo","3 Beds, 2 Baths","11114 Ocotillo Ct, El Paso, TX 79934"
+"$2,364 /mo","3 Beds, 2 Baths",House for Rent
+$877 /mo,"1 Bed, 1 Bath","11101 Ocotillo Ct, El Paso, TX 79934"
+"$1,700 /mo","3 Beds, 2 Baths",House for Rent
+$895 /mo,"1 Bed, 1 Bath","51065 Sage Ct, El Paso, TX 79934"
+"$1,195 /mo","2 Beds, 1 Bath",House for Rent
+"$1,850 /mo","3 Beds, 2.5 Baths","5536 Longview Dr, El Paso, TX 79924"
+"$2,150 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,800 /mo","3 Beds, 2 Baths","12564 Arrow Weed Dr, El Paso, TX 79928"
+"$1,395 /mo","3 Beds, 2 Baths",House for Rent
+"$2,500 /mo","4 Beds, 3 Baths","2618 Idalia Ave, El Paso, TX 79930"
+"$2,300 /mo","4 Beds, 3 Baths",House for Rent
+"$1,350 /mo","3 Beds, 2 Baths","2404 N Kansas St, El Paso, TX 79902"
+"$2,750 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,100 /mo","2 Beds, 1 Bath","7204 Desert Jewel Dr, El Paso, TX 79912"
+"$2,764 /mo","4 Beds, 3 Baths",House for Rent
+"$2,764 /mo","4 Beds, 3 Baths","7805 Enchanted Trl Dr, El Paso, TX 79911"
+"$2,000 /mo","4 Beds, 2.5 Baths",House for Rent
+$895 /mo,"2 Beds, 2 Baths","7109 Parkland Dr, El Paso, TX 79925"
+"$1,500 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,700 /mo","3 Beds, 2.5 Baths","14258 Pacific Point Dr, El Paso, TX 79938"
+"$1,850 /mo","3 Beds, 1 Bath",House for Rent
+"$1,750 /mo","2 Beds, 2.5 Baths","2046 Paseo Del Prado Dr, El Paso, TX 79936"
+"$2,000 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,995 /mo","3 Beds, 2.5 Baths","1617 Etling Way, El Paso, TX 79911"
+$725 /mo,"1 Bed, 1 Bath",House for Rent
+"$1,750 /mo","2 Beds, 1 Bath","12500 Alicia Arzola Dr, El Paso, TX 79928"
+"$1,750 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,245 /mo","2 Beds, 1 Bath","6200 Bluff View Pl, El Paso, TX 79912"
+"$2,035 /mo","4 Beds, 2 Baths",House for Rent
+"$2,900 /mo","4 Beds, 2 Baths","8503 Mettler Dr, El Paso, TX 79925"
+"$1,000 /mo","2 Beds, 1 Bath",House for Rent
+"$2,000 /mo","3 Beds, 3 Baths","11126 Ocotillo Ct, El Paso, TX 79934"
+"$1,500 /mo","2 Beds, 2 Baths",House for Rent
+"$1,250 /mo","3 Beds, 1 Bath","11106 Ocotillo Ct, El Paso, TX 79934"
+"$3,730 /mo","5 Beds, 3 Baths",House for Rent
+"$2,614 /mo","4 Beds, 2.5 Baths","1478 Senda Del Sol Ln, El Paso, TX 79911"
+"$2,464 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,464 /mo","3 Beds, 2.5 Baths","11113 Ocotillo Ct, El Paso, TX 79934"
+"$2,464 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,614 /mo","4 Beds, 2.5 Baths","11122 Ocotillo Ct, El Paso, TX 79934"
+"$2,614 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,464 /mo","3 Beds, 2.5 Baths","11102 Ocotillo Ct, El Paso, TX 79934"
+"$2,464 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,614 /mo","4 Beds, 2.5 Baths","51006 Sage Ct, El Paso, TX 79934"
+"$2,614 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,000 /mo","4 Beds, 3 Baths","51053 Sage Ct, El Paso, TX 79934"
+"$2,000 /mo","3 Beds, 2 Baths",House for Rent
+"$2,100 /mo","3 Beds, 2.5 Baths","51061 Sage Ct, El Paso, TX 79934"
+"$1,400 /mo","3 Beds, 1 Bath",House for Rent
+"$1,895 /mo","4 Beds, 2.5 Baths","51057 Sage Ct, El Paso, TX 79934"
+"$2,700 /mo","3 Beds, 2 Baths",House for Rent
+"$1,600 /mo","1 Bed, 1.5 Baths","51066 Sage Ct, El Paso, TX 79934"
+"$2,100 /mo","3 Beds, 1 Bath",House for Rent
+"$2,550 /mo","4 Beds, 2.5 Baths","517 Belvidere St, El Paso, TX 79912"
+"$2,000 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,300 /mo","4 Beds, 2 Baths","5919 Bandolero Dr, El Paso, TX 79912"
+"$1,995 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,095 /mo","3 Beds, 2 Baths","12623 Shayna Deanne Ct, El Paso, TX 79928"
+"$3,995 /mo","5 Beds, 3 Baths",House for Rent
+"$1,750 /mo","3 Beds, 1 Bath","6546 Mohawk Ave, El Paso, TX 79925"
+"$2,300 /mo","4 Beds, 3 Baths",House for Rent
+"$2,995 /mo","4 Beds, 2 Baths","14352 Coyote Trail, El Paso, TX 79938"
+"$2,100 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,299 /mo","4 Beds, 3 Baths","305 Coral Hills Rd, El Paso, TX 79912"
+"$1,525 /mo","3 Beds, 1 Bath",House for Rent
+"$1,995 /mo","4 Beds, 3 Baths","6920 Canyon View Ln, El Paso, TX 79912"
+"$3,600 /mo","4 Beds, 2.5 Baths",House for Rent
+$825 /mo,"2 Beds, 1 Bath","3405 Hixson Street, El Paso, TX 79902"
+"$2,450 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,800 /mo","4 Beds, 1 Bath","272 Penbridge Pl, El Paso, TX 79928"
+"$2,850 /mo","4 Beds, 2 Baths",House for Rent
+"$1,725 /mo","4 Beds, 2.5 Baths","12500 Setting Sun Dr, El Paso, TX 79938"
+$875 /mo,"2 Beds, 1 Bath",House for Rent
+"$1,700 /mo","3 Beds, 2.5 Baths","1210 Cambria Cove Pl, El Paso, TX 79912"
+"$1,235 /mo","3 Beds, 1 Bath",House for Rent
+"$1,050 /mo","2 Beds, 2 Baths","12261 Desert Dove Ave, El Paso, TX 79938"
+"$1,300 /mo","2 Beds, 1 Bath",House for Rent
+"$2,600 /mo","4 Beds, 3 Baths","7363 Brays Landing Drive, El Paso, TX 79911"
+"$1,000 /mo","1 Bed, 1 Bath",House for Rent
+"$1,975 /mo","3 Beds, 2 Baths","2612 San Jose Ave, El Paso, TX 79930"
+"$1,950 /mo","3 Beds, 1 Bath",House for Rent
+"$1,695 /mo","3 Beds, 2.5 Baths","7417 Mission Viejo Dr, El Paso, TX 79912"
+$699 /mo,"2 Beds, 1 Bath",House for Rent
+"$1,995 /mo","3 Beds, 2.5 Baths","3227 Red Sails Dr, El Paso, TX 79936"
+"$1,500 /mo","3 Beds, 2 Baths",House for Rent
+"$1,695 /mo","4 Beds, 1 Bath","12860 Tierra Lince Dr, El Paso, TX 79938"
+"$3,800 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,250 /mo","2 Beds, 1 Bath","4605 Arlen Ave, El Paso, TX 79904"
+"$1,950 /mo","4 Beds, 1.5 Baths",House for Rent
+"$2,700 /mo","5 Beds, 3 Baths","11235 Kachina Dr, El Paso, TX 79936"
+"$1,650 /mo","4 Beds, 1 Bath",House for Rent
+"$1,825 /mo","4 Beds, 2.5 Baths","12957 Stonington Ln, El Paso, TX 79938"
+"$1,500 /mo","3 Beds, 1 Bath",House for Rent
+"$1,395 /mo","2 Beds, 1 Bath","10401 Kinross Ave, El Paso, TX 79925"
+"$1,600 /mo","3 Beds, 1 Bath",House for Rent
+"$3,600 /mo","3 Beds, 2.5 Baths","4203 Tarek Ln, El Paso, TX 79912"
+"$2,300 /mo","3 Beds, 2 Baths",House for Rent
+"$4,100 /mo","4 Beds, 3 Baths","904 W Yandell Dr, El Paso, TX 79902"
+"$2,200 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,850 /mo","4 Beds, 2.5 Baths","724 Espada Dr, El Paso, TX 79912"
+"$2,100 /mo","3 Beds, 2 Baths",House for Rent
+$995 /mo,"2 Beds, 2 Baths","6320 Snowheights Ct, El Paso, TX 79912"
+"$1,550 /mo","3 Beds, 2 Baths",House for Rent
+"$1,200 /mo","2 Beds, 1 Bath","7218 Majorca Ct, El Paso, TX 79912"
+"$1,600 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,200 /mo","4 Beds, 2 Baths","12233 Iverson Ct, El Paso, TX 79928"
+"$1,850 /mo","4 Beds, 2 Baths",House for Rent
+"$2,400 /mo","2 Beds, 2 Baths","6201 Escondido Dr, El Paso, TX 79912"
+"$2,080 /mo","4 Beds, 1 Bath",House for Rent
+"$1,750 /mo","4 Beds, 2 Baths","8820 Norton St, El Paso, TX 79904"
+"$1,650 /mo","2 Beds, 1.5 Baths",House for Rent
+"$2,100 /mo","3 Beds, 2.5 Baths","1457 Sierra De Oro Dr, El Paso, TX 79936"
+"$1,350 /mo","2 Beds, 1 Bath",House for Rent
+"$2,600 /mo","4 Beds, 2.5 Baths","4576 Robert Acosta Dr, El Paso, TX 79934"
+$650 /mo,"1 Bed, 1 Bath",House for Rent
+"$1,995 /mo","4 Beds, 2.5 Baths","115 N Mesa St, El Paso, TX 79901"
+"$2,395 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,599 /mo","4 Beds, 3.5 Baths","2508 Nashville Ave, El Paso, TX 79930"
+"$1,999 /mo","3 Beds, 2.5 Baths",House for Rent
+"$3,900 /mo","4 Beds, 3.5 Baths","6508 Boulder Ridge, El Paso, TX 79912"
+"$1,750 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,100 /mo","3 Beds, 1 Bath","533 Rosinante Rd, El Paso, TX 79922"
+"$3,300 /mo","2 Beds, 1.5 Baths",House for Rent
+"$1,900 /mo","4 Beds, 2.5 Baths","3728 Star Beach Ln, El Paso, TX 79936"
+"$3,500 /mo","5 Beds, 1.5 Baths",House for Rent
+"$1,500 /mo","3 Beds, 2.5 Baths","12321 Desert Dove Ave, El Paso, TX 79938"
+"$1,500 /mo","3 Beds, 2 Baths",House for Rent
+"$1,875 /mo","3 Beds, 1 Bath","449 Vin Benicarlo Pl., El Paso, TX 79912"
+"$1,450 /mo","3 Beds, 2 Baths",House for Rent
+"$1,950 /mo","2 Beds, 1 Bath","12588 Twin Leaf Dr, El Paso, TX 79928"
+"$2,500 /mo","4 Beds, 3 Baths",House for Rent
+"$1,900 /mo","3 Beds, 2 Baths","537 Rosinante Rd, El Paso, TX 79922"
+"$1,800/mo","2 Beds, 2 Baths",House for Rent
+"$1,945 /mo","4 Beds, 2.5 Baths","10461 Canyon Sage Dr, El Paso, TX 79924"
+"$2,750 /mo","3 Beds, 4 Baths",House for Rent
+"$1,800 /mo","1 Bed, 1 Bath","321 Apodaca Pl, El Paso, TX 79907"
+"$1,895 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,100 /mo","4 Beds, 2.5 Baths","417 Christopher Ave, El Paso, TX 79912"
+"$1,600 /mo","3 Beds, 2 Baths",House for Rent
+"$1,950 /mo","4 Beds, 2.5 Baths","6228 Antelope Ct, El Paso, TX 79924"
+"$1,250 /mo","2 Beds, 1 Bath",House for Rent
+"$2,400 /mo","4 Beds, 2.5 Baths","1800 N Stanton St, El Paso, TX 79902"
+"$2,500 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,500 /mo","3 Beds, 1 Bath","1646 Playa Del Sol St, El Paso, TX 79911"
+"$1,595 /mo","3 Beds, 2 Baths",House for Rent
+"$1,695 /mo","3 Beds, 2.5 Baths","1420 Black Ridge Dr, El Paso, TX 79912"
+"$2,300 /mo","3 Beds, 2 Baths",House for Rent
+"$1,850 /mo","4 Beds, 1.5 Baths","5940 Cadiz St, El Paso, TX 79912"
+"$1,995 /mo","3 Beds, 2.5 Baths",Townhouse for Rent
+"$1,650 /mo","3 Beds, 1 Bath","14340 Apache Point Dr, El Paso, TX 79938"
+$725 /mo,"1 Bed, 1 Bath",House for Rent
+"$1,475 /mo","3 Beds, 1 Bath","329 Via Cumbre Linda Cir, El Paso, TX 79928"
+"$2,500 /mo","4 Beds, 2 Baths",House for Rent
+"$1,500 /mo","3 Beds, 1.5 Baths","6350 Escondido Dr, El Paso, TX 79912"
+"$1,895 /mo","4 Beds, 2 Baths",House for Rent
+"$1,545 /mo","3 Beds, 1 Bath","7401 Plaza Taurina Dr, El Paso, TX 79912"
+"$2,300 /mo","4 Beds, 1 Bath",House for Rent
+"$2,500 /mo","4 Beds, 1 Bath","513 Blanchard Ave, El Paso, TX 79902"
+"$1,400 /mo","4 Beds, 2 Baths",House for Rent
+"$1,600 /mo","4 Beds, 2 Baths","11229 Skipper Dr, El Paso, TX 79936"
+$900 /mo,"1 Bed, 1 Bath",House for Rent
+$795 /mo,"2 Beds, 1 Bath","2416 Tierra Luz Way, El Paso, TX 79938"
+"$1,300 /mo","2 Beds, 1 Bath",House for Rent
+"$1,250 /mo","2 Beds, 1 Bath","404 W Overland Ave, El Paso, TX 79901"
+"$2,335 /mo","4 Beds, 2 Baths",House for Rent
+"$2,500 /mo","3 Beds, 2 Baths","3920 Pierce Ave, El Paso, TX 79930"
+"$2,500 /mo","2 Beds, 2.5 Baths",House for Rent
+"$1,950 /mo","3 Beds, 2.5 Baths","11399 Lake Erie Dr, El Paso, TX 79936"
+"$1,735 /mo","3 Beds, 2 Baths",House for Rent
+"$1,435 /mo","3 Beds, 1 Bath","3716 Jackson Ave, El Paso, TX 79930"
+"$2,100 /mo","4 Beds, 3 Baths",House for Rent
+"$1,975 /mo","4 Beds, 2 Baths","7820 Enchanted Pk Dr, El Paso, TX 79911"
+"$1,975 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,625 /mo","3 Beds, 2 Baths","7305 Golden Sage Dr, El Paso, TX 79911"
+"$1,635 /mo","4 Beds, 2 Baths",House for Rent
+"$2,400 /mo","5 Beds, 1 Bath","500 Thunderbird Dr, El Paso, TX 79912"
+"$1,650 /mo","3 Beds, 2 Baths",House for Rent
+"$1,200 /mo","2 Beds, 1 Bath","6957 Swede Johnsen Dr, El Paso, TX 79912"
+"$1,100 /mo","2 Beds, 2 Baths",House for Rent
+"$1,650 /mo","4 Beds, 1 Bath","2025 William Caples St, El Paso, TX 79938"
+"$1,695 /mo","3 Beds, 2 Baths",House for Rent
+"$2,000 /mo","3 Beds, 2.5 Baths","10265 Yellowstone St, El Paso, TX 79924"
+"$2,600 /mo","3 Beds, 2 Baths",House for Rent
+$695 /mo,"1 Bed, 1 Bath","12860 Cozy Cove Ave, El Paso, TX 79938"
+"$1,695 /mo","3 Beds, 2 Baths",House for Rent
+"$1,150 /mo","2 Beds, 1 Bath","4533 Skylark Way, El Paso, TX 79922"
+"$1,350 /mo","3 Beds, 2 Baths",House for Rent
+"$3,000 /mo","4 Beds, 3.5 Baths","11708 Casa View Dr, El Paso, TX 79936"
+"$1,685 /mo","3 Beds, 2 Baths",House for Rent
+"$2,500 /mo","3 Beds, 2 Baths","14287 Hacienda Rock Dr, El Paso, TX 79938"
+"$2,100 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,900 /mo","3 Beds, 2.5 Baths","14604 Alton Oaks, El Paso, TX 79938"
+"$1,750 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,400 /mo","2 Beds, 2 Baths","1710 E Rio Grande Ave, El Paso, TX 79902"
+"$2,300 /mo","4 Beds, 1 Bath",House for Rent
+"$2,050 /mo","4 Beds, 3 Baths","11617 John Weir Dr, El Paso, TX 79936"
+"$1,530 /mo","3 Beds, 1.5 Baths",House for Rent
+"$2,575 /mo","3 Beds, 2.5 Baths","6104 La Posta Dr, El Paso, TX 79912"
+"$1,820 /mo","3 Beds, 3.5 Baths",House for Rent
+"$2,150 /mo","4 Beds, 1.5 Baths","628 Paseo Hermoso Dr, El Paso, TX 79928"
+"$3,350 /mo","5 Beds, 4.5 Baths",House for Rent
+"$1,950 /mo","4 Beds, 2.5 Baths","6324 Belton Rd, El Paso, TX 79912"
+"$1,625 /mo","3 Beds, 3 Baths",House for Rent
+"$1,735 /mo","3 Beds, 1 Bath","6572 Berringer St, El Paso, TX 79932"
+"$2,650 /mo","4 Beds, 3.5 Baths",House for Rent
+"$2,050 /mo","3 Beds, 2.5 Baths","5045 Stampede Dr, El Paso, TX 79934"
+"$2,150 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,750 /mo","4 Beds, 1 Bath","2713 Fir St, El Paso, TX 79925"
+"$1,800 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,650 /mo","3 Beds, 1.5 Baths","10032 Jamaica St, El Paso, TX 79924"
+"$1,585 /mo","3 Beds, 1 Bath",House for Rent
+"$1,550 /mo","3 Beds, 2 Baths","871 Country Club Rd, El Paso, TX 79932"
+"$1,450 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,850 /mo","4 Beds, 2 Baths","10600 Mary Megan Ct, El Paso, TX 79935"
+"$1,950 /mo","3 Beds, 2 Baths",House for Rent
+"$1,800 /mo","4 Beds, 2.5 Baths","1548 Cherokee Ridge Dr, El Paso, TX 79912"
+"$1,600 /mo","3 Beds, 2 Baths",House for Rent
+$895 /mo,"1 Bed, 1 Bath","12465 Tierra Dulce Dr, El Paso, TX 79938"
+"$1,550 /mo","3 Beds, 2 Baths",House for Rent
+$895 /mo,"1 Bed, 1 Bath","14428 Fernando Zubia, El Paso, TX 79938"
+"$1,250 /mo","2 Beds, 1 Bath",House for Rent
+"$1,550 /mo","2 Beds, 2 Baths","3534 Thomason Ave, El Paso, TX 79904"
+"$1,900 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,950 /mo","4 Beds, 2 Baths","11060 Sam Snead Dr, El Paso, TX 79936"
+"$1,735 /mo","3 Beds, 2 Baths",House for Rent
+"$1,650 /mo","3 Beds, 2 Baths","7501 Windcrest Dr, El Paso, TX 79912"
+"$2,000 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,750 /mo","3 Beds, 2 Baths","433 Barcelona Dr, El Paso, TX 79905"
+"$1,750 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,900 /mo","5 Beds, 2.5 Baths","6524 Pino Real Dr, El Paso, TX 79912"
+"$2,095 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,600 /mo","3 Beds, 2.5 Baths","3633 Morgan Bay Pl, El Paso, TX 79936"
+"$2,150 /mo","3 Beds, 2 Baths",House for Rent
+"$1,725 /mo","3 Beds, 2 Baths","12278 Tierra Bella Dr, El Paso, TX 79938"
+"$1,950 /mo","3 Beds, 2 Baths",House for Rent
+$825 /mo,"2 Beds, 1 Bath","5671 Burning Tree Dr, El Paso, TX 79912"
+"$1,820 /mo","4 Beds, 1.5 Baths",House for Rent
+"$1,870 /mo","4 Beds, 2 Baths","14729 Tim Hardaway, El Paso, TX 79938"
+"$1,450 /mo","3 Beds, 2 Baths",House for Rent
+"$3,400 /mo","4 Beds, 2.5 Baths","4886 Maureen Cir, El Paso, TX 79924"
+"$2,950 /mo","3 Beds, 2 Baths",House for Rent
+"$2,000 /mo","4 Beds, 2 Baths","601 Willow Glen Dr, El Paso, TX 79922"
+"$1,475 /mo","3 Beds, 1.5 Baths",House for Rent
+"$2,175 /mo","3 Beds, 2 Baths","3112 Devils Tower Cir, El Paso, TX 79904"
+"$1,600 /mo","3 Beds, 1 Bath",House for Rent
+"$1,950 /mo","3 Beds, 2.5 Baths","7508 Wolf Creek Dr, El Paso, TX 79911"
+"$1,750 /mo","3 Beds, 2 Baths",House for Rent
+"$2,000 /mo","4 Beds, 3 Baths","236 Maricopa Dr, El Paso, TX 79912"
+"$2,200 /mo","4 Beds, 2 Baths",House for Rent
+"$2,225 /mo","4 Beds, 1.5 Baths","6040 Los Siglos Dr, El Paso, TX 79912"
+"$1,550 /mo","3 Beds, 2 Baths",House for Rent
+"$2,300 /mo","4 Beds, 3 Baths","4617 Round Rock Dr, El Paso, TX 79924"
+"$2,700 /mo","4 Beds, 2 Baths",House for Rent
+"$2,600 /mo","3 Beds, 2.5 Baths","14252 Tierra Yamila Ln, El Paso, TX 79938"
+"$4,300 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,000 /mo","2 Beds, 1 Bath","533 Cedarwood Dr, El Paso, TX 79928"
+"$1,700 /mo","4 Beds, 2 Baths",House for Rent
+"$1,800 /mo","4 Beds, 2 Baths","14509 Johnny Mata Dr, El Paso, TX 79938"
+"$1,400 /mo","3 Beds, 1 Bath",House for Rent
+"$1,975 /mo","3 Beds, 2 Baths","7353 Skyrocket Dr, El Paso, TX 79911"
+"$1,600 /mo","3 Beds, 1 Bath",House for Rent
+"$1,985 /mo","4 Beds, 3 Baths","502 Cincinnati Ave, El Paso, TX 79902"
+"$1,685 /mo","4 Beds, 1 Bath",House for Rent
+"$3,200 /mo","4 Beds, 3 Baths","701 Espolon Dr, El Paso, TX 79912"
+"$1,500 /mo","3 Beds, 1 Bath",House for Rent
+"$1,700 /mo","3 Beds, 2 Baths","14612 Ciambriello Ave, El Paso, TX 79938"
+"$2,200 /mo","4 Beds, 2 Baths",House for Rent
+"$1,850 /mo","4 Beds, 2 Baths","6647 Mariposa Dr, El Paso, TX 79912"
+"$2,000 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,850 /mo","4 Beds, 2.5 Baths","4921 Vista Grande Cir, El Paso, TX 79922"
+"$1,420 /mo","3 Beds, 2 Baths",House for Rent
+"$2,100 /mo","3 Beds, 2.5 Baths","412 S Festival Dr, El Paso, TX 79912"
+"$1,500 /mo","2 Beds, 2 Baths",House for Rent
+"$1,900 /mo","4 Beds, 2.5 Baths","3803 Olympic Ave, El Paso, TX 79904"
+"$1,400 /mo","3 Beds, 2 Baths",House for Rent
+"$2,100 /mo","4 Beds, 2 Baths","14808 Sam Garcia Ave, El Paso, TX 79938"
+"$1,600 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,100 /mo","1 Bed, 1 Bath","3225 Fort Blvd, El Paso, TX 79930"
+"$2,300 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,500 /mo","3 Beds, 2 Baths","12481 Stansbury Dr, El Paso, TX 79928"
+"$1,600 /mo","3 Beds, 2 Baths",House for Rent
+"$1,100 /mo","3 Beds, 0.5 Baths","4116 Tierra Bronce Dr, El Paso, TX 79938"
+$800 /mo,"1 Bed, 1 Bath",House for Rent
+"$2,200 /mo","5 Beds, 3 Baths","10952 Duster Dr, El Paso, TX 79934"
+"$2,000 /mo","4 Beds, 2 Baths",House for Rent
+"$2,000 /mo","3 Beds, 2.5 Baths","10154 Matador St, El Paso, TX 79924"
+"$1,675 /mo","3 Beds, 1 Bath",House for Rent
+"$1,500 /mo","3 Beds, 2 Baths","2517 San Jose Ave, El Paso, TX 79930"
+"$1,650 /mo","3 Beds, 2 Baths",House for Rent
+"$3,500 /mo","4 Beds, 1.5 Baths","3837 Tierra Aurora Dr, El Paso, TX 79938"
+"$2,200 /mo","3 Beds, 2 Baths",House for Rent
+"$1,500 /mo","3 Beds, 1 Bath","14689 Igor Kaleri Ave, El Paso, TX 79938"
+"$1,800 /mo","3 Beds, 2 Baths",House for Rent
+"$1,295 /mo","2 Beds, 1.5 Baths","808 Merriman Dr, El Paso, TX 79912"
+"$1,825 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,550 /mo","3 Beds, 2 Baths","2905 Harrison Ave, El Paso, TX 79930"
+"$1,750 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,325 /mo","3 Beds, 1 Bath","11616 Mocha Dune Dr, El Paso, TX 79934"
+"$1,800 /mo","3 Beds, 2 Baths",House for Rent
+"$2,750 /mo","3 Beds, 1.5 Baths","12181 Sun Arbor Pl, El Paso, TX 79928"
+"$1,025 /mo","2 Beds, 1 Bath",House for Rent
+"$1,500 /mo","4 Beds, 2 Baths","1005 Singing Hills Dr, El Paso, TX 79912"
+"$1,825 /mo","4 Beds, 2 Baths",House for Rent
+"$1,450 /mo","3 Beds, 1 Bath","13580 Doncaster St, El Paso, TX 79928"
+"$1,025 /mo","1 Bed, 1 Bath",House for Rent
+"$1,150 /mo","2 Beds, 1 Bath","1976 Ralph Janes Pl, El Paso, TX 79936"
+"$1,025 /mo","1 Bed, 1 Bath",House for Rent
+"$1,450 /mo","3 Beds, 2 Baths","15005 Imagine Dr, El Paso, TX 79938"
+"$1,950 /mo","3 Beds, 2 Baths",House for Rent
+"$1,875 /mo","3 Beds, 2 Baths","425 Irondale Dr, El Paso, TX 79912"
+$800 /mo,"1 Bed, 1 Bath",House for Rent
+"$1,195 /mo","3 Beds, 2 Baths","14173 Spanish Point Dr, El Paso, TX 79938"
+"$1,400 /mo","2 Beds, 2 Baths",House for Rent
+"$2,200 /mo","3 Beds, 2 Baths","11336 Charles Maiz Ln, El Paso, TX 79934"
+$780 /mo,"1 Bed, 1 Bath",House for Rent
+"$1,200 /mo","2 Beds, 1 Bath","11651 Dos Palmas Dr, El Paso, TX 79936"
+"$1,750 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,800 /mo","3 Beds, 2 Baths","238 Herts Wy, El Paso, TX 79928"
+"$1,950 /mo","3 Beds, 2 Baths",House for Rent
+"$1,800 /mo","3 Beds, 2.5 Baths","864 Dulce Tierra Dr, El Paso, TX 79912"
+"$1,150 /mo","1 Bed, 1 Bath",House for Rent
+"$2,450 /mo","4 Beds, 3 Baths","3641 Grand Cayman Ln, El Paso, TX 79936"
+"$2,200 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,800 /mo","3 Beds, 2 Baths","2708 Richmond Ave, El Paso, TX 79930"
+"$1,050 /mo","2 Beds, 1.5 Baths",House for Rent
+"$1,100 /mo","2 Beds, 1 Bath","7362 Luz De Dia Ct, El Paso, TX 79912"
+"$1,495 /mo","3 Beds, 2 Baths",House for Rent
+"$2,000 /mo","3 Beds, 2.5 Baths","7317 Luz De Lumbre Ave, El Paso, TX 79912"
+"$1,300 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,600 /mo","3 Beds, 2 Baths","1205 Night Hawk Dr, El Paso, TX 79912"
+"$1,250 /mo","3 Beds, 2 Baths",House for Rent
+"$2,250 /mo","4 Beds, 3.5 Baths","11617 James Watt Dr, El Paso, TX 79936"
+"$2,100 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,450 /mo","3 Beds, 1 Bath","2600 Aurora Ave, El Paso, TX 79930"
+"$1,500 /mo","2 Beds, 2.5 Baths",House for Rent
+"$2,800 /mo","4 Beds, 3 Baths","3150 N Yarbrough Dr, El Paso, TX 79935"
+"$1,450 /mo","3 Beds, 1 Bath",House for Rent
+"$2,300 /mo","4 Beds, 2.5 Baths","7628 Dawnlight Ln, El Paso, TX 79911"
+"$1,750 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,900 /mo","4 Beds, 2 Baths","7500 Kingman Dr, El Paso, TX 79915"
+"$1,850 /mo","3 Beds, 1 Bath",House for Rent
+$950 /mo,"2 Beds, 1 Bath","7351 Burntside Ln, El Paso, TX 79934"
+"$1,995 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,500 /mo","3 Beds, 2.5 Baths","1067 Gloria St, El Paso, TX 79907"
+$795 /mo,"2 Beds, 1 Bath",House for Rent
+"$2,150 /mo","3 Beds, 2 Baths","3712 Coco Palm Dr, El Paso, TX 79936"
+"$1,800 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,400 /mo","3 Beds, 2 Baths","12444 Sombra Grande Dr, El Paso, TX 79938"
+"$1,395 /mo","3 Beds, 2 Baths",House for Rent
+$795 /mo,"2 Beds, 1.5 Baths","12105 Castle View Way, El Paso, TX 79936"
+"$1,650 /mo","3 Beds, 2 Baths",House for Rent
+"$1,650 /mo","3 Beds, 2 Baths","12265 Costa Brava Pl, El Paso, TX 79938"
+"$1,625 /mo","3 Beds, 2 Baths",House for Rent
+"$2,500 /mo","3 Beds, 2.5 Baths","6184 Franklin Dove Ave, El Paso, TX 79912"
+"$1,950 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,735 /mo","4 Beds, 2 Baths","736 Mink Pl, El Paso, TX 79928"
+"$1,550 /mo","3 Beds, 2 Baths",House for Rent
+"$1,095 /mo","3 Beds, 2 Baths","3901 Van Buren Ave, El Paso, TX 79930"
+"$1,800 /mo","3 Beds, 2 Baths",House for Rent
+"$1,195 /mo","2 Beds, 1.5 Baths","10697 Canyon Sage Dr, El Paso, TX 79924"
+"$1,250 /mo","3 Beds, 1 Bath",House for Rent
+"$1,500 /mo","3 Beds, 1.5 Baths","6416 Pizarro St, El Paso, TX 79912"
+"$3,600 /mo","4 Beds, 3 Baths",House for Rent
+"$1,850 /mo","3 Beds, 2.5 Baths","909 Gateway S Blvd, El Paso, TX 79903"
+"$1,850 /mo","4 Beds, 3 Baths",House for Rent
+"$1,750 /mo","3 Beds, 2.5 Baths","2212 Cumbre Negra St, El Paso, TX 79935"
+"$2,400 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,850 /mo","3 Beds, 2 Baths","840 Lakeway Dr, El Paso, TX 79932"
+"$1,500 /mo","3 Beds, 1 Bath",House for Rent
+"$1,700 /mo","3 Beds, 2 Baths","11229 William McCool St, El Paso, TX 79934"
+$995 /mo,"3 Beds, 1.5 Baths",House for Rent
+$750 /mo,"1 Bed, 1 Bath","13067 Emerald Isle St, El Paso, TX 79928"
+"$1,425 /mo","3 Beds, 2 Baths",House for Rent
+"$1,320 /mo","3 Beds, 1 Bath","14205 Spanish Point Dr, El Paso, TX 79938"
+"$1,400 /mo","3 Beds, 2 Baths",House for Rent
+"$1,695 /mo","3 Beds, 1 Bath","7832 Enchanted Pk Dr, El Paso, TX 79911"
+"$2,100 /mo","3 Beds, 1 Bath",House for Rent
+$800 /mo,"1 Bed, 1 Bath","2008 Tim Foster St, El Paso, TX 79938"
+"$3,000 /mo","5 Beds, 2.5 Baths",House for Rent
+"$2,385 /mo","4 Beds, 2.5 Baths","2214 Cumbre Negra St, El Paso, TX 79935"
+"$2,250 /mo","2 Beds, 2.5 Baths",House for Rent
+"$1,570 /mo","3 Beds, 2 Baths","10 Stratford Hall Cir, El Paso, TX 79912"
+"$1,635 /mo","3 Beds, 2 Baths",House for Rent
+"$1,900 /mo","3 Beds, 1 Bath","6012 Doe Ct, El Paso, TX 79924"
+"$1,280 /mo","3 Beds, 2 Baths",House for Rent
+"$2,500 /mo","4 Beds, 2.5 Baths","2821 Fort Blvd, El Paso, TX 79930"
+"$1,600 /mo","3 Beds, 2 Baths",House for Rent
+"$1,650 /mo","4 Beds, 2 Baths","1724 Gambel Quail Dr, El Paso, TX 79936"
+$875 /mo,"1 Bed, 1 Bath",House for Rent
+"$1,400 /mo","3 Beds, 1 Bath","3302 Lorne Rd, El Paso, TX 79925"
+"$2,100 /mo","4 Beds, 3 Baths",House for Rent
+"$1,500 /mo","3 Beds, 2 Baths","7581 Le Conte Dr, El Paso, TX 79912"
+"$2,500 /mo","4 Beds, 3.5 Baths",House for Rent
+"$2,630 /mo","3 Beds, 1.5 Baths","3436 Bunker Pl, El Paso, TX 79936"
+"$2,700 /mo","4 Beds, 3 Baths",House for Rent
+"$1,390 /mo","3 Beds, 1 Bath","6138 Los Robles Dr, El Paso, TX 79912"
+"$1,350 /mo","3 Beds, 2 Baths",House for Rent
+"$1,995 /mo","4 Beds, 2.5 Baths","12348 Desert Palm Ave, El Paso, TX 79938"
+$900 /mo,"2 Beds, 1 Bath",House for Rent
+"$1,900 /mo","4 Beds, 2 Baths","2401 Copper Ave, El Paso, TX 79930"
+"$2,000 /mo","4 Beds, 2 Baths",House for Rent
+"$1,950 /mo","3 Beds, 2.5 Baths","1706 Jerry Abbott St, El Paso, TX 79936"
+"$1,475 /mo","3 Beds, 2 Baths",House for Rent
+"$1,350 /mo","3 Beds, 2 Baths","14325 Navajo Point Dr, El Paso, TX 79938"
+"$1,595 /mo","3 Beds, 2 Baths",House for Rent
+"$2,550 /mo","3 Beds, 1.5 Baths","5356 Ignacio Frias Dr, El Paso, TX 79934"
+"$1,900 /mo","3 Beds, 1 Bath",House for Rent
+"$2,000 /mo","4 Beds, 2 Baths","6028 Honeybee Ct, El Paso, TX 79924"
+"$1,850 /mo","3 Beds, 1 Bath",House for Rent
+"$1,800 /mo","4 Beds, 2 Baths","820 Huckleberry St, El Paso, TX 79903"
+"$1,925 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,800 /mo","4 Beds, 2 Baths","7573 Le Conte Dr, El Paso, TX 79912"
+"$1,500 /mo","3 Beds, 2 Baths",House for Rent
+"$1,500 /mo","5 Beds, 1.5 Baths","1016 Upson Dr, El Paso, TX 79902"
+"$1,350 /mo","3 Beds, 2 Baths",House for Rent
+"$1,825 /mo","4 Beds, 2 Baths","602 Upson Dr, El Paso, TX 79902"
+"$1,150 /mo","2 Beds, 1 Bath",House for Rent
+"$2,350 /mo","4 Beds, 2 Baths","7600 Dawnlight Ln, El Paso, TX 79911"
+"$1,700 /mo","3 Beds, 2 Baths",House for Rent
+"$2,700 /mo","4 Beds, 3 Baths","7312 Glacier Dr, El Paso, TX 79911"
+"$1,600 /mo","3 Beds, 2 Baths",House for Rent
+"$1,495 /mo","4 Beds, 2.5 Baths","14832 Boer Trail, El Paso, TX 79938"
+"$1,495 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,450 /mo","4 Beds, 2.5 Baths","4229 Loma Rosada Dr, El Paso, TX 79934"
+"$1,450 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,200 /mo","4 Beds, 2.5 Baths","14377-14377 Navajo Point Dr, El Paso, TX 79938"
+"$1,800 /mo","3 Beds, 2 Baths",House for Rent
+"$1,850 /mo","4 Beds, 2 Baths","1821 Marlys Larson St, El Paso, TX 79936"
+"$2,500 /mo","4 Beds, 3 Baths",House for Rent
+"$2,000 /mo","4 Beds, 2.5 Baths","10541 Goodman St, El Paso, TX 79924"
+"$1,474/mo","3 Beds, 1 Bath",House for Rent
+"$2,100 /mo","4 Beds, 2.5 Baths","12500 Alicia Arzola Dr, El Paso, TX 79928"
+"$1,585 /mo","4 Beds, 1 Bath",House for Rent
+"$2,995 /mo","5 Beds, 3.5 Baths","7936 Dogwood St, El Paso, TX 79925"
+$695 /mo,"1 Bed, 1 Bath",House for Rent
+"$2,535 /mo","4 Beds, 3 Baths","2105 Lake Omega St, El Paso, TX 79936"
+"$1,850 /mo","3 Beds, 2 Baths",House for Rent
+"$1,325 /mo","4 Beds, 1.5 Baths","469 SPC Isaac Trujillo Dr, Socorro, TX 79927"
+"$1,400 /mo","4 Beds, 1.5 Baths",House for Rent
+"$2,000 /mo","4 Beds, 2 Baths","470 SPC Isaac Trujillo Dr, Socorro, TX 79927"
+"$2,400 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,800 /mo","3 Beds, 3 Baths","12753 Methley Ave, Horizon City, TX 79928"
+"$1,500 /mo","3 Beds, 2 Baths",House for Rent
+"$2,100 /mo","3 Beds, 1.5 Baths","513 La Entrada Cir, Santa Teresa, NM 88008"
+"$1,400 /mo","4 Beds, 1.5 Baths",House for Rent
+"$1,697 /mo","3 Beds, 1.5 Baths","1313 Meadow Rd, Canutillo, TX 79835"
+"$1,197 /mo","2 Beds, 1 Bath",House for Rent
+"$2,100 /mo","4 Beds, 3 Baths","300 First St, Sunland Park, NM 88063"
+"$1,500 /mo","2 Beds, 2.5 Baths",House for Rent
+"$1,735 /mo","4 Beds, 2.5 Baths","517 Osier Dr, Canutillo, TX 79835"
+$797 /mo,"1 Bed, 1 Bath",House for Rent
+"$3,350 /mo","Studio, 6 Baths","476 SPC Isaac Trujillo Dr, Socorro, TX 79927"
+"$2,100 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,685 /mo","3 Beds, 2 Baths","216 Pacific Dr, El Paso, TX 79922"
+"$1,885 /mo","3 Beds, 2 Baths",House for Rent
+"$1,700 /mo","3 Beds, 2 Baths","3916 Nations Ave, El Paso, TX 79930"
+"$2,650 /mo","4 Beds, 2.25 Baths",House for Rent

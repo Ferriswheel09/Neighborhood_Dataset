@@ -1,0 +1,556 @@
+price,rooms,address
+"$1,210 - 3,123",1-3 Beds,"3916 NW 164th St, Oklahoma City, OK 73013"
+"$950 - 1,170",1-2 Beds,"11239 N Pennsylvania Ave, Oklahoma City, OK 73120"
+"$815 - 1,750",1-4 Beds,"8501 Candlewood Dr, Oklahoma City, OK 73132"
+"$1,020 - 2,288",Studio - 2 Beds,"700 NW 4th St, Oklahoma City, OK 73102"
+"$1,015 - 1,497",1-3 Beds,"605 SW 119th St, Oklahoma City, OK 73170"
+"$1,280 - 3,250",Studio - 2 Beds,"500 W Main St, Oklahoma City, OK 73102"
+"$635 - 1,680",1-3 Beds,"12401-12401 N MacArthur Blvd, Oklahoma City, OK 73142"
+"$1,710 - 12,925",Studio - 3 Beds,"140 N Park Ave, Oklahoma City, OK 73102"
+"$1,190 - 1,750",1-3 Beds,"6929 S Sooner Rd, Oklahoma City, OK 73135"
+"$1,060 - 1,520",Studio - 2 Beds,"4545 N Lincoln Blvd, Oklahoma City, OK 73105"
+"$1,090 - 2,510",Studio - 3 Beds,"8500 N Oklahoma Ave, Oklahoma City, OK 73114"
+"$1,475 - 2,401",1-3 Beds,"2145 Watermark Blvd, Oklahoma City, OK 73134"
+"$720 - 1,204",1-2 Beds,"8114 W Britton Rd, Oklahoma City, OK 73132"
+"$664 - 1,049",1-2 Beds,"5577 NW 50th St, Oklahoma City, OK 73122"
+"$1,125 - 2,200",1-3 Beds,"601 Robert S Kerr Ave, Oklahoma City, OK 73102"
+"$699 - 1,050",1-2 Beds,"6401 N Warren Ave, Oklahoma City, OK 73116"
+"$709 - 1,119",1-2 Beds,"4200 N Meridian Ave, Oklahoma City, OK 73112"
+"$985 - 1,499",1-3 Beds,"3131 SW 89th St, Oklahoma City, OK 73159"
+"$820 - 1,065",1-2 Beds,"5113 N Brookline Ave, Oklahoma City, OK 73112"
+"$799 - 1,149",1-3 Beds,"701 E Wilshire Blvd, Oklahoma City, OK 73105"
+"$900 - 1,800",Studio - 2 Beds,"200 N Harvey Ave, Oklahoma City, OK 73102"
+"$784 - 1,449",1-3 Beds,"4396 NW 36th St, Oklahoma City, OK 73112"
+"$899 - 1,129",1-2 Beds,"1209 W Hefner Rd, Oklahoma City, OK 73114"
+"$1,099 - 1,699",1-3 Beds,"11141 Springhollow Rd, Oklahoma City, OK 73120"
+"$850 - 1,080",1-2 Beds,"700 NE 122nd St, Oklahoma City, OK 73114"
+"$804 - 1,624",Studio - 3 Beds,"12601-12701 N Pennsylvania Ave, Oklahoma City, OK 73120"
+"$890 - 1,315",1-2 Beds,"900 NE 122nd St, Oklahoma City, OK 73114"
+"$916 - 2,000",Studio - 3 Beds,"13331 N Macarthur Blvd, Oklahoma City, OK 73142"
+"$1,558 - 2,200",1-2 Beds,"14201 N Kentucky Ave, Oklahoma City, OK 73134"
+"$895 - 1,285",1-2 Beds,"5924 SW 12th St, Oklahoma City, OK 73128"
+"$1,213 - 2,301",1-3 Beds,"2600 Watermark Blvd, Oklahoma City, OK 73134"
+"$724 - 1,124",1-2 Beds,"408 Summit Ridge Dr, Oklahoma City, OK 73114"
+"$1,034 - 2,995",Studio - 3 Beds,"800 N Oklahoma Ave, Oklahoma City, OK 73104"
+"$900 - 1,665",Studio - 3 Beds,"13600 N Blackwelder Ave, Oklahoma City, OK 73120"
+"$1,119 - 1,927",1-3 Beds,"4800 E Interstate 240 Service Rd, Oklahoma City, OK 73135"
+"$1,070 - 2,916",Studio - 3 Beds,"835 W Sheridan Ave, Oklahoma City, OK 73106"
+"$1,080 - 1,765",1-2 Beds,"15400 Lone Oak Rd, Oklahoma City, OK 73013"
+"$1,800 - 6,450",1-3 Beds,"1305 N Classen Dr, Oklahoma City, OK 73103"
+"$1,300 - 2,850",1-3 Beds,"1701 N Classen Blvd, Oklahoma City, OK 73106"
+"$1,470 - 4,175",2 Beds,"2200 N Classen Blvd, Oklahoma City, OK 73106"
+"$1,210 - 3,123",1-3 Beds,"3916 NW 164th St, Oklahoma City, OK 73013"
+"$950 - 1,170",1-2 Beds,"11239 N Pennsylvania Ave, Oklahoma City, OK 73120"
+"$815 - 1,750",1-4 Beds,"8501 Candlewood Dr, Oklahoma City, OK 73132"
+"$1,020 - 2,288",Studio - 2 Beds,"700 NW 4th St, Oklahoma City, OK 73102"
+"$1,015 - 1,497",1-3 Beds,"605 SW 119th St, Oklahoma City, OK 73170"
+"$1,280 - 3,250",Studio - 2 Beds,"500 W Main St, Oklahoma City, OK 73102"
+"$635 - 1,680",1-3 Beds,"12401-12401 N MacArthur Blvd, Oklahoma City, OK 73142"
+"$1,710 - 12,925",Studio - 3 Beds,"140 N Park Ave, Oklahoma City, OK 73102"
+"$1,190 - 1,750",1-3 Beds,"6929 S Sooner Rd, Oklahoma City, OK 73135"
+"$1,060 - 1,520",Studio - 2 Beds,"4545 N Lincoln Blvd, Oklahoma City, OK 73105"
+"$1,090 - 2,510",Studio - 3 Beds,"8500 N Oklahoma Ave, Oklahoma City, OK 73114"
+"$1,475 - 2,401",1-3 Beds,"2145 Watermark Blvd, Oklahoma City, OK 73134"
+"$720 - 1,204",1-2 Beds,"8114 W Britton Rd, Oklahoma City, OK 73132"
+"$664 - 1,049",1-2 Beds,"5577 NW 50th St, Oklahoma City, OK 73122"
+"$1,125 - 2,200",1-3 Beds,"601 Robert S Kerr Ave, Oklahoma City, OK 73102"
+"$699 - 1,050",1-2 Beds,"6401 N Warren Ave, Oklahoma City, OK 73116"
+"$709 - 1,119",1-2 Beds,"4200 N Meridian Ave, Oklahoma City, OK 73112"
+"$985 - 1,499",1-3 Beds,"3131 SW 89th St, Oklahoma City, OK 73159"
+"$820 - 1,065",1-2 Beds,"5113 N Brookline Ave, Oklahoma City, OK 73112"
+"$799 - 1,149",1-3 Beds,"701 E Wilshire Blvd, Oklahoma City, OK 73105"
+"$900 - 1,800",Studio - 2 Beds,"200 N Harvey Ave, Oklahoma City, OK 73102"
+"$784 - 1,449",1-3 Beds,"4396 NW 36th St, Oklahoma City, OK 73112"
+"$899 - 1,129",1-2 Beds,"1209 W Hefner Rd, Oklahoma City, OK 73114"
+"$1,099 - 1,699",1-3 Beds,"11141 Springhollow Rd, Oklahoma City, OK 73120"
+"$850 - 1,080",1-2 Beds,"700 NE 122nd St, Oklahoma City, OK 73114"
+"$804 - 1,624",Studio - 3 Beds,"12601-12701 N Pennsylvania Ave, Oklahoma City, OK 73120"
+"$890 - 1,315",1-2 Beds,"900 NE 122nd St, Oklahoma City, OK 73114"
+"$916 - 2,000",Studio - 3 Beds,"13331 N Macarthur Blvd, Oklahoma City, OK 73142"
+"$1,558 - 2,200",1-2 Beds,"14201 N Kentucky Ave, Oklahoma City, OK 73134"
+"$895 - 1,285",1-2 Beds,"5924 SW 12th St, Oklahoma City, OK 73128"
+"$1,213 - 2,301",1-3 Beds,"2600 Watermark Blvd, Oklahoma City, OK 73134"
+"$724 - 1,124",1-2 Beds,"408 Summit Ridge Dr, Oklahoma City, OK 73114"
+"$1,034 - 2,995",Studio - 3 Beds,"800 N Oklahoma Ave, Oklahoma City, OK 73104"
+"$1,199 - 1,699",2-4 Beds,"14140 N Broadway Ext, Edmond, OK 73013"
+"$1,375",2-3 Beds,"4108 Cove Dr, Yukon, OK 73099"
+Call for Rent,2-3 Beds,"18001 Highland Park Ave, Edmond, OK 73012"
+"$1,099 - 1,600",2-3 Beds,"15501 N Pennsylvania Ave, Edmond, OK 73013"
+"$1,600",2 Beds,"1640 S Czech Hall Rd, Yukon, OK 73099"
+"$2,275 - 4,050",1-2 Beds,"1301 NW 178th St, Edmond, OK 73012"
+"$1,175 - 1,440",1-2 Beds,"3300 S Mustang Rd, Yukon, OK 73099"
+"$1,182 - 1,821",Studio - 3 Beds,"9990 S May Ave, Oklahoma City, OK 73159"
+"$1,099 - 1,589",1-2 Beds,"2737 NW 140th St, Oklahoma City, OK 73134"
+"$1,000 - 2,105",1-3 Beds,"10900 S Pennsylvania Ave, Oklahoma City, OK 73170"
+"$1,025 - 2,630",1-3 Beds,"14117 N Rockwell Ave, Oklahoma City, OK 73142"
+"$970 - 1,900",1-2 Beds,"5300 W Memorial Rd, Oklahoma City, OK 73142"
+"$1,175 - 1,950",1-2 Beds,"123 NE 2nd St, Oklahoma City, OK 73104"
+$775 - 999,1-2 Beds,"9300 Orchard Blvd, Midwest City, OK 73130"
+"$925 - 1,241",1-4 Beds,"11501 SW 15th St, Yukon, OK 73099"
+"$1,099 - 1,299",2-3 Beds,"2600 W I 240 Service Rd, Oklahoma City, OK 73159"
+"$850 - 1,030",1-2 Beds,"12901 S Western Ave, Oklahoma City, OK 73170"
+$885 - 985,1-2 Beds,"3101 NW 150th St, Oklahoma City, OK 73134"
+"$1,271 - 1,399",2 Beds,"8720 S Santa Fe Ave, Oklahoma City, OK 73139"
+"$910 - 1,476",1-2 Beds,"1301 W Hefner Rd, Oklahoma City, OK 73114"
+"$1,059 - 1,849",1-3 Beds,"11300 SE 15th St, Oklahoma City, OK 73130"
+$699 - 899,1-2 Beds,"5901 NW 34th St, Oklahoma City, OK 73122"
+$540 - 780,Studio - 2 Beds,"616 SW 59th St, Oklahoma City, OK 73109"
+$494 - 997,Studio - 4 Beds,"3317 SW 74th St, Oklahoma City, OK 73159"
+$945,2 Beds,"120 NE 21st St, Moore, OK 73160"
+Call for Rent,2-3 Beds,"2121 Bodega Way, Edmond, OK 73003"
+"$1,500 - 1,850",3 Beds,"12221 Angeles Way, Yukon, OK 73099"
+"$848 - 1,310",1-2 Beds,"11501 Lochwood Dr, Yukon, OK 73099"
+"$920 - 1,215",1-2 Beds,"2004 S Mustang Rd, Yukon, OK 73099"
+"$802 - 1,228",1-2 Beds,"7920 NW 21st St, Bethany, OK 73008"
+"$915 - 1,240",1-2 Beds,"9900 Hwy 66 W, Yukon, OK 73099"
+"$1,945 /mo","4 Beds, 2 Baths","727 N Macarthur Blvd, Oklahoma City, OK 73127"
+"$1,820 /mo","4 Beds, 2 Baths","727 N Macarthur Blvd, Oklahoma City, OK 73127"
+"$3,500 /mo","3 Beds, 2 Baths","7550 NW 10th St, Oklahoma City, OK 73127"
+"$1,295 /mo","3 Beds, 1 Bath","7550 NW 10th St, Oklahoma City, OK 73127"
+$850/mo,"2 Beds, 1.5 Baths","5542 S Walker Ave, Oklahoma City, OK 73109"
+$995/mo,"2 Beds, 1 Bath","5542 S Walker Ave, Oklahoma City, OK 73109"
+"$1,610 /mo","3 Beds, 2 Baths","7201 NW 122nd St, Oklahoma City, OK 73142"
+"$1,855 /mo","4 Beds, 2.5 Baths","7201 NW 122nd St, Oklahoma City, OK 73142"
+"$1,560 /mo","3 Beds, 2 Baths","4814 N Kristie Dr, Del City, OK 73115"
+"$1,535 /mo","3 Beds, 2.5 Baths","4814 N Kristie Dr, Del City, OK 73115"
+"$1,460 /mo","3 Beds, 2 Baths","4500 N MacArthur Blvd, Warr Acres, OK 73122"
+"$1,620 /mo","3 Beds, 2 Baths","4500 N MacArthur Blvd, Warr Acres, OK 73122"
+"$1,530 /mo","3 Beds, 2 Baths","471 N Harr Dr, Midwest City, OK 73110"
+"$1,950 /mo","3 Beds, 1.5 Baths","471 N Harr Dr, Midwest City, OK 73110"
+"$1,930 /mo","4 Beds, 3 Baths","10801 W Ok-66 Hwy, Yukon, OK 73099"
+"$1,560 /mo","3 Beds, 2 Baths","10801 W Ok-66 Hwy, Yukon, OK 73099"
+"$1,625 /mo","3 Beds, 2 Baths","5340 NW 42nd St, Warr Acres, OK 73122"
+"$1,565 /mo","3 Beds, 2 Baths","5340 NW 42nd St, Warr Acres, OK 73122"
+"$1,650 /mo","4 Beds, 2 Baths","1800 Sloane Dr, Oklahoma City, OK 73127"
+"$1,545 /mo","3 Beds, 2 Baths",House for Rent
+"$1,750 /mo","4 Beds, 2.5 Baths","3025 SW 61st St, Oklahoma City, OK 73159"
+"$1,530 /mo","3 Beds, 2 Baths",House for Rent
+"$1,000 /mo","2 Beds, 2 Baths","3625 NW 53rd St, Oklahoma City, OK 73112"
+"$1,625 /mo","3 Beds, 2 Baths",House for Rent
+"$2,315 /mo","3 Beds, 2 Baths","3200 SW 46th St, Oklahoma City, OK 73119"
+"$2,085 /mo","4 Beds, 2 Baths",House for Rent
+"$1,550 /mo","3 Beds, 1 Bath","6370 W Wilshire Blvd, Oklahoma City, OK 73132"
+"$1,425 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$1,845 /mo","4 Beds, 2 Baths","22 SW 24th St, Oklahoma City, OK 73109"
+"$1,775 /mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,995 /mo","4 Beds, 3 Baths","8832 Parkridge Dr, Oklahoma City, OK 73132"
+"$1,445 /mo","3 Beds, 2 Baths","5903 Fox Run Way, Oklahoma City, OK 73142"
+"$1,800 /mo","4 Beds, 2 Baths",House for Rent
+"$2,040 /mo","4 Beds, 2 Baths","9817 Indigo Rd, Oklahoma City, OK 73159"
+"$2,395 /mo","3 Beds, 2 Baths",House for Rent
+"$1,915 /mo","3 Beds, 2.5 Baths","4316 Umbria Rd, Oklahoma City, OK 73179"
+"$2,150 /mo","4 Beds, 2.1 Baths",House for Rent
+"$1,400 /mo","3 Beds, 2 Baths","3808 NW 64th St, Oklahoma City, OK 73116"
+"$1,670 /mo","3 Beds, 2 Baths",House for Rent
+"$2,000 /mo","3 Beds, 2 Baths","2421 NW 113th Pl, Oklahoma City, OK 73120"
+"$1,625 /mo","4 Beds, 2 Baths",House for Rent
+"$1,400 /mo","3 Beds, 2 Baths","7709 Rumsey Rd, Oklahoma City, OK 73132"
+"$1,395 /mo","3 Beds, 1 Bath",House for Rent
+"$2,495 /mo","4 Beds, 2.5 Baths","1800 NE 48th St, Oklahoma City, OK 73111"
+"$2,300 /mo","5 Beds, 3.5 Baths",House for Rent
+"$1,575 /mo","3 Beds, 2 Baths","8312 NW 112th St, Oklahoma City, OK 73162"
+"$1,825 /mo","4 Beds, 2 Baths",House for Rent
+$925/mo,"2 Beds, 2 Baths","3405 NW 25th St, Oklahoma City, OK 73107"
+$850/mo,"1 Bed, 1 Bath",House for Rent
+"$1,570 /mo","3 Beds, 2 Baths","7912 Dawn Cir, Oklahoma City, OK 73135"
+"$1,845 /mo","3 Beds, 2 Baths",House for Rent
+"$1,407 /mo","3 Beds, 1.5 Baths","4724 Koelsch Dr, Oklahoma City, OK 73117"
+"$2,095 /mo","4 Beds, 2 Baths",House for Rent
+$850/mo,"2 Beds, 1.5 Baths","3100 SW 45th St, Oklahoma City, OK 73119"
+"$2,005 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,645 /mo","3 Beds, 2 Baths","7418 NW 107th St, Oklahoma City, OK 73162"
+"$1,200/mo","3 Beds, 1.5 Baths",House for Rent
+"$1,385 /mo","3 Beds, 2 Baths","7332 NW 148th St, Oklahoma City, OK 73142"
+"$1,945/mo","3 Beds, 2.5 Baths",House for Rent
+"$1,495 /mo","3 Beds, 2 Baths","5005 Oak Manor Dr, Oklahoma City, OK 73135"
+"$1,975 /mo","3 Beds, 2 Baths",House for Rent
+"$1,730 /mo","3 Beds, 2 Baths","11413 Mackel Dr, Oklahoma City, OK 73170"
+$850/mo,"2 Beds, 1.5 Baths",House for Rent
+"$1,770 /mo","3 Beds, 2.5 Baths","708 NE 25th St, Oklahoma City, OK 73105"
+"$1,400/mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,850 /mo","4 Beds, 2 Baths","11540 N May Ave, Oklahoma City, OK 73120"
+"$1,695 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,750 /mo","4 Beds, 2 Baths","4712 Republic Dr, Oklahoma City, OK 73135"
+"$1,605 /mo","3 Beds, 2 Baths",House for Rent
+"$1,540 /mo","3 Beds, 2 Baths","674 Wandering Way, Oklahoma City, OK 73170"
+"$2,695 /mo","4 Beds, 2 Baths",House for Rent
+"$1,660 /mo","3 Beds, 2 Baths","2622 Featherstone Rd, Oklahoma City, OK 73120"
+"$1,395 /mo","3 Beds, 1.5 Baths",House for Rent
+"$2,060 /mo","3 Beds, 2 Baths","5516 S Dimple Dr, Oklahoma City, OK 73135"
+"$1,960 /mo","3 Beds, 2 Baths",House for Rent
+"$1,580 /mo","3 Beds, 2 Baths","9604 Wessex Dr, Yukon, OK 73099"
+"$1,420 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,865 /mo","3 Beds, 2 Baths","509 NW 174th St, Edmond, OK 73012"
+"$2,050 /mo","3 Beds, 2 Baths",House for Rent
+"$1,615 /mo","3 Beds, 2 Baths","420 Marrgate Dr, Yukon, OK 73099"
+"$1,530 /mo","4 Beds, 2 Baths",House for Rent
+"$1,830 /mo","3 Beds, 2 Baths","1037 NW 25th St, Moore, OK 73160"
+"$1,475 /mo","3 Beds, 2 Baths",House for Rent
+"$3,295 /mo","5 Beds, 4 Baths","2508 Canyon Creek Dr, Yukon, OK 73099"
+"$1,800 /mo","3 Beds, 2 Baths",House for Rent
+"$2,395 /mo","4 Beds, 2.5 Baths","508 Conestoga Dr, Yukon, OK 73099"
+"$2,670 /mo","4 Beds, 2 Baths",House for Rent
+"$1,500 /mo","4 Beds, 2 Baths","2419 Ripple Creek Ln, Edmond, OK 73012"
+"$1,910 /mo","4 Beds, 2 Baths",House for Rent
+"$1,850 /mo","3 Beds, 2 Baths","1101 Edinburg Dr, Yukon, OK 73099"
+"$1,735 /mo","3 Beds, 2 Baths",House for Rent
+"$1,635 /mo","3 Beds, 2.5 Baths","11128 SW 40th St, Yukon, OK 73099"
+"$2,305 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,650 /mo","3 Beds, 2 Baths","2205 NE 9th St, Moore, OK 73160"
+"$1,470 /mo","3 Beds, 2 Baths",House for Rent
+"$1,560 /mo","3 Beds, 2 Baths","17312 Old Pond Rd, Edmond, OK 73012"
+"$1,695 /mo","3 Beds, 2 Baths",House for Rent
+"$1,475 /mo","4 Beds, 2 Baths","2813 Appaloosa Trail, Edmond, OK 73012"
+"$1,805 /mo","3 Beds, 2 Baths",House for Rent
+"$1,775 /mo","4 Beds, 2 Baths","11748 SW 7th St, Yukon, OK 73099"
+"$2,130 /mo","3 Beds, 2 Baths",House for Rent
+"$1,375 /mo","3 Beds, 2 Baths","19808 Harness Ct, Edmond, OK 73012"
+"$1,695 /mo","3 Beds, 2 Baths",House for Rent
+"$1,760 /mo","4 Beds, 2 Baths","6009 NW 62nd St, Warr Acres, OK 73122"
+"$1,850 /mo","4 Beds, 2 Baths",House for Rent
+"$1,910 /mo","4 Beds, 2 Baths","929 W Idylwild Dr, Midwest City, OK 73110"
+"$1,860 /mo","4 Beds, 2 Baths",House for Rent
+"$1,910 /mo","4 Beds, 2 Baths","19929 Vivace Ct, Edmond, OK 73012"
+"$1,555 /mo","3 Beds, 2 Baths",House for Rent
+"$2,300 /mo","5 Beds, 2 Baths","624 Allison Ln, Moore, OK 73160"
+"$1,910 /mo","4 Beds, 2 Baths",House for Rent
+"$2,300 /mo","5 Beds, 2 Baths","10412 SW 39th St, Mustang, OK 73064"
+"$1,910 /mo","4 Beds, 2 Baths",House for Rent
+"$1,785 /mo","3 Beds, 2 Baths","4001 Sara Pk Dr, Mustang, OK 73064"
+"$1,805 /mo","3 Beds, 2 Baths",House for Rent
+"$1,850 /mo","4 Beds, 2 Baths","10508 SW 40th St, Mustang, OK 73064"
+"$1,805 /mo","3 Beds, 2 Baths",House for Rent
+"$1,850 /mo","4 Beds, 2 Baths","10413 SW 39th St, Mustang, OK 73064"
+"$1,785 /mo","3 Beds, 2 Baths",House for Rent
+"$1,910 /mo","4 Beds, 2 Baths","10408 SW 39th St, Mustang, OK 73064"
+"$1,695 /mo","3 Beds, 2 Baths",House for Rent
+"$1,750 /mo","3 Beds, 2 Baths","10513 SW 37th St, Mustang, OK 73064"
+"$1,295 /mo","3 Beds, 1 Bath",House for Rent
+"$1,050 /mo","3 Beds, 1 Bath","10500 SW 37th St, Mustang, OK 73064"
+"$1,250/mo","2 Beds, 2 Baths",House for Rent
+$750 /mo,"1 Bed, 1 Bath","3913 Sara Pk Dr, Mustang, OK 73064"
+"$1,695 /mo","4 Beds, 2 Baths",House for Rent
+"$1,600/mo","2 Beds, 1 Bath","10524 SW 37th St, Mustang, OK 73064"
+"$1,200/mo","2 Beds, 2 Baths",House for Rent
+"$1,575 /mo","2 Beds, 1 Bath","904 SW 13th St, Moore, OK 73160"
+"$1,850 /mo","4 Beds, 2.5 Baths",House for Rent
+"$1,350 /mo","4 Beds, 1.5 Baths","19613 Bolton Rd, Edmond, OK 73012"
+"$1,200 /mo","3 Beds, 1 Bath",House for Rent
+"$1,375 /mo","3 Beds, 2 Baths","3927 SE 10th Pl, Del City, OK 73115"
+"$1,499/mo","1 Bed, 1 Bath",House for Rent
+"$3,500 /mo","3 Beds, 2 Baths","1412 NW 95th St, Oklahoma City, OK 73114"
+$780/mo,"2 Beds, 1 Bath",House for Rent
+"$2,500 /mo","3 Beds, 2 Baths","308 NW 24th St, Oklahoma City, OK 73103"
+"$1,200 /mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,000 /mo","3 Beds, 2 Baths","221 G NW24th St, Oklahoma City, OK 73103"
+$950/mo,"2 Beds, 2.5 Baths",House for Rent
+"$1,250 /mo","3 Beds, 1 Bath","2505 NW 28th St., Oklahoma City, OK 73107"
+"$2,250/mo","2 Beds, 1.5 Baths",House for Rent
+"$1,199/mo","2 Beds, 2 Baths","510 NW 18th St, Oklahoma City, OK 73103"
+"$1,750/mo","3 Beds, 3.5 Baths",Townhome for Rent
+"$1,025 /mo","2 Beds, 1 Bath","531 NW 32nd St, Oklahoma City, OK 73118"
+"$1,750 /mo","3 Beds, 2 Baths",Townhome for Rent
+"$1,600 /mo","3 Beds, 2 Baths","705 NW 24th St., Oklahoma City, OK 73103"
+"$1,550 /mo","3 Beds, 2 Baths",House for Rent
+"$1,750 /mo","3 Beds, 2 Baths","6035 Stonewall Ave, Oklahoma City, OK 73111"
+"$1,750 /mo","3 Beds, 2 Baths",House for Rent
+"$1,025 /mo","3 Beds, 2 Baths","1345 SW 27th St, Oklahoma City, OK 73108"
+$995 /mo,"2 Beds, 1.5 Baths",House for Rent
+"$2,000/mo","2 Beds, 2 Baths","1121 SW 24th St, Oklahoma City, OK 73109"
+"$1,725 /mo","3 Beds, 1 Bath",House for Rent
+"$1,450 /mo","3 Beds, 2 Baths","1 2nd NE St, Oklahoma City, OK 73104"
+$849 /mo,"4 Beds, 2 Baths",Condo for Rent
+$749 /mo,"1 Bed, 1 Bath","3225 NW 40th St, Oklahoma City, OK 73112"
+$949 /mo,"3 Beds, 2 Baths",House for Rent
+"$1,495 /mo","3 Beds, 2 Baths","2813 North Geraldine Avenue, Oklahoma City, OK 73107"
+"$9,000/mo","2 Beds, 3 Baths",House for Rent
+$695/mo,"1 Bed, 1.5 Baths","1008 NE 19th St, Oklahoma City, OK 73111"
+"$1,195 /mo","2 Beds, 1 Bath",House for Rent
+$569 /mo,"3 Beds, 1.5 Baths","1332 NE 10th St, Oklahoma City, OK 73117"
+$899 /mo,"4 Beds, 2 Baths",House for Rent
+"$2,085 /mo","6 Beds, 4.5 Baths","1909 N Saint Luke Ave, Oklahoma City, OK 73141"
+"$1,545 /mo","3 Beds, 2 Baths",House for Rent
+$875 /mo,"3 Beds, 1 Bath","2413 SW 77th Pl, Oklahoma City, OK 73159"
+"$3,295 /mo","4 Beds, 2 Baths",House for Rent
+"$2,355 /mo","4 Beds, 3 Baths","301 NE 4th St, Oklahoma City, OK 73104"
+"$1,545/mo","3 Beds, 3 Baths",Condo for Rent
+"$8,495 /mo","4 Beds, 6 Baths","1520 S Youngs Blvd, Oklahoma City, OK 73108"
+"$1,999 /mo","3 Beds, 3 Baths",Apartment for Rent
+"$1,990 /mo","3 Beds, 3 Baths","1015 NW 40th St, Oklahoma City, OK 73118"
+"$1,695/mo","3 Beds, 3 Baths",House for Rent
+"$1,645/mo","3 Beds, 3 Baths","1624 NW 14th St, Oklahoma City, OK 73106"
+"$1,645/mo","3 Beds, 3 Baths",House for Rent
+"$1,595/mo","3 Beds, 3 Baths","2017 NW 12th St, Oklahoma City, OK 73106"
+"$1,695/mo","3 Beds, 3 Baths",House for Rent
+"$1,695/mo","3 Beds, 3 Baths","8909 NW 83rd St, Oklahoma City, OK 73132"
+$695 /mo,"2 Beds, 1.5 Baths",House for Rent
+"$1,695/mo","3 Beds, 3 Baths","2709 NW 56th St, Oklahoma City, OK 73112"
+"$1,500 /mo","3 Beds, 3 Baths",House for Rent
+"$1,695/mo","3 Beds, 3 Baths","2224 N Lottie Ave, Oklahoma City, OK 73111"
+"$1,695/mo","3 Beds, 3 Baths",House for Rent
+"$1,695/mo","3 Beds, 3 Baths","248 NW 35th St, Oklahoma City, OK 73118"
+"$1,695/mo","3 Beds, 3 Baths",House for Rent
+"$1,695/mo","3 Beds, 3 Baths","3025 SW 61st St, Oklahoma City, OK 73159"
+"$1,695/mo","3 Beds, 3 Baths",House for Rent
+"$1,695/mo","3 Beds, 3 Baths","4723 Hemlock Ln, Oklahoma City, OK 73162"
+"$1,695/mo","3 Beds, 3 Baths",Townhouse for Rent
+$740/mo,"1 Bed, 1.5 Baths","1700 ROBINSON St, Oklahoma City, OK 73103"
+"$1,875 /mo","3 Beds, 3 Baths",Apartment for Rent
+"$2,100 /mo","3 Beds, 3 Baths","2337 SW 97th St, Oklahoma City, OK 73159"
+"$1,700 /mo","3 Beds, 3 Baths",House for Rent
+"$6,995 /mo","4 Beds, 4.5 Baths","17729 Fruited Plain Ln, Oklahoma City, OK 73012"
+"$2,200/mo","3 Beds, 3 Baths",House for Rent
+"$6,000 /mo","4 Beds, 4.5 Baths","13624 Prairie View Ln, Oklahoma City, OK 73142"
+"$1,695 /mo","3 Beds, 3 Baths",House for Rent
+$695 /mo,"2 Beds, 1.5 Baths","36 NE 7th St, Oklahoma City, OK 73104"
+$695 /mo,"3 Beds, 1.5 Baths",House for Rent
+"$2,535/mo","1 Bed, 1.5 Baths","2206 NW 49th St, Oklahoma City, OK 73112"
+"$1,300 /mo","2 Beds, 1.5 Baths",Townhouse for Rent
+"$2,400/mo","3 Beds, 4.5 Baths","616 NW 6th St, Oklahoma City, OK 73102"
+"$2,050 /mo","4 Beds, 3 Baths",House for Rent
+"$1,100/mo","1 Bed, 1.5 Baths","9112 Buttonwood Ave, Oklahoma City, OK 73160"
+"$1,595 /mo","2 Beds, 1.5 Baths",House for Rent
+"$1,000/mo","2 Beds, 3 Baths","2128 SW 41st St, Oklahoma City, OK 73119"
+"$1,550 /mo","3 Beds, 3 Baths",House for Rent
+$950 /mo,"2 Beds, 1.5 Baths","6205 Anderson Dr, Oklahoma City, OK 73149"
+"$3,400 /mo","4 Beds, 4.5 Baths",House for Rent
+"$1,200 /mo","2 Beds, 1.5 Baths","140 Park Ave, Oklahoma City, OK 73102"
+$895 /mo,"3 Beds, 1.5 Baths",Apartment for Rent
+"$1,595/mo","2 Beds, 1.5 Baths","1312 N Indiana Ave, Oklahoma City, OK 73106"
+"$1,395 /mo","2 Beds, 1.5 Baths",House for Rent
+"$2,060 /mo","3 Beds, 3 Baths","2218 NW 49th St, Oklahoma City, OK 73112"
+$900 /mo,"2 Beds, 1.5 Baths",Townhouse for Rent
+"$1,425 /mo","3 Beds, 3 Baths","1800 Sloane Dr, Oklahoma City, OK 73127"
+"$1,625 /mo","3 Beds, 3 Baths",House for Rent
+"$1,530 /mo","3 Beds, 3 Baths","2423 NW 12th St, Oklahoma City, OK 73107"
+"$1,705 /mo","3 Beds, 3 Baths",Townhouse for Rent
+"$1,500 /mo","2 Beds, 1.5 Baths","929 NE 17th St, Oklahoma City, OK 73105"
+"$1,750/mo","2 Beds, 1.5 Baths",House for Rent
+$795 /mo,"2 Beds, 1.5 Baths","8301 S Camay Ave, Oklahoma City, OK 73159"
+"$3,500 /mo","3 Beds, 4.5 Baths",Townhouse for Rent
+"$1,900/mo","2 Beds, 3 Baths","12513 Pine Bluff Dr, Oklahoma City, OK 73142"
+"$2,200 /mo","4 Beds, 4.5 Baths",House for Rent
+"$1,650/mo","2 Beds, 1.5 Baths","724 NW 96th St, Oklahoma City, OK 73114"
+"$2,095 /mo","4 Beds, 3 Baths",House for Rent
+"$1,600 /mo","3 Beds, 3 Baths","617 NW 42nd St, Oklahoma City, OK 73118"
+"$1,499 /mo","2 Beds, 1.5 Baths",House for Rent
+"$1,865 /mo","3 Beds, 3 Baths","2508 Canyon Creek Dr, Oklahoma City, OK 73099"
+"$2,995 /mo","4 Beds, 3 Baths",House for Rent
+$895 /mo,"2 Beds, 1.5 Baths","18308 Orozco Cir, Oklahoma City, OK 73012"
+$925 /mo,"2 Beds, 1.5 Baths",House for Rent
+"$6,995 /mo","3 Beds, 4.5 Baths","1425 NW 94th St, Oklahoma City, OK 73114"
+"$1,695/mo","3 Beds, 3 Baths",House for Rent
+"$1,695/mo","3 Beds, 3 Baths","1721 NE 20th St, Oklahoma City, OK 73111"
+"$1,595 /mo","4 Beds, 3 Baths",House for Rent
+"$1,300/mo","2 Beds, 1.5 Baths","819 NW 6th St, Oklahoma City, OK 73106"
+"$1,400 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,300/mo","2 Beds, 1.5 Baths","7700 Westhall Pl, Oklahoma City, OK 73132"
+"$1,900 /mo","4 Beds, 3 Baths",Townhouse for Rent
+"$2,095 /mo","3 Beds, 3 Baths","7712 Westhall Pl, Oklahoma City, OK 73132"
+"$1,595 /mo","3 Beds, 3 Baths",Townhouse for Rent
+$895 /mo,"3 Beds, 1.5 Baths","15404 Acacia Rd, Oklahoma City, OK 73170"
+"$1,645 /mo","3 Beds, 3 Baths",House for Rent
+"$2,200/mo","2 Beds, 3 Baths","1130 NE 18th St, Oklahoma City, OK 73111"
+"$1,695 /mo","3 Beds, 3 Baths",Townhouse for Rent
+"$1,445 /mo","3 Beds, 3 Baths","1312 N Indiana Ave, Oklahoma City, OK 73106"
+"$1,200 /mo","3 Beds, 1.5 Baths",House for Rent
+$995 /mo,"3 Beds, 1.5 Baths","1128 NE 18th St, Oklahoma City, OK 73111"
+"$1,600/mo","2 Beds, 3 Baths",Townhouse for Rent
+"$1,399 /mo","4 Beds, 1.5 Baths","3701 NW 60th St, Oklahoma City, OK 73112"
+"$2,495 /mo","3 Beds, 4.5 Baths",House for Rent
+"$1,495/mo","4 Beds, 3 Baths","826 NE 18th St, Oklahoma City, OK 73105"
+$950 /mo,"3 Beds, 1 Bath",House for Rent
+"$1,350/mo","1 Bed, 1.5 Baths","12116 Blueway Ave, Oklahoma City, OK 73162"
+"$2,095 /mo","4 Beds, 3 Baths",House for Rent
+$995 /mo,"3 Beds, 1.5 Baths","3309 SE 57th St, Oklahoma City, OK 73135"
+"$1,635 /mo","3 Beds, 3 Baths",House for Rent
+"$1,945 /mo","4 Beds, 3 Baths","11613 Wallace Ave, Oklahoma City, OK 73162"
+"$2,100 /mo","3 Beds, 3 Baths",House for Rent
+"$2,095 /mo","3 Beds, 3 Baths","6327 Glenbrook Ct, Oklahoma City, OK 73118"
+"$1,595/mo","3 Beds, 3 Baths",Townhouse for Rent
+"$1,195 /mo","2 Beds, 1.5 Baths","8000 Erryn Ln, Oklahoma City, OK 73135"
+"$1,495/mo","2 Beds, 3 Baths",House for Rent
+$775/mo,"1 Bed, 1.5 Baths","9712 Mahler Pl, Oklahoma City, OK 73120"
+"$1,475/mo","3 Beds, 1.5 Baths",House for Rent
+"$2,695 /mo","4 Beds, 3 Baths","2112 NE 20th St, Oklahoma City, OK 73111"
+"$1,795 /mo","3 Beds, 3 Baths",House for Rent
+"$1,495/mo","1 Bed, 1.5 Baths","5600 Campbell Creek Dr, Oklahoma City, OK 73179"
+"$2,395 /mo","5 Beds, 4.5 Baths",Townhouse for Rent
+"$1,100 /mo","3 Beds, 1.5 Baths","1729 NW 13th St, Oklahoma City, OK 73106"
+"$1,375 /mo","3 Beds, 3 Baths",House for Rent
+"$2,975/mo","2 Beds, 3 Baths","4616 Tinker Rd, Oklahoma City, OK 73135"
+"$1,450 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,600/mo","3 Beds, 3 Baths","9708 Laredo Ln, Oklahoma City, OK 73099"
+"$1,600/mo","3 Beds, 3 Baths",House for Rent
+"$1,600/mo","3 Beds, 3 Baths","911 NW 13th St, Oklahoma City, OK 73106"
+"$1,600/mo","3 Beds, 3 Baths",Townhouse for Rent
+"$1,600/mo","3 Beds, 3 Baths","2019 NW 33rd St, Oklahoma City, OK 73118"
+"$1,675 /mo","4 Beds, 3 Baths",House for Rent
+$925/mo,"2 Beds, 1.5 Baths","7525 NONE REDBUD St, Oklahoma City, OK 73169"
+"$1,700 /mo","3 Beds, 3 Baths",Townhouse for Rent
+"$4,000/mo","3 Beds, 3 Baths","7521 NONE REDBUD St, Oklahoma City, OK 73169"
+"$3,100/mo","2 Beds, 3 Baths",Townhouse for Rent
+"$1,795 /mo","4 Beds, 3 Baths","7520 NONE WILDFLOWER St, Oklahoma City, OK 73169"
+"$1,395 /mo","3 Beds, 1.5 Baths",Townhouse for Rent
+"$1,500 /mo","3 Beds, 3 Baths","7516 NONE WILDFLOWER St, Oklahoma City, OK 73169"
+"$1,395/mo","2 Beds, 3 Baths",Townhouse for Rent
+"$2,100 /mo","3 Beds, 3 Baths","7512 NONE WILDFLOWER St, Oklahoma City, OK 73169"
+"$1,545 /mo","3 Beds, 3 Baths",Townhouse for Rent
+"$1,745 /mo","4 Beds, 3 Baths","9913 Rattlesnake Ln, Oklahoma City, OK 73099"
+"$1,600 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,400/mo","3 Beds, 3 Baths","1800 Exchange Ave, Oklahoma City, OK 73108"
+"$1,595 /mo","4 Beds, 3 Baths",Townhouse for Rent
+"$1,350 /mo","3 Beds, 3 Baths","11233 Cimarron Dr, Oklahoma City, OK 73162"
+"$1,895 /mo","4 Beds, 3 Baths",House for Rent
+"$2,100 /mo","3 Beds, 3 Baths","423 NE 1st St, Oklahoma City, OK 73104"
+"$2,495 /mo","4 Beds, 3 Baths",Townhouse for Rent
+"$1,450 /mo","3 Beds, 1.5 Baths","211 N Geary Ave, Oklahoma City, OK 73104"
+"$2,295 /mo","4 Beds, 3 Baths",Townhouse for Rent
+"$1,895 /mo","4 Beds, 3 Baths","2745 Dennis Dr, Oklahoma City, OK 73099"
+"$1,550/mo","3 Beds, 3 Baths",House for Rent
+"$1,495 /mo","3 Beds, 3 Baths","5516 S Dimple Dr, Oklahoma City, OK 73135"
+"$1,350 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,850 /mo","4 Beds, 3 Baths","2341 NW 17th St, Oklahoma City, OK 73107"
+"$1,700 /mo","4 Beds, 3 Baths",House for Rent
+"$2,100 /mo","4 Beds, 3 Baths","909 East Dr, Oklahoma City, OK 73105"
+"$1,700/mo","2 Beds, 3 Baths",Townhouse for Rent
+"$1,450/mo","1 Bed, 1.5 Baths","1625 NW 12th St, Oklahoma City, OK 73106"
+"$2,315 /mo","3 Beds, 3 Baths",Apartment for Rent
+"$1,450/mo","2 Beds, 3 Baths","4345 Dahoon Dr, Oklahoma City, OK 73120"
+"$1,995 /mo","4 Beds, 1.5 Baths",House for Rent
+"$2,100 /mo","4 Beds, 3 Baths","2417 Northcreek Ln, Oklahoma City, OK 73128"
+"$2,495 /mo","5 Beds, 4.5 Baths",Townhouse for Rent
+"$1,895/mo","2 Beds, 3 Baths","2912 Cummings Dr, Oklahoma City, OK 73107"
+"$1,750/mo","2 Beds, 3 Baths",House for Rent
+"$1,645 /mo","4 Beds, 3 Baths","3108 Orlando Rd, Oklahoma City, OK 73120"
+"$2,025 /mo","3 Beds, 3 Baths",House for Rent
+"$1,650 /mo","4 Beds, 3 Baths","5609 St James Pl, Oklahoma City, OK 73179"
+"$1,895 /mo","3 Beds, 3 Baths",House for Rent
+"$1,610 /mo","3 Beds, 3 Baths","8913 SW 55th St, Oklahoma City, OK 73179"
+"$1,800 /mo","3 Beds, 3 Baths",Townhouse for Rent
+"$1,930 /mo","3 Beds, 3 Baths","5609 Goldfinger Rd, Oklahoma City, OK 73179"
+"$1,550/mo","1 Bed, 1.5 Baths",Townhouse for Rent
+"$1,850 /mo","4 Beds, 3 Baths","9704 Laredo Ln, Oklahoma City, OK 73099"
+"$2,040 /mo","4 Beds, 3 Baths",House for Rent
+"$3,450 /mo","5 Beds, 4.5 Baths","11209 Paradise Out Ln, Oklahoma City, OK 73131"
+"$1,495/mo","3 Beds, 3 Baths",House for Rent
+"$1,495/mo","3 Beds, 3 Baths","936 NE 83rd St, Oklahoma City, OK 73114"
+"$1,655 /mo","3 Beds, 3 Baths",House for Rent
+"$1,480 /mo","3 Beds, 3 Baths","3208 NW 47th St, Oklahoma City, OK 73112"
+"$1,095 /mo","2 Beds, 1.5 Baths",House for Rent
+"$1,395 /mo","3 Beds, 3 Baths","8832 Parkridge Dr, Oklahoma City, OK 73132"
+"$2,395 /mo","4 Beds, 3 Baths",House for Rent
+"$1,950 /mo","3 Beds, 3 Baths","11335 Paradise Out Ln, Oklahoma City, OK 73131"
+"$1,485 /mo","3 Beds, 3 Baths",House for Rent
+"$1,400 /mo","3 Beds, 1.5 Baths","11213 NONE LARKIN Ln, Oklahoma City, OK 73130"
+$835/mo,"2 Beds, 3 Baths",House for Rent
+"$1,225/mo","3 Beds, 2 Baths","627 Couch Dr, Oklahoma City, OK 73102"
+"$1,800 /mo","4 Beds, 2 Baths",Condo for Rent
+$995 /mo,"2 Beds, 1 Bath","11351 Paradise Out Ln, Oklahoma City, OK 73131"
+"$1,095 /mo","1 Bed, 1 Bath",House for Rent
+"$1,400/mo","Studio, 1 Bath","4316 Umbria Rd, Oklahoma City, OK 73179"
+"$1,400/mo","2 Beds, 3 Baths",House for Rent
+"$1,150 /mo","3 Beds, 1.5 Baths","2817 Bens Cir, Oklahoma City, OK 73099"
+$999 /mo,"3 Beds, 1 Bath",House for Rent
+"$2,750/mo","1 Bed, 1.5 Baths","7028 Elk Canyon Rd, Oklahoma City, OK 73162"
+"$1,100 /mo","4 Beds, 3 Baths",Townhouse for Rent
+"$1,650 /mo","3 Beds, 2 Baths","29 NW 156th St, Edmond, OK 73013"
+"$1,699 /mo","4 Beds, 2 Baths",House for Rent
+"$1,750 /mo","4 Beds, 3 Baths","9101 N Westminster Rd, Jones, OK 73049"
+"$2,195 /mo","4 Beds, 3 Baths",House for Rent
+"$2,055 /mo","3 Beds, 3 Baths","6121 N Lakeway Dr, Warr Acres, OK 73132"
+"$1,700 /mo","3 Beds, 3 Baths",House for Rent
+$600 /mo,"1 Bed, 1.5 Baths","2320 NW 191st Ct, Edmond, OK 73012"
+"$1,795 /mo","3 Beds, 3 Baths",House for Rent
+"$1,700 /mo","3 Beds, 3 Baths","11128 SW 40th St, Mustang, OK 73064"
+"$1,795 /mo","3 Beds, 3 Baths",House for Rent
+"$1,860 /mo","3 Beds, 3 Baths","12300 NW 4th St, Yukon, OK 73099"
+"$2,195 /mo","4 Beds, 4.5 Baths",House for Rent
+"$2,395 /mo","4 Beds, 3 Baths","4640 SE 29th St, Del City, OK 73115"
+"$1,195 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,550/mo","3 Beds, 3 Baths","117 Sonora, Edmond, OK 73013"
+"$1,295/mo","3 Beds, 3 Baths",House for Rent
+"$1,500 /mo","3 Beds, 3 Baths","1512 Victoria Pl, Edmond, OK 73003"
+"$1,645 /mo","4 Beds, 3 Baths",House for Rent
+"$2,200 /mo","3 Beds, 3 Baths","2433 NW 195th St, Edmond, OK 73012"
+"$6,000 /mo","5 Beds, 6 Baths",House for Rent
+"$2,750 /mo","3 Beds, 3 Baths","624 Allison Ln, Moore, OK 73160"
+"$2,770 /mo","4 Beds, 3 Baths",House for Rent
+"$2,495 /mo","4 Beds, 3 Baths","16900 Gladstone Cir, Edmond, OK 73012"
+"$1,050 /mo","2 Beds, 1.5 Baths",House for Rent
+"$1,495 /mo","3 Beds, 3 Baths","8312 NW 160th Ct, Edmond, OK 73013"
+"$1,575 /mo","3 Beds, 3 Baths",House for Rent
+"$3,300 /mo","4 Beds, 4.5 Baths","4704 Ridgeway Dr, Del City, OK 73115"
+"$2,695 /mo","3 Beds, 4.5 Baths",House for Rent
+"$1,975 /mo","3 Beds, 3 Baths","920 Coles Creek, Yukon, OK 73099"
+"$2,300 /mo","3 Beds, 3 Baths",Townhouse for Rent
+"$2,395 /mo","4 Beds, 4.5 Baths","3619 Janus, Yukon, OK 73099"
+"$2,395 /mo","3 Beds, 3 Baths",Townhouse for Rent
+"$1,595 /mo","3 Beds, 3 Baths","2825 NW 189th St, Edmond, OK 73012"
+"$1,795 /mo","3 Beds, 3 Baths",House for Rent
+"$1,845 /mo","4 Beds, 3 Baths","621 NW 141st St, Edmond, OK 73013"
+"$1,825 /mo","4 Beds, 3 Baths",House for Rent
+"$1,695 /mo","3 Beds, 3 Baths","3313 NW 160th St, Edmond, OK 73013"
+"$1,495 /mo","3 Beds, 3 Baths",House for Rent
+"$4,250 /mo","3 Beds, 3 Baths","1501 Camden Way, Nichols Hills, OK 73116"
+"$1,495 /mo","3 Beds, 3 Baths",House for Rent
+"$1,485 /mo","3 Beds, 3 Baths","3117 Prairie Ave, Edmond, OK 73013"
+"$2,500 /mo","3 Beds, 3 Baths",House for Rent
+"$1,910 /mo","3 Beds, 3 Baths","1109 Marlboro Ln, Nichols Hills, OK 73116"
+"$1,499 /mo","3 Beds, 3 Baths",House for Rent
+"$1,795 /mo","3 Beds, 3 Baths","509 NW 174th St, Edmond, OK 73012"
+"$1,729 /mo","4 Beds, 3 Baths",House for Rent
+"$1,595 /mo","4 Beds, 3 Baths","1033 E Stetson Ln, Mustang, OK 73064"
+"$1,625 /mo","3 Beds, 3 Baths",House for Rent
+"$1,400 /mo","3 Beds, 1.5 Baths","7005 NW 157th Terrace, Edmond, OK 73013"
+"$1,600 /mo","3 Beds, 3 Baths",House for Rent
+"$1,175 /mo","3 Beds, 3 Baths","2705 Summer Set Trail, Edmond, OK 73012"
+"$1,745 /mo","4 Beds, 3 Baths",House for Rent
+"$1,350 /mo","3 Beds, 3 Baths","2012 W Hunters Springs Way, Mustang, OK 73064"
+"$1,720 /mo","3 Beds, 3 Baths",House for Rent
+"$1,350 /mo","2 Beds, 3 Baths","11217 SW 33rd Terrace, Yukon, OK 73099"
+"$1,695 /mo","3 Beds, 3 Baths",House for Rent
+"$2,195 /mo","3 Beds, 3 Baths","609 SW 14th St, Moore, OK 73160"
+"$3,295 /mo","4 Beds, 4.5 Baths",House for Rent
+"$2,345 /mo","4 Beds, 3 Baths","1633 SW 31st Terrace, Moore, OK 73160"
+"$3,300 /mo","5 Beds, 6 Baths",House for Rent
+"$1,950 /mo","4 Beds, 3 Baths","725 N Southminster St, Moore, OK 73160"
+"$1,840 /mo","3 Beds, 3 Baths",House for Rent
+"$1,795 /mo","4 Beds, 3 Baths","11317 NW 95th St, Yukon, OK 73099"
+"$1,495 /mo","3 Beds, 3 Baths",House for Rent
+"$2,095 /mo","4 Beds, 3 Baths","1613 NW 148th St, Edmond, OK 73013"
+"$2,300 /mo","3 Beds, 3 Baths",House for Rent
+"$1,800 /mo","4 Beds, 2 Baths","2622 Featherstone Rd, Village, OK 73120"
+"$2,200 /mo","4 Beds, 3 Baths",House for Rent
+"$1,600 /mo","3 Beds, 3 Baths","1813 NW 143rd St, Edmond, OK 73013"
+"$1,570 /mo","3 Beds, 3 Baths",House for Rent
+"$1,450 /mo","3 Beds, 2 Baths","3005 NW 183rd St, Edmond, OK 73012"
+"$1,175 /mo","3 Beds, 1 Bath",House for Rent
+"$1,550 /mo","3 Beds, 2 Baths","12709 NW 5th St, Yukon, OK 73099"
+"$1,350 /mo","3 Beds, 1.5 Baths",House for Rent
+"$1,785 /mo","3 Beds, 3 Baths","4305 NW 156th Pl, Edmond, OK 73013"
+"$2,595 /mo","4 Beds, 4.5 Baths",House for Rent
+"$1,995 /mo","3 Beds, 3 Baths","6788 Springer Run, Edmond, OK 73012"
+"$1,850 /mo","3 Beds, 3 Baths",House for Rent
+"$1,575 /mo","3 Beds, 3 Baths","1408 NW 171st St, Edmond, OK 73012"
+"$1,960 /mo","4 Beds, 3 Baths",House for Rent
+"$1,650 /mo","3 Beds, 2 Baths","1808 Haven Dr, Midwest City, OK 73130"
+"$1,750 /mo","4 Beds, 2 Baths",House for Rent
+"$1,825 /mo","2 Beds, 2 Baths","5303 N Harmon Dr, Warr Acres, OK 73122"
+"$1,300 /mo","3 Beds, 3 Baths",House for Rent
+"$1,525 /mo","3 Beds, 2 Baths","14113 Oxford Dr, Edmond, OK 73013"
+"$2,040 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,725 /mo","3 Beds, 2 Baths","333 W Crooked Branch Way, Mustang, OK 73064"
+"$1,095 /mo","2 Beds, 1 Bath",House for Rent
+"$1,400 /mo","3 Beds, 2 Baths","12421 Pittsburgh Ave, Oklahoma City, OK 73120"
+"$1,600 /mo","3 Beds, 2 Baths",House for Rent
+$950 /mo,"1 Bed, 1 Bath","5320 N Drexel Blvd, Oklahoma City, OK 73112"
+"$1,395 /mo","2 Beds, 1.5 Baths",House for Rent
+$950 /mo,"3 Beds, 1 Bath","12025 Garden Dr, Oklahoma City, OK 73170"
+"$1,395 /mo","3 Beds, 2 Baths",House for Rent
+"$1,350 /mo","2 Beds, 2 Baths","201 NW 17th St, Oklahoma City, OK 73103"
+"$1,095 /mo","3 Beds, 1.5 Baths",House for Rent
+$895 /mo,"1 Bed, 1 Bath","11313 N Florida Ave, Oklahoma City, OK 73120"
+$995 /mo,"3 Beds, 2 Baths",House for Rent
+"$3,000 /mo","3 Beds, 3 Baths","8408 NW 111th St, Oklahoma City, OK 73162"
+$850 /mo,"1 Bed, 1 Bath",House for Rent

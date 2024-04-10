@@ -1,0 +1,505 @@
+price,rooms,address
+"$2,780 - 6,390",Studio - 3 Beds,"235 Old Colony Ave, Boston, MA 02127"
+"$3,422 - 14,056",Studio - 2 Beds,"200 Brookline Ave, Boston, MA 02215"
+"$3,195 - 5,450",Studio - 2 Beds,"221 Massachusetts Ave, Boston, MA 02115"
+"$3,000 - 4,300",Studio - 2 Beds,"201 S Huntington Ave, Boston, MA 02130"
+"$2,904 - 7,960",Studio - 3 Beds,"89 E Dedham St, Boston, MA 02118"
+"$4,240 - 22,510",Studio - 3 Beds,"212 Stuart St, Boston, MA 02116"
+"$2,600 - 4,965",Studio - 3 Beds,"1211 Dorchester Ave, Boston, MA 02125"
+"$3,142 - 5,495",Studio - 3 Beds,"35-43 Braintree St, Boston, MA 02134"
+"$3,428 - 15,479",Studio - 3 Beds,"180 Brookline Ave, Boston, MA 02215"
+"$4,367 - 16,915",1-3 Beds,"1330 Boylston St, Boston, MA 02215"
+"$3,809 - 18,275",Studio - 2 Beds,"1335 Boylston St, Boston, MA 02215"
+"$2,967 - 13,243",Studio - 3 Beds,"219 Western Ave, Allston, MA 02134"
+"$2,700 - 7,489",Studio - 4 Beds,"175 Washington St, Brighton, MA 02135"
+"$2,805 - 9,425",Studio - 3 Beds,"151 N First St, Cambridge, MA 02141"
+"$2,325 - 4,125",Studio - 2 Beds,"101 Mill Rd, Everett, MA 02149"
+"$2,599 - 3,545",Studio - 2 Beds,"250 Vale St, Chelsea, MA 02150"
+"$2,125 - 3,525",Studio - 2 Beds,"484 2nd St, Everett, MA 02149"
+"$2,480 - 4,467",Studio - 2 Beds,"780 Morrissey Blvd, Dorchester, MA 02122"
+"$2,935 - 6,792",Studio - 3 Beds,"301 Guest St, Allston, MA 02134"
+"$3,090 - 5,025",Studio - 3 Beds,"10 Innerbelt Rd, Somerville, MA 02143"
+"$2,380 - 3,989",Studio - 2 Beds,"255 Vale St, Chelsea, MA 02150"
+"$3,105 - 4,525",1-2 Beds,"1 Hancock Village Dr, Chestnut Hill, MA 02467"
+"$3,087 - 12,108",Studio - 3 Beds,"899 Congress St, Boston, MA 02210"
+"$2,735 - 3,460",Studio - 2 Beds,"320-326 D St, Boston, MA 02127"
+"$3,210 - 7,470",Studio - 2 Beds,"36 Lomasney Way, Boston, MA 02114"
+"$3,911 - 7,225",1-3 Beds,"32-32 Garrison St, Boston, MA 02116"
+"$2,575 - 7,885",Studio - 3 Beds,"5 Longfellow Pl, Boston, MA 02114"
+"$2,150 - 3,200",Studio - 1 Bed,"62 Boylston St, Boston, MA 02116"
+"$3,345 - 7,995",Studio - 3 Beds,"100 Sudbury St, Boston, MA 02114"
+"$2,610 - 5,850",Studio - 2 Beds,"55 Traveler St, Boston, MA 02118"
+"$2,835 - 6,346",Studio - 3 Beds,"161 S Huntington Ave, Boston, MA 02130"
+"$3,386 - 5,826",Studio - 3 Beds,"1480-1486 Tremont St, Boston, MA 02120"
+"$3,080 - 6,545",Studio - 2 Beds,"315 A St, Boston, MA 02210"
+"$2,520 - 4,345",1-3 Beds,"24 Oyster Bay Rd, Boston, MA 02125"
+"$2,644 - 8,210",Studio - 3 Beds,"75 Saint Alphonsus St, Boston, MA 02120"
+"$2,257 - 5,118",Studio - 3 Beds,"4 Lucy St, Boston, MA 02125"
+"$2,862 - 34,902",Studio - 3 Beds,"399 Congress St, Boston, MA 02210"
+"$2,921 - 6,513",Studio - 2 Beds,"771-775 Beacon St, Boston, MA 02215"
+"$3,057 - 4,272",Studio - 2 Beds,"1555 Vfw Pky, Boston, MA 02132"
+"$2,475 - 5,869",Studio - 2 Beds,"1550 Soldiers Field Rd, Boston, MA 02135"
+"$2,780 - 6,390",Studio - 3 Beds,"235 Old Colony Ave, Boston, MA 02127"
+"$3,422 - 14,056",Studio - 2 Beds,"200 Brookline Ave, Boston, MA 02215"
+"$3,195 - 5,450",Studio - 2 Beds,"221 Massachusetts Ave, Boston, MA 02115"
+"$3,000 - 4,300",Studio - 2 Beds,"201 S Huntington Ave, Boston, MA 02130"
+"$2,904 - 7,960",Studio - 3 Beds,"89 E Dedham St, Boston, MA 02118"
+"$4,240 - 22,510",Studio - 3 Beds,"212 Stuart St, Boston, MA 02116"
+"$2,600 - 4,965",Studio - 3 Beds,"1211 Dorchester Ave, Boston, MA 02125"
+"$3,142 - 5,495",Studio - 3 Beds,"35-43 Braintree St, Boston, MA 02134"
+"$3,428 - 15,479",Studio - 3 Beds,"180 Brookline Ave, Boston, MA 02215"
+"$4,367 - 16,915",1-3 Beds,"1330 Boylston St, Boston, MA 02215"
+"$3,809 - 18,275",Studio - 2 Beds,"1335 Boylston St, Boston, MA 02215"
+"$2,967 - 13,243",Studio - 3 Beds,"219 Western Ave, Allston, MA 02134"
+"$2,700 - 7,489",Studio - 4 Beds,"175 Washington St, Brighton, MA 02135"
+"$2,805 - 9,425",Studio - 3 Beds,"151 N First St, Cambridge, MA 02141"
+"$2,325 - 4,125",Studio - 2 Beds,"101 Mill Rd, Everett, MA 02149"
+"$2,599 - 3,545",Studio - 2 Beds,"250 Vale St, Chelsea, MA 02150"
+"$2,125 - 3,525",Studio - 2 Beds,"484 2nd St, Everett, MA 02149"
+"$2,480 - 4,467",Studio - 2 Beds,"780 Morrissey Blvd, Dorchester, MA 02122"
+"$2,935 - 6,792",Studio - 3 Beds,"301 Guest St, Allston, MA 02134"
+"$3,090 - 5,025",Studio - 3 Beds,"10 Innerbelt Rd, Somerville, MA 02143"
+"$2,380 - 3,989",Studio - 2 Beds,"255 Vale St, Chelsea, MA 02150"
+"$3,105 - 4,525",1-2 Beds,"1 Hancock Village Dr, Chestnut Hill, MA 02467"
+"$3,087 - 12,108",Studio - 3 Beds,"899 Congress St, Boston, MA 02210"
+"$2,735 - 3,460",Studio - 2 Beds,"320-326 D St, Boston, MA 02127"
+"$3,210 - 7,470",Studio - 2 Beds,"36 Lomasney Way, Boston, MA 02114"
+"$3,911 - 7,225",1-3 Beds,"32-32 Garrison St, Boston, MA 02116"
+"$2,575 - 7,885",Studio - 3 Beds,"5 Longfellow Pl, Boston, MA 02114"
+"$2,150 - 3,200",Studio - 1 Bed,"62 Boylston St, Boston, MA 02116"
+"$3,345 - 7,995",Studio - 3 Beds,"100 Sudbury St, Boston, MA 02114"
+"$2,610 - 5,850",Studio - 2 Beds,"55 Traveler St, Boston, MA 02118"
+"$3,150 - 5,855",Studio - 2 Beds,"1260 Boylston St, Boston, MA 02215"
+"$2,427 - 11,526",Studio - 2 Beds,"144 Addison St, Boston, MA 02128"
+"$2,944 - 7,597",Studio - 3 Beds,"345 Harrison Ave, Boston, MA 02118"
+"$3,575 - 11,347",Studio - 3 Beds,"1350 Boylston St, Boston, MA 02215"
+"$3,099 - 9,244",Studio - 3 Beds,"100 Pier 4 Blvd, Boston, MA 02210"
+"$3,434 - 13,000",Studio - 3 Beds,"131 Seaport Blvd, Boston, MA 02210"
+"$2,685 - 7,080",Studio - 3 Beds,"1 Emerson Pl, Boston, MA 02114"
+"$3,061 - 8,503",Studio - 2 Beds,"50 W West B..., Boston, MA 02127"
+"$1,900 - 2,425",Studio - 4 Beds,"525 Lincoln St, Allston, MA 02134"
+"$3,995 - 5,795",1-3 Beds,"1 Hancock Vlg Dr, Brookline, MA 02445"
+"$2,400 - 3,300",1-2 Beds,"775 Morton St, Mattapan, MA 02126"
+"$3,188 - 8,448",Studio - 4 Beds,"285 3rd St, Cambridge, MA 02142"
+"$2,177 - 5,620",Studio - 2 Beds,"255 Hancock St, Quincy, MA 02171"
+"$3,335 - 6,899",Studio - 2 Beds,"350 3rd St, Cambridge, MA 02142"
+"$2,575 - 5,985",Studio - 3 Beds,"929 Massachusetts Ave, Cambridge, MA 02139"
+"$2,100 - 6,489",Studio - 2 Beds,"1200-1220 Adams St, Dorchester, MA 02124"
+"$3,304 - 5,256",Studio - 3 Beds,"101 S Huntington Ave, Jamaica Plain, MA 02130"
+"$3,066 - 10,000",Studio - 2 Beds,"250 1st Ave, Charlestown, MA 02129"
+"$3,190 - 6,835",Studio - 3 Beds,"660 Washington St, Boston, MA 02111"
+"$2,715 - 5,000",Studio - 3 Beds,"3686 Washington St, Boston, MA 02130"
+"$2,377 - 6,969",Studio - 3 Beds,"25 Morrissey Blvd, Boston, MA 02125"
+"$2,795 - 5,740",Studio - 2 Beds,"45 E Newton St, Boston, MA 02118"
+"$2,900 - 5,700",1-3 Beds,"791 Tremont St, Boston, MA 02118"
+"$2,860 - 5,400",Studio - 2 Beds,"1282 Boylston St, Boston, MA 02215"
+"$2,725 - 3,850",1-2 Beds,"67 Saint Germain St, Boston, MA 02115"
+"$2,623 - 5,786",Studio - 3 Beds,"411 D St, Boston, MA 02210"
+"$2,211 - 3,479",Studio - 2 Beds,"18 Haviland St, Boston, MA 02115"
+"$2,981 - 10,041",Studio - 3 Beds,"88 Arsenal Yards Blvd, Watertown, MA 02472"
+"$3,026 - 7,945",1-3 Beds,"204 Arsenal St, Watertown, MA 02472"
+"$3,000 - 3,100",2 Beds,"152 Liverpool St, East Boston, MA 02128"
+"$3,244 - 7,754",Studio - 2 Beds,"88 Ames St, Cambridge, MA 02142"
+"$2,745",Studio - 1 Bed,"346 Somerville Ave, Somerville, MA 02143"
+"$2,850 - 5,900",Studio - 3 Beds,"2-12 Essex St, Cambridge, MA 02139"
+"$2,907 - 5,683",1-2 Beds,"34 Brainard Ave, Medford, MA 02155"
+"$2,674 - 4,039",Studio - 2 Beds,"7 Seaport Dr, Quincy, MA 02171"
+"$2,505 - 5,285",Studio - 3 Beds,"75 Braintree St, Allston, MA 02134"
+"$2,546 - 5,720",Studio - 3 Beds,"32-34 Cambridge St, Charlestown, MA 02129"
+"$2,551 - 14,533",Studio - 3 Beds,"130 Arsenal St, Watertown, MA 02472"
+"$2,060 - 3,290",1-2 Beds,"270 Harvard St, Cambridge, MA 02139"
+"$1,732 - 4,499",Studio - 3 Beds,"390 Blue Ledge Dr, Roslindale, MA 02131"
+Call for Rent,2 Beds,"Boston, MA 02134"
+"$5,199",4 Beds,"Boston, MA 02135"
+"$3,450 - 4,100",2 Beds,"Boston, MA 02128"
+"$4,499",4 Beds,"Boston, MA 02125"
+"$3,599",3 Beds,"Boston, MA 02134"
+"$3,699 - 3,999",4 Beds,"Boston, MA 02125"
+"$2,499 - 5,899",Studio - 3 Beds,"3200 Washington St, Boston, MA 02130"
+"$4,199 - 5,499",3-5 Beds,"Boston, MA 02134"
+"$3,350 - 4,780",2-3 Beds,"35 S Huntington Ave, Boston, MA 02130"
+"$1,800 - 3,950",Studio - 2 Beds,"125 Warren St, Boston, MA 02119"
+"$4,500 - 6,900",2-3 Beds,"45-55 Brighton Ave, Allston, MA 02134"
+"$5,399 - 7,499",4-6 Beds,"boston, MA 02120"
+"$3,140 - 9,865",Studio - 2 Beds,"110 Beverly St, Boston, MA 02114"
+"$3,065 - 12,764",Studio - 3 Beds,"790 Boylston St, Boston, MA 02199"
+"$2,600 - 3,300",1-2 Beds,"75-90 Gardner St, Boston, MA 02134"
+"$2,650 - 3,900",Studio - 1 Bed,"35 W 2nd St, Boston, MA 02127"
+"$2,990 - 4,980",Studio - 2 Beds,"45 Stuart St, Boston, MA 02116"
+"$3,325 - 9,920",Studio - 3 Beds,"Hudson & Kneeland, Boston, MA 02111"
+"$2,600 - 4,400",Studio - 2 Beds,"8 Winter St, Boston, MA 02108"
+"$3,188 - 7,247",Studio - 3 Beds,"1 Canal St, Boston, MA 02114"
+Call for Rent,1-2 Beds,"150 Clare Ave, Boston, MA 02136"
+"$2,790 - 3,690",Studio - 2 Beds,"270 Babcock St, Boston, MA 02215"
+"$3,350 - 4,550",1-3 Beds,"111 Atlantic Ave, Boston, MA 02110"
+"$3,115 - 12,963",Studio - 3 Beds,"780 Boylston St, Boston, MA 02199"
+"$2,206 - 6,845",Studio - 3 Beds,"125 Guest St, Boston, MA 02135"
+"$3,450 - 5,940",Studio - 3 Beds,"101-119 Canal St, Boston, MA 02114"
+"$2,250 - 3,500",Studio - 2 Beds,"170 Parker Hill Ave, Boston, MA 02120"
+"$3,955 - 5,200",2-3 Beds,"43 Smith St, Boston, MA 02120"
+"$2,775 - 3,715",1-2 Beds,"250 Centre St, Boston, MA 02119"
+"$3,999",2 Beds,"Boston, MA 02120"
+"$2,319 - 4,899",Studio - 2 Beds,"431 Melnea Cass Blvd, Boston, MA 02119"
+"$2,649 - 9,316",Studio - 2 Beds,"40 E Pier Dr, East Boston, MA 02128"
+"$2,507 - 4,000",1-3 Beds,"88 Brandywyne Dr, East Boston, MA 02128"
+"$3,151 - 12,046",Studio - 2 Beds,"22 Water St, Cambridge, MA 02141"
+"$3,200 - 5,700",2-3 Beds,"26 Hichborn St, Brighton, MA 02135"
+"$3,400",2 Beds,"1371 Beacon St, Brookline, MA 02446"
+"$2,200 - 3,500",Studio - 2 Beds,"33 Newport Ave, Quincy, MA 02171"
+"$2,669 - 5,659",Studio - 3 Beds,"449 Canal St, Somerville, MA 02145"
+"$2,345 - 2,695",Studio - 2 Beds,"4236 Washington St, Roslindale, MA 02131"
+"$2,000 - 2,400",Studio - 2 Beds,"127-135 Washington St, Brighton, MA 02135"
+"$1,500",1 Bed,"36 Emerson St, Boston, MA 02127"
+"$2,800",Studio,"Boston, MA 02129"
+"$3,000 /mo","3 Beds, 2 Baths","Boston, MA 02127"
+"$4,160",1 Bed,"Boston, MA 02210"
+"$3,880",1 Bed,"Boston, MA 02115"
+"$3,510",1 Bed,"Boston, MA 02135"
+"$3,880",1 Bed,"Boston, MA 02114"
+"$3,060",Studio,"Boston, MA 02134"
+"$1,425",3 Beds,"114 Boston St, Boston, MA 02125"
+"$1,500",3 Beds,"195 Hancock St, Boston, MA 02125"
+"$1,175",4 Beds,"61 Lithgow St, Boston, MA 02124"
+"$1,200",4 Beds,"71 School St, Boston, MA 02119"
+"$2,920",1 Bed,"Boston, MA 02135"
+"$3,560",2 Beds,"Boston, MA 02215"
+"$1,125/mo","4 Beds, 2 Baths","31 Gay Head St, Boston, MA 02130"
+"$1,225/mo","5 Beds, 2 Baths",Apartment for Rent
+"$1,000/mo","6 Beds, 2 Baths","703-705 Washington St, Boston, MA 02135"
+"$1,125/mo","5 Beds, 2 Baths",Apartment for Rent
+"$3,900/mo","1 Bed, 1 Bath","2 Sparhawk St, Boston, MA 02135"
+"$3,110/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,500/mo","2 Beds, 1 Bath","90 Harriet St, Boston, MA 02135"
+"$4,050/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,350/mo","Studio, 1 Bath","35 Queensberry St, Boston, MA 02215"
+"$1,350/mo","5 Beds, 1 Bath",Apartment for Rent
+"$3,550/mo","2 Beds, 1 Bath","60 Brainerd Rd, Boston, MA 02134"
+"$2,540/mo","1 Bed, 1 Bath",Apartment for Rent
+"$4,010/mo","1 Bed, 1 Bath","46 Main St, Boston, MA 02129"
+"$3,060/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,100/mo","1 Bed, 1 Bath","212 Stuart St, Boston, MA 02116"
+"$1,700/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,200/mo","1 Bed, 1 Bath","1 Nashua St, Boston, MA 02114"
+"$1,650/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,700/mo","1 Bed, 1 Bath","106 Beacon St, Boston, MA 02143"
+"$1,500/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,625/mo","1 Bed, 1 Bath","270 Babcock St, Boston, MA 02215"
+"$4,710/mo","2 Beds, 2 Baths",Apartment for Rent
+"$2,900 /mo","1 Bed, 1 Bath","15 Euston Rd, Boston, MA 02135"
+$950/mo,"1 Bed, 1 Bath",Apartment for Rent
+"$3,100/mo","Studio, 1 Bath","390 Harrison Ave, Boston, MA 02118"
+"$4,050/mo","1 Bed, 1 Bath",Apartment for Rent
+$700/mo,"1 Bed, 1 Bath","353 E 8th St, Boston, MA 02127"
+"$2,830/mo","Studio, 1 Bath",Apartment for Rent
+"$3,880/mo","1 Bed, 1 Bath","153 Trenton St, Boston, MA 02128"
+"$5,070/mo","2 Beds, 2 Baths",Apartment for Rent
+"$3,220/mo","Studio, 1 Bath","86 Marine Rd, Boston, MA 02127"
+"$4,110/mo","2 Beds, 2 Baths",Apartment for Rent
+$950 /mo,"1 Bed, 1 Bath","1061 Saratoga St, Boston, MA 02128"
+"$3,200/mo","3 Beds, 3 Baths",Apartment for Rent
+"$2,700/mo","2 Beds, 1 Bath","36 Emerson St, Boston, MA 02127"
+"$5,050/mo","2 Beds, 2 Baths",Apartment for Rent
+"$3,268/mo","2 Beds, 1 Bath","9 Hancock St, Boston, MA 02129"
+"$1,325/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,350/mo","3 Beds, 1 Bath","728 E 2nd St, Boston, MA 02127"
+"$4,100/mo","3 Beds, 3 Baths",Apartment for Rent
+"$3,000/mo","2 Beds, 1 Bath","55 Port Norfolk St, Boston, MA 02122"
+"$3,500/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,135/mo","1 Bed, 1 Bath","119 Richmond St, Boston, MA 02109"
+"$2,750/mo","Studio, 1 Bath",Apartment for Rent
+"$3,900/mo","Studio, 1 Bath","30 Dalrymple St, Boston, MA 02130"
+"$3,030/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,550/mo","Studio, 1 Bath","62 Boylston St, Boston, MA 02116"
+"$3,640/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,510/mo","Studio, 1 Bath","15 Union St, Boston, MA 02108"
+"$4,970/mo","2 Beds, 2 Baths",Apartment for Rent
+"$3,490/mo","1 Bed, 1 Bath","4 Elko St, Boston, MA 02135"
+"$2,810/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,080/mo","1 Bed, 1 Bath","791 Tremont St, Boston, MA 02120"
+"$2,830/mo","Studio, 1 Bath",Apartment for Rent
+"$3,560/mo","Studio, 1 Bath","845 Washington St, Boston, MA 02460"
+"$4,030/mo","Studio, 1 Bath",Apartment for Rent
+"$1,350/mo","5 Beds, 1 Bath","461 Massachusetts Ave, Boston, MA 02118"
+"$1,375/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,350/mo","4 Beds, 2 Baths","150 Huntington Ave, Boston, MA 02115"
+"$1,375/mo","4 Beds, 2.5 Baths",Apartment for Rent
+"$1,300/mo","4 Beds, 2 Baths","181 Washington St, Boston, MA 02135"
+"$1,075/mo","6 Beds, 2 Baths",Apartment for Rent
+"$1,000/mo","4 Beds, 1 Bath","538 E Broadway, Boston, MA 02127"
+"$1,400/mo","5 Beds, 2 Baths",Apartment for Rent
+"$1,325/mo","3 Beds, 1.5 Baths","12 Foster St, Boston, MA 02109"
+"$1,250/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,125/mo","5 Beds, 2.5 Baths","11 Hereford St, Boston, MA 02115"
+"$1,000/mo","7 Beds, 2 Baths",Apartment for Rent
+"$1,250/mo","5 Beds, 2 Baths","780 Boylston St, Boston, MA 02199"
+"$1,200/mo","5 Beds, 2 Baths",Apartment for Rent
+"$1,050/mo","4 Beds, 1.5 Baths","135 Clarendon St, Boston, MA 02116"
+"$1,500/mo","6 Beds, 3 Baths",Apartment for Rent
+"$1,300/mo","4 Beds, 1.5 Baths","5 Oswald St, Boston, MA 02120"
+"$1,325/mo","6 Beds, 2 Baths",Apartment for Rent
+"$1,075/mo","4 Beds, 1 Bath","195 Hancock St, Boston, MA 02125"
+"$1,125/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,250/mo","7 Beds, 2 Baths","57 Pleasant St, Boston, MA 02125"
+"$1,600/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,150/mo","3 Beds, 2 Baths","33 Egremont St, Boston, MA 02135"
+"$1,175/mo","5 Beds, 2 Baths",Apartment for Rent
+"$1,200/mo","4 Beds, 1 Bath","35 Catawba St, Boston, MA 02119"
+"$2,595/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,450/mo","6 Beds, 4 Baths","34 Cunard St, Boston, MA 02120"
+"$1,000/mo","7 Beds, 2 Baths",Apartment for Rent
+"$1,400/mo","4 Beds, 1 Bath","104 Academy Hill Rd, Boston, MA 02135"
+"$2,600/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,200/mo","1 Bed, 1 Bath","53 Saunders St, Boston, MA 02134"
+"$1,200/mo","5 Beds, 1 Bath",Apartment for Rent
+"$1,500/mo","4 Beds, 1.5 Baths","40 Hewins St, Boston, MA 02121"
+"$3,025/mo","1 Bed, 1.5 Baths",Apartment for Rent
+"$1,575/mo","5 Beds, 2 Baths","19 South St, Boston, MA 02135"
+"$1,125/mo","4 Beds, 2 Baths",Condo for Rent
+"$1,175/mo","4 Beds, 1 Bath","29 Beech Glen St, Boston, MA 02119"
+"$1,150/mo","9 Beds, 2 Baths",Apartment for Rent
+"$1,350/mo","5 Beds, 2 Baths","105 Walnut St, Boston, MA 02108"
+"$1,175/mo","5 Beds, 2 Baths",Apartment for Rent
+"$3,100/mo","1 Bed, 1 Bath","124 Nonantum St, Boston, MA 02135"
+"$1,600/mo","2 Beds, 1 Bath",Apartment for Rent
+"$1,125/mo","7 Beds, 2 Baths","4 Symphony Rd, Boston, MA 02115"
+"$4,060/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,100/mo","5 Beds, 1 Bath","20 Worthington St, Boston, MA 02120"
+"$3,090/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,100/mo","1 Bed, 1 Bath","31 Gay Head St, Boston, MA 02130"
+"$1,650/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,675/mo","1 Bed, 1 Bath","71 School St, Boston, MA 02119"
+"$1,800/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,425/mo","1 Bed, 1 Bath","47 Wallingford Rd, Boston, MA 02135"
+"$1,300/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,700/mo","1 Bed, 1 Bath","703-705 Washington St, Boston, MA 02135"
+"$3,470/mo","Studio, 1 Bath",Apartment for Rent
+"$3,720/mo","2 Beds, 1 Bath","90 Harriet St, Boston, MA 02135"
+"$3,530/mo","Studio, 1 Bath",Apartment for Rent
+"$3,540/mo","Studio, 1 Bath","65 Brainerd Rd, Boston, MA 02134"
+"$3,300/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,610/mo","1 Bed, 1 Bath","46 Main St, Boston, MA 02129"
+"$3,420/mo","1 Bed, 1 Bath",Apartment for Rent
+$850/mo,"4 Beds, 1 Bath","11 Islington St, Boston, MA 02134"
+"$6,150/mo","3 Beds, 1 Bath",Apartment for Rent
+"$5,675/mo","4 Beds, 2 Baths","120 Kingston St, Boston, MA 02111"
+"$1,175/mo","4 Beds, 1 Bath",Apartment for Rent
+"$2,100/mo","1 Bed, 1 Bath","297 Belgrade Ave, Boston, MA 02131"
+"$3,000/mo","2 Beds, 1 Bath",Condo for Rent
+"$1,725/mo","1 Bed, 1 Bath","374 Chestnut Hill Ave, Boston, MA 02135"
+"$1,700/mo","1 Bed, 1 Bath",Condo for Rent
+"$1,545/mo","1 Bed, 1 Bath","211 Princeton St, Boston, MA 02128"
+"$1,500/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,900/mo","1 Bed, 1 Bath","9 Hancock St, Boston, MA 02129"
+"$4,520/mo","1 Bed, 1 Bath",Apartment for Rent
+"$4,930/mo","2 Beds, 2 Baths","141 Hillside St, Boston, MA 02120"
+"$3,450/mo","Studio, 1 Bath",Apartment for Rent
+"$4,350/mo","1 Bed, 1 Bath","728 E 2nd St, Boston, MA 02127"
+"$4,060/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,300/mo","1 Bed, 1 Bath","15 Union St, Boston, MA 02108"
+"$3,030/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,520/mo","1 Bed, 1 Bath","100 Arlington St, Boston, MA 02116"
+"$3,430/mo","1 Bed, 1 Bath",Apartment for Rent
+"$2,510/mo","Studio, 1 Bath","40 Boylston St, Boston, MA 02116"
+"$3,390/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,980/mo","1 Bed, 1 Bath","791 Tremont St, Boston, MA 02118"
+"$3,710/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,800/mo","3 Beds, 1 Bath","791 Tremont St, Boston, MA 02120"
+"$1,675/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,500/mo","3 Beds, 1 Bath","120 Kingston St, Boston, MA 02111"
+"$1,425/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,125/mo","4 Beds, 2 Baths","320 D St, Boston, MA 02127"
+"$1,850/mo","3 Beds, 1 Bath",Apartment for Rent
+$875/mo,"4 Beds, 1 Bath","12 Elko St, Boston, MA 02135"
+"$1,300/mo","5 Beds, 1.5 Baths",Apartment for Rent
+"$1,400/mo","5 Beds, 2 Baths","63 Melcher St, Boston, MA 02210"
+"$1,400/mo","4 Beds, 1.5 Baths",Apartment for Rent
+"$1,350/mo","4 Beds, 2 Baths","181 Washington St, Boston, MA 02135"
+"$1,075/mo","4 Beds, 1 Bath",Apartment for Rent
+"$2,675/mo","1 Bed, 1 Bath","461 Massachusetts Ave, Boston, MA 02118"
+"$1,375/mo","6 Beds, 4 Baths",Apartment for Rent
+"$1,150/mo","4 Beds, 1.5 Baths","12 Foster St, Boston, MA 02109"
+"$1,500/mo","6 Beds, 3 Baths",Apartment for Rent
+"$1,275/mo","7 Beds, 2 Baths","45 Stuart St, Boston, MA 02116"
+"$1,225/mo","4 Beds, 1 Bath",Apartment for Rent
+"$1,175/mo","6 Beds, 2 Baths","11 Hereford St, Boston, MA 02115"
+"$1,050/mo","7 Beds, 2 Baths",Apartment for Rent
+"$1,275/mo","4 Beds, 1 Bath","40 Hewins St, Boston, MA 02121"
+"$1,275/mo","5 Beds, 1 Bath",Apartment for Rent
+"$1,325/mo","4 Beds, 1.5 Baths","105 Walnut St, Boston, MA 02108"
+"$1,250/mo","5 Beds, 2 Baths",Apartment for Rent
+"$1,550/mo","5 Beds, 2 Baths","124 Nonantum St, Boston, MA 02135"
+"$1,375/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,325/mo","5 Beds, 2 Baths","1682 Commonwealth Ave, Boston, MA 02135"
+"$1,075/mo","4 Beds, 1 Bath",Apartment for Rent
+"$1,175/mo","6 Beds, 2 Baths","20 Worthington St, Boston, MA 02120"
+"$1,250/mo","5 Beds, 2 Baths",Apartment for Rent
+"$4,620/mo","1 Bed, 1 Bath","50 Dudley St, Boston, MA 02119"
+"$1,200/mo","7 Beds, 2 Baths",Apartment for Rent
+"$3,775/mo","2 Beds, 1 Bath","703-705 Washington St, Boston, MA 02135"
+"$1,425/mo","5 Beds, 2 Baths",Apartment for Rent
+"$1,275/mo","7 Beds, 2 Baths","7 Linden St, Boston, MA 02134"
+"$3,579/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,100/mo","1 Bed, 1 Bath","2 Sparhawk St, Boston, MA 02135"
+"$1,600/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,100/mo","1 Bed, 1 Bath","90 Harriet St, Boston, MA 02135"
+"$3,020/mo","Studio, 1 Bath",Apartment for Rent
+$975/mo,"1 Bed, 1 Bath","135 Clarendon St, Boston, MA 02116"
+"$3,050/mo","Studio, 1 Bath",Apartment for Rent
+"$1,420/mo","1 Bed, 1 Bath","45 Montcalm Ave, Boston, MA 02135"
+"$1,700/mo","1 Bed, 1 Bath",Apartment for Rent
+"$5,650/mo","2 Beds, 2 Baths","46 Main St, Boston, MA 02129"
+"$2,940/mo","Studio, 1 Bath",Apartment for Rent
+"$3,100/mo","1 Bed, 2 Baths","56 Ridgemont St, Boston, MA 02134"
+"$2,610/mo","1 Bed, 1 Bath",Apartment for Rent
+"$4,010/mo","1 Bed, 1 Bath","11 Islington St, Boston, MA 02134"
+"$1,375/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,125/mo","1 Bed, 1 Bath","175 Washington St, Boston, MA 02135"
+"$3,500/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,900/mo","1 Bed, 1.5 Baths","155 Trenton St, Boston, MA 02128"
+"$3,330/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,410/mo","1 Bed, 1 Bath","349 W Fourth St, Boston, MA 02127"
+"$3,500/mo","Studio, 1 Bath",Apartment for Rent
+"$3,390/mo","1 Bed, 1 Bath","1057 Saratoga St, Boston, MA 02128"
+"$3,030/mo","2 Beds, 1 Bath",Apartment for Rent
+"$4,520/mo","1 Bed, 1 Bath","35 W 2nd St, Boston, MA 02127"
+"$4,110/mo","1 Bed, 1 Bath",Apartment for Rent
+"$4,030/mo","Studio, 1 Bath","135 Clarendon St, Boston, MA 02116"
+"$2,830/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,600/mo","2 Beds, 1 Bath","12 Foster St, Boston, MA 02109"
+"$3,510/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,440/mo","Studio, 1 Bath","125 Salem St, Boston, MA 02113"
+"$2,510/mo","Studio, 1 Bath",Apartment for Rent
+"$1,375/mo","5 Beds, 1 Bath","89 E Dedham St, Boston, MA 02118"
+"$1,250/mo","4 Beds, 1.5 Baths",Apartment for Rent
+"$1,325/mo","5 Beds, 2 Baths","300 Harrison Ave, Boston, MA 02118"
+"$1,300/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,150/mo","4 Beds, 1 Bath","461 Massachusetts Ave, Boston, MA 02118"
+"$2,725/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,275/mo","4 Beds, 2 Baths","5 Oswald St, Boston, MA 02120"
+"$1,125/mo","6 Beds, 2 Baths",Apartment for Rent
+"$1,300/mo","4 Beds, 1 Bath","114 Boston St, Boston, MA 02125"
+"$1,275/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,450/mo","4 Beds, 2.5 Baths","58 Ridgemont St, Boston, MA 02135"
+"$1,225/mo","4 Beds, 1 Bath",Apartment for Rent
+"$1,525/mo","6 Beds, 3 Baths","57 Pleasant St, Boston, MA 02125"
+"$1,250/mo","5 Beds, 2 Baths",Apartment for Rent
+"$1,300/mo","4 Beds, 1 Bath","7 Linden St, Boston, MA 02134"
+"$1,200/mo","5 Beds, 2 Baths",Apartment for Rent
+"$4,060/mo","1 Bed, 1 Bath","36 N Bennet St, Boston, MA 02113"
+"$3,530/mo","Studio, 1 Bath",Apartment for Rent
+"$1,075/mo","7 Beds, 2 Baths","21 Highgate St, Boston, MA 02134"
+"$1,950/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,250/mo","5 Beds, 2 Baths","4 Haskell St, Boston, MA 02134"
+"$1,175/mo","4 Beds, 1 Bath",Apartment for Rent
+"$1,350/mo","4 Beds, 1.5 Baths","61 Lithgow St, Boston, MA 02124"
+"$1,225/mo","5 Beds, 2 Baths",Apartment for Rent
+"$1,150/mo","6 Beds, 2 Baths","28 Hunnewell Ave, Boston, MA 02135"
+"$1,150/mo","3 Beds, 1.5 Baths",Apartment for Rent
+"$1,350/mo","7 Beds, 2 Baths","12a Greylock Rd, Boston, MA 02134"
+"$1,050/mo","7 Beds, 2 Baths",Apartment for Rent
+"$1,150/mo","5 Beds, 1 Bath","29 Cummings Rd, Boston, MA 02135"
+"$1,300/mo","5 Beds, 1 Bath",Apartment for Rent
+"$3,550/mo","2 Beds, 1 Bath","89 Cedar St, Boston, MA 02119"
+"$2,770/mo","Studio, 1 Bath",Apartment for Rent
+"$1,200/mo","1 Bed, 1 Bath","20 Alcott St, Boston, MA 02134"
+"$1,700/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,600/mo","1 Bed, 1 Bath","349 W Fourth St, Boston, MA 02127"
+"$3,795/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,720/mo","2 Beds, 1 Bath","32 Cunard St, Boston, MA 02120"
+"$3,530/mo","Studio, 1 Bath",Apartment for Rent
+"$1,700/mo","1 Bed, 1 Bath","4 Schrepel Pl, Boston, MA 02127"
+"$3,130/mo","Studio, 1 Bath",Apartment for Rent
+"$1,225/mo","1 Bed, 1 Bath","1260 Boylston St, Boston, MA 02215"
+"$2,610/mo","1 Bed, 1 Bath",Apartment for Rent
+"$4,000/mo","3 Beds, 2 Baths","86 Marine Rd, Boston, MA 02127"
+"$6,140/mo","3 Beds, 2 Baths",Apartment for Rent
+"$1,475/mo","4 Beds, 2 Baths","399 Congress St, Boston, MA 02210"
+"$1,350/mo","3 Beds, 1 Bath",Apartment for Rent
+"$4,380/mo","2 Beds, 1.5 Baths","1061 Saratoga St, Boston, MA 02128"
+"$3,360/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,030/mo","2 Beds, 1 Bath","1550 Soldiers Field Rd, Boston, MA 02135"
+"$3,360/mo","2 Beds, 1 Bath",Apartment for Rent
+"$3,880/mo","1 Bed, 1 Bath","8 Nira Ave, Boston, MA 02130"
+"$6,250/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,220/mo","1 Bed, 1 Bath","35 W 2nd St, Boston, MA 02127"
+"$3,470/mo","Studio, 1 Bath",Apartment for Rent
+"$2,510/mo","Studio, 1 Bath","5 Dixfield St, Boston, MA 02127"
+"$1,450/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,275/mo","5 Beds, 2 Baths","33 Howell St, Boston, MA 02125"
+"$2,775/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,100/mo","6 Beds, 1.5 Baths","1220 Adams St, Boston, MA 02124"
+"$1,425/mo","4 Beds, 1.5 Baths",Apartment for Rent
+"$1,700/mo","6 Beds, 3 Baths","161 Washington St, Boston, MA 02135"
+"$1,275/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,150/mo","9 Beds, 2 Baths","8 Elko St, Boston, MA 02135"
+"$1,225/mo","4 Beds, 1 Bath",Apartment for Rent
+"$4,600/mo","1 Bed, 1 Bath","12 Foster St, Boston, MA 02109"
+"$1,250/mo","6 Beds, 2 Baths",Apartment for Rent
+"$1,300/mo","4 Beds, 2 Baths","1 Emerson Pl, Boston, MA 02114"
+"$1,075/mo","6 Beds, 2 Baths",Apartment for Rent
+"$1,100/mo","4 Beds, 1 Bath","135 Clarendon St, Boston, MA 02116"
+"$1,250/mo","5 Beds, 2 Baths",Apartment for Rent
+"$4,060/mo","1 Bed, 1 Bath","26 W Broadway, Boston, MA 02127"
+"$1,525/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,075/mo","7 Beds, 2 Baths","791 Tremont St, Boston, MA 02120"
+"$5,050/mo","2 Beds, 2 Baths",Apartment for Rent
+"$1,925/mo","3 Beds, 1 Bath","55 Park Dr, Boston, MA 02215"
+"$1,500/mo","1 Bed, 1 Bath",Apartment for Rent
+"$4,895/mo","3 Beds, 1 Bath","86 Marine Rd, Boston, MA 02127"
+"$1,700/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,090/mo","Studio, 1 Bath","32 Cunard St, Boston, MA 02120"
+"$3,240/mo","1 Bed, 1 Bath",Apartment for Rent
+"$1,150/mo","1 Bed, 1 Bath","130 Fisher Ave, Boston, MA 02120"
+"$2,930/mo","Studio, 1 Bath",Apartment for Rent
+"$3,330/mo","1 Bed, 1 Bath","12 Commonwealth Ave, Boston, MA 02116"
+"$3,640/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,210/mo","2 Beds, 2 Baths","2 Schrepel Pl, Boston, MA 02127"
+"$4,610/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,510/mo","Studio, 1 Bath","162 Cottage St, Boston, MA 02128"
+"$2,810/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,710/mo","2 Beds, 1 Bath","1260 Boylston St, Boston, MA 02215"
+"$3,360/mo","2 Beds, 1 Bath",Apartment for Rent
+"$2,690/mo","1 Bed, 1 Bath","161 Washington St, Boston, MA 02135"
+"$4,720/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,600/mo","2 Beds, 1 Bath","845 Washington St, Boston, MA 02460"
+"$3,750/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,220/mo","1 Bed, 1 Bath","35 South St, Boston, MA 02135"
+"$3,970/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,880/mo","1 Bed, 1 Bath","237 Hanover St, Boston, MA 02113"
+"$1,400/mo","5 Beds, 2 Baths",Apartment for Rent
+"$1,175/mo","4 Beds, 1 Bath","461 Massachusetts Ave, Boston, MA 02118"
+"$1,300/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,675/mo","5 Beds, 3 Baths","538 E Broadway, Boston, MA 02127"
+"$1,350/mo","6 Beds, 2 Baths",Apartment for Rent
+"$1,675/mo","3 Beds, 1 Bath","14 Un Pk St, Boston, MA 02118"
+"$1,250/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,175/mo","6 Beds, 2 Baths","12 Foster St, Boston, MA 02109"
+"$1,250/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,275/mo","4 Beds, 1 Bath","1220 Adams St, Boston, MA 02124"
+"$1,300/mo","5 Beds, 3 Baths",Apartment for Rent
+"$1,175/mo","4 Beds, 1 Bath","179 St Botolph St, Boston, MA 02115"
+"$1,175/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,425/mo","5 Beds, 2.5 Baths","125 Salem St, Boston, MA 02113"
+"$1,175/mo","3 Beds, 1 Bath",Apartment for Rent
+"$1,125/mo","5 Beds, 1 Bath","315 A St, Boston, MA 02210"
+"$1,100/mo","4 Beds, 1.5 Baths",Apartment for Rent
+"$1,500/mo","6 Beds, 3 Baths","89 Cedar St, Boston, MA 02119"
+"$2,500/mo","3 Beds, 1 Bath",Apartment for Rent
+"$3,470/mo","Studio, 1 Bath","139 Norwell St, Boston, MA 02121"
+"$1,375/mo","4 Beds, 1.5 Baths",Apartment for Rent
+"$1,350/mo","6 Beds, 2 Baths","791 Tremont St, Boston, MA 02120"
+"$1,300/mo","4 Beds, 2 Baths",Apartment for Rent
+"$1,225/mo","7 Beds, 2 Baths","1 Folsom Ave, Boston, MA 02120"
+"$1,325/mo","4 Beds, 1 Bath",Apartment for Rent
+"$4,895/mo","3 Beds, 1 Bath","29 Spring Garden St, Boston, MA 02125"
+"$1,200/mo","6 Beds, 2 Baths",Apartment for Rent
+"$4,240/mo","1 Bed, 1 Bath","274 Seaver St, Boston, MA 02121"
+"$1,175/mo","7 Beds, 2 Baths",Apartment for Rent
+"$1,150/mo","4 Beds, 1 Bath","36 Newcastle Rd, Boston, MA 02135"
+"$1,200/mo","9 Beds, 2 Baths",Apartment for Rent
+"$2,500/mo","2 Beds, 1 Bath","35 Catawba St, Boston, MA 02119"
+$950/mo,"4 Beds, 1 Bath",Apartment for Rent
+"$2,960/mo","1 Bed, 1 Bath","34 Cunard St, Boston, MA 02120"
+"$1,550/mo","5 Beds, 1 Bath",Apartment for Rent
+"$1,325/mo","4 Beds, 1.5 Baths","6 Haskell St, Boston, MA 02134"
+"$1,150/mo","6 Beds, 2 Baths",Apartment for Rent

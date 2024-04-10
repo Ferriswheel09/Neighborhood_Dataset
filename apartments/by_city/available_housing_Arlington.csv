@@ -1,0 +1,578 @@
+price,rooms,address
+"$1,000 - 2,850",Studio - 2 Beds,"1736 W Randol Mill Rd, Arlington, TX 76012"
+"$1,087 - 1,947",1-3 Beds,"2305 Windsprint Way, Arlington, TX 76014"
+"$899 - 1,304",1-2 Beds,"2115 Park Springs Cir, Arlington, TX 76013"
+"$849 - 1,280",1-2 Beds,"9001 Randol Mill Rd, Fort Worth, TX 76120"
+"$831 - 2,793",Studio - 2 Beds,"8951 Randol Mill Rd, Fort Worth, TX 76120"
+"$1,035 - 1,850",1-2 Beds,"9001 Meadowbrook Blvd, Fort Worth, TX 76120"
+"$1,290 - 2,270",1-3 Beds,"300 Bardin Greene Dr, Arlington, TX 76018"
+"$1,181 - 3,989",1-3 Beds,"3006 Franciscan Dr, Arlington, TX 76015"
+"$1,285 - 2,423",1-3 Beds,"1601 W Arbrook Blvd, Arlington, TX 76015"
+"$1,096 - 2,382",1-2 Beds,"811 NE Green Oaks Blvd, Arlington, TX 76006"
+"$1,130 - 1,540",1-2 Beds,"711 Brentford Pl, Arlington, TX 76006"
+"$909 - 1,464",1-3 Beds,"2910 S Collins St, Arlington, TX 76014"
+"$1,097 - 2,178",1-2 Beds,"2105 Cottonwood Club Rd, Arlington, TX 76010"
+"$925 - 1,880",1-3 Beds,"2502 Burney Oaks Ln, Arlington, TX 76006"
+"$1,092 - 1,596",1-2 Beds,"1802 Wimbledon Oaks Ln, Arlington, TX 76017"
+"$849 - 2,452",Studio - 3 Beds,"1224 E Lamar Blvd, Arlington, TX 76011"
+"$1,049 - 1,700",1-2 Beds,"2014 Remington Dr, Arlington, TX 76010"
+"$1,367 - 7,351",1-2 Beds,"425 E Lamar Blvd, Arlington, TX 76011"
+"$1,700 - 2,861",1-2 Beds,"250 W Arbrook Blvd, Arlington, TX 76014"
+"$1,400 - 3,185",1-3 Beds,"505 E Lamar Blvd, Arlington, TX 76011"
+"$1,541 - 2,748",1-3 Beds,"735 Washington Dr, Arlington, TX 76011"
+"$1,456 - 8,008",Studio - 3 Beds,"4151 Viridian Village Dr, Arlington, TX 76005"
+"$1,385 - 2,500",Studio - 2 Beds,"2811 S Cooper St, Arlington, TX 76015"
+"$1,408 - 3,000",Studio - 3 Beds,"3701 Dr. MLK Jr Dr, Arlington, TX 76014"
+"$2,999 - 3,688",2-3 Beds,"3148 Misty Forest Way, Arlington, TX 76005"
+"$927 - 1,769",1-2 Beds,"724 Polk Dr, Arlington, TX 76011"
+"$1,025 - 1,870",1-3 Beds,"501 Green Oaks Ct, Arlington, TX 76006"
+"$1,520 - 3,598",Studio - 3 Beds,"4101 Viridian Village Dr, Arlington, TX 76005"
+"$999 - 1,749",1-3 Beds,"765 Polk Dr, Arlington, TX 76011"
+"$1,010 - 2,134",1-2 Beds,"1604 Ridge Haven Dr, Arlington, TX 76011"
+"$1,139 - 1,389",1-2 Beds,"4001 Hamilton Cir, Arlington, TX 76013"
+"$958 - 1,624",Studio - 2 Beds,"1705 NE Green Oaks Blvd, Arlington, TX 76006"
+"$1,026 - 1,524",Studio - 3 Beds,"2109 Lincoln Dr, Arlington, TX 76011"
+"$949 - 2,330",1-2 Beds,"2308 Fair Oaks Dr, Arlington, TX 76011"
+"$1,060 - 2,313",1-2 Beds,"2409 Fallwood Dr, Arlington, TX 76014"
+"$1,155 - 1,546",1-3 Beds,"600 E Arkansas Ln, Arlington, TX 76014"
+"$1,004 - 2,671",1-2 Beds,"2717 Lawrence Rd, Arlington, TX 76006"
+"$1,270 - 1,870",1-2 Beds,"1635 Jefferson Cliffs Way, Arlington, TX 76006"
+"$1,070 - 1,725",1-2 Beds,"500 Tish Cir, Arlington, TX 76006"
+"$1,022 - 1,661",1-2 Beds,"1615 Stoneleigh Ct, Arlington, TX 76011"
+"$1,000 - 2,850",Studio - 2 Beds,"1736 W Randol Mill Rd, Arlington, TX 76012"
+"$1,087 - 1,947",1-3 Beds,"2305 Windsprint Way, Arlington, TX 76014"
+"$899 - 1,304",1-2 Beds,"2115 Park Springs Cir, Arlington, TX 76013"
+"$849 - 1,280",1-2 Beds,"9001 Randol Mill Rd, Fort Worth, TX 76120"
+"$831 - 2,793",Studio - 2 Beds,"8951 Randol Mill Rd, Fort Worth, TX 76120"
+"$1,035 - 1,850",1-2 Beds,"9001 Meadowbrook Blvd, Fort Worth, TX 76120"
+"$1,290 - 2,270",1-3 Beds,"300 Bardin Greene Dr, Arlington, TX 76018"
+"$1,181 - 3,989",1-3 Beds,"3006 Franciscan Dr, Arlington, TX 76015"
+"$1,285 - 2,423",1-3 Beds,"1601 W Arbrook Blvd, Arlington, TX 76015"
+"$1,096 - 2,382",1-2 Beds,"811 NE Green Oaks Blvd, Arlington, TX 76006"
+"$1,130 - 1,540",1-2 Beds,"711 Brentford Pl, Arlington, TX 76006"
+"$909 - 1,464",1-3 Beds,"2910 S Collins St, Arlington, TX 76014"
+"$1,097 - 2,178",1-2 Beds,"2105 Cottonwood Club Rd, Arlington, TX 76010"
+"$925 - 1,880",1-3 Beds,"2502 Burney Oaks Ln, Arlington, TX 76006"
+"$1,092 - 1,596",1-2 Beds,"1802 Wimbledon Oaks Ln, Arlington, TX 76017"
+"$849 - 2,452",Studio - 3 Beds,"1224 E Lamar Blvd, Arlington, TX 76011"
+"$1,049 - 1,700",1-2 Beds,"2014 Remington Dr, Arlington, TX 76010"
+"$1,367 - 7,351",1-2 Beds,"425 E Lamar Blvd, Arlington, TX 76011"
+"$1,700 - 2,861",1-2 Beds,"250 W Arbrook Blvd, Arlington, TX 76014"
+"$1,400 - 3,185",1-3 Beds,"505 E Lamar Blvd, Arlington, TX 76011"
+"$1,541 - 2,748",1-3 Beds,"735 Washington Dr, Arlington, TX 76011"
+"$1,456 - 8,008",Studio - 3 Beds,"4151 Viridian Village Dr, Arlington, TX 76005"
+"$1,385 - 2,500",Studio - 2 Beds,"2811 S Cooper St, Arlington, TX 76015"
+"$1,408 - 3,000",Studio - 3 Beds,"3701 Dr. MLK Jr Dr, Arlington, TX 76014"
+"$2,999 - 3,688",2-3 Beds,"3148 Misty Forest Way, Arlington, TX 76005"
+"$892 - 1,497",1-2 Beds,"711 Trinity Cir, Arlington, TX 76006"
+"$1,395 - 2,195",1-3 Beds,"1601 E Debbie Ln, Mansfield, TX 76063"
+"$1,313 - 4,555",1-3 Beds,"3251 Matlock Rd, Mansfield, TX 76063"
+"$1,078 - 2,351",1-3 Beds,"3700 Post Oak Blvd, Euless, TX 76040"
+"$1,163 - 4,352",1-3 Beds,"3030 Claremont Dr, Grand Prairie, TX 75052"
+"$1,344 - 1,876",1-2 Beds,"Mansfield Webb Rd & E Debbie Ln, Mansfield, TX 76063"
+"$1,035 - 1,600",1-2 Beds,"8925 Randol Mill Rd, Fort Worth, TX 76120"
+"$1,025 - 2,402",1-2 Beds,"2108 Calais Way, Arlington, TX 76006"
+"$1,412 - 3,676",1-3 Beds,"8150 S Watson Rd, Arlington, TX 76002"
+"$988 - 1,876",1-3 Beds,"1249 Enclave Cir, Arlington, TX 76011"
+"$930 - 1,500",1-2 Beds,"2606 Holly Brook Ln, Arlington, TX 76006"
+"$1,500 - 1,700",3 Beds,"1236 Dickens Ct, Arlington, TX 76015"
+"$949 - 2,048",1-2 Beds,"903 Ashford Ln, Arlington, TX 76006"
+"$988 - 1,454",1-2 Beds,"2711 Trinity Bend Cir, Arlington, TX 76006"
+"$905 - 1,915",1-2 Beds,"707 Washington Dr, Arlington, TX 76011"
+"$891 - 1,584",Studio - 3 Beds,"2001 S Cooper St, Arlington, TX 76010"
+"$885 - 1,345",1-2 Beds,"2004 Sherry St, Arlington, TX 76010"
+"$1,231 - 1,411",2-3 Beds,"710 Eden Rd, Arlington, TX 76001"
+"$845 - 2,299",1-3 Beds,"2624 Southern Hills Blvd, Arlington, TX 76006"
+"$860 - 1,520",1-2 Beds,"2504 Ivy Brook Ct, Arlington, TX 76006"
+"$742 - 1,868",Studio - 2 Beds,"2007 Springcrest Dr, Arlington, TX 76010"
+"$1,425 - 2,285",1-2 Beds,"3013 Doryn Dr, Grand Prairie, TX 75052"
+"$1,049 - 1,649",1-2 Beds,"2175 N State Highway 360, Grand Prairie, TX 75050"
+"$1,135 - 1,900",1-3 Beds,"3056 Commodore Dr, Grand Prairie, TX 75052"
+"$940 - 1,685",Studio - 2 Beds,"1500 E Lamar Blvd, Arlington, TX 76011"
+"$1,039 - 1,244",1-2 Beds,"971 E Sanford St, Arlington, TX 76011"
+"$916 - 1,891",1-3 Beds,"3500 Willowood Cir, Arlington, TX 76015"
+"$1,189 - 1,799",1-3 Beds,"2300 Citrus Ln, Arlington, TX 76014"
+"$875 - 1,350",1-2 Beds,"2506 N Forty Cir, Arlington, TX 76006"
+"$1,005 - 1,493",Studio - 3 Beds,"420 W Park Row Dr, Arlington, TX 76010"
+"$765 - 1,435",1-4 Beds,"1001 S Center St, Arlington, TX 76010"
+"$1,124 - 1,709",1-3 Beds,"3020 E Park Row Dr, Arlington, TX 76010"
+"$1,750 - 2,000",2-3 Beds,"2900 Matlock Rd, Arlington, TX 76015"
+"$2,049 /mo","3 Beds, 2 Baths","504 Dudley Cir, Arlington, TX 76010"
+"$2,349 /mo","4 Beds, 2 Baths","504 Dudley Cir, Arlington, TX 76010"
+"$2,725 /mo","4 Beds, 5 Baths","2403 Brown Blvd, Arlington, TX 76006"
+"$2,350 /mo","4 Beds, 3 Baths","2403 Brown Blvd, Arlington, TX 76006"
+"$1,885 /mo","3 Beds, 2 Baths","744 Washington Dr, Arlington, TX 76011"
+"$2,145 /mo","3 Beds, 2 Baths","744 Washington Dr, Arlington, TX 76011"
+"$2,495 /mo","3 Beds, 2 Baths","4019 Park Square Dr, Arlington, TX 76013"
+"$2,800 /mo","4 Beds, 3 Baths","4019 Park Square Dr, Arlington, TX 76013"
+"$2,259 /mo","3 Beds, 2 Baths","4924 Sigmond Dr, Arlington, TX 76017"
+"$2,160 /mo","3 Beds, 2 Baths","4924 Sigmond Dr, Arlington, TX 76017"
+"$3,120 /mo","5 Beds, 2.1 Baths","400 E Pioneer Pky, Arlington, TX 76010"
+"$2,080 /mo","3 Beds, 2 Baths","400 E Pioneer Pky, Arlington, TX 76010"
+"$2,410 /mo","3 Beds, 2 Baths","3206 Green Tee Dr, Arlington, TX 76013"
+"$2,340 /mo","4 Beds, 2 Baths","3206 Green Tee Dr, Arlington, TX 76013"
+"$2,620 /mo","4 Beds, 2 Baths","6406 Tealcove Dr, Arlington, TX 76017"
+"$1,935 /mo","3 Beds, 2 Baths","6406 Tealcove Dr, Arlington, TX 76017"
+"$2,345 /mo","3 Beds, 2 Baths","1620 Pecan St, Arlington, TX 76010"
+"$2,340 /mo","3 Beds, 2.5 Baths","1620 Pecan St, Arlington, TX 76010"
+"$2,070 /mo","3 Beds, 2 Baths","2201 E Arbrook Blvd, Arlington, TX 76014"
+"$2,320 /mo","3 Beds, 2 Baths","4401 Cranbrook Dr, Arlington, TX 76016"
+"$2,075 /mo","3 Beds, 2 Baths",House for Rent
+"$1,990 /mo","3 Beds, 2 Baths","6217 Big Springs Dr, Arlington, TX 76001"
+"$2,140 /mo","4 Beds, 1.5 Baths",House for Rent
+"$2,105 /mo","3 Beds, 2 Baths","808 Crystal Creek Ln, Arlington, TX 76001"
+"$2,260 /mo","3 Beds, 2 Baths",House for Rent
+"$3,075 /mo","4 Beds, 3.5 Baths","1705 Jocyle St, Arlington, TX 76010"
+"$2,640 /mo","3 Beds, 2 Baths",House for Rent
+"$2,120 /mo","3 Beds, 2 Baths","5311 Pocassett Dr, Arlington, TX 76018"
+"$2,495 /mo","3 Beds, 2 Baths",House for Rent
+"$1,985 /mo","3 Beds, 2 Baths","1914 Avalon Ln, Arlington, TX 76014"
+"$2,990 /mo","5 Beds, 3 Baths",House for Rent
+"$2,565 /mo","3 Beds, 2 Baths","503 Ammonite Ct, Arlington, TX 76002"
+"$2,390 /mo","3 Beds, 2 Baths",House for Rent
+"$2,750 /mo","4 Beds, 2.5 Baths","2321 Cromwell Dr, Arlington, TX 76018"
+"$2,145 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,080 /mo","3 Beds, 2 Baths","2000 Sexton Dr, Arlington, TX 76015"
+"$1,799 /mo","3 Beds, 2 Baths",House for Rent
+"$2,200 /mo","3 Beds, 2 Baths","2206 Mediterranean Ave, Arlington, TX 76011"
+"$2,235 /mo","3 Beds, 2 Baths",House for Rent
+"$2,395 /mo","4 Beds, 3 Baths","2513 Mardell Dr, Arlington, TX 76016"
+"$2,925 /mo","4 Beds, 2 Baths",House for Rent
+"$2,395/mo","2 Beds, 2 Baths","802 Lazy Bayou Dr, Arlington, TX 76002"
+"$2,950 /mo","4 Beds, 3.5 Baths",House for Rent
+"$1,985 /mo","3 Beds, 1.5 Baths","2301 Saffron Ln, Arlington, TX 76010"
+"$2,600 /mo","4 Beds, 2 Baths",House for Rent
+"$2,260 /mo","4 Beds, 2 Baths","5208 Rowcrop Dr, Arlington, TX 76017"
+"$2,155 /mo","3 Beds, 2 Baths",House for Rent
+"$2,560 /mo","3 Beds, 2 Baths","6516 Ashwood Dr, Arlington, TX 76016"
+"$2,300 /mo","3 Beds, 2 Baths",House for Rent
+"$2,495 /mo","4 Beds, 2 Baths","6735 Elk Trail, Arlington, TX 76002"
+$750 /mo,"1 Bed, 1 Bath",House for Rent
+"$2,999 /mo","4 Beds, 3.5 Baths","818 Sandalwood Ln, Arlington, TX 76017"
+"$1,015/mo","1 Bed, 1 Bath",House for Rent
+"$1,099/mo","1 Bed, 1 Bath","904 Forrestal Dr, Arlington, TX 76010"
+"$2,540 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,090 /mo","3 Beds, 2 Baths","904 Simi Dr, Arlington, TX 76001"
+"$2,335 /mo","3 Beds, 2 Baths",House for Rent
+"$2,225 /mo","3 Beds, 3.5 Baths","521 Zachum Dr, Arlington, TX 76002"
+"$2,210 /mo","3 Beds, 2 Baths",House for Rent
+"$2,085 /mo","3 Beds, 1.5 Baths","5311 Rowcrop Dr, Arlington, TX 76017"
+"$2,190 /mo","3 Beds, 2 Baths",House for Rent
+"$2,100 /mo","3 Beds, 2 Baths","705 Netherland Pl, Arlington, TX 76017"
+"$2,300 /mo","3 Beds, 2 Baths",House for Rent
+"$2,400 /mo","3 Beds, 2 Baths","6509 Devine Dr, Arlington, TX 76001"
+"$2,100 /mo","3 Beds, 2 Baths",House for Rent
+"$2,435 /mo","4 Beds, 2 Baths","8415 River Bluffs Dr, Arlington, TX 76002"
+"$1,485/mo","2 Beds, 1 Bath",House for Rent
+"$1,200 /mo","1 Bed, 1 Bath","2203 Wamsetta Dr, Arlington, TX 76018"
+"$1,195/mo","1 Bed, 1 Bath",House for Rent
+"$2,299 /mo","5 Beds, 2.5 Baths","6105 Seese Dr, Arlington, TX 76018"
+"$2,390 /mo","3 Beds, 2 Baths",House for Rent
+"$2,175 /mo","3 Beds, 2 Baths","1312 Pierron Dr, Arlington, TX 76002"
+"$3,350 /mo","5 Beds, 3.5 Baths",House for Rent
+"$2,475 /mo","4 Beds, 2 Baths","2314 Bamboo Dr, Arlington, TX 76006"
+"$2,945 /mo","4 Beds, 2.5 Baths",Condo for Rent
+"$2,495 /mo","3 Beds, 2 Baths","7903 Clear Fork Trail, Arlington, TX 76002"
+"$2,135 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,535 /mo","4 Beds, 2.5 Baths","1712 Baird Farm Cir, Arlington, TX 76006"
+"$2,350 /mo","2 Beds, 2 Baths",Condo for Rent
+"$2,540 /mo","4 Beds, 2.5 Baths","5112 El Rancho Ct, Arlington, TX 76017"
+"$2,280 /mo","3 Beds, 2 Baths",House for Rent
+"$3,000 /mo","4 Beds, 2 Baths","905 High Point Rd, Arlington, TX 76015"
+"$2,630 /mo","5 Beds, 2 Baths",House for Rent
+"$2,230 /mo","3 Beds, 2 Baths","6317 Brookcrest Dr, Arlington, TX 76018"
+"$2,345 /mo","3 Beds, 2 Baths",House for Rent
+"$2,200 /mo","3 Beds, 2 Baths","2309 Green Creek Dr, Arlington, TX 76001"
+"$3,720 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,260 /mo","3 Beds, 2 Baths","608 Denali Dr, Arlington, TX 76002"
+"$2,380 /mo","3 Beds, 2 Baths",House for Rent
+"$2,220 /mo","3 Beds, 2 Baths","7703 Grey Goose Trl, Arlington, TX 76002"
+"$2,355 /mo","3 Beds, 3 Baths",House for Rent
+"$2,120 /mo","3 Beds, 2 Baths","6420 St Alban Ct, Arlington, TX 76001"
+"$2,285 /mo","3 Beds, 2 Baths",House for Rent
+"$2,285 /mo","3 Beds, 2 Baths","6001 Farmingdale Dr, Arlington, TX 76001"
+"$2,230 /mo","3 Beds, 2 Baths",House for Rent
+"$2,320 /mo","3 Beds, 2 Baths","2200 Wembley Downs Dr, Arlington, TX 76017"
+"$2,360 /mo","3 Beds, 2 Baths",House for Rent
+"$2,286/mo","2 Beds, 2 Baths","5215 Nocona Ln, Arlington, TX 76018"
+"$1,029/mo","1 Bed, 1 Bath",House for Rent
+"$1,750/mo","1 Bed, 1 Bath","1105 Calico Ln, Arlington, TX 76011"
+"$2,299 /mo","3 Beds, 2 Baths",Condo for Rent
+"$2,120 /mo","3 Beds, 2 Baths","2214 Gladstone Dr, Arlington, TX 76018"
+"$2,890 /mo","4 Beds, 2 Baths",House for Rent
+"$2,655 /mo","4 Beds, 2.5 Baths","2414 Redbrook Ct, Arlington, TX 76014"
+"$2,199 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,080 /mo","3 Beds, 2.5 Baths","2304 Eden Green Dr, Arlington, TX 76001"
+"$2,195 /mo","4 Beds, 2 Baths",House for Rent
+"$2,125 /mo","3 Beds, 2 Baths","5714 Roundup Trail, Arlington, TX 76017"
+"$2,780 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,200 /mo","3 Beds, 2 Baths","104 E Embercrest Dr, Arlington, TX 76018"
+"$2,200 /mo","3 Beds, 2 Baths",House for Rent
+"$2,299 /mo","4 Beds, 2 Baths","2300 Clareton Dr, Arlington, TX 76018"
+"$2,365 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,240 /mo","3 Beds, 2.5 Baths","1405 Kilkenny Dr, Arlington, TX 76002"
+"$2,950 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,035 /mo","3 Beds, 2 Baths","8209 Wesson Rd, Arlington, TX 76002"
+"$2,895 /mo","4 Beds, 2 Baths",House for Rent
+"$2,190 /mo","3 Beds, 2 Baths","7024 Lake Jackson Dr, Arlington, TX 76002"
+"$2,235 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,545 /mo","3 Beds, 2 Baths","7600 Mason Dells Dr, Arlington, TX 76001"
+"$1,970 /mo","3 Beds, 2 Baths",House for Rent
+"$2,650 /mo","3 Beds, 2 Baths","1007 Milby Oaks Cir, Arlington, TX 76013"
+"$2,695 /mo","4 Beds, 2 Baths",House for Rent
+"$2,555 /mo","4 Beds, 2 Baths","13324 Vista Glen Ln, Euless, TX 76040"
+"$2,725 /mo","4 Beds, 2 Baths",House for Rent
+"$3,180 /mo","4 Beds, 2.5 Baths","4317 Fairmont Dr, Grand Prairie, TX 75052"
+"$2,595 /mo","4 Beds, 2 Baths",House for Rent
+"$3,530 /mo","5 Beds, 2.5 Baths","3966 Oceanside Dr, Euless, TX 76040"
+"$1,890 /mo","3 Beds, 2 Baths",House for Rent
+"$2,420 /mo","3 Beds, 2 Baths","1705 Clover Hill Rd, Mansfield, TX 76063"
+"$3,075 /mo","5 Beds, 3 Baths",House for Rent
+"$2,549 /mo","4 Beds, 2 Baths","2905 Andante Dr, Grand Prairie, TX 75052"
+"$2,785 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,655 /mo","4 Beds, 2.5 Baths","3040 Clemente Dr, Grand Prairie, TX 75052"
+"$2,530 /mo","4 Beds, 2 Baths",House for Rent
+"$2,400 /mo","3 Beds, 2.5 Baths","8065 Plateau Dr, Fort Worth, TX 76120"
+"$2,005 /mo","3 Beds, 2 Baths",House for Rent
+"$3,340 /mo","5 Beds, 3 Baths","5616 Thunder Bay Dr, Fort Worth, TX 76119"
+"$2,565 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,975 /mo","4 Beds, 2.5 Baths","2625 Gardendale Dr, Fort Worth, TX 76120"
+"$3,075 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,490 /mo","3 Beds, 2 Baths","2004 Windcastle Dr, Mansfield, TX 76063"
+"$2,520 /mo","3 Beds, 2.5 Baths",House for Rent
+"$2,369 /mo","3 Beds, 2 Baths","647 Alexander St, Grand Prairie, TX 75051"
+"$1,675/mo","2 Beds, 2 Baths",House for Rent
+"$3,250 /mo","3 Beds, 2.5 Baths","2907 Stinwick Ln, Grand Prairie, TX 75052"
+"$1,350/mo","2 Beds, 1 Bath",House for Rent
+"$3,600 /mo","3 Beds, 2 Baths","2001 Libby Ln, Grand Prairie, TX 75050"
+"$1,550 /mo","2 Beds, 2 Baths",House for Rent
+"$2,950 /mo","4 Beds, 2.5 Baths","3705 W Pioneer Pkwy, Arlington, TX 76013"
+"$2,100 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$1,300/mo","1 Bed, 1 Bath","4549 English Maple Dr, Arlington, TX 76005"
+"$2,650 - 2,850 /mo","3 Beds, 2.5 Baths",House for Rent
+"$1,195/mo","1 Bed, 1 Bath","2219 Lavern St, Arlington, TX 76013"
+"$1,550/mo","2 Beds, 1.5 Baths",Townhome for Rent
+"$1,950 /mo","3 Beds, 2 Baths","2507 Holt Road, Arlington, TX 76006"
+"$2,300/mo","2 Beds, 2.5 Baths",House for Rent
+"$3,500 /mo","4 Beds, 2.5 Baths","5720 Bramblewood Ct, Arlington, TX 76017"
+"$2,700 /mo","3 Beds, 3 Baths",House for Rent
+"$3,500 /mo","4 Beds, 2.5 Baths","1000 Carthage Way, Arlington, TX 76017"
+"$2,650/mo","4 Beds, 2.5 Baths",House for Rent
+"$6,500 /mo","5 Beds, 4.5 Baths","2335 Cales Dr, Arlington, TX 76013"
+"$1,950/mo","3 Beds, 2 Baths",House for Rent
+"$1,965 /mo","3 Beds, 2 Baths","2451 S Graham Dr, Arlington, TX 76013"
+"$2,650 /mo","4 Beds, 2.5 Baths",Apartment for Rent
+"$3,075 /mo","4 Beds, 2.5 Baths","310 Ditto Ave, Arlington, TX 76010"
+"$1,295/mo","1 Bed, 1 Bath",House for Rent
+"$1,940 /mo","3 Beds, 2 Baths","1614 Pecan Chase Cir, Arlington, TX 76012"
+"$1,575/mo","2 Beds, 1 Bath",Condo for Rent
+"$2,300 /mo","4 Beds, 2.5 Baths","2447 S Graham Dr, Arlington, TX 76013"
+"$1,025/mo","1 Bed, 1 Bath",Apartment for Rent
+"$3,200/mo","3 Beds, 2.5 Baths","1400 Natches Dr, Arlington, TX 76014"
+"$1,950 /mo","3 Beds, 2 Baths",House for Rent
+"$2,095/mo","4 Beds, 2.5 Baths","2127 Park Willow Ln, Arlington, TX 76011"
+"$6,100 /mo","4 Beds, 4.5 Baths",Townhome for Rent
+"$2,000 /mo","3 Beds, 2 Baths","6720 Barred Owl Rd, Arlington, TX 76002"
+"$2,890 /mo","4 Beds, 2 Baths",House for Rent
+"$3,500 /mo","3 Beds, 2.5 Baths","2507 Radcliffe Dr, Arlington, TX 76012"
+"$2,350 /mo","3 Beds, 2 Baths",House for Rent
+"$2,900/mo","3 Beds, 3.5 Baths","3702 Pelican Rst Wy, Arlington, TX 76005"
+"$3,800/mo","3 Beds, 3.5 Baths",Townhouse for Rent
+"$2,900/mo","3 Beds, 2.5 Baths","3723 Sailing View Blvd, Arlington, TX 76005"
+"$2,695/mo","3 Beds, 2.5 Baths",Townhouse for Rent
+"$2,495 /mo","4 Beds, 2.5 Baths","4226 Swinley Frst Dr, Arlington, TX 76017"
+"$2,650 /mo","3 Beds, 2.5 Baths",Townhouse for Rent
+"$2,200 /mo","3 Beds, 2 Baths","688 W Main St, Arlington, TX 76010"
+"$1,250/mo","2 Beds, 1 Bath",Townhouse for Rent
+"$1,995/mo","3 Beds, 2 Baths","5105 Ridge Pointe Dr, Arlington, TX 76017"
+"$3,500 /mo","4 Beds, 3 Baths",House for Rent
+"$2,800 /mo","4 Beds, 2.5 Baths","2709 Serenade Ct, Arlington, TX 76015"
+"$1,300/mo","2 Beds, 1 Bath",House for Rent
+"$1,995/mo","3 Beds, 2.5 Baths","2601 Cloud Ct, Arlington, TX 76017"
+"$2,100 /mo","3 Beds, 2 Baths",House for Rent
+"$2,600 /mo","4 Beds, 2 Baths","309 E Mitchell St, Arlington, TX 76010"
+"$1,595 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,400 /mo","3 Beds, 2 Baths","2406 Sunflower Dr, Arlington, TX 76014"
+"$2,175 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,250 /mo","2 Beds, 1 Bath","5901 Derek St, Arlington, TX 76016"
+"$2,460 /mo","4 Beds, 2 Baths",House for Rent
+"$2,350 /mo","4 Beds, 2 Baths","5201 Tennis Villa Dr, Arlington, TX 76017"
+"$2,099 /mo","3 Beds, 2 Baths",House for Rent
+"$2,195 /mo","3 Beds, 2 Baths","2172 Knoll Crest Dr, Arlington, TX 76014"
+"$2,295 /mo","4 Beds, 2 Baths",Townhouse for Rent
+"$1,200 /mo","1 Bed, 1 Bath","3524 Tads Ln, Arlington, TX 76014"
+"$2,200 /mo","4 Beds, 2.5 Baths",Townhouse for Rent
+"$3,000 /mo","6 Beds, 3 Baths","615 Lynnfield Dr, Arlington, TX 76014"
+"$1,995 /mo","3 Beds, 2 Baths",House for Rent
+"$1,895 /mo","3 Beds, 2 Baths","602 Rosarita Rd, Arlington, TX 76002"
+"$3,000/mo","3 Beds, 2.5 Baths",House for Rent
+"$2,350 /mo","3 Beds, 2 Baths","5715 Cedar Ridge Dr, Arlington, TX 76017"
+"$1,375/mo","2 Beds, 1 Bath",House for Rent
+"$2,395 /mo","3 Beds, 2 Baths","802 Dunkirk Ln, Arlington, TX 76017"
+"$2,800 /mo","4 Beds, 3 Baths",House for Rent
+"$2,225 /mo","3 Beds, 2.5 Baths","7014 Flaxford Trail, Arlington, TX 76001"
+"$2,995 /mo","4 Beds, 3.5 Baths",House for Rent
+"$2,235 /mo","3 Beds, 2 Baths","819 Truman St, Arlington, TX 76011"
+"$2,445 /mo","3 Beds, 2 Baths",House for Rent
+"$1,595/mo","2 Beds, 2 Baths","617 Crownpoint Ln, Arlington, TX 76002"
+"$2,850 /mo","4 Beds, 3 Baths",House for Rent
+"$2,540 /mo","4 Beds, 2 Baths","5211 Stagetrail Dr, Arlington, TX 76017"
+"$5,500 /mo","4 Beds, 3 Baths",House for Rent
+"$1,452/mo","2 Beds, 1 Bath","3208 Algonquin Ave, Arlington, TX 76017"
+"$1,865 /mo","3 Beds, 2 Baths",House for Rent
+"$2,450 /mo","4 Beds, 2 Baths","502 Guerin Dr, Arlington, TX 76012"
+"$1,995 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,400 /mo","3 Beds, 2 Baths","804 Melville Dr, Arlington, TX 76015"
+"$2,140 /mo","4 Beds, 1.5 Baths",House for Rent
+"$1,895/mo","2 Beds, 2 Baths","2129 Post Wood Ln, Arlington, TX 76018"
+"$1,690 /mo","3 Beds, 2 Baths",House for Rent
+"$3,100/mo","3 Beds, 3.5 Baths","1401 Dundee Dr, Arlington, TX 76002"
+"$2,900 /mo","5 Beds, 2.5 Baths",House for Rent
+"$4,800 /mo","3 Beds, 3.5 Baths","2216 Park Hurst Dr, Arlington, TX 76001"
+"$1,250/mo","2 Beds, 1 Bath",House for Rent
+"$1,350/mo","2 Beds, 1 Bath","1705 Jocyle St, Arlington, TX 76010"
+"$2,195 /mo","3 Beds, 2 Baths",House for Rent
+"$3,100 /mo","4 Beds, 2.5 Baths","822 Custer St, Arlington, TX 76014"
+"$2,000 /mo","4 Beds, 2 Baths",Townhouse for Rent
+"$2,400 /mo","3 Beds, 2.5 Baths","1408 Wynn Terrace, Arlington, TX 76010"
+"$1,500/mo","2 Beds, 2 Baths",House for Rent
+"$1,650/mo","2 Beds, 2 Baths","3719 Sailing View Blvd, Arlington, TX 76005"
+"$2,070 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$1,800 /mo","3 Beds, 2 Baths","2210 Belton Dr, Arlington, TX 76018"
+"$2,195 /mo","3 Beds, 2 Baths",House for Rent
+"$2,990/mo","2 Beds, 2.5 Baths","3706 Plum Vista Pl, Arlington, TX 76005"
+"$2,080 /mo","3 Beds, 2 Baths",House for Rent
+"$3,200 /mo","3 Beds, 2.5 Baths","702 N Pecan St, Arlington, TX 76011"
+"$1,695/mo","2 Beds, 1 Bath",Townhouse for Rent
+"$1,485/mo","2 Beds, 2.5 Baths","2207 Landmark Ct, Arlington, TX 76013"
+"$1,485/mo","2 Beds, 2.5 Baths",Townhouse for Rent
+"$2,300 /mo","3 Beds, 2 Baths","5603 Misty Crest Dr, Arlington, TX 76017"
+"$1,675/mo","3 Beds, 2 Baths",House for Rent
+"$1,395/mo","1 Bed, 1.5 Baths","8414 River Bluffs Dr, Arlington, TX 76002"
+"$1,895 /mo","3 Beds, 2 Baths",House for Rent
+"$2,085 /mo","3 Beds, 2 Baths","1602 Amhurst Dr, Arlington, TX 76014"
+"$2,340 /mo","4 Beds, 2 Baths",House for Rent
+"$1,800/mo","3 Beds, 2.5 Baths","2108 Guinevere St, Arlington, TX 76014"
+"$3,000 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,075 /mo","3 Beds, 2 Baths","5928 Timbercrest Dr, Arlington, TX 76017"
+"$2,845 /mo","4 Beds, 3.5 Baths",Townhouse for Rent
+"$1,650/mo","2 Beds, 2 Baths","2312 Balsam Dr, Arlington, TX 76006"
+"$1,875 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,295/mo","1 Bed, 1 Bath","4412 Rising Sun Ct, Arlington, TX 76017"
+"$3,200 /mo","5 Beds, 3.5 Baths",House for Rent
+"$2,390 /mo","3 Beds, 2 Baths","1700 Baird Farm Cir, Arlington, TX 76006"
+"$1,475/mo","2 Beds, 1 Bath",Condo for Rent
+"$1,995 /mo","3 Beds, 3 Baths","4014 Bay Springs Ct, Arlington, TX 76016"
+"$2,900 /mo","3 Beds, 3 Baths",House for Rent
+"$1,300/mo","2 Beds, 1 Bath","905 High Point Rd, Arlington, TX 76015"
+"$2,750 /mo","5 Beds, 3 Baths",House for Rent
+"$1,825 /mo","3 Beds, 2 Baths","1745 Crest Grove Dr, Arlington, TX 76012"
+"$2,000/mo","2 Beds, 2 Baths",Condo for Rent
+"$1,895/mo","3 Beds, 2 Baths","807 Wind Brooke Dr, Arlington, TX 76001"
+"$2,100/mo","4 Beds, 2.5 Baths",House for Rent
+"$2,350 /mo","3 Beds, 2 Baths","6921 Clayton Nicholas Ct, Arlington, TX 76001"
+"$2,800 /mo","3 Beds, 2 Baths",House for Rent
+"$2,185 /mo","4 Beds, 2 Baths","435 Matt Ln, Arlington, TX 76012"
+"$1,795/mo","3 Beds, 2.5 Baths",Townhouse for Rent
+"$2,100 /mo","3 Beds, 2 Baths","1904 Jamestown Ct, Arlington, TX 76013"
+"$3,400/mo","3 Beds, 2.5 Baths",House for Rent
+"$1,650 /mo","3 Beds, 2 Baths","5709 Shady Hill Ln, Arlington, TX 76016"
+"$2,100/mo","3 Beds, 2.5 Baths",House for Rent
+"$3,000 /mo","4 Beds, 2 Baths","6407 Valleybrooke Ct, Arlington, TX 76001"
+"$1,250/mo","2 Beds, 1 Bath",Townhouse for Rent
+"$3,250/mo","3 Beds, 2.5 Baths","6410 Valleybrooke Ct, Arlington, TX 76001"
+"$2,395/mo","3 Beds, 2.5 Baths",Townhouse for Rent
+"$2,500 /mo","4 Beds, 2.5 Baths","2158 Fleur De Lis Ct, Arlington, TX 76012"
+"$2,100 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,150 /mo","3 Beds, 2 Baths","6119 Kingswood Dr, Arlington, TX 76001"
+"$2,100 /mo","3 Beds, 2 Baths",House for Rent
+"$2,150 /mo","3 Beds, 2 Baths","4207 High Mesa Ct, Arlington, TX 76016"
+"$1,485/mo","2 Beds, 2.5 Baths",House for Rent
+"$3,200 /mo","4 Beds, 2.5 Baths","3207 Daniel Dr, Arlington, TX 76014"
+"$2,410 /mo","3 Beds, 2 Baths",House for Rent
+"$3,550 /mo","4 Beds, 3.5 Baths","631 Overlook Ct, Arlington, TX 76012"
+"$2,345 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,875 /mo","4 Beds, 2 Baths","2428 Heathercrest Dr, Arlington, TX 76018"
+"$2,399 /mo","3 Beds, 2 Baths",House for Rent
+"$2,695/mo","3 Beds, 3.5 Baths","827 Crystal Oak Ln, Arlington, TX 76005"
+"$2,100 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,990/mo","3 Beds, 2.5 Baths","682 W Main St, Arlington, TX 76010"
+"$1,400/mo","2 Beds, 2 Baths",Townhouse for Rent
+"$2,090 /mo","3 Beds, 2 Baths","408 Pebble Way, Arlington, TX 76006"
+"$2,090 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,900/mo","3 Beds, 1.5 Baths","5305 Virburnum Ct, Arlington, TX 76018"
+"$2,200 /mo","3 Beds, 2 Baths",House for Rent
+"$2,300 /mo","3 Beds, 2 Baths","5706 Guildwood Dr, Arlington, TX 76017"
+"$1,600/mo","3 Beds, 2 Baths",House for Rent
+"$1,895 /mo","3 Beds, 2 Baths","1011 Cheddar Ct, Arlington, TX 76017"
+"$2,200 /mo","3 Beds, 2.5 Baths",Townhouse for Rent
+"$2,950/mo","2 Beds, 2.5 Baths","4325 Quail Field Dr, Arlington, TX 76001"
+"$1,885 /mo","3 Beds, 1.5 Baths",House for Rent
+"$3,400/mo","3 Beds, 2.5 Baths","5202 Millsprings Dr, Arlington, TX 76017"
+"$3,800/mo","3 Beds, 2.5 Baths",House for Rent
+"$3,400/mo","3 Beds, 2.5 Baths","1707 Tina Marie Rd, Arlington, TX 76012"
+"$2,200 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$1,700/mo","3 Beds, 2 Baths","2709 Carter Dr, Arlington, TX 76014"
+"$2,180 /mo","3 Beds, 2 Baths",House for Rent
+"$1,575/mo","2 Beds, 1 Bath","4018 Cottage Park Ct, Arlington, TX 76013"
+"$1,700/mo","3 Beds, 2 Baths",House for Rent
+"$2,000 /mo","3 Beds, 2 Baths","4270 Cascade Sky Dr, Arlington, TX 76005"
+"$1,795 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,900 /mo","4 Beds, 3.5 Baths","5804 Willow View Dr, Arlington, TX 76017"
+"$1,475/mo","2 Beds, 2 Baths",House for Rent
+"$1,975 /mo","3 Beds, 2 Baths","504 Marbella Dr, Arlington, TX 76013"
+"$1,850/mo","2 Beds, 2 Baths",Townhouse for Rent
+"$3,600 /mo","5 Beds, 3.5 Baths","810 Trace Hawk Ln, Arlington, TX 76005"
+"$1,799/mo","3 Beds, 1.5 Baths",Townhouse for Rent
+"$2,400 /mo","3 Beds, 2 Baths","508 Marbella Dr, Arlington, TX 76013"
+"$1,485/mo","2 Beds, 2.5 Baths",Townhouse for Rent
+"$1,295/mo","1 Bed, 1.5 Baths","5605 Trails Edge Dr, Arlington, TX 76017"
+"$1,485/mo","2 Beds, 2.5 Baths",House for Rent
+"$1,295/mo","1 Bed, 1.5 Baths","848 Mirabell Ct, Arlington, TX 76015"
+"$1,295/mo","1 Bed, 1.5 Baths",Townhouse for Rent
+"$1,485/mo","2 Beds, 2.5 Baths","3600 Snead Ct, Arlington, TX 76014"
+"$1,395/mo","1 Bed, 1.5 Baths",House for Rent
+"$1,395/mo","1 Bed, 1.5 Baths","1100 Calico Ln, Arlington, TX 76011"
+"$1,525/mo","2 Beds, 2.5 Baths",Condo for Rent
+"$2,620 /mo","4 Beds, 2 Baths","5932 Timbercrest Dr, Arlington, TX 76017"
+"$1,950 /mo","3 Beds, 2.5 Baths",Townhouse for Rent
+"$1,950 /mo","3 Beds, 1 Bath","801 Truman St, Arlington, TX 76011"
+"$1,495/mo","2 Beds, 1.5 Baths",House for Rent
+"$1,745 /mo","3 Beds, 2 Baths","2739 Parkchester Dr, Arlington, TX 76015"
+"$1,150/mo","1 Bed, 1 Bath",Townhouse for Rent
+"$2,750 /mo","4 Beds, 2 Baths","6407 Woods Edge Dr, Arlington, TX 76016"
+"$2,800 /mo","4 Beds, 2 Baths",House for Rent
+"$2,750 /mo","4 Beds, 2.5 Baths","828 Mirabell Ct, Arlington, TX 76015"
+"$2,640 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,200 /mo","3 Beds, 2 Baths","8309 Wesson Rd, Arlington, TX 76002"
+"$2,890 /mo","4 Beds, 2 Baths",House for Rent
+"$2,575 /mo","3 Beds, 2 Baths","7417 Fossil Garden Dr, Arlington, TX 76002"
+"$3,650 /mo","4 Beds, 3.5 Baths",House for Rent
+"$2,150 /mo","3 Beds, 2 Baths","512 Lincoln Dr, Arlington, TX 76006"
+"$3,000 /mo","4 Beds, 2 Baths",House for Rent
+"$2,100/mo","3 Beds, 2 Baths","2321 Cromwell Dr, Arlington, TX 76018"
+"$1,450/mo","2 Beds, 2 Baths",House for Rent
+"$2,375 /mo","3 Beds, 2.5 Baths","600 Benedict Ln, Arlington, TX 76002"
+$995/mo,"1 Bed, 1 Bath",House for Rent
+"$2,600 /mo","3 Beds, 2.5 Baths","101 Ithaca Ct, Arlington, TX 76002"
+"$1,700/mo","2 Beds, 2 Baths",House for Rent
+"$1,650 /mo","2 Beds, 2 Baths","5504 Manassas Dr, Arlington, TX 76017"
+"$1,700 /mo","2 Beds, 1 Bath",House for Rent
+"$3,495 /mo","5 Beds, 3 Baths","2704 Laurel Valley Ln, Arlington, TX 76006"
+"$2,195 /mo","3 Beds, 2 Baths",House for Rent
+"$2,350 /mo","3 Beds, 2 Baths","1601 Larkspur Dr, Arlington, TX 76013"
+"$1,485/mo","2 Beds, 2.5 Baths",House for Rent
+"$1,400/mo","2 Beds, 1.5 Baths","705 Moss Glen Trail, Arlington, TX 76002"
+"$1,485/mo","2 Beds, 2.5 Baths",House for Rent
+"$1,485/mo","2 Beds, 2.5 Baths","808 Custer St, Arlington, TX 76014"
+"$1,485/mo","2 Beds, 2.5 Baths",Townhouse for Rent
+"$7,000 /mo","3 Beds, 4 Baths","2729 St George Pl, Arlington, TX 76015"
+"$2,450 /mo","4 Beds, 2 Baths",Townhouse for Rent
+"$2,900/mo","3 Beds, 2.5 Baths","604 Silvertop Rd, Arlington, TX 76002"
+"$1,695/mo","2 Beds, 2.5 Baths",House for Rent
+"$2,405 /mo","4 Beds, 2 Baths","2301 Basil Dr, Arlington, TX 76006"
+"$2,800/mo","2 Beds, 2.5 Baths",Condo for Rent
+"$3,100 /mo","5 Beds, 2.5 Baths","2219 Chapel Downs Dr, Arlington, TX 76017"
+"$1,400/mo","2 Beds, 1.5 Baths",House for Rent
+"$2,340 /mo","3 Beds, 2.5 Baths","616 Lost Springs Ct, Arlington, TX 76012"
+"$3,700 /mo","4 Beds, 3.5 Baths",Townhouse for Rent
+"$2,250 /mo","3 Beds, 2 Baths","5400 School Hill Cir, Arlington, TX 76017"
+"$3,120 /mo","5 Beds, 2.5 Baths",House for Rent
+"$2,695 /mo","4 Beds, 2.5 Baths","2003 Marie Weldon Ln, Arlington, TX 76001"
+$995/mo,"1 Bed, 1 Bath",House for Rent
+"$2,175 /mo","3 Beds, 2 Baths","7300 Lake Whitney Dr, Arlington, TX 76002"
+"$2,350 /mo","4 Beds, 2 Baths",House for Rent
+"$2,395 /mo","4 Beds, 2 Baths","2300 Balsam Dr, Arlington, TX 76006"
+"$1,800 /mo","3 Beds, 2 Baths",Condo for Rent
+"$3,000 /mo","5 Beds, 3.5 Baths","708 Moss Glen Trail, Arlington, TX 76002"
+"$2,300 /mo","4 Beds, 2 Baths",House for Rent
+"$2,800 /mo","3 Beds, 2 Baths","5520 Chimney Rock Dr, Arlington, TX 76017"
+"$2,200 /mo","4 Beds, 2 Baths",House for Rent
+"$2,750 /mo","3 Beds, 2.5 Baths","8111 Mosstree Dr, Arlington, TX 76001"
+"$1,995 /mo","3 Beds, 2 Baths",House for Rent
+"$2,295 /mo","3 Beds, 2 Baths","1509 Winderemere Dr, Arlington, TX 76014"
+"$2,295 /mo","4 Beds, 2 Baths",House for Rent
+"$1,995/mo","3 Beds, 2.5 Baths","6519 Plainview Ct, Arlington, TX 76002"
+"$1,875 /mo","3 Beds, 1 Bath",House for Rent
+"$1,795 /mo","3 Beds, 1.5 Baths","7605 Southbridge Ln, Arlington, TX 76002"
+"$1,700/mo","2 Beds, 2 Baths",House for Rent
+"$1,675/mo","3 Beds, 2 Baths","6000 Cool Springs Dr, Arlington, TX 76001"
+"$2,000 /mo","3 Beds, 2 Baths",House for Rent
+"$1,395/mo","2 Beds, 1 Bath","5904 Summerfield Dr, Arlington, TX 76018"
+"$1,925 /mo","3 Beds, 2 Baths",House for Rent
+"$2,070 /mo","3 Beds, 2 Baths","6516 Ashwood Dr, Arlington, TX 76016"
+"$1,800 /mo","3 Beds, 1 Bath",House for Rent
+"$2,400 /mo","3 Beds, 2 Baths","2610 E Williamsburg Manor, Arlington, TX 76014"
+"$2,320 /mo","3 Beds, 2 Baths",House for Rent
+"$1,150/mo","2 Beds, 1 Bath","3601 Willow Ridge Dr, Arlington, TX 76017"
+"$1,485/mo","2 Beds, 2.5 Baths",House for Rent
+"$1,295/mo","1 Bed, 1.5 Baths","732 Greenridge Dr, Arlington, TX 76017"
+"$1,295/mo","1 Bed, 1.5 Baths",House for Rent
+"$1,485/mo","1 Bed, 1.5 Baths","1948 Melrose St, Arlington, TX 76010"
+"$1,485/mo","2 Beds, 2.5 Baths",Townhouse for Rent
+"$1,485/mo","2 Beds, 2.5 Baths","4806 Sugar Tree Ct, Arlington, TX 76017"
+"$1,485/mo","2 Beds, 2.5 Baths",House for Rent
+"$1,485/mo","2 Beds, 2.5 Baths","1602 E Lovers Ln, Arlington, TX 76010"
+"$1,525/mo","1 Bed, 1.5 Baths",House for Rent
+"$1,395/mo","1 Bed, 1.5 Baths","2519 Sunflower Dr, Arlington, TX 76014"
+"$2,430 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$1,745/mo","3 Beds, 2 Baths","2108 Westbain Dr, Arlington, TX 76015"
+"$1,295/mo","1 Bed, 1.5 Baths",Townhouse for Rent
+"$1,295/mo","1 Bed, 1.5 Baths","2405 Brown Blvd, Arlington, TX 76006"
+"$1,485/mo","2 Beds, 2.5 Baths",Condo for Rent
+"$1,485/mo","2 Beds, 2.5 Baths","2419 Forest Brook Ln, Arlington, TX 76006"
+"$1,225/mo","1 Bed, 1.5 Baths",Condo for Rent
+"$3,300 /mo","4 Beds, 2.5 Baths","2405 Brown Blvd, Arlington, TX 76006"
+"$1,485/mo","2 Beds, 2.5 Baths",Condo for Rent
+"$1,485/mo","2 Beds, 2.5 Baths","2417 Forest Brook Ln, Arlington, TX 76006"
+"$1,395/mo","1 Bed, 1.5 Baths",Condo for Rent
+"$1,525/mo","1 Bed, 1.5 Baths","2406 Forest Brook Ln, Arlington, TX 76006"
+"$2,350 /mo","3 Beds, 2 Baths",Condo for Rent
+"$1,500/mo","2 Beds, 2.5 Baths","7723 Grey Goose Trail, Arlington, TX 76002"
+"$9,000 /mo","4 Beds, 4 Baths",House for Rent
+"$2,000 /mo","3 Beds, 2 Baths","2419 Forest Brook Ln, Arlington, TX 76006"
+"$2,990/mo","2 Beds, 2 Baths",Condo for Rent
+"$1,295/mo","1 Bed, 1.5 Baths","2417 Forest Brook Ln, Arlington, TX 76006"
+"$1,825/mo","1 Bed, 1 Bath",Condo for Rent
+"$1,985 /mo","2 Beds, 2 Baths","2411 Forest Brook Ln, Arlington, TX 76006"
+"$2,100/mo","3 Beds, 4.5 Baths",Condo for Rent
+"$2,750 /mo","3 Beds, 2.5 Baths","2409 Forest Brook Ln, Arlington, TX 76006"
+"$4,000 /mo","4 Beds, 3.5 Baths",Condo for Rent
+"$2,995 /mo","4 Beds, 3.5 Baths","6700 Clear Creek Dr, Arlington, TX 76001"
+"$2,550 /mo","3 Beds, 2.5 Baths",House for Rent
+"$6,500 /mo","6 Beds, 2.5 Baths","972 Tennessee Trail, Arlington, TX 76017"
+"$4,500 /mo","5 Beds, 2.5 Baths",Townhouse for Rent
+"$4,500 /mo","5 Beds, 3.5 Baths","418 E Beady Rd, Arlington, TX 76006"
+"$2,255 /mo","2 Beds, 2 Baths",House for Rent
+"$3,200 /mo","5 Beds, 2.5 Baths","2224 Ridgedale Dr, Arlington, TX 76013"
+"$2,800 /mo","3 Beds, 2.5 Baths",House for Rent
+"$3,500 /mo","5 Beds, 3 Baths","4604 Java Grove Ln, Arlington, TX 76005"
+"$1,350/mo","2 Beds, 1 Bath",Townhouse for Rent
+"$2,380 /mo","3 Beds, 2 Baths","2411 Forest Brook Ln, Arlington, TX 76006"
+"$1,850 /mo","3 Beds, 2 Baths",Condo for Rent
+"$2,500 /mo","4 Beds, 2.5 Baths","2451 Eastern Dr, Fort Worth, TX 76120"
+"$2,145 /mo","3 Beds, 2.5 Baths",Apartment for Rent
+"$1,250/mo","2 Beds, 1 Bath","8851 Creek Run Rd, Fort Worth, TX 76120"
+"$2,595 /mo","4 Beds, 2 Baths",House for Rent
+"$1,549/mo","2 Beds, 2.5 Baths","1437 Palmnold Cir W, Fort Worth, TX 76120"
+"$2,300 /mo","4 Beds, 2 Baths",Townhouse for Rent
+"$2,100/mo","3 Beds, 2.5 Baths","12607 Oceanside Dr, Euless, TX 76040"
+"$3,000 /mo","4 Beds, 2.5 Baths",Townhouse for Rent
+"$2,750 /mo","3 Beds, 2 Baths","4303 Lone Oak Dr, Mansfield, TX 76063"
+"$1,300/mo","3 Beds, 2 Baths",House for Rent
+"$1,200/mo","2 Beds, 2 Baths","2005 Chrisman Trail, Mansfield, TX 76063"
+"$2,900 /mo","4 Beds, 2 Baths",House for Rent
+"$3,454/mo","2 Beds, 2 Baths","203 Kenney St, Kennedale, TX 76060"
+"$1,600 /mo","3 Beds, 1 Bath",Townhouse for Rent
+"$2,900 /mo","4 Beds, 3 Baths","1809 Roman Rd, Grand Prairie, TX 75050"
+"$1,970 /mo","3 Beds, 2 Baths",Townhouse for Rent
+"$2,250 /mo","3 Beds, 2 Baths","5533 Grenada Dr, Fort Worth, TX 76119"
+"$3,395 /mo","5 Beds, 3.5 Baths",House for Rent
+"$2,450/mo","3 Beds, 2.5 Baths","3184 Misty Forest Way, Euless, TX 76040"
+"$4,444 /mo","4 Beds, 3.5 Baths",Townhouse for Rent
+"$2,100 /mo","4 Beds, 2 Baths","3012 Mims St, Fort Worth, TX 76112"
+"$1,795/mo","3 Beds, 2 Baths",House for Rent
+"$2,895 /mo","4 Beds, 2.5 Baths","1024 Kennedale Sublett Rd, Kennedale, TX 76060"
+"$3,000 /mo","4 Beds, 2.5 Baths",House for Rent
+"$2,785 /mo","4 Beds, 2.5 Baths","3520 Garrett St, Euless, TX 76040"
+"$2,200 /mo","4 Beds, 3 Baths",House for Rent
