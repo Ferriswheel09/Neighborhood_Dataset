@@ -1,4 +1,4 @@
-city,address,rent,bedrooms,bathrooms,sqft
+city,address,price,rooms,bathrooms,sqft
 "Woodbridge, VA","2264 York Dr Woodbridge, VA 22191 ","$1,775 - $4,841",1 - 2 bd,1 - 2 ba,"757 - 1,218 sq ft"
 "Woodbridge, VA","15200 Leicestershire St Woodbridge, VA 22191 ","$1,866 - $4,326",1 - 3 bd,1 - 2 ba,"777 - 1,719 sq ft"
 "Woodbridge, VA","2940 Shumard Oak Dr Woodbridge, VA 22191 ","$1,820 - $2,799",1 - 3 bd,1 - 2 ba,"665 - 1,449 sq ft"
