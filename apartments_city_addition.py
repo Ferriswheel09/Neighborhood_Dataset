@@ -1,5 +1,5 @@
 import pandas as pd
-file_path = './total/apartments_combined.csv'
+file_path = './total/output.csv'
 
 
 modified_df = pd.read_csv(file_path)

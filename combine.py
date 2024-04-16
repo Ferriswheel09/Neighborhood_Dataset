@@ -29,6 +29,6 @@ def combine_csv(str):
 
 
 if __name__ == "__main__":
-    path = "./redfin/by_city"
+    path = "./final_compilation"
     #path = "./apartments/by_city"
     combine_csv(path)

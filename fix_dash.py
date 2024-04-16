@@ -57,16 +57,20 @@ def split_prices(row):
 
 def add_city(file_path):
     df = pd.read_csv(file_path)
-    df = df[~(df == '—').any(axis=1)]
-    df = df[~(df == '— beds').any(axis=1)]
-    df['rooms'] = df['rooms'].str.replace(' beds', '').str.replace(' bed', '')
-    df['bathrooms'] = df['bathrooms'].str.replace(' beds', '').str.replace(' bed', '')
-    df['sqft'] = df['sqft'].str.replace(',', '')
-    df['rent'] = df['rent'].str.replace(',', '').str.replace('$', '')
+    df = df[~(df == '-').any(axis=1)]
+    df = df[~(df == '- beds').any(axis=1)]
+    df = df[~(df == 'bd').any(axis=1)]
 
-    for index, row in df.iterrows():
-        if float(row['sqft']) < 1:
-            df.at[index, 'sqft'] = str(round(float(row['sqft']) * 43560, 1))
+    df = df.drop(df[df.rooms.str.contains(r'[-]') | df.sqft.str.contains(r'[-]')].index)
+
+    df['rooms'] = df['rooms'].str.replace(' beds', '').str.replace('bd', '')
+    df['bathrooms'] = df['bathrooms'].str.replace(' beds', '').str.replace('bd', '')
+    df['sqft'] = df['sqft'].str.replace(',', '')
+    df['price'] = df['price'].str.replace(',', '').str.replace('$', '')
+
+    # for index, row in df.iterrows():
+    #     if float(row['sqft']) < 1:
+    #         df.at[index, 'sqft'] = str(round(float(row['sqft']) * 43560, 1))
 
     return df
 
@@ -78,8 +82,9 @@ def add_city(file_path):
     #     yield from split_prices(row)
 
 if __name__ == "__main__":
-    file_path = './total/redfin_combined.csv'
+    file_path = './total/new_apartments.csv'
     modified_df = pd.DataFrame(add_city(file_path))
+    print(modified_df)
     # for index, row in modified_df.iterrows():
     #     if 'Beds' in row['rooms']:
     #         row['rooms'] = chr(ord(row['rooms'][0]))
@@ -90,4 +95,4 @@ if __name__ == "__main__":
     # # Remove "$" and "," characters from the "price" column
     # modified_df['price'] = modified_df['price'].str.replace('$', '').str.replace(',', '').str.replace(' ', '').str.replace('/mo', '')
 
-    modified_df.to_csv('./new_redfin.csv', index=False)
+    modified_df.to_csv('./newer_apartments.csv', index=False)
