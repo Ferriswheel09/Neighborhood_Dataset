@@ -1,4 +1,4 @@
-rent,bedrooms,bathrooms,sqft,address
+rent,rooms,bathrooms,sqft,address
 "$490,000",2 beds,2 beds,"1,150","226 N Clinton St #117, Chicago, IL 60661"
 "$365,000",2 beds,2 beds,—,"3127 W Palmer Blvd #2, Chicago, IL 60647"
 "$395,000",2 beds,2 beds,"1,188","4745 N Ravenswood Ave #106, Chicago, IL 60640"

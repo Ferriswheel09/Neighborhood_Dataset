@@ -57,16 +57,28 @@ def split_prices(row):
 
 def add_city(file_path):
     df = pd.read_csv(file_path)
-    df.dropna(inplace=True)
-    df['rooms'] = df['rooms'].str.replace(r'\s+', '', regex=True)
-    df['bathrooms'] = df['bathrooms'].str.replace(r'\s+', '', regex=True)
-    df['sqft'] = df['sqft'].str.replace(r'\s+', '', regex=True).str.replace(',', '')
+    df = df[~(df == '—').any(axis=1)]
+    df = df[~(df == '— beds').any(axis=1)]
+    df['rooms'] = df['rooms'].str.replace(' beds', '').str.replace(' bed', '')
+    df['bathrooms'] = df['bathrooms'].str.replace(' beds', '').str.replace(' bed', '')
+    df['sqft'] = df['sqft'].str.replace(',', '')
+    df['rent'] = df['rent'].str.replace(',', '').str.replace('$', '')
 
     for index, row in df.iterrows():
-        yield from split_prices(row)
+        if float(row['sqft']) < 1:
+            df.at[index, 'sqft'] = str(round(float(row['sqft']) * 43560, 1))
+
+    return df
+
+    #df['rooms'] = df['rooms'].str.replace(r'\s+', '', regex=True).str.replace('beds', '')
+    #df['bathrooms'] = df['bathrooms'].str.replace(r'\s+', '', regex=True)
+    #df['sqft'] = df['sqft'].str.replace(r'\s+', '', regex=True).str.replace(',', '')
+
+    # for index, row in df.iterrows():
+    #     yield from split_prices(row)
 
 if __name__ == "__main__":
-    file_path = './total/apartments.csv'
+    file_path = './total/redfin_combined.csv'
     modified_df = pd.DataFrame(add_city(file_path))
     # for index, row in modified_df.iterrows():
     #     if 'Beds' in row['rooms']:
@@ -78,4 +90,4 @@ if __name__ == "__main__":
     # # Remove "$" and "," characters from the "price" column
     # modified_df['price'] = modified_df['price'].str.replace('$', '').str.replace(',', '').str.replace(' ', '').str.replace('/mo', '')
 
-    modified_df.to_csv('./new_apartments.csv', index=False)
+    modified_df.to_csv('./new_redfin.csv', index=False)
