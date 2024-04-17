@@ -14,11 +14,15 @@ def combine_csv(str):
             for j, row in enumerate(reader):
                 if i != 0 and j == 0:
                     continue
+                if "redfin" in file_path:
+                    row.append("house")
+                elif "newer_apartments" in file_path:
+                    row.append("apartment")
                 
                 combined_rows.append(row)
 
 
-    output_file_path = os.path.join(str, "output.csv")
+    output_file_path = os.path.join(str, "output2.csv")
 
     with open(output_file_path, "w", newline='') as output_file:
         writer = csv.writer(output_file)
