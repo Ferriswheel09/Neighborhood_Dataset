@@ -1,31 +1,42 @@
 import csv
 import os
 
-def combine_csv(str):
-    files = os.listdir(str)
+def combine_csv(directory):
+    files = os.listdir(directory)
 
     combined_rows = []
+    header_written = False
 
-    for i, file_name in enumerate(files):
-        file_path = os.path.join(str, file_name)
+    for file_name in files:
+        file_path = os.path.join(directory, file_name)
         with open(file_path, 'r') as file:
             reader = csv.reader(file)
+            if not header_written:
+                # Write the header from the first file
+                header = next(reader)
+                header.append("apartment_or_house")
+                combined_rows.append(header)
+                header_written = True
             
-            for j, row in enumerate(reader):
-                if i != 0 and j == 0:
-                    continue
-                if "redfin" in file_path:
+            for row in reader:
+                # Add the type (house/apartment) based on the file name
+                if "redfin" in file_name:
                     row.append("house")
-                elif "newer_apartments" in file_path:
+                elif "newer_apartments" in file_name:
                     row.append("apartment")
                 
                 combined_rows.append(row)
 
+    # Specify the order of columns
+    columns_order = ["city", "address", "price", "rooms", "bathrooms", "sqft", "apartment_or_house"]
 
-    output_file_path = os.path.join(str, "output2.csv")
+    output_file_path = os.path.join(directory, "output3.csv")
 
     with open(output_file_path, "w", newline='') as output_file:
         writer = csv.writer(output_file)
+        # Write header with specified column order
+        writer.writerow(columns_order)
+        # Write rows
         for row in combined_rows:
             writer.writerow(row) 
 
@@ -33,6 +44,5 @@ def combine_csv(str):
 
 
 if __name__ == "__main__":
-    path = "./final_compilation"
-    #path = "./apartments/by_city"
-    combine_csv(path)
+    directory_path = "./final_compilation"
+    combine_csv(directory_path)
